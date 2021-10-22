@@ -1,6 +1,6 @@
 # document-classification-using-graph-embeddings
 
-An implementation of thmeatic document classification based on the Graphical-Set-Based model and comparison with state-of-the-art classifiers.
+An implementation of thematic document classification based on the Graphical-Set-Based model and comparison with state-of-the-art classifiers.
 
 ## Description
 
