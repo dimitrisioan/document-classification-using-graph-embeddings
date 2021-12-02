@@ -106,15 +106,18 @@ for file in os.listdir(dataset_path):
                 with open(os.path.join(dirName, str(document_id) + ".txt"), 'w') as new_file:
                     new_file.write("Newsgroup:" + text_part)
 
+filecount = 0
 # Loop through every subdirectory, tokenize every txt file and re-save each file
 for subdirectory in os.listdir(parsed_path):
     new_file_path = parsed_path + subdirectory + '/'
     for file in os.listdir(new_file_path):
+        filecount += 1
         test_file_path = new_file_path + file
         tokens = list_to_write(test_file_path)
         write_file(test_file_path, tokens)
-        #print(tokens)
+        # print(tokens)
 
+print("Text files are:", filecount)
 '''
 /------------------------------------T0DO TASKS FOR text_parser.py------------------------------------/
 
