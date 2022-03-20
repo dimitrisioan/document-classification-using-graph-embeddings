@@ -118,19 +118,4 @@ for subdirectory in os.listdir(parsed_path):
         # print(tokens)
 
 print("Text files are:", filecount)
-'''
-/------------------------------------T0DO TASKS FOR text_parser.py------------------------------------/
 
-(DONE) 1. Iterate through every file on 'newsgroup_dataset' split on 'Newsgroup' keyword into txt files with document_id
- as name
-(DONE) 2. Save the txt files on a subdirectory created under 'newsgroup_dataset_parsed'
-(DONE) 3. Call 'list_to_write()' in order to tokenize every parsed txt file
-(DONE) 4. re-save every txt file on the right format:
--upper case letters
--one word on every line
--remove numbers
--remove special characters
--remove 'Newsgroup:','document_id:','From:' complete lines(first 3 lines) and keyword 'Subject:'
-5. Check if i need to optimize the parsing and the words that i am saving
-6. Clean code
-'''
