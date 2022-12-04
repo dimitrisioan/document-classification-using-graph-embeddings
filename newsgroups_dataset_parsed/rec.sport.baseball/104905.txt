@@ -1,6 +1,6 @@
-RE
-JEWISH
-BASEBALL
-PLAYERS
-BO
-BILINSKY
+re
+jewish
+baseball
+players
+bo
+bilinsky

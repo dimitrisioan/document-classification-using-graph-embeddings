@@ -1,0 +1,7 @@
+----------dataset----------
+all words:  8,278,920
+all unique words: 107,613
+
+
+----------word2vec----------
+cbow model training

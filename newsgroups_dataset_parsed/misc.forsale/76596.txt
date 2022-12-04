@@ -1,6 +1,6 @@
-TEST
-THIS
-IS
-A
-TEST
-THANKS
+test
+this
+is
+a
+test
+thanks

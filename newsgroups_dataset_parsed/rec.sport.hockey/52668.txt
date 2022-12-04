@@ -1,7 +1,7 @@
-TESTING
-JUST
-TESTING
-NO
-FLAMES
-PLEASE
-BYE
+testing
+just
+testing
+no
+flames
+please
+bye

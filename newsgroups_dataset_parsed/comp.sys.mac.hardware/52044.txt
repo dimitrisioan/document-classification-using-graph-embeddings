@@ -1,4 +1,4 @@
-FAST
-MODEMS
-SLOW
-MACS
+fast
+modems
+slow
+macs

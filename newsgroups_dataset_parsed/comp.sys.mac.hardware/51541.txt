@@ -1,3 +1,3 @@
-RE
-DEAD
-MOUSE
+re
+dead
+mouse

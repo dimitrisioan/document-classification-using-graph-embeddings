@@ -1,6 +1,6 @@
-SIMMS
-FOR
-PIN
-FOR
-MAC
-SHIPPING
+simms
+for
+pin
+for
+mac
+shipping

@@ -1,6 +1,6 @@
-HELP
-WITH
-NO
-DOCS
-FOR
-MOTHERBOARD
+help
+with
+no
+docs
+for
+motherboard

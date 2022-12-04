@@ -1,2 +1,2 @@
-BRAKE
-ROTORSCROSS
+brake
+rotorscross

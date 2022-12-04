@@ -1,7 +1,7 @@
-FONT
-SIZE
-FOR
-DOS
-IN
-A
-WINDOW
+font
+size
+for
+dos
+in
+a
+window

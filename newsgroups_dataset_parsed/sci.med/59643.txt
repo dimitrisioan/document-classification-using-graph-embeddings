@@ -1,2 +1,2 @@
-QUALITY
-MANAGEMENT
+quality
+management

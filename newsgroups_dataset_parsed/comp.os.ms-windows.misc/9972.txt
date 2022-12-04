@@ -1,7 +1,7 @@
-RE
-WINQVTNET
-WITH
-NDIS
-ON
-TOKEN
-RING
+re
+winqvtnet
+with
+ndis
+on
+token
+ring

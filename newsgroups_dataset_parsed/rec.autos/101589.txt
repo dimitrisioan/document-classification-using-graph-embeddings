@@ -1,4 +1,4 @@
-JUST
-TESTING
-HELLO
-TESTING
+just
+testing
+hello
+testing

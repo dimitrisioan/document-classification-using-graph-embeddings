@@ -1,3 +1,3 @@
-TEST
-IGNORE
-IGNORE
+test
+ignore
+ignore

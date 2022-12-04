@@ -1,7 +1,7 @@
-RE
-NEW
-RELIGION
-FORMING
-SIGN
-UP
-ALTRELIGIONSPAM
+re
+new
+religion
+forming
+sign
+up
+altreligionspam

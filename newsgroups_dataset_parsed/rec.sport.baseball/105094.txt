@@ -1,6 +1,6 @@
-REREALLTIME
-BEST
-PLAYERS
-CAREER
-DON
-MATTINGLY
+rerealltime
+best
+players
+career
+don
+mattingly

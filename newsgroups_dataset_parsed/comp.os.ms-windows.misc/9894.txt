@@ -1,8 +1,8 @@
-RE
-CICA
-MIRROR
-TRY
-WUARCHIVEWUSTLEDU
-IN
-THE
-DIRECTORY
+re
+cica
+mirror
+try
+wuarchivewustledu
+in
+the
+directory

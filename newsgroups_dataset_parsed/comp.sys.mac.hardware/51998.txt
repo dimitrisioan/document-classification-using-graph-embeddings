@@ -1,7 +1,7 @@
-SYSTEM
-Y
-ERNEST
-STALNAKER
-JCSSAGECCPURDUEEDU
-OOOO
-PUREESAGECCJCS
+system
+y
+ernest
+stalnaker
+jcssageccpurdueedu
+oooo
+pureesageccjcs

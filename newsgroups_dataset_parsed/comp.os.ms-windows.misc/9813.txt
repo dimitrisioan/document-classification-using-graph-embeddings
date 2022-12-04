@@ -1,6 +1,6 @@
-RE
-ADAPTEC
-SCSI
-DEVICE
-DRIVER
-FOR
+re
+adaptec
+scsi
+device
+driver
+for

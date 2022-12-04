@@ -1,8 +1,8 @@
-MEG
-SEAGATE
-IDE
-HARD
-DRIVE
-FROM
-KARISAGECCPURDUEEDU
-KARI
+meg
+seagate
+ide
+hard
+drive
+from
+karisageccpurdueedu
+kari

@@ -1,7 +1,7 @@
-ONLY
-TEST
-MESSAGE
-ITS
-ONLY
-TEST
-MESSAGE
+only
+test
+message
+its
+only
+test
+message

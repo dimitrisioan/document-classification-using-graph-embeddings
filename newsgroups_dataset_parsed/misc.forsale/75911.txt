@@ -1,2 +1,2 @@
-TERMINAL
-FORSALE
+terminal
+forsale

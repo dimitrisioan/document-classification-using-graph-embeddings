@@ -1,7 +1,7 @@
-ELECTRONIC
-DESIGN
-MAG
-FROM
-MARTINVUILLESYNAPSEORG
-MARTIN
-VUILLE
+electronic
+design
+mag
+from
+martinvuillesynapseorg
+martin
+vuille
