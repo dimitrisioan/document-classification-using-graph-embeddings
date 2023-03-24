@@ -120,4 +120,4 @@ if __name__ == '__main__':
     # edges_kv.save_word2vec_format(EDGES_EMBEDDING_FILENAME)
 
 
-print("--- %s seconds ---" % (time.time() - start_time))
+    print("--- %s seconds ---" % (time.time() - start_time))

@@ -59,21 +59,23 @@ if __name__ == '__main__':
     we_dict = {word: model.wv[word] for word in words}
     print(we_dict)
 
+
+
     with open('5_300_word_embeddings.txt', 'w') as f:
         print(we_dict, file=f)
 
-    # create w2v dictionary for create graphs input later
-    words = model.wv.index_to_key
-    f = open("w2v_dictionary.txt", "w+")
-    word_index = 0
-
-    for word in words:
-        word_index += 1
-        f.write(str(word_index))
-        f.write("\t")
-        f.write(word)
-        f.write("\t")
-        f.write("%s" % model.wv[word])
-        f.write("\n")
+    # # create w2v dictionary for create graphs input later
+    # words = model.wv.index_to_key
+    # f = open("w2v_dictionary.txt", "w+")
+    # word_index = 0
+    #
+    # for word in words:
+    #     word_index += 1
+    #     f.write(str(word_index))
+    #     f.write("\t")
+    #     f.write(word)
+    #     f.write("\t")
+    #     f.write("%s" % model.wv[word])
+    #     f.write("\n")
 
     print("--- %s seconds ---" % (time.time() - start_time))
