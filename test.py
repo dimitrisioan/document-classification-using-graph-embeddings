@@ -89,3 +89,4 @@ if __name__ == '__main__':
     #             words.append(word)
 
     print("--- %s seconds ---" % (time.time() - start_time))
+

@@ -52,8 +52,8 @@ if __name__ == '__main__':
     mydict = ({k: list(map(float, mydict[k])) for k in mydict})
     # print(mydict)
 
-    #get all words from whole text of dataset
-    #difference between words and file_words is that words are the unique ones from word2vec
+    # get all words from whole text of dataset
+    # difference between words and file_words is that words are the unique ones from word2vec
     with open(all_text_file, "r") as file:
         data = file.read()
         file_words = data.split()
@@ -118,6 +118,5 @@ if __name__ == '__main__':
     #
     # # Save embeddings for later use
     # edges_kv.save_word2vec_format(EDGES_EMBEDDING_FILENAME)
-
 
     print("--- %s seconds ---" % (time.time() - start_time))

@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, precision_score
+from sklearn.metrics import accuracy_score, precision_score, classification_report
 from sklearn.metrics import confusion_matrix
 
 start_time = time.time()
@@ -36,6 +36,7 @@ if __name__ == '__main__':
     print(f"Accuracy: {acc_score}")
     print(f"Precision: {prec_score}")
     print(f"Confusion matrix:\n {conf_matrix}")
+    print(classification_report(y_test, y_pred))
 
 
     # train RandomForest classifier
@@ -50,9 +51,11 @@ if __name__ == '__main__':
     prec_score_rf = precision_score(y_test, y_pred_rf, average='weighted')
     conf_matrix_rf = confusion_matrix(y_test, y_pred_rf)
 
+
     print("RandomForest classifier:\n")
     print(f"Accuracy: {acc_score_rf}")
     print(f"Precision: {prec_score_rf}")
     print(f"Confusion matrix:\n {conf_matrix_rf}")
 
+    print(classification_report(y_test, y_pred_rf))
     print("--- %s seconds ---" % (time.time() - start_time))

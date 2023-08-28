@@ -10,7 +10,6 @@ start_time = time.time()
 
 parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
 
-
 if __name__ == '__main__':
 
     models = {}
@@ -36,7 +35,6 @@ if __name__ == '__main__':
 
     model.save("../document-classification-using-graph-embeddings/doc2vec_models/doc2vec.model")
     print(model.wv.most_similar('man', topn=10))
-
 
     print("Text files are:", filecount)
 
