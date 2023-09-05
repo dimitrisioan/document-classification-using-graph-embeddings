@@ -4,6 +4,8 @@ import string
 import time
 from nltk.corpus import stopwords
 
+# nltk.download("stopwords") # run just once to download stopwords
+
 start_time = time.time()
 
 # Create the following folders in your system!

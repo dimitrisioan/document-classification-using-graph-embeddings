@@ -1,92 +1,44 @@
-import os
-import shutil
-import string
-import time
-from nltk.corpus import stopwords
+import networkx as nx
+from node2vec import Node2Vec
+# ---------------------------------example from node2vec documentation---------------------------------
+# Create a graph
+graph = nx.fast_gnp_random_graph(n=100, p=0.5)
 
-start_time = time.time()
+# Precompute probabilities and generate walks - **ON WINDOWS ONLY WORKS WITH workers=1**
+node2vec = Node2Vec(graph, dimensions=64, walk_length=30, num_walks=200, workers=4)  # Use temp_folder for big graphs
 
-# Create the following folders in your system!
-dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
-parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
-combined_parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_combined_parsed/"
+# Embed nodes
+model = node2vec.fit(window=10, min_count=1,
+                     batch_words=4)  # Any keywords acceptable by gensim.Word2Vec can be passed, `dimensions` and `workers` are automatically passed (from the Node2Vec constructor)
 
-# split data into txts like I did in sentences "Subject:" included
-if __name__ == '__main__':
-    # Delete all files on 'newsgroup_dataset_parsed'
-    for f in os.listdir(combined_parsed_path):
-        file_path = os.path.join(combined_parsed_path, f)
-        try:
-            if os.path.isfile(file_path) or os.path.islink(file_path):
-                os.unlink(file_path)
-            elif os.path.isdir(file_path):
-                shutil.rmtree(file_path)
-        except Exception as e:
-            print('Failed to delete %s. Reason: %s' % (file_path, e))
+# Look for most similar nodes
+print(model.wv.most_similar('2'))  # Output node names are always strings
 
-    dirName = combined_parsed_path
-    try:
-        # Create target Directory
-        os.mkdir(dirName)
-        print("Directory ", dirName, " Created ")
-    except FileExistsError:
-        print("Directory ", dirName, " already exists")
+# Save embeddings for later use
+model.wv.save_word2vec_format(EMBEDDING_FILENAME)
 
-    for file in os.listdir(dataset_path):
-        # print(file)
-        dataset_filepath = dataset_path + file
-        combined_parsed_filepath = combined_parsed_path + file
-        file_name = dataset_filepath.replace('.txt', '')
+# Save model for later use
+model.save(EMBEDDING_MODEL_FILENAME)
 
-        with open(dataset_filepath, 'rt', errors="ignore") as fd:
-            lines = fd.readlines()
-        # exclude first 3 lines after reading the string "Newsgroup:" and save on clean.txt
-        with open(os.path.join(dirName, str(file)), 'w') as nf:
-            i = 0
-            while i < len(lines):
-                line = lines[i]
-                # skip 3 lines after finding string "Newsgroup:"
-                if line.startswith("Newsgroup:"):
-                    i += 3
-                else:
-                    line = line.lower()
-                    list_of_words = line.split()
-                    # print(list_of_words)
-                    # print(line)
-                    # Remove punctuation
-                    table = str.maketrans('', '', string.punctuation)
-                    stripped = [w.translate(table) for w in list_of_words]
-                    # Remove numbers
-                    list_of_words = [word for word in stripped if word.isalpha()]
-                    list_of_words_size = len(list_of_words)
-                    for word in list_of_words:
-                        print(word)
-                        nf.write(word)
-                        nf.write("\n")
-                    i += 1
+# Embed edges using Hadamard method
+from node2vec.edges import HadamardEmbedder
 
-    # for text_file in os.listdir(dirName):
-    #     combined_parsed_filepath = combined_parsed_path + text_file
-    #     with open(combined_parsed_filepath, 'r') as file:
-    #         # splitting the file data into lines
-    #         raw_sentences = [[item.rstrip('\n')] for item in file]
-    #         # splitting the lines into [tokens]
-    #         raw_sentences = [item[0].split(" ") for item in raw_sentences]
-    #         sentences = []
-    #         for sentence in raw_sentences:
-    #             # removing digits and punctuation from sentences
-    #             table = str.maketrans('', '', string.punctuation)
-    #             stripped = [w.translate(table) for w in sentence]
-    #             sentence = [word for word in stripped if word.isalpha()]
-    #             sentences.append(sentence)
-    #         # format of sentences = [["cat", "say", "meow"], ["dog", "say", "woof"]]
-    #         print(sentences)
-    #
-    #     # take all words from clean_text.txt
-    #     words = []
-    #     for sentence in sentences:
-    #         for word in sentence:
-    #             words.append(word)
+edges_embs = HadamardEmbedder(keyed_vectors=model.wv)
 
-    print("--- %s seconds ---" % (time.time() - start_time))
+# Look for embeddings on the fly - here we pass normal tuples
+edges_embs[('1', '2')]
+''' OUTPUT
+array([ 5.75068220e-03, -1.10937878e-02,  3.76693785e-01,  2.69105062e-02,
+       ... ... ....
+       ..................................................................],
+      dtype=float32)
+'''
 
+# Get all edges in a separate KeyedVectors instance - use with caution could be huge for big networks
+edges_kv = edges_embs.as_keyed_vectors()
+
+# Look for most similar edges - this time tuples must be sorted and as str
+edges_kv.most_similar(str(('1', '2')))
+
+# Save embeddings for later use
+edges_kv.save_word2vec_format(EDGES_EMBEDDING_FILENAME)

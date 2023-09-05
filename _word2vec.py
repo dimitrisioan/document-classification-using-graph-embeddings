@@ -21,6 +21,19 @@ if __name__ == '__main__':
     #
     # print(len(words))
 
+    # alternative solution for spliting text into sentences for word2vec model
+    # class SentenceIterator:
+    #     def __init__(self, filepath):
+    #         self.filepath = filepath
+    #
+    #     def __iter__(self):
+    #         for line in open(self.filepath):
+    #             yield line.split()
+    #
+    #
+    # sentences = SentenceIterator('all_text.txt')
+    # print(sentences)
+
     # read data from clean_text.txt and make sentences for word2vec model
     with open('clean_text.txt', 'r') as file:
         # splitting the file data into lines

@@ -5,3 +5,8 @@ all unique words: 107,613
 
 ----------word2vec----------
 cbow model training
+
+-------------files description-----------------
+all_text.txt: All txt files united unprocessed
+all_words.txt: All words extracted from all_text.txt
+clean_text: Same as all_text.txt but without headers
