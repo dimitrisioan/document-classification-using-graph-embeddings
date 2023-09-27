@@ -26,6 +26,7 @@ if __name__ == '__main__':
             with open(text_file, 'rt', errors="ignore") as f:
                 text = f.read().split()
                 document = TaggedDocument(words=text, tags=[file])
+                print(text,[text_file])
                 documents.append(document)
 
     # Train a Doc2Vec model on the tokenized texts
