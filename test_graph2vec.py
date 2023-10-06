@@ -15,8 +15,11 @@ start_time = time.time()
 dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
 parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
 combined_parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_combined_parsed/"
-newsgroups_dataset_4_categories = "../document-classification-using-graph-embeddings/4_newsgroups_categories/"
 
+newsgroups_dataset_4_categories = ['comp.windows.x',
+                                   'rec.sport.baseball',
+                                   'sci.space',
+                                   'talk.religion.misc']
 # TODO IMPLEMENT DIFFERENTLY IT CONSUMES TOO MUCH RAM
 # TODO ENSURE THAT EMBEDDINGS ARE SAVED FOR THE RIGHT TEXT_ID
 
@@ -25,8 +28,10 @@ if __name__ == '__main__':
     data = []
     graphs = []
     filecount = 0
-    parsed_path = newsgroups_dataset_4_categories
+    
     for category in os.listdir(parsed_path):
+        if category not in newsgroups_dataset_4_categories:
+            continue
         category_path = os.path.join(parsed_path, category)
         for file in os.listdir(category_path):
             file_path = os.path.join(category_path, file)
@@ -70,7 +75,6 @@ if __name__ == '__main__':
     # Add embeddings for each document in data after training
     for i, embedding in enumerate(graph_embeddings):
         data[i]['embedding'] = embedding.tolist()
-
 
         # for _ in data:
         #     print(_)

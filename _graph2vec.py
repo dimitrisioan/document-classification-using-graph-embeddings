@@ -15,7 +15,6 @@ start_time = time.time()
 dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
 parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
 combined_parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_combined_parsed/"
-newsgroups_dataset_4_categories = "../document-classification-using-graph-embeddings/4_newsgroups_categories"
 
 # TODO IMPLEMENT DIFFERENTLY IT CONSUMES TOO MUCH RAM
 # TODO ENSURE THAT EMBEDDINGS ARE SAVED FOR THE RIGHT TEXT_ID
