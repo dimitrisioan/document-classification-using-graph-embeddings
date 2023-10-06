@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
             # Open every file form 'newsgroup_dataset_parsed' and
             # ignore unicode character errors
-            with open(dataset_filepath, 'rt', errors="ignore") as fd:
+            with open(dataset_filepath, 'r', errors="ignore") as fd:
 
                 # text = fd.readline()
                 # line = fd.readline()
@@ -106,19 +106,17 @@ if __name__ == '__main__':
 
     filecount = 0
     # Loop through every subdirectory, tokenize every txt file and re-save each file
-    for subdirectory in os.listdir(parsed_path):
-        new_file_path = parsed_path + subdirectory + '/'
-        for file in os.listdir(new_file_path):
+    for category in os.listdir(parsed_path):
+        category_path = os.path.join(parsed_path, category)
+        for file in os.listdir(category_path):
+            file_path = os.path.join(category_path, file)
             filecount += 1
-            test_file_path = new_file_path + file
-            tokens = list_to_write(test_file_path)
-            write_file(test_file_path, tokens)
+            tokens = list_to_write(file_path)
+            write_file(file_path, tokens)
             # print(tokens)
 
     print("Text files are:", filecount)
 
-    # TODO CREATE A SUBDIRECTORY FOR COMBINED PARSED TXT FILE OF EVER CATEGORY
-    # TODO PARSE DATA AND SAVE INTO TXT FILES UNDER THE UPPER DIRECTORY
-    # TODO CONFLICT BETWEEN SENTENCES AND THIS IMPLEMENTATION "SUBJECT:" INCLUDED IN FIRST NOT IN SECOND
+    # TODO POTENTIAL CONFLICT BETWEEN SENTENCES AND THIS IMPLEMENTATION "SUBJECT:" INCLUDED IN FIRST NOT IN SECOND
 
     print("--- %s seconds ---" % (time.time() - start_time))

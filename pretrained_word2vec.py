@@ -1,17 +1,16 @@
 from gensim.models import Word2Vec
-import time
+from gensim.models import KeyedVectors
 import gensim.downloader as api
-import gensim
+import time
 import os
 
-from gensim.models import KeyedVectors
 
 start_time = time.time()
 
 dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
 parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
 
-# That's a file for testing the word2vec model
+# That's a file for testing the Word2Vec model
 
 # just to see what to do
 # # define training data
@@ -58,8 +57,6 @@ if __name__ == '__main__':
     words = model.wv.index_to_key
     we_dict = {word: model.wv[word] for word in words}
     print(we_dict)
-
-
 
     with open('5_300_word_embeddings.txt', 'w') as f:
         print(we_dict, file=f)

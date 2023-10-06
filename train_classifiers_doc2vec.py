@@ -4,6 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, precision_score, confusion_matrix, classification_report
 
 start_time = time.time()
@@ -11,42 +12,43 @@ start_time = time.time()
 parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
 
 if __name__ == "__main__":
-    df = pd.read_csv('data_for_classifiers_doc2vec.txt', sep=';', header=None, names=['document_id', 'embeddings', 'category'])
 
-    # convert the embeddings column from string to list of floats
-    df['embeddings'] = df['embeddings'].apply(lambda x: np.fromstring(x[1:-1], sep=','))
+    df = pd.read_csv('data_for_classifiers_doc2vec.csv')
 
-    X = df['embeddings'].tolist()
+    # Convert the embeddings column from string to list of floats
+    X = df['embedding'].apply(lambda x: np.fromstring(x[1:-1], sep=',')).tolist()
     y = df['category']
 
-    # split the data into training and test sets and train model
+    # Split data into training and test sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    # train MLP classifier
-    model = MLPClassifier()
-    model.fit(X_train, y_train)
+    # Train MLP classifier
+    model_mlp = MLPClassifier()
+    model_mlp.fit(X_train, y_train)
 
-    # predict the categories of the test data
-    y_pred = model.predict(X_test)
+    # Predict the categories of the test data
+    y_pred = model_mlp.predict(X_test)
 
-    acc_score = accuracy_score(y_test, y_pred)
-    prec_score = precision_score(y_test, y_pred, average='weighted')
-    conf_matrix = confusion_matrix(y_test, y_pred)
-    report = classification_report(y_test, y_pred)
+    # Evaluate MLP classifier
+    acc_score_mlp = accuracy_score(y_test, y_pred)
+    prec_score_mlp = precision_score(y_test, y_pred, average='weighted')
+    conf_matrix_mlp = confusion_matrix(y_test, y_pred)
+    report_mlp = classification_report(y_test, y_pred)
 
-    print(f"Accuracy: {acc_score}")
-    print(f"Precision: {prec_score}")
-    print(f"Confusion matrix:\n {conf_matrix}")
-    print(f"Report:\n {report}")
+    print("MLP classifier:\n")
+    print(f"Accuracy: {acc_score_mlp}")
+    print(f"Precision: {prec_score_mlp}")
+    print(f"Confusion matrix:\n {conf_matrix_mlp}")
+    print(f"Report:\n {report_mlp}")
 
-    # train RandomForest classifier
-    rf_model = RandomForestClassifier()
-    rf_model.fit(X_train, y_train)
+    # Train RandomForest classifier
+    model_rf = RandomForestClassifier()
+    model_rf.fit(X_train, y_train)
 
-    # predict categories using RandomForest classifier
-    y_pred_rf = rf_model.predict(X_test)
+    # Predict the categories of the test data
+    y_pred_rf = model_rf.predict(X_test)
 
-    # evaluate RandomForest classifier
+    # Evaluate RandomForest classifier
     acc_score_rf = accuracy_score(y_test, y_pred_rf)
     prec_score_rf = precision_score(y_test, y_pred_rf, average='weighted')
     conf_matrix_rf = confusion_matrix(y_test, y_pred_rf)
@@ -58,4 +60,24 @@ if __name__ == "__main__":
     print(f"Confusion matrix:\n {conf_matrix_rf}")
     print(f"Report:\n {report_rf}")
 
+    # Train SVC classifier
+    model_svc = SVC(kernel='linear', C=1.0, random_state=42)
+    model_svc.fit(X_train, y_train)
+
+    # Predict the categories of the test data
+    y_pred_svc = model_svc.predict(X_test)
+
+    # Evaluate SVC classifier
+    acc_score_svc = accuracy_score(y_test, y_pred_svc)
+    prec_score_svc = precision_score(y_test, y_pred_svc, average='weighted')
+    conf_matrix_svc = confusion_matrix(y_test, y_pred_svc)
+    report_svc = classification_report(y_test, y_pred_svc)
+
+    print("SVC classifier:\n")
+    print(f"Accuracy: {acc_score_svc}")
+    print(f"Precision: {prec_score_svc}")
+    print(f"Confusion matrix:\n {conf_matrix_svc}")
+    print(f"Report:\n {report_svc}")
+
     print("--- %s seconds ---" % (time.time() - start_time))
+

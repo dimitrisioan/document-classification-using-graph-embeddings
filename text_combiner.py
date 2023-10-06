@@ -13,28 +13,27 @@ dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dat
 parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
 combined_parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_combined_parsed/"
 
-
 if __name__ == '__main__':
     if os.path.exists('clean_text.txt'):
         os.remove('clean_text.txt')
     else:
         print("Can not delete the file as it doesn't exists")
 
-    # combines all the text files from newsgroup_dataset directory into one txt file 'all_text.txt'
+    # Combines all the text files from newsgroup_dataset directory into one txt file 'all_text.txt'
     with open('all_text.txt', 'w') as wfd:
         for f in glob.glob(r'../document-classification-using-graph-embeddings/newsgroups_dataset/*.txt'):
             with open(f, 'rt', errors="ignore") as fd:
                 shutil.copyfileobj(fd, wfd)
 
-    # read in lines from all_text.txt
+    # Read in lines from all_text.txt
     with open('all_text.txt', 'r') as f:
         lines = f.readlines()
-    # exclude first 3 lines after reading the string "Newsgroup:" and save on clean.txt
+    # Exclude first 3 lines after reading the string "Newsgroup:" and save on clean.txt
     with open('clean_text.txt', 'w') as nf:
         i = 0
         while i < len(lines):
             line = lines[i]
-            # skip 3 lines after finding string "Newsgroup:"
+            # Skip 3 lines after finding string "Newsgroup:"
             if line.startswith("Newsgroup:"):
                 i += 3
             else:
@@ -42,8 +41,6 @@ if __name__ == '__main__':
                 # print(line)
                 nf.write(line)
                 i += 1
-
-
 
     # Delete all files on 'combined_parsed_path'
     for f in os.listdir(combined_parsed_path):
@@ -74,12 +71,12 @@ if __name__ == '__main__':
 
         with open(dataset_filepath, 'rt', errors="ignore") as fd:
             lines = fd.readlines()
-        # exclude first 3 lines after reading the string "Newsgroup:" and save on clean.txt
+        # Exclude first 3 lines after reading the string "Newsgroup:" and save on clean.txt
         with open(os.path.join(dirName, str(file)), 'w') as nf:
             i = 0
             while i < len(lines):
                 line = lines[i]
-                # skip 3 lines after finding string "Newsgroup:"
+                # Skip 3 lines after finding string "Newsgroup:"
                 if line.startswith("Newsgroup:"):
                     i += 3
                 else:
@@ -98,28 +95,5 @@ if __name__ == '__main__':
                         nf.write(word)
                         nf.write("\n")
                     i += 1
-
-    # for text_file in os.listdir(dirName):
-    #     combined_parsed_filepath = combined_parsed_path + text_file
-    #     with open(combined_parsed_filepath, 'r') as file:
-    #         # splitting the file data into lines
-    #         raw_sentences = [[item.rstrip('\n')] for item in file]
-    #         # splitting the lines into [tokens]
-    #         raw_sentences = [item[0].split(" ") for item in raw_sentences]
-    #         sentences = []
-    #         for sentence in raw_sentences:
-    #             # removing digits and punctuation from sentences
-    #             table = str.maketrans('', '', string.punctuation)
-    #             stripped = [w.translate(table) for w in sentence]
-    #             sentence = [word for word in stripped if word.isalpha()]
-    #             sentences.append(sentence)
-    #         # format of sentences = [["cat", "say", "meow"], ["dog", "say", "woof"]]
-    #         print(sentences)
-    #
-    #     # take all words from clean_text.txt
-    #     words = []
-    #     for sentence in sentences:
-    #         for word in sentence:
-    #             words.append(word)
 
     print("--- %s seconds ---" % (time.time() - start_time))

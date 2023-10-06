@@ -27,14 +27,4 @@ from node2vec import Node2Vec
 # node2vec = Node2Vec(G, dimensions=64, walk_length=30, workers=1)
 
 
-txt_file = 'test_files/test_file0.txt'
-# Read and parse the text from the TXT file
-with open(txt_file, 'r', encoding='utf-8') as file:
-    text = file.read().strip()
-    print(text)
-
-    # Check if the text has fewer than 3 words
-    if len(text.split()) < 3:
-        print(f"Skipping {txt_file} due to insufficient words.")
-        # continue  # Skip to the next TXT file
 

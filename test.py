@@ -1,44 +1,30 @@
+import time
+import os
+import pandas as pd
+import numpy as np
+from gensim.models import Word2Vec
+from nltk.tokenize import word_tokenize
+from sklearn.model_selection import train_test_split
+from sklearn.neural_network import MLPClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.svm import SVC
+from sklearn.metrics import accuracy_score, precision_score, confusion_matrix, classification_report
 import networkx as nx
-from node2vec import Node2Vec
-# ---------------------------------example from node2vec documentation---------------------------------
-# Create a graph
-graph = nx.fast_gnp_random_graph(n=100, p=0.5)
+import matplotlib.pyplot as plt
+from graph_creation_scripts import *
+from k_core_modules import *
+from karateclub import Graph2Vec
+from sklearn.manifold import TSNE
+from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 
-# Precompute probabilities and generate walks - **ON WINDOWS ONLY WORKS WITH workers=1**
-node2vec = Node2Vec(graph, dimensions=64, walk_length=30, num_walks=200, workers=4)  # Use temp_folder for big graphs
 
-# Embed nodes
-model = node2vec.fit(window=10, min_count=1,
-                     batch_words=4)  # Any keywords acceptable by gensim.Word2Vec can be passed, `dimensions` and `workers` are automatically passed (from the Node2Vec constructor)
+start_time = time.time()
 
-# Look for most similar nodes
-print(model.wv.most_similar('2'))  # Output node names are always strings
+dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
+parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
+combined_parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_combined_parsed/"
 
-# Save embeddings for later use
-model.wv.save_word2vec_format(EMBEDDING_FILENAME)
+if __name__ == '__main__':
+    print('')
 
-# Save model for later use
-model.save(EMBEDDING_MODEL_FILENAME)
-
-# Embed edges using Hadamard method
-from node2vec.edges import HadamardEmbedder
-
-edges_embs = HadamardEmbedder(keyed_vectors=model.wv)
-
-# Look for embeddings on the fly - here we pass normal tuples
-edges_embs[('1', '2')]
-''' OUTPUT
-array([ 5.75068220e-03, -1.10937878e-02,  3.76693785e-01,  2.69105062e-02,
-       ... ... ....
-       ..................................................................],
-      dtype=float32)
-'''
-
-# Get all edges in a separate KeyedVectors instance - use with caution could be huge for big networks
-edges_kv = edges_embs.as_keyed_vectors()
-
-# Look for most similar edges - this time tuples must be sorted and as str
-edges_kv.most_similar(str(('1', '2')))
-
-# Save embeddings for later use
-edges_kv.save_word2vec_format(EDGES_EMBEDDING_FILENAME)
+    print("--- %s seconds ---" % (time.time() - start_time))

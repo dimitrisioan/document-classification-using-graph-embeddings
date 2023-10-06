@@ -15,36 +15,41 @@ start_time = time.time()
 dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
 parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
 combined_parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_combined_parsed/"
+newsgroups_dataset_4_categories = "../document-classification-using-graph-embeddings/4_newsgroups_categories"
 
 # TODO IMPLEMENT DIFFERENTLY IT CONSUMES TOO MUCH RAM
 # TODO ENSURE THAT EMBEDDINGS ARE SAVED FOR THE RIGHT TEXT_ID
+
 if __name__ == '__main__':
     postingl = []
     all_data = []
     filecount = 0
-    for subdirectory in os.listdir(parsed_path):
-        directory = parsed_path + subdirectory + '/'
+
+    for category in os.listdir(parsed_path):
+        category_path = os.path.join(parsed_path, category)
         data = []
         graphs = []
         # cnt = 0
-        for file in os.listdir(directory):
-            doc_file_path = directory + file
-            print(doc_file_path)
-            with open(doc_file_path, 'r', errors="ignore") as f:
+        for file in os.listdir(category_path):
+            file_path = os.path.join(category_path, file)
+            print(file_path)
+            filecount += 1
+            with open(file_path, 'r', errors="ignore") as f:
                 text = f.read().strip()
 
-            # Check if the text has fewer than 3 words
+            # Check if the text has fewer than 3 words and skip it
             if len(text.split()) < 3:
                 print(f"Skipping {file} due to insufficient words.")
-                continue  # Skip to the next TXT file
-            # to kanw gia kathe katigoria se ena ksexoristo csv kai ta enonw sto teliko
+                continue
 
-            unique_terms, term_freq, postingl, count_of_text = createInvertedIndexFromFile(doc_file_path, postingl)
+            # Convert text document into Graph using GSB
+            unique_terms, term_freq, postingl, count_of_text = createInvertedIndexFromFile(file_path, postingl)
             adjacency_matrix = CreateAdjMatrixFromInvIndex(unique_terms, term_freq)
             G = graphUsingAdjMatrix(adjacency_matrix, unique_terms)
             graphs.append(G)
 
-            data.append({'document_id': file.replace('.txt', ''), 'embeddings': [], 'category': subdirectory})
+            document_id = file.replace('.txt', '')
+            data.append({'document_id': document_id, 'embedding': [], 'category': category})
             filecount += 1
             # cnt += 1
             # if cnt == 20:
@@ -65,13 +70,13 @@ if __name__ == '__main__':
         model.fit(graphs)
         graph_embeddings = model.get_embedding()
 
-        # add embeddings for each document in data after training
+        # Add embeddings for each document in data after training
         for i, embedding in enumerate(graph_embeddings):
             data[i]['embeddings'] = embedding.tolist()
 
         all_data.extend(data)
 
-        print(f'Graph embeddings for {subdirectory} are: ', len(graph_embeddings))
+        print(f'Graph embeddings for {category} are: ', len(graph_embeddings))
 
         for _ in data:
             print(_)

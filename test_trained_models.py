@@ -35,7 +35,7 @@ if __name__ == '__main__':
             print(f"Word '{word}'appeared {model.wv.get_vecattr(word, 'count')} times in the training corpus.")
             print(model.wv[word])
             print(model.wv[word].shape)
-            #output_file.write(word)
+            # output_file.write(word)
             print(model.wv[word][299])
             output_file.write(str(model.wv[word][299]))
             output_file.write(" + ")
@@ -44,15 +44,8 @@ if __name__ == '__main__':
 
             # output_file.write("\n")
 
-
             print("\n----------------------------------------------------------------------\n")
 
         result_np_sum = np.sum(words_found_vectors, axis=0)
-        sum =0
-
-        print(sum)
         print("result with np sum")
         print(result_np_sum)
-
-
-

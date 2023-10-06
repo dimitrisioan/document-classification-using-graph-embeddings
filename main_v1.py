@@ -3,6 +3,7 @@ from k_core_modules import *
 import sys
 import os
 import time
+import pickle
 
 dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
 parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
@@ -338,15 +339,15 @@ if __name__ == '__main__':
     cnt = 0
     data = []
     files_list = []
-    for subdirectory in os.listdir(parsed_path):
-        subdirectory_path = os.path.join(parsed_path, subdirectory)
-        print(subdirectory_path)
-        for file in os.listdir(subdirectory_path):
-            cnt += 1
+    for category in os.listdir(parsed_path):
+        category_path = os.path.join(parsed_path, category)
+        print(category_path)
+        for file in os.listdir(category_path):
+            file_path = os.path.join(category_path, file)
+            print(file_path)
             filecount += 1
-            doc_file_path = os.path.join(subdirectory_path, file)
-            print(doc_file_path)
-            files_list.append([doc_file_path, os.path.getsize(doc_file_path)])
+            cnt += 1
+            files_list.append([file_path, os.path.getsize(file_path)])
             # if cnt == 1:
             #     cnt = 0
             #     break
@@ -572,3 +573,21 @@ if __name__ == '__main__':
         print('+++++++++++++++++++++++++++')
         print('TIME = %f MINS' % ((end - start) / 60))
         print('++++++++++++++++++++++++++++')
+
+        if int(X) == 1:
+            # Save the union_graph to a file
+            with open('union_graph_1.pkl', 'wb') as file:
+                pickle.dump(union_graph, file)
+        if int(X) == 2:
+            with open('union_graph_2.pkl', 'wb') as file:
+                pickle.dump(union_graph, file)
+        if int(X) == 3:
+            with open('union_graph_3.pkl', 'wb') as file:
+                pickle.dump(union_graph, file)
+        if int(X) == 4:
+            with open('union_graph_4.pkl', 'wb') as file:
+                pickle.dump(union_graph, file)
+
+
+
+
