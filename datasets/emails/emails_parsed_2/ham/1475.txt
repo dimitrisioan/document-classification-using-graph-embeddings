@@ -1,0 +1,6 @@
+subject
+site
+license
+power
+world
+concur

@@ -1,63 +1,72 @@
 import os
 from gensim.models import Word2Vec
 import time
+import multiprocessing
 import string
+from useful_methods import *
+
+
+parsed_path, prefix, X = choose_dataset_for_word2vec()
+load_save_path = load_save_results(prefix, X)
 
 start_time = time.time()
 
-parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
-directory_path = "../document-classification-using-graph-embeddings/"
-
-# TODO STEMMING, LEMMATIZATION, STOPWORD FILTERING IF NEEDED LATER.
-
 if __name__ == '__main__':
+    filecount = 0
+    sentences = []
+    if prefix == '20newsgroups':
+        # Loop through every subdirectory, read each text
+        for category in os.listdir(parsed_path):
+            category_path = os.path.join(parsed_path, category)
+            for file in os.listdir(category_path):
+                file_path = os.path.join(category_path, file)
+                print(file_path)
+                filecount += 1
+                if X == 1:
+                    file_sentences = file_to_sentences(file_path, remove_headers=True)
+                if X == 2:
+                    file_sentences = file_to_sentences(file_path, remove_headers=True, remove_stopwords=True)
+                if X == 3:
+                    file_sentences = file_to_sentences(file_path, remove_headers=True, stemming=True,
+                                                       lemmatization=True)
+                sentences.extend(file_sentences)
+                # print(sentences)
+            #     break
+            # break
 
-
-    # Alternative solution for spliting text into sentences for Word2Vec model
-    # class SentenceIterator:
-    #     def __init__(self, filepath):
-    #         self.filepath = filepath
-    #
-    #     def __iter__(self):
-    #         for line in open(self.filepath):
-    #             yield line.split()
-    #
-    #
-    # sentences = SentenceIterator('all_text.txt')
-    # print(sentences)
-
-    # Read data from clean_text.txt and make sentences for Word2Vec model
-    with open('clean_text.txt', 'r') as file:
-        # splitting the file data into lines
-        raw_sentences = [[item.rstrip('\n')] for item in file]
-        # splitting the lines into [tokens]
-        raw_sentences = [item[0].split(" ") for item in raw_sentences]
-        sentences = []
-        for sentence in raw_sentences:
-            # removing digits and punctuation from sentences
-            table = str.maketrans('', '', string.punctuation)
-            stripped = [w.translate(table) for w in sentence]
-            sentence = [word for word in stripped if word.isalpha()]
-            # removing empty objects []
-            if sentence:
-                sentences.append(sentence)
-        # format of sentences = [["cat", "say", "meow"], ["dog", "say", "woof"]]
-        print(sentences)
-    # print(raw_sentences)
-
-    print("Recommended values for window, vector_size")
-    print("window = 5, 8, 10")
-    print("vector_size = 64, 128, 300")
-
-    # Default are window=5 and vector_size=100
-    window = int(input("window = "))
-    vector_size = int(input("vector_size = "))
+    if prefix == 'bbc' or prefix == 'emails':
+        # Loop through every subdirectory, read each text
+        for category in os.listdir(parsed_path):
+            category_path = os.path.join(parsed_path, category)
+            for file in os.listdir(category_path):
+                file_path = os.path.join(category_path, file)
+                print(file_path)
+                filecount += 1
+                if X == 1:
+                    file_sentences = file_to_sentences(file_path)
+                if X == 2:
+                    file_sentences = file_to_sentences(file_path, remove_stopwords=True)
+                if X == 3:
+                    file_sentences = file_to_sentences(file_path, stemming=True, lemmatization=True)
+                sentences.extend(file_sentences)
+                # print(sentences)
+            #     break
+            # break
+    print(sentences)
+    print(len(sentences))
+    # exit(0)
+    # Get the number of available CPU cores
+    num_cores = multiprocessing.cpu_count()
 
     # Train Word2Vec model
-    model = Word2Vec(sentences, vector_size=vector_size, window=window, min_count=1, workers=4)
-    # model.build_vocab(sentences)  # prepare the model vocabulary
-    # model.train(sentences, total_examples=model2.corpus_count, epochs=model2.epochs)
-    model.save("../document-classification-using-graph-embeddings/word2vec_models/word2vec.model")
+    model = Word2Vec(vector_size=300, window=5, min_count=1, workers=num_cores, epochs=10, sg=1)
+    model.build_vocab(sentences)  # prepare the model vocabulary
+    model.train(sentences, total_examples=model.corpus_count, epochs=model.epochs)
+
+    # Save the Word2Vec model to the corresponding dataset directory
+    model.save(os.path.join(load_save_path, f'{prefix}_word2vec'))
+
+    # model.save("../document-classification-using-graph-embeddings/word2vec_models/word2vec.model")
     print(model.wv.most_similar('man', topn=10))
 
     print("--- %s seconds ---" % (time.time() - start_time))

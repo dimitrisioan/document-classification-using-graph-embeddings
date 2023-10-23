@@ -1,0 +1,6 @@
+subject
+svga
+monitors
+centris
+real
+story

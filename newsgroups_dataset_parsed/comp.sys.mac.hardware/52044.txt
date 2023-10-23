@@ -1,4 +1,0 @@
-fast
-modems
-slow
-macs

@@ -1,0 +1,8 @@
+Newsgroup: sci.electronics
+Document_id: 54025
+From: goofy@howlin.cs.unlv.edu (David Haag)
+Subject: Test
+
+This is just a test to see if this works.
+
+

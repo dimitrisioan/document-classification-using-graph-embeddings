@@ -1,6 +1,0 @@
-re
-adaptec
-scsi
-device
-driver
-for

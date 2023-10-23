@@ -1,0 +1,16 @@
+subject
+mac
+lcii
+sale
+mac
+lcii
+purchased
+last
+august
+cpu
+mouse
+monitor
+keyboard
+obo
+peter
+white

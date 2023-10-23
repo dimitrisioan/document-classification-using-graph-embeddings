@@ -1,7 +1,0 @@
-only
-test
-message
-its
-only
-test
-message

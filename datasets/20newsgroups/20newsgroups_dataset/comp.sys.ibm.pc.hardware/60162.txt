@@ -1,0 +1,11 @@
+Newsgroup: comp.sys.ibm.pc.hardware
+Document_id: 60162
+From: goyal@utdallas.edu (MOHIT K GOYAL)
+Subject: Refresh rates of NEC 5fgx?
+
+Can someone tell me the maximum horizontal and vertical refresh rates of the
+NEC 5fgx.(not the 5fge)
+
+Thanks.
+
+

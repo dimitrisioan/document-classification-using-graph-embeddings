@@ -1,0 +1,17 @@
+subject
+delivery
+status
+notification
+recipients
+message
+processed
+mail
+server
+antoniobdantas
+zipmail
+com
+br
+failed
+delivery
+time
+expired

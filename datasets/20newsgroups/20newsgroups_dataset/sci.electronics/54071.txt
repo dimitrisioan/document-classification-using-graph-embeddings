@@ -1,0 +1,5 @@
+Newsgroup: sci.electronics
+Document_id: 54071
+Subject: ELECTRONIC DESIGN MAG.
+From: martin.vuille@synapse.org (Martin Vuille)
+

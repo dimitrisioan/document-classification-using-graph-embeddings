@@ -1,0 +1,15 @@
+subject
+wti
+model
+stinson
+this
+is
+the
+latest
+wti
+model
+for
+open
+close
+trading
+zimin

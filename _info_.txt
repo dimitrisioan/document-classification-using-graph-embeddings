@@ -1,12 +1,118 @@
-----------dataset----------
-all words:  8,278,920
-all unique words: 107,613
+----------Datasets----------
+
+1 20newsgroups
+https://www.kaggle.com/datasets/crawford/20-newsgroups/data?select=sci.electronics.txt
+
+2 bbc articles
+http://mlg.ucd.ie/datasets/bbc.html
+Contains
+
+3 spam ham emails
+https://www.kaggle.com/datasets/yashpaloswal/spamham-email-classification-nlp/data/
+
+----------Datasets Description----------
+1 20newsgroups
+The data is organized into 20 different newsgroups, each corresponding to a different topic.
+Some of the newsgroups are very closely related to each other (e.g. comp.sys.ibm.pc.hardware / comp.sys.mac.hardware),
+while others are highly unrelated (e.g misc.forsale / soc.religion.christian). Here is a list of the 20 newsgroups,
+partitioned (more or less) according to subject matter
+We use 18 categories of the total 20, alt.atheism, comp.graphics are excluded.
+
+More specifically:
+- comp.os.ms-windows.misc contains 985 documents
+- comp.sys.ibm.pc.hardware contains 982 documents
+- comp.sys.mac.hardware contains 961 documents
+- comp.windows.x contains 980 documents
+---------------------------
+- rec.autos contains 990 documents
+- rec.motorcycles contains 994 documents
+- rec.sport.baseball contains 994 documents
+- rec.sport.hockey contains 999 documents
+---------------------------
+- talk.politics.misc contains 775 documents
+- talk.politics.guns contains 910 documents
+- talk.politics.mideast contains 940 documents
+---------------------------
+- sci.crypt contains 991 documents
+- sci.electronics contains 982 documents
+- sci.med contains 990 documents
+- sci.space contains 987 documents
+---------------------------
+- talk.religion.misc contains 628 documents
+- soc.religion.christian contains 997 documents
+---------------------------
+- misc.forsale contains 972 documents
 
 
-----------word2vec----------
-cbow model training
 
--------------files description-----------------
-all_text.txt: All txt files united unprocessed
-all_words.txt: All words extracted from all_text.txt
-clean_text: Same as all_text.txt but without headers
+2 bbc articles
+Consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005.
+Class Labels: 5 (business, entertainment, politics, sport, tech)
+
+More specifically:
+- business contains 510 documents
+- entertainment contains 386 documents
+- politics contains 417 documents
+- sport contains 511 documents
+- tech contains 401 documents
+
+
+3 spam ham emails
+Consists of the subject of 5729 emails received that are already tagged with spam and ham (non-spam)
+
+More specifically:
+- ham(non-spam) contains 4360 documents
+- spam contains 1368 documents
+
+
+----------Datasets stats----------
+
+1 20newsgroups_parsed_1
+all words: 4199886
+all unique words: 117920
+
+1 20newsgroups_parsed_2
+all words: 2338630
+all unique words: 117778
+
+1 20newsgroups_parsed_3
+all words: 4199886
+all unique words: 94160
+
+
+2 bbc articles_parsed_1
+all words: 839727
+all unique words: 31542
+
+2 bbc articles_parsed_2
+all words: 482966
+all unique words: 31407
+
+2 bbc articles_parsed_3
+all words: 839727
+all unique words: 21547
+
+
+3 spam ham emails_parsed_1
+all words: 1305939
+all unique words: 33747
+
+3 spam ham emails_parsed_2
+all words: 793106
+all unique words: 33596
+
+3 spam ham emails_parsed_3
+all words: 1305939
+all unique words: 25686
+
+
+----------Experiments----------
+If a document contains less than 3 words it is excluded from csvs that are used
+to train classifiers
+
+Experiment 1
+
+Experiment 2
+
+Experiment 3
+

@@ -1,0 +1,17 @@
+subject
+enl
+dailyupdate
+txt
+subscribed
+enl
+dailyupdate
+txt
+email
+address
+vkamins
+enron
+com
+unsubscribe
+send
+blank
+email

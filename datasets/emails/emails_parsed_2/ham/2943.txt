@@ -1,0 +1,11 @@
+subject
+wti
+model
+stinson
+latest
+wti
+model
+open
+close
+trading
+zimin

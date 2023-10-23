@@ -1,19 +1,27 @@
 import time
+import os
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
+from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, confusion_matrix, classification_report
+from useful_methods import *
 
 start_time = time.time()
 
-parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
+parsed_path, prefix, choice = choose_dataset()
+load_save_path = load_save_results(prefix, choice)
+# parsed_path = "datasets_2/20newsgroups/newsgroups_dataset_parsed/"
 
 if __name__ == "__main__":
-    df = pd.read_csv('data_for_classifiers_word2vec.csv')
-    # df = pd.read_csv('data_for_classifiers_word2vec_300_google.csv')
+
+    # Load the CSV file for Word2Vec from the corresponding dataset directory
+    df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_word2vec.csv'))
+
+    # df = pd.read_csv('all_categories_word2vec.csv')
 
     # Convert the embeddings column from string to list of floats
     X = df['embedding'].apply(lambda x: np.fromstring(x[1:-1], sep=',')).tolist()
@@ -78,5 +86,24 @@ if __name__ == "__main__":
     print(f"Precision: {prec_score_svc}")
     print(f"Confusion matrix:\n {conf_matrix_svc}")
     print(f"Report:\n {report_svc}")
+
+    # Train Logistic Regression classifier
+    model_logreg = LogisticRegression(max_iter=1000)  # You can adjust max_iter as needed
+    model_logreg.fit(X_train, y_train)
+
+    # Predict the categories of the test data
+    y_pred_logreg = model_logreg.predict(X_test)
+
+    # Evaluate Logistic Regression classifier
+    acc_score_logreg = accuracy_score(y_test, y_pred_logreg)
+    prec_score_logreg = precision_score(y_test, y_pred_logreg, average='weighted')
+    conf_matrix_logreg = confusion_matrix(y_test, y_pred_logreg)
+    report_logreg = classification_report(y_test, y_pred_logreg)
+
+    print("Logistic Regression classifier:\n")
+    print(f"Accuracy: {acc_score_logreg}")
+    print(f"Precision: {prec_score_logreg}")
+    print(f"Confusion matrix:\n {conf_matrix_logreg}")
+    print(f"Report:\n {report_logreg}")
 
     print("--- %s seconds ---" % (time.time() - start_time))

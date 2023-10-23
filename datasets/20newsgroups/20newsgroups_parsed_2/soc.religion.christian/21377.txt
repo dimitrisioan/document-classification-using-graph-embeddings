@@ -1,0 +1,7 @@
+subject
+translations
+version
+bible
+consider
+accurate
+translation

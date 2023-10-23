@@ -1,0 +1,16 @@
+subject
+maxtor
+mb
+scsi
+maxtor
+xt
+mb
+scsi
+drive
+m
+access
+time
+year
+old
+extern
+case

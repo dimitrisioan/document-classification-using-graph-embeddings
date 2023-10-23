@@ -1,0 +1,5 @@
+Newsgroup: sci.electronics
+Document_id: 54070
+Subject: PCMCIA
+From: martin.vuille@synapse.org (Martin Vuille)
+

@@ -1,0 +1,15 @@
+subject
+tn
+support
+xterm
+tn
+program
+support
+xterm
+dont
+like
+x
+cant
+copy
+windows
+thanks

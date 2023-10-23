@@ -1,0 +1,9 @@
+subject
+font
+size
+for
+dos
+in
+a
+window
+xx

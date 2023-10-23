@@ -1,82 +1,70 @@
+import multiprocessing
 import sys
 from gensim.models import Word2Vec
 import os
 import time
+import numpy as np
 from graph_creation_scripts import *
 from k_core_modules import *
 import networkx as nx
 import matplotlib.pyplot as plt
-from node2vec import Node2Vec
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import pickle
+from fastnode2vec import Node2Vec, Graph
+from useful_methods import *
 
-# from nodevectors import Node2Vec
+parsed_path, prefix, choice = choose_dataset()
+load_save_path = load_save_results(prefix, choice)
 
 start_time = time.time()
 
-dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
-parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
-
-all_text_file = 'all_words.txt'
-
 if __name__ == '__main__':
-    # with open(all_text_file, "r") as file:
-    #     data = file.read()
-    #     file_words = data.split()
-    #     # unique words list
-    #     unique_words = list(set(file_words))
-    #     print(f"Words: {len(file_words)}")
-    #     print(f"Unique words: {len(unique_words)}")
-    # filecount = 0
-    # cnt = 0
-    # data = []
-    # files_list = []
-    # for subdirectory in os.listdir(parsed_path):
-    #     subdirectory_path = os.path.join(parsed_path, subdirectory)
-    #     print(subdirectory_path)
-    #     for file in os.listdir(subdirectory_path):
-    #         cnt += 1
-    #         filecount += 1
-    #         doc_file_path = os.path.join(subdirectory_path, file)
-    #         print(doc_file_path)
+    X = input(
+        '1.create index using maincore \n 2.create index without considering maincore \n 3.Create index using Density '
+        'method \n 4.Create index using CoreRank method\nX = ')
+    if int(X) == 1:
+        # Save the union_graph to a file inside the specified directory
+        file_path = os.path.join(load_save_path, 'union_graph_1.pkl')
+        with open(file_path, 'rb') as file:
+            union_graph = pickle.load(file)
+    elif int(X) == 2:
+        file_path = os.path.join(load_save_path, 'union_graph_2.pkl')
+        with open(file_path, 'rb') as file:
+            union_graph = pickle.load(file)
+    elif int(X) == 3:
+        file_path = os.path.join(load_save_path, 'union_graph_3.pkl')
+        with open(file_path, 'rb') as file:
+            union_graph = pickle.load(file)
 
-    # G = union_graph
-    # nx.draw(G)
-    # plt.show()
-    # # Node2Vec
-    # # node2vec = Node2Vec(G, dimensions=64, walk_length=30, num_walks=200, workers=4)  # default
-    # temp_folder = "../document-classification-using-graph-embeddings/temp_folder"
-    # node2vec = Node2Vec(G, dimensions=64, walk_length=30, num_walks=10, workers=1, temp_folder=temp_folder)
-    # model = node2vec.fit(window=10, min_count=1, batch_words=4)
-    #
-    # embeddings_list = [model.wv[term] for term in model.wv.index_to_key]
-    # print(embeddings_list)
-    # # data.append({'id': file, 'embedding': embeddings_list, 'category': subdirectory})
-    # # print(embeddings_list)
-    # # print(data)
-
-    with open('union_graph_3.pkl', 'rb') as file:
-        union_graph = pickle.load(file)
+    # file_path = os.path.join(load_save_path, 'union_graph_1.pkl')
+    # with open(file_path, 'rb') as file:
+    #     union_graph = pickle.load(file)
 
     G = union_graph
     print(nx.info(G))
-    # graphToPng(G)
-    # nx.draw(G)
-    # plt.show()
 
-    G = nx.k_core(G, k=None, core_number=None)
-    print('core done')
-    with open('core_union_graph_3.pkl', 'wb') as file:
-        pickle.dump(G, file)
-    print('Core ', nx.info(G))
-    node2vec = Node2Vec(G, dimensions=64, walk_length=30, num_walks=10, workers=1)
-    model = node2vec.fit(window=10, min_count=1, batch_words=4)
-    model.wv.save_word2vec_format('node_embed_3.txt')
+    unique_words = []
+    for node in G.nodes():
+        unique_words.append(node)
 
-    # # Create Dataframe and save data in a CSV file
-    # df = pd.DataFrame(data)
-    # df.to_csv('data_for_classifiers_node2vec.csv', index=False)
+    # Get the number of available CPU cores
+    num_cores = multiprocessing.cpu_count()
 
-    # print("files are:", filecount)
+    # Convert G from networkx to Graph structure in order to run fastnode2vec
+    edges = [(u, v) for u, v in G.edges()]
+    graph = Graph(edges, directed=False, weighted=False)
+
+    model = Node2Vec(graph, dim=64, walk_length=30, window=10, p=2.0, q=0.5, workers=num_cores)
+    model.train(epochs=100)
+    # model.train(epochs=10)
+
+    # print(model.wv["the"])
+
+    # Save the Node2Vec model to the corresponding dataset directory
+    model.save(os.path.join(load_save_path, f'{prefix}_node2vec'))
+
+    # model.save("../document-classification-using-graph-embeddings/node2vec_models/node2vec.model")
+    print(model.wv.most_similar('man', topn=10))
+
     print("--- %s seconds ---" % (time.time() - start_time))

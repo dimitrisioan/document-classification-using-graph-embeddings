@@ -1,0 +1,10 @@
+subject
+baud
+extern
+modem
+mint
+box
+manual
+phonecord
+ship
+denni

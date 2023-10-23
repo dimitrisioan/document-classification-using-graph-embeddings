@@ -9,38 +9,110 @@ from k_core_modules import *
 from karateclub import Graph2Vec
 from sklearn.manifold import TSNE
 from gensim import *
+from useful_methods import *
+
+parsed_path, prefix, choice = choose_dataset()
+load_save_path = load_save_results(prefix, choice)
 
 start_time = time.time()
-
-dataset_path = "../document-classification-using-graph-embeddings/newsgroups_dataset/"
-parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_parsed/"
-combined_parsed_path = "../document-classification-using-graph-embeddings/newsgroups_dataset_combined_parsed/"
-
+newsgroups_categories_included = ['comp.windows.x',
+                                  'rec.sport.baseball',
+                                  'sci.space',
+                                  'talk.religion.misc']
 # TODO IMPLEMENT DIFFERENTLY IT CONSUMES TOO MUCH RAM
 # TODO ENSURE THAT EMBEDDINGS ARE SAVED FOR THE RIGHT TEXT_ID
 
 if __name__ == '__main__':
+    # # 1st approach: load in list one category at a time
+    # postingl = []
+    # all_data = []
+    # filecount = 0
+    #
+    # for category in os.listdir(parsed_path):
+    #     category_path = os.path.join(parsed_path, category)
+    #     data = []
+    #     graphs = []
+    #     # cnt = 0
+    #     for file in os.listdir(category_path):
+    #         file_path = os.path.join(category_path, file)
+    #         print(file_path)
+    #         with open(file_path, 'r') as f:
+    #             text = f.read().split()
+    #             # Skip file if it has less than 3 words
+    #             if len(text) < 3:
+    #                 continue
+    #
+    #         filecount += 1
+    #         # Convert text document into Graph using GSB
+    #         unique_terms, term_freq, postingl, count_of_text = createInvertedIndexFromFile(file_path, postingl)
+    #         adjacency_matrix = CreateAdjMatrixFromInvIndex(unique_terms, term_freq)
+    #         G = graphUsingAdjMatrix(adjacency_matrix, unique_terms)
+    #         graphs.append(G)
+    #
+    #         document_id = file.replace('.txt', '')
+    #         data.append({'document_id': document_id, 'embedding': [], 'category': category})
+    #         filecount += 1
+    #         # cnt += 1
+    #         # if cnt == 20:
+    #         #     break
+    #
+    #         # nx.draw(G, with_labels=True, node_color='skyblue', font_weight='bold')
+    #         # plt.show()
+    #         # print(unique_terms)
+    #         # print(term_freq)
+    #         # print(postingl)
+    #         # print(count_of_text)
+    #         # print(adjacency_matrix)
+    #         # break
+    #     # break
+    #
+    #     # Graph2Vec training
+    #     model = Graph2Vec(epochs=10)
+    #     model.fit(graphs)
+    #     graph_embeddings = model.get_embedding()
+    #
+    #     # Add embeddings for each document in data after training
+    #     for i, embedding in enumerate(graph_embeddings):
+    #         data[i]['embedding'] = embedding.tolist()
+    #
+    #     all_data.extend(data)
+    #
+    #     print(f'Graph embeddings for {category} are: ', len(graph_embeddings))
+    #
+    #     # for _ in data:
+    #     #     print(_)
+    #
+    # # Create Dataframe and save data in a CSV file
+    # df = pd.DataFrame(all_data)
+    #
+    # # Save the CSV file for Graph2Vec to the corresponding dataset directory
+    # df.to_csv(os.path.join(load_save_path, f'{prefix}_embeddings_graph2vec.csv'), index=False)
+
+
+    # =============================================================================================
+
+
+    # 2nd approach: load in list all categories
     postingl = []
-    all_data = []
+    data = []
+    graphs = []
     filecount = 0
 
     for category in os.listdir(parsed_path):
+        # if category not in newsgroups_dataset_4_categories:
+        #     continue
         category_path = os.path.join(parsed_path, category)
-        data = []
-        graphs = []
-        # cnt = 0
         for file in os.listdir(category_path):
             file_path = os.path.join(category_path, file)
             print(file_path)
+
+            with open(file_path, 'r') as f:
+                text = f.read().split()
+                # Skip file if it has less than 3 words
+                if len(text) < 3:
+                    continue
+
             filecount += 1
-            with open(file_path, 'r', errors="ignore") as f:
-                text = f.read().strip()
-
-            # Check if the text has fewer than 3 words and skip it
-            if len(text.split()) < 3:
-                print(f"Skipping {file} due to insufficient words.")
-                continue
-
             # Convert text document into Graph using GSB
             unique_terms, term_freq, postingl, count_of_text = createInvertedIndexFromFile(file_path, postingl)
             adjacency_matrix = CreateAdjMatrixFromInvIndex(unique_terms, term_freq)
@@ -50,48 +122,22 @@ if __name__ == '__main__':
             document_id = file.replace('.txt', '')
             data.append({'document_id': document_id, 'embedding': [], 'category': category})
             filecount += 1
-            # cnt += 1
-            # if cnt == 20:
-            #     break
-
-            # nx.draw(G, with_labels=True, node_color='skyblue', font_weight='bold')
-            # plt.show()
-            # print(unique_terms)
-            # print(term_freq)
-            # print(postingl)
-            # print(count_of_text)
-            # print(adjacency_matrix)
             # break
         # break
+    print(f"all items in list graphs are {len(graphs)}")
+    # Graph2Vec training
+    model = Graph2Vec(min_count=1)
+    model.fit(graphs)
+    graph_embeddings = model.get_embedding()
 
-        # Graph2Vec training
-        model = Graph2Vec()
-        model.fit(graphs)
-        graph_embeddings = model.get_embedding()
-
-        # Add embeddings for each document in data after training
-        for i, embedding in enumerate(graph_embeddings):
-            data[i]['embeddings'] = embedding.tolist()
-
-        all_data.extend(data)
-
-        print(f'Graph embeddings for {category} are: ', len(graph_embeddings))
-
-        for _ in data:
-            print(_)
-
-        # Perform t-SNE dimensionality reduction
-        tsne = TSNE(n_components=2)
-        embeddings_2d = tsne.fit_transform(graph_embeddings)
-
-        # Plot the embeddings
-        plt.scatter(embeddings_2d[:, 0], embeddings_2d[:, 1])
-        plt.title('Graph Embeddings Visualization (2D)')
-        plt.show()
+    # Add embeddings for each document in data after training
+    for i, embedding in enumerate(graph_embeddings):
+        data[i]['embedding'] = embedding.tolist()
 
     # Create Dataframe and save data in a CSV file
-    df = pd.DataFrame(all_data)
-    df.to_csv('data_for_classifiers_graph2vec.csv', index=False)
+    df = pd.DataFrame(data)
 
-    print("files are:", filecount)
+    df.to_csv('all_categories.csv', index=False)
+
+    print("Text files are:", filecount)
     print("--- %s seconds ---" % (time.time() - start_time))

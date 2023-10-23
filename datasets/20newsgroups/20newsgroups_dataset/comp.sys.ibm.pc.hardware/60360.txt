@@ -1,0 +1,7 @@
+Newsgroup: comp.sys.ibm.pc.hardware
+Document_id: 60360
+From: thorf@csa.bu.edu (Thor Farrish)
+Subject: Maxtor drive geometry/jumpers
+
+
+

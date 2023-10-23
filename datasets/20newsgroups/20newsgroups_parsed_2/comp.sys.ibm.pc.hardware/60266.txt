@@ -1,0 +1,10 @@
+subject
+amd
+cpu
+comments
+amd
+microprocessors
+good
+bad
+thanks
+pat

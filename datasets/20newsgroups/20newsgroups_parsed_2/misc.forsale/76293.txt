@@ -1,0 +1,8 @@
+subject
+wanted
+ide
+hard
+drive
+vga
+monitor
+email
