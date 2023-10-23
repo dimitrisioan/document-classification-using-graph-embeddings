@@ -89,7 +89,7 @@ if __name__ == "__main__":
     print(f"Report:\n {report_svc}")
 
     # Train Logistic Regression classifier
-    model_logreg = LogisticRegression(max_iter=1000)  # You can adjust max_iter as needed
+    model_logreg = LogisticRegression(max_iter=1000)
     model_logreg.fit(X_train, y_train)
 
     # Predict the categories of the test data
