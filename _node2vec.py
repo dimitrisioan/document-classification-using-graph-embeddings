@@ -55,8 +55,10 @@ if __name__ == '__main__':
     edges = [(u, v) for u, v in G.edges()]
     graph = Graph(edges, directed=False, weighted=False)
 
-    model = Node2Vec(graph, dim=64, walk_length=30, window=10, p=2.0, q=0.5, workers=num_cores)
-    model.train(epochs=100)
+    model = Node2Vec(graph, dim=64, walk_length=30, window=10, p=2.0, q=0.5, workers=num_cores) #exeriment_1
+    # model = Node2Vec(graph, dim=64, walk_length=30, window=10, p=1.0, q=1.0, workers=num_cores) #experiment_2
+    # model = Node2Vec(graph, dim=64, walk_length=30, window=10, p=0.5, q=2.0, workers=num_cores) #experiment_3
+    model.train(epochs=10)
     # model.train(epochs=10)
 
     # print(model.wv["the"])

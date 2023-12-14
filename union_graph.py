@@ -211,7 +211,7 @@ def runIt(filename, ans, window_flag, window_size, sen_par_flag, embe_flag, vaz_
         sizeof_err_matrix = sys.getsizeof(adjmat)
         print(sizeof_err_matrix)
         exit(-1)
-    with open('docinfo.dat', 'a') as file_handler:
+    with open('1docinfo.dat', 'a') as file_handler:
         file_handler.write('%s %s \n' % (filename, temp[3]))
     file_handler.close()
     # print("----------------Using networkx method:---------------")

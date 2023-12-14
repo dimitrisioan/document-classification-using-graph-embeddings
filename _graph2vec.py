@@ -23,7 +23,7 @@ newsgroups_categories_included = ['comp.windows.x',
 # TODO ENSURE THAT EMBEDDINGS ARE SAVED FOR THE RIGHT TEXT_ID
 
 if __name__ == '__main__':
-    # # 1st approach: load in list one category at a time
+    # # 1st approach: each category in a seperate model
     # postingl = []
     # all_data = []
     # filecount = 0
@@ -88,11 +88,9 @@ if __name__ == '__main__':
     # # Save the CSV file for Graph2Vec to the corresponding dataset directory
     # df.to_csv(os.path.join(load_save_path, f'{prefix}_embeddings_graph2vec.csv'), index=False)
 
-
     # =============================================================================================
 
-
-    # 2nd approach: load in list all categories
+    # 2nd approach: all categories in 1 model
     postingl = []
     data = []
     graphs = []

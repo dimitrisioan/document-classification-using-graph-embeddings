@@ -18,8 +18,12 @@ load_save_path = load_save_results(prefix, choice)
 
 if __name__ == "__main__":
 
-    # Load the CSV file for Graph2Vec from the corresponding dataset directory
-    df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_graph2vec.csv'))
+    # # Load the CSV file for Graph2Vec from the corresponding dataset directory
+    # df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_graph2vec.csv'))
+
+    # df = pd.read_csv('4_categories_graph2vec.csv')
+    df = pd.read_csv('data_for_classifiers_graph2vec.csv')
+
 
     # df = pd.read_csv('all_categories.csv')
 

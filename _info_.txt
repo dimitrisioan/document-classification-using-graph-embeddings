@@ -1,11 +1,11 @@
 ----------Datasets----------
 
 1 20newsgroups
-https://www.kaggle.com/datasets/crawford/20-newsgroups/data?select=sci.electronics.txt
+https://www.kaggle.com/datasets/crawford/20-newsgroups
 
 2 bbc articles
 http://mlg.ucd.ie/datasets/bbc.html
-Contains
+
 
 3 spam ham emails
 https://www.kaggle.com/datasets/yashpaloswal/spamham-email-classification-nlp/data/

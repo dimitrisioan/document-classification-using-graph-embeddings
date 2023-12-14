@@ -59,7 +59,7 @@ if __name__ == '__main__':
     num_cores = multiprocessing.cpu_count()
 
     # Train Word2Vec model
-    model = Word2Vec(vector_size=300, window=5, min_count=1, workers=num_cores, epochs=10, sg=1)
+    model = Word2Vec(vector_size=300, window=5, min_count=5, workers=num_cores, epochs=10, sg=1)
     model.build_vocab(sentences)  # prepare the model vocabulary
     model.train(sentences, total_examples=model.corpus_count, epochs=model.epochs)
 
@@ -69,4 +69,5 @@ if __name__ == '__main__':
     # model.save("../document-classification-using-graph-embeddings/word2vec_models/word2vec.model")
     print(model.wv.most_similar('man', topn=10))
 
+    print("Text files are:", filecount)
     print("--- %s seconds ---" % (time.time() - start_time))
