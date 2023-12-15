@@ -70,7 +70,6 @@ if __name__ == '__main__':
 
     total_words_model = len(model.wv.key_to_index)
     print(f"Total words in model's vocabulary: {total_words_model}")
-
     # Convert the embeddings column from string to list of floats
     X = df['embedding'].apply(lambda x: np.fromstring(x[1:-1], sep=',')).tolist()
     y = df['category'].tolist()
@@ -99,7 +98,12 @@ if __name__ == '__main__':
 
     # Preprocess the new document text
     new_document = 'test_files/test_file.txt'
-    preprocessed_text = preprocess_file(new_document)
+    if choice == 1:
+        preprocessed_text = preprocess_file(new_document)
+    elif choice == 2:
+        preprocessed_text = preprocess_file(new_document, remove_stopwords=True)
+    elif choice == 3:
+        preprocessed_text = preprocess_file(new_document, stemming=True, lemmatization=True)
 
     # Word2Vec/ Node2Vec selected
     if choose_model == 1 or choose_model == 3:
