@@ -15,7 +15,7 @@ probabl
 more
 about
 how
-expos
+expo
 configur
 event
 are
@@ -25,7 +25,7 @@ have
 an
 appl
 which
-us
+use
 window
 to
 draw
@@ -57,11 +57,11 @@ translat
 tabl
 for
 the
-expos
+expo
 configur
 event
 the
-expos
+expo
 event
 call
 my
@@ -81,7 +81,7 @@ method
 invok
 a
 fake
-expos
+expo
 event
 actual
 just
@@ -91,7 +91,7 @@ redraw
 w
 an
 appropri
-expos
+expo
 struct
 to
 draw
@@ -158,7 +158,7 @@ r
 i
 get
 no
-expos
+expo
 event
 whatsoev
 do

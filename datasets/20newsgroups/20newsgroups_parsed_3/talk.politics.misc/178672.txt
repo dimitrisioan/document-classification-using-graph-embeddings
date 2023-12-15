@@ -131,7 +131,7 @@ state
 wit
 against
 someon
-els
+el
 no
 direct
 experi
@@ -249,7 +249,7 @@ alberta
 fault
 that
 he
-life
+live
 there
 if
 he
@@ -299,7 +299,7 @@ centr
 outsid
 ottawa
 it
-serf
+serv
 the
 same
 purpos
@@ -566,7 +566,7 @@ busi
 ye
 and
 the
-tori
+torus
 in
 ottawa
 are
@@ -1367,7 +1367,7 @@ run
 around
 pat
 them
-self
+selv
 on
 the
 back

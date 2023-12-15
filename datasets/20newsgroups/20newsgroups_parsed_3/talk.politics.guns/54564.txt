@@ -41,7 +41,7 @@ sustain
 miller
 convict
 of
-possess
+posse
 of
 an
 illeg
@@ -260,7 +260,7 @@ not
 in
 question
 the
-possess
+posse
 of
 a
 sawedoff

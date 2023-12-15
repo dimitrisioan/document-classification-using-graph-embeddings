@@ -414,7 +414,7 @@ a
 packag
 deal
 he
-go
+goe
 on
 to
 identifi
@@ -532,7 +532,7 @@ forbidden
 same
 law
 btw
-pleas
+plea
 give
 a
 refer
@@ -554,7 +554,7 @@ could
 you
 list
 those
-pleas
+plea
 act
 deal
 with

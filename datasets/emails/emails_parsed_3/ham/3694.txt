@@ -7,7 +7,7 @@ may
 toronto
 ami
 attach
-pleas
+plea
 find
 a
 short
@@ -15,7 +15,7 @@ bio
 for
 dr
 kaminski
-pleas
+plea
 let
 me
 know
@@ -60,7 +60,7 @@ boyl
 who
 wa
 veri
-pleas
+plea
 to
 report
 that
@@ -107,7 +107,7 @@ to
 join
 a
 panel
-discuss
+discus
 question
 and
 answer
@@ -178,7 +178,7 @@ of
 weather
 deriv
 panel
-discuss
+discus
 perhap
 m
 crenshaw

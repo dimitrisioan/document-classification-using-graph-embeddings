@@ -270,7 +270,7 @@ that
 place
 g
 alishan
-belief
+believ
 that
 accord
 to
@@ -986,7 +986,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

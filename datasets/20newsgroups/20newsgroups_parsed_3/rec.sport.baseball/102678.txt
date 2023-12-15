@@ -147,7 +147,7 @@ do
 not
 wish
 to
-expos
+expo
 to
 waiver
 if
@@ -225,6 +225,6 @@ key
 latest
 gdp
 forecast
-pleas
+plea
 run
 alan

@@ -27,7 +27,7 @@ a
 fli
 pig
 prospect
-tori
+torus
 candid
 andrew
 mennear
@@ -60,7 +60,7 @@ say
 the
 day
 the
-tori
+torus
 sum
 add
 up
@@ -226,7 +226,7 @@ the
 jame
 report
 the
-tori
+torus
 back
 inquiri
 into
@@ -241,7 +241,7 @@ will
 fli
 befor
 the
-tori
+torus
 sum
 will
 add

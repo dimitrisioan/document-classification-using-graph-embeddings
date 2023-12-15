@@ -145,7 +145,7 @@ elderli
 who
 have
 nowher
-els
+el
 to
 go
 but
@@ -640,7 +640,7 @@ we
 disagre
 on
 what
-serf
+serv
 syria
 interest
 better

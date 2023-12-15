@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 note
 that
 the
@@ -11,7 +11,7 @@ meet
 is
 januari
 shirley
-pleas
+plea
 put
 it
 on
@@ -127,7 +127,7 @@ hou
 ect
 ect
 subject
-pleas
+plea
 note
 that
 the
@@ -213,7 +213,7 @@ an
 open
 forum
 for
-discuss
+discus
 your
 input
 is

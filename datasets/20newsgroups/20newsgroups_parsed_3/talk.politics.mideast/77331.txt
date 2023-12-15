@@ -241,7 +241,7 @@ parti
 that
 do
 not
-pa
+pas
 the
 minimum
 cutoff
@@ -625,7 +625,7 @@ the
 committe
 then
 someon
-els
+el
 obvious
 would
 not

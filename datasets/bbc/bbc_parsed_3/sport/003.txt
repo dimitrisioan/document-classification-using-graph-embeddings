@@ -114,7 +114,7 @@ all
 time
 but
 green
-belief
+believ
 he
 lost
 the
@@ -302,7 +302,7 @@ helsinki
 in
 august
 green
-belief
+believ
 gatlin
 will
 again
@@ -332,7 +332,7 @@ crown
 there
 alway
 someon
-els
+el
 come
 i
 think

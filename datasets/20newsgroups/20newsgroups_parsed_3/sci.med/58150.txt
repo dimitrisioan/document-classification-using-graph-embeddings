@@ -321,7 +321,7 @@ and
 resolut
 of
 visual
-stimulu
+stimulus
 by
 turtl
 phoreceptor

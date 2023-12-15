@@ -16,7 +16,7 @@ hatcher
 wrote
 well
 here
-go
+goe
 after
 lurk
 for
@@ -192,7 +192,7 @@ bandana
 patch
 tell
 your
-bo
+bos
 your
 go
 undercov

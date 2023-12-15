@@ -55,7 +55,7 @@ ani
 amount
 thi
 wa
-pass
+pas
 by
 congress
 in
@@ -154,7 +154,7 @@ flavor
 ingredi
 in
 sassafra
-leaf
+leav
 if
 it
 were
@@ -216,7 +216,7 @@ coars
 ground
 dri
 sassafra
-leaf
+leav
 thi
 is
 not

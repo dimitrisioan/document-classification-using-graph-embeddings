@@ -33,7 +33,7 @@ tv
 show
 if
 noth
-els
+el
 i
 know
 such
@@ -63,7 +63,7 @@ the
 liquid
 wa
 not
-dens
+den
 the
 mous
 would

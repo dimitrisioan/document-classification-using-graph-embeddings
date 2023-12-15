@@ -39,7 +39,7 @@ gate
 magnetomet
 digit
 compass
-pleas
+plea
 respond
 via
 email

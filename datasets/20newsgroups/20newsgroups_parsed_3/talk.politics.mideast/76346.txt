@@ -165,7 +165,7 @@ wa
 answer
 by
 someon
-els
+el
 who
 post
 a
@@ -361,7 +361,7 @@ to
 seek
 refug
 somewher
-els
+el
 a
 reason
 for
@@ -387,7 +387,7 @@ an
 order
 for
 ethnic
-cleans
+clean
 in
 accord
 to

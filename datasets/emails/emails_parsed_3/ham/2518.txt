@@ -6,7 +6,7 @@ brian
 do
 contact
 him
-pleas
+plea
 hi
 number
 in
@@ -108,7 +108,7 @@ wa
 wonder
 if
 pge
-us
+use
 weatherwis
 a
 deriv
@@ -135,10 +135,10 @@ you
 know
 whether
 pge
-us
+use
 thi
 servic
-pleas
+plea
 contact
 ronni
 or

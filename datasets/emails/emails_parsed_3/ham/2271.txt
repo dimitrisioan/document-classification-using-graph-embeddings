@@ -25,7 +25,7 @@ ani
 comment
 or
 question
-pleas
+plea
 call
 x
 thank

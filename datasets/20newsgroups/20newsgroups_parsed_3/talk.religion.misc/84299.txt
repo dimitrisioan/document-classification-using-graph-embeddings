@@ -3,7 +3,7 @@ re
 albert
 sabin
 write
-discuss
+discus
 on
 josephu
 insert

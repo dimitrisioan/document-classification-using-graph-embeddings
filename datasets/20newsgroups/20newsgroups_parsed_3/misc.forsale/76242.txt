@@ -39,7 +39,7 @@ n
 dram
 each
 or
-pleas
+plea
 call
 or
 email

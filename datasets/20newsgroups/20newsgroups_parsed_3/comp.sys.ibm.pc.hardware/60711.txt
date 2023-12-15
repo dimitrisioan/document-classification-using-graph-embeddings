@@ -132,7 +132,7 @@ expect
 to
 see
 some
-discuss
+discus
 on
 here
 unless
@@ -224,7 +224,7 @@ to
 see
 if
 anyon
-els
+el
 had
 ani
 troubl

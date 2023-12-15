@@ -2,11 +2,11 @@ subject
 re
 risk
 panel
-discuss
+discus
 boston
 oliv
 make
-sens
+sen
 to
 me
 vinc
@@ -14,7 +14,7 @@ oliv
 bennett
 on
 am
-pleas
+plea
 respond
 to
 oliv
@@ -27,7 +27,7 @@ cc
 subject
 risk
 panel
-discuss
+discus
 boston
 just
 a
@@ -36,7 +36,7 @@ email
 to
 start
 some
-discuss
+discus
 about
 the
 panel
@@ -139,7 +139,7 @@ anyon
 ha
 ani
 suggest
-pleas
+plea
 let
 me
 know

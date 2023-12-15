@@ -13,7 +13,7 @@ intern
 drive
 model
 ma
-us
+use
 either
 a
 scsi

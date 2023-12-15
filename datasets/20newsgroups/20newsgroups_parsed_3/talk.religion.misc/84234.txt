@@ -285,7 +285,7 @@ that
 there
 is
 noth
-els
+el
 after
 that
 and
@@ -508,7 +508,7 @@ author
 of
 thi
 quot
-pleas
+plea
 send
 me
 email

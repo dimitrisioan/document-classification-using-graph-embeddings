@@ -65,7 +65,7 @@ salari
 retent
 bonu
 end
-pleas
+plea
 provid
 a
 job
@@ -83,8 +83,8 @@ you
 would
 like
 to
-discu
-pleas
+discus
+plea
 let
 me
 know
@@ -263,7 +263,7 @@ him
 a
 an
 employe
-pleas
+plea
 let
 me
 know

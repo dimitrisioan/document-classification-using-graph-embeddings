@@ -39,7 +39,7 @@ beer
 take
 one
 down
-pa
+pas
 it
 around
 aleph
@@ -128,7 +128,7 @@ take
 one
 down
 and
-pa
+pas
 it
 around
 the

@@ -42,7 +42,7 @@ genoa
 for
 appar
 it
-us
+use
 a
 cirru
 logic
@@ -138,7 +138,7 @@ summari
 info
 if
 anyon
-els
+el
 is
 interest
 thank

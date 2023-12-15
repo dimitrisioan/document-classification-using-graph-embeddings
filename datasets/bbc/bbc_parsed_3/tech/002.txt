@@ -3,7 +3,7 @@ net
 cafe
 cultur
 crackdown
-chines
+chine
 author
 close
 net
@@ -36,7 +36,7 @@ they
 were
 oper
 illeg
-chines
+chine
 net
 cafe
 oper
@@ -75,7 +75,7 @@ seri
 of
 step
 the
-chines
+chine
 govern
 ha
 taken
@@ -189,7 +189,7 @@ of
 violenc
 peopl
 are
-expos
+expo
 to
 net
 cafe
@@ -223,7 +223,7 @@ first
 time
 that
 the
-chines
+chine
 govern
 ha
 move
@@ -315,7 +315,7 @@ to
 oper
 in
 august
-chines
+chine
 author
 shut
 down
@@ -352,7 +352,7 @@ in
 a
 report
 that
-chines
+chine
 govern
 technolog
 for

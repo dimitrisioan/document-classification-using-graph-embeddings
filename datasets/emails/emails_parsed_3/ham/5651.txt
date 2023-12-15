@@ -4,7 +4,7 @@ from
 vicki
 windsor
 vicki
-pleas
+plea
 send
 me
 your
@@ -46,7 +46,7 @@ to
 identifi
 good
 target
-pleas
+plea
 make
 sure
 you
@@ -208,7 +208,7 @@ the
 london
 offic
 to
-discu
+discus
 ani
 opportun
 which

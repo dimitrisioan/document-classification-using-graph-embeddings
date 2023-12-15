@@ -9,7 +9,7 @@ ani
 name
 from
 previou
-discuss
+discus
 but
 i
 do

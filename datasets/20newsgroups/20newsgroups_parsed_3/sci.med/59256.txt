@@ -92,7 +92,7 @@ ani
 control
 studi
 infant
-mous
+mouse
 and
 other
 model
@@ -580,7 +580,7 @@ learn
 to
 read
 label
-pleas
+plea
 note
 that
 i
@@ -652,13 +652,13 @@ knowledg
 it
 might
 not
-pleas
+plea
 a
 medic
 research
 but
 it
-pleas
+plea
 my
 own
 person
@@ -826,7 +826,7 @@ at
 one
 of
 the
-chines
+chine
 restaur
 the
 day
@@ -1001,7 +1001,7 @@ go
 around
 call
 thi
-chines
+chine
 restaur
 syndrom
 thu
@@ -1018,7 +1018,7 @@ experi
 thi
 onli
 from
-chines
+chine
 food
 msg
 is
@@ -1029,7 +1029,7 @@ lot
 more
 thing
 than
-chines
+chine
 foodthat
 whi
 i
@@ -1051,7 +1051,7 @@ i
 never
 call
 it
-chines
+chine
 restaur
 syndrom
 and
@@ -1063,7 +1063,7 @@ got
 it
 onli
 from
-chines
+chine
 food
 i
 just
@@ -1079,7 +1079,7 @@ person
 test
 at
 a
-chines
+chine
 take
 out
 place
@@ -1193,7 +1193,7 @@ someth
 other
 than
 a
-chines
+chine
 restaur
 lot
 of
@@ -1233,7 +1233,7 @@ had
 the
 reaction
 in
-chines
+chine
 restaur
 and
 greek
@@ -1252,7 +1252,7 @@ when
 a
 steak
 joint
-us
+use
 accent
 to
 tender
@@ -1269,7 +1269,7 @@ im
 prejudic
 against
 either
-chines
+chine
 food
 or
 asian
@@ -1281,7 +1281,7 @@ home
 to
 cook
 some
-chines
+chine
 food
 for
 the

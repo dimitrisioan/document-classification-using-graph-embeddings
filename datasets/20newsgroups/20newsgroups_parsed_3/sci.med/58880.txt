@@ -83,7 +83,7 @@ thi
 if
 i
 take
-leaf
+leav
 everi
 day
 for
@@ -175,7 +175,7 @@ info
 is
 welcom
 and
-pleas
+plea
 write
 me
 or
@@ -193,7 +193,7 @@ and
 i
 cant
 wait
-pleas
+plea
 dont
 flame
 me

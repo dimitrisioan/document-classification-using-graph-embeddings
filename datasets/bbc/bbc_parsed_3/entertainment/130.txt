@@ -312,7 +312,7 @@ dec
 id
 onli
 be
-pleas
+plea
 in
 term
 of
@@ -353,6 +353,6 @@ region
 to
 rebuild
 survivor
-life
+live
 and
 livelihood

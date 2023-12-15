@@ -134,7 +134,7 @@ for
 vinc
 s
 depart
-pleas
+plea
 let
 me
 know

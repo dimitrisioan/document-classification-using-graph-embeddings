@@ -21,7 +21,7 @@ let
 s
 get
 togeth
-pleas
+plea
 give
 me
 a
@@ -142,7 +142,7 @@ to
 hear
 from
 you
-pleas
+plea
 let
 me
 know
@@ -282,7 +282,7 @@ b
 ventur
 andrzej
 thank
-pleas
+plea
 send
 me
 the

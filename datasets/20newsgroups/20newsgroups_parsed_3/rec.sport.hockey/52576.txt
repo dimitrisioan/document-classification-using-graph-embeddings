@@ -8,6 +8,6 @@ statemain
 in
 finalswho
 won
-pleas
+plea
 post
 main

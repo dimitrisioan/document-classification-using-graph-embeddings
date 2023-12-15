@@ -1,6 +1,6 @@
 subject
 re
-pleas
+plea
 help
 an
 amiga
@@ -225,7 +225,7 @@ window
 a
 lot
 easier
-pleas
+plea
 repli
 via
 email

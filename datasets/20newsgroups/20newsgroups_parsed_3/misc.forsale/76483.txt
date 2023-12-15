@@ -136,13 +136,13 @@ scsi
 tape
 backup
 ani
-makes
+make
 scsi
 cdrom
 baud
 modem
 extern
-pleas
+plea
 leav
 ani
 offersquest

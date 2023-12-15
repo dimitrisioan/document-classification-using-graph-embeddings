@@ -36,7 +36,7 @@ in
 a
 forum
 for
-discuss
+discus
 doesnt
 it
 ever

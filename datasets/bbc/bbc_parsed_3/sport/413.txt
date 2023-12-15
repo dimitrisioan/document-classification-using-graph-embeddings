@@ -119,7 +119,7 @@ or
 mayb
 go
 somewher
-els
+el
 but
 ultimit
 coach
@@ -247,7 +247,7 @@ well
 and
 im
 veri
-pleas
+plea
 for
 them
 llewellyn

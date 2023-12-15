@@ -12,7 +12,7 @@ custom
 info
 mail
 list
-pleas
+plea
 save
 thi
 messag

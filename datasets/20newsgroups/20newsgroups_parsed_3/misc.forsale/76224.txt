@@ -54,7 +54,7 @@ mm
 f
 yashica
 len
-mediums
+medium
 hard
 case
 all

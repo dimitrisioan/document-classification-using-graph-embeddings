@@ -564,7 +564,7 @@ sequenc
 a
 tale
 of
-mous
+mouse
 and
 men
 prof
@@ -635,7 +635,7 @@ from
 heterogen
 map
 m
-graf
+grave
 pm
 discov
 sequenc
@@ -1421,7 +1421,7 @@ of
 search
 will
 be
-discuss
+discus
 a
 well
 a
@@ -1829,7 +1829,7 @@ the
 area
 of
 wordbas
-analysi
+analys
 registr
 form
 mail

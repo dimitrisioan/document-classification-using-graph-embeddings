@@ -78,7 +78,7 @@ mammal
 do
 barney
 bear
-go
+goe
 to
 school
 do
@@ -272,7 +272,7 @@ mpc
 mix
 up
 mother
-goos
+goo
 dosmpc
 moneymoneymoney
 do

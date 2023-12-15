@@ -20,7 +20,7 @@ a
 maynstream
 q
 that
-us
+use
 dc
 tape
 i
@@ -61,7 +61,7 @@ tape
 anyth
 if
 possibl
-pleas
+plea
 includ
 price
 backup
@@ -73,7 +73,7 @@ opinion
 about
 the
 qualityreli
-pleas
+plea
 email
 ill
 send

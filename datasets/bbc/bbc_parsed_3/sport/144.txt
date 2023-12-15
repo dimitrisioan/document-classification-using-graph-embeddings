@@ -3,7 +3,7 @@ delight
 at
 euro
 progress
-bo
+bos
 graem
 souness
 felt
@@ -214,6 +214,6 @@ the
 same
 in
 futur
-pleas
+plea
 he
 said

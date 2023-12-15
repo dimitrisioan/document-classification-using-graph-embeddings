@@ -196,7 +196,7 @@ account
 in
 our
 name
-needl
+needle
 to
 say
 the
@@ -388,7 +388,7 @@ and
 urgenc
 it
 deserv
-pleas
+plea
 you
 should
 signifi

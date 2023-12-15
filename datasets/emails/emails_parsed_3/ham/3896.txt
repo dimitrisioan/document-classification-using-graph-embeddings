@@ -39,7 +39,7 @@ director
 osman
 sezgen
 manag
-pleas
+plea
 give
 me
 some

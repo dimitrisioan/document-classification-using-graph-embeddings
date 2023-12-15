@@ -1,7 +1,7 @@
 subject
 eprm
 houston
-pleas
+plea
 respond
 to
 dear
@@ -53,7 +53,7 @@ are
 be
 held
 there
-pleas
+plea
 book
 your
 accommod
@@ -110,7 +110,7 @@ and
 your
 speaker
 checklist
-pleas
+plea
 do
 so
 at

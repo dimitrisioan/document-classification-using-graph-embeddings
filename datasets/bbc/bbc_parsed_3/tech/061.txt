@@ -42,7 +42,7 @@ to
 monitor
 stock
 on
-shelf
+shelv
 or
 in
 warehous

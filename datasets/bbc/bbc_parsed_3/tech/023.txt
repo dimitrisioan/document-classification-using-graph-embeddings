@@ -167,7 +167,7 @@ turn
 to
 equip
 that
-us
+use
 laser
 to
 make
@@ -230,7 +230,7 @@ the
 form
 of
 laser
-puls
+pul
 the
 laser
 bridg

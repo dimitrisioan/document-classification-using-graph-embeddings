@@ -167,7 +167,7 @@ more
 cleverli
 it
 just
-go
+goe
 a
 a
 window
@@ -181,7 +181,7 @@ to
 vastli
 oversimplifi
 what
-go
+goe
 on
 we
 just
@@ -226,7 +226,7 @@ big
 white
 bitmap
 to
-eras
+era
 someth
 rather
 than

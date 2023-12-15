@@ -99,7 +99,7 @@ time
 decreas
 would
 you
-pleas
+plea
 defin
 nth
 deriv
@@ -241,7 +241,7 @@ u
 know
 with
 common
-sens
+sen
 the
 boom
 of
@@ -274,7 +274,7 @@ can
 be
 semant
 lindsey
-prof
+prove
 otherwis
 tax
 make

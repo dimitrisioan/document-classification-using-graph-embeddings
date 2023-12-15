@@ -22,7 +22,7 @@ need
 more
 file
 unit
-pleas
+plea
 order
 them
 the
@@ -48,11 +48,11 @@ follow
 cabinet
 should
 have
-shelf
+shelv
 cabinet
 should
 have
-shelf
+shelv
 when
 interstor
 wa
@@ -65,7 +65,7 @@ exist
 cabinet
 they
 remov
-shelf
+shelv
 that
 they
 are
@@ -76,7 +76,7 @@ on
 these
 new
 unit
-pleas
+plea
 price
 these
 new
@@ -87,7 +87,7 @@ them
 to
 co
 rc
-pleas
+plea
 let
 me
 the
@@ -104,6 +104,6 @@ if
 you
 need
 anyth
-els
+el
 thank
 anita

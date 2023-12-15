@@ -347,7 +347,7 @@ passer
 to
 complet
 their
-pa
+pas
 and
 make
 way
@@ -448,7 +448,7 @@ light
 or
 if
 all
-els
+el
 fail
 will
 briefli
@@ -470,7 +470,7 @@ faster
 vehicl
 tri
 to
-pa
+pas
 i
 feel
 it

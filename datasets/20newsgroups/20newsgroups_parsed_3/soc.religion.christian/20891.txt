@@ -18,7 +18,7 @@ a
 medic
 doctor
 who
-belief
+believ
 that
 a
 blood
@@ -105,7 +105,7 @@ is
 that
 the
 doctor
-belief
+believ
 it
 to
 be
@@ -248,7 +248,7 @@ intimid
 a
 refere
 my
-bo
+bos
 is
 a
 not

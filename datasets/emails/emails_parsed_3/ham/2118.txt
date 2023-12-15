@@ -29,7 +29,7 @@ number
 chang
 hi
 shirley
-pleas
+plea
 could
 you
 forward
@@ -56,7 +56,7 @@ enron
 europ
 gener
 announc
-pleas
+plea
 respond
 to
 european
@@ -127,7 +127,7 @@ on
 the
 old
 number
-pleas
+plea
 be
 awar
 that
@@ -163,7 +163,7 @@ s
 new
 switchboard
 number
-pleas
+plea
 ensur
 that
 your
@@ -326,7 +326,7 @@ you
 have
 ani
 question
-pleas
+plea
 contact
 european
 it

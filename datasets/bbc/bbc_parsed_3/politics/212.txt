@@ -1,4 +1,4 @@
-tori
+torus
 expert
 deni
 defeat
@@ -43,7 +43,7 @@ tri
 to
 increas
 the
-tori
+torus
 common
 presenc
 by

@@ -161,7 +161,7 @@ fall
 i
 take
 the
-curs
+cur
 of
 the
 ground

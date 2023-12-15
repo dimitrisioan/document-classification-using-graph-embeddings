@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 in
 articl
@@ -340,7 +340,7 @@ but
 in
 the
 ensu
-discuss
+discus
 you
 stray
 far

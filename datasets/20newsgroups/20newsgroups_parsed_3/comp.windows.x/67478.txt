@@ -72,7 +72,7 @@ in
 usrlibxxdmxdmconfig
 to
 succes
-pa
+pas
 the
 path
 variabl
@@ -81,9 +81,9 @@ i
 am
 have
 problem
-pass
+pas
 anyth
-els
+el
 i
 tri
 exec

@@ -449,7 +449,7 @@ the
 author
 pick
 two
-mediums
+medium
 citi
 to
 evalu
@@ -1247,7 +1247,7 @@ sinc
 the
 longstand
 antigun
-bia
+bias
 of
 the
 nejm
@@ -2206,7 +2206,7 @@ sound
 scientif
 analysisthat
 all
-els
+el
 is
 equal
 among
@@ -2653,7 +2653,7 @@ seattl
 and
 vancouv
 all
-els
+el
 is
 not
 equal

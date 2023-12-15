@@ -85,7 +85,7 @@ low
 correl
 repres
 what
-go
+goe
 on
 in
 the
@@ -201,7 +201,7 @@ commod
 do
 not
 make
-sens
+sen
 should
 we
 use
@@ -217,7 +217,7 @@ load
 do
 not
 make
-sens
+sen
 when
 the
 correl
@@ -924,7 +924,7 @@ are
 not
 captur
 correctli
-pleas
+plea
 let
 our
 it

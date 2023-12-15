@@ -75,14 +75,14 @@ real
 option
 at
 enron
-pleas
+plea
 give
 me
 your
 titl
 within
 enron
-pleas
+plea
 at
 d
 steven
@@ -274,7 +274,7 @@ to
 a
 profession
 autienc
-pleas
+plea
 give
 me
 a
@@ -334,7 +334,7 @@ come
 along
 if
 requir
-pleas
+plea
 could
 you
 send

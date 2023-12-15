@@ -42,7 +42,7 @@ in
 the
 usual
 uncrit
-sens
+sen
 and
 almost
 all
@@ -311,7 +311,7 @@ like
 a
 good
 first
-pa
+pas
 guess
 but
 it
@@ -543,7 +543,7 @@ own
 howev
 if
 everyon
-els
+el
 said
 the
 dial
@@ -667,7 +667,7 @@ actual
 firstli
 if
 everyon
-els
+el
 said
 the
 dial

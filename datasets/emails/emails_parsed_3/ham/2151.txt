@@ -47,7 +47,7 @@ pertain
 to
 your
 trip
-pleas
+plea
 print
 out
 a
@@ -114,7 +114,7 @@ m
 to
 p
 m
-pleas
+plea
 plan
 on
 arriv
@@ -159,7 +159,7 @@ the
 global
 technolog
 track
-pleas
+plea
 plan
 to
 arriv
@@ -191,7 +191,7 @@ your
 prefer
 airlin
 provid
-pleas
+plea
 schedul
 your
 flight
@@ -206,7 +206,7 @@ on
 monday
 octob
 th
-pleas
+plea
 rememb
 that
 there
@@ -231,7 +231,7 @@ prior
 to
 the
 event
-pleas
+plea
 make
 all
 flight
@@ -418,13 +418,13 @@ to
 keep
 in
 mind
-pleas
+plea
 rememb
 to
 dress
 busi
 casual
-pleas
+plea
 rememb
 to
 bring
@@ -445,7 +445,7 @@ global
 technolog
 track
 brochur
-pleas
+plea
 forward
 all
 expens

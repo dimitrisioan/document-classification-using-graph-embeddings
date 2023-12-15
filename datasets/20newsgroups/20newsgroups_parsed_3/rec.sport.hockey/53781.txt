@@ -345,12 +345,12 @@ seen
 make
 excel
 center
-pass
+pas
 a
 well
 a
 finish
-pass
+pas
 to
 him
 by
@@ -1424,7 +1424,7 @@ fight
 skill
 if
 noth
-els
+el
 hi
 rel
 small

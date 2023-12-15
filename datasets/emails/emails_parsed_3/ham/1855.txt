@@ -42,7 +42,7 @@ question
 gwyn
 no
 problem
-pleas
+plea
 continu
 with
 your
@@ -247,7 +247,7 @@ a
 dept
 doe
 not
-pleas
+plea
 let
 me
 know

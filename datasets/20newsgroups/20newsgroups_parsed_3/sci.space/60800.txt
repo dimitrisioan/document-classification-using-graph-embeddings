@@ -181,7 +181,7 @@ track
 gallileo
 a
 it
-pass
+pas
 the
 earth
 and

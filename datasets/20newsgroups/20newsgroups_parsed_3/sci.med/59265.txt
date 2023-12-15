@@ -33,7 +33,7 @@ when
 i
 go
 to
-chines
+chine
 place
 am
 i

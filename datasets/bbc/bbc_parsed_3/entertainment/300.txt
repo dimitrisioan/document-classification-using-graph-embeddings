@@ -476,7 +476,7 @@ whether
 someth
 is
 a
-pass
+pas
 phase
 or
 a

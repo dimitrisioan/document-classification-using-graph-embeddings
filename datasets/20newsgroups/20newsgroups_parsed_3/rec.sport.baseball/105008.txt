@@ -15,7 +15,7 @@ ballclub
 list
 if
 so
-pleas
+plea
 send
 me
 inform

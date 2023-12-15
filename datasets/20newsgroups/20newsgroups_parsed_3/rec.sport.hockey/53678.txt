@@ -235,7 +235,7 @@ and
 one
 guy
 just
-pass
+pas
 and
 stop
 the

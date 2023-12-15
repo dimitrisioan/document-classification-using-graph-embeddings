@@ -94,7 +94,7 @@ gaza
 strip
 doe
 not
-poss
+posse
 the
 highest
 popul
@@ -147,7 +147,7 @@ of
 numer
 citi
 also
-poss
+posse
 compar
 if
 not

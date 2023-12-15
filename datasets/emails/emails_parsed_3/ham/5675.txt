@@ -52,7 +52,7 @@ super
 saturday
 interview
 beth
-pleas
+plea
 let
 me
 know
@@ -359,7 +359,7 @@ later
 than
 friday
 morn
-pleas
+plea
 let
 u
 know

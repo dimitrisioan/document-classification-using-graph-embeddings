@@ -2,7 +2,7 @@ subject
 vinc
 kaminski
 s
-discuss
+discus
 note
 for
 the
@@ -13,10 +13,10 @@ manag
 meet
 januari
 attach
-pleas
+plea
 find
 the
-discuss
+discus
 note
 for
 the
@@ -33,7 +33,7 @@ ani
 question
 or
 comment
-pleas
+plea
 let
 me
 know

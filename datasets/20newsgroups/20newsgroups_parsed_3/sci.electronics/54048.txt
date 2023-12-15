@@ -186,7 +186,7 @@ cc
 tafc
 spokan
 wa
-ii
+iis
 cc
 uucp
 uunetiscbrjimc

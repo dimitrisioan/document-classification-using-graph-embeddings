@@ -102,7 +102,7 @@ home
 intrud
 mugger
 rabid
-wolf
+wolv
 and
 other
 such
@@ -271,7 +271,7 @@ weapon
 you
 list
 abov
-pleas
+plea
 read
 the
 federalist

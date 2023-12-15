@@ -120,7 +120,7 @@ when
 trigger
 the
 output
-go
+goe
 low
 and
 stay

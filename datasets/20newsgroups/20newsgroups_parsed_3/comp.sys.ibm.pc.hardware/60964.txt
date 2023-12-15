@@ -77,7 +77,7 @@ price
 if
 anybodi
 respond
-pleas
+plea
 send
 me
 email

@@ -109,7 +109,7 @@ pc
 are
 recruit
 use
-viru
+virus
 and
 worm
 that

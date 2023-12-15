@@ -187,7 +187,7 @@ to
 anoth
 rice
 student
-pleas
+plea
 let
 me
 know
@@ -310,7 +310,7 @@ of
 rice
 univers
 student
-pleas
+plea
 feel
 free
 to
@@ -320,7 +320,7 @@ directli
 to
 pursu
 thi
-discuss
+discus
 a
 i
 realiz
@@ -388,7 +388,7 @@ imakne
 rice
 edu
 also
-pleas
+plea
 feel
 free
 to

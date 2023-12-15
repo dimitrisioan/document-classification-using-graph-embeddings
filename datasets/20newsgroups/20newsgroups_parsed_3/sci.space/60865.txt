@@ -5,7 +5,7 @@ mission
 name
 mark
 prado
-pleas
+plea
 go
 just
 one
@@ -28,7 +28,7 @@ the
 s
 or
 so
-go
+goe
 a
 follow
 in

@@ -3,7 +3,7 @@ enron
 medium
 advertis
 simon
-pleas
+plea
 forward
 a
 copi
@@ -34,13 +34,13 @@ today
 and
 i
 am
-pleas
+plea
 that
 you
 are
 interest
 in
-discuss
+discus
 thi
 opportun
 in
@@ -57,7 +57,7 @@ have
 ani
 question
 a
-discuss
+discus
 the
 enron
 medium
@@ -203,7 +203,7 @@ th
 pm
 to
 further
-discu
+discus
 the
 develop
 of

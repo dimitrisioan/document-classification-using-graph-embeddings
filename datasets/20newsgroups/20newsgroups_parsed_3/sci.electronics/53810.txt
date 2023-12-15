@@ -116,7 +116,7 @@ to
 get
 the
 second
-puls
+pul
 there
 need
 to
@@ -139,7 +139,7 @@ to
 get
 a
 second
-puls
+pul
 there
 need
 to
@@ -179,7 +179,7 @@ thi
 would
 give
 a
-puls
+pul
 of
 approxim
 of

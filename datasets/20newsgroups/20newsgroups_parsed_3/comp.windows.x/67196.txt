@@ -42,7 +42,7 @@ problem
 is
 that
 motif
-us
+use
 xgrabkey
 to
 implement

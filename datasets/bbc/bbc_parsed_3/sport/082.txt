@@ -211,7 +211,7 @@ dope
 test
 the
 same
-go
+goe
 for
 thanou
 kenteriss
@@ -340,7 +340,7 @@ thi
 ordeal
 that
 ha
-expos
+expo
 both
 himself
 and

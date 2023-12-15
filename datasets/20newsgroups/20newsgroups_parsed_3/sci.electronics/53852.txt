@@ -87,7 +87,7 @@ light
 ultraviolet
 by
 definit
-go
+goe
 from
 the
 blue
@@ -127,7 +127,7 @@ easili
 sinc
 it
 your
-len
+lens
 that
 soak
 up

@@ -223,7 +223,7 @@ for
 global
 risk
 manag
-pleas
+plea
 join
 u
 in

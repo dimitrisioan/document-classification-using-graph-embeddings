@@ -39,7 +39,7 @@ rifl
 base
 in
 brunei
-discuss
+discus
 have
 begun
 with

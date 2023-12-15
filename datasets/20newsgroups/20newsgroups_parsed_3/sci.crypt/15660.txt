@@ -42,7 +42,7 @@ i
 agre
 with
 thi
-assess
+ass
 furthermor
 it
 promot
@@ -60,7 +60,7 @@ a
 far
 a
 it
-go
+goe
 howev
 the
 onli
@@ -247,7 +247,7 @@ weapon
 a
 the
 nyt
-us
+use
 the
 word
 is

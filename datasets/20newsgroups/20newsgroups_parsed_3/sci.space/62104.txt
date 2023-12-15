@@ -539,7 +539,7 @@ arrang
 for
 launcher
 all
-go
+goe
 to
 launcher
 hsthat
@@ -923,7 +923,7 @@ in
 the
 unit
 state
-pleas
+plea
 thank
 for
 your

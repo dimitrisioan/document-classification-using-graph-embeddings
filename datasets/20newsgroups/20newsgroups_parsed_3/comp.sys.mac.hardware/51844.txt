@@ -51,7 +51,7 @@ and
 main
 softwar
 use
-pleas
+plea
 let
 me
 know

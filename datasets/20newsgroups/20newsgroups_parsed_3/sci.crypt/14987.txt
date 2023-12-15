@@ -138,7 +138,7 @@ all
 then
 i
 wrote
-pleas
+plea
 note
 that
 a
@@ -181,7 +181,7 @@ simpli
 start
 use
 longer
-modulu
+modulus
 and
 still
 be
@@ -220,7 +220,7 @@ becaus
 even
 if
 bit
-modulu
+modulus
 somehow
 could
 be
@@ -239,7 +239,7 @@ would
 simpli
 use
 longer
-modulu
+modulus
 both
 user
 and
@@ -265,7 +265,7 @@ sig
 close
 for
 inventori
-pleas
+plea
 leav
 your
 pickax

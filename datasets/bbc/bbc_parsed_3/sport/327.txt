@@ -7,7 +7,7 @@ franc
 centr
 philipp
 sella
-belief
+believ
 coach
 bernard
 laport
@@ -185,7 +185,7 @@ insist
 the
 pressur
 had
-eas
+ea
 on
 the
 underfir
@@ -376,7 +376,7 @@ franc
 play
 what
 sella
-belief
+believ
 is
 their
 hardest

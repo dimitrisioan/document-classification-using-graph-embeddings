@@ -46,7 +46,7 @@ done
 without
 first
 be
-cleans
+clean
 by
 the
 blood

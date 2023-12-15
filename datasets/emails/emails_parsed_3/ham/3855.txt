@@ -55,7 +55,7 @@ subject
 charm
 confer
 call
-pleas
+plea
 let
 me
 know
@@ -73,7 +73,7 @@ a
 m
 through
 lunch
-pleas
+plea
 advis
 forward
 by
@@ -124,7 +124,7 @@ prefer
 am
 if
 possibl
-pleas
+plea
 let
 me
 know
@@ -160,7 +160,7 @@ not
 the
 intend
 recipi
-pleas
+plea
 destroy
 thi
 messag

@@ -115,7 +115,7 @@ realli
 two
 option
 be
-discuss
+discus
 right
 now
 neither

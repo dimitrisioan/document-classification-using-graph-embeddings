@@ -42,7 +42,7 @@ data
 to
 get
 start
-pleas
+plea
 click
 the
 link

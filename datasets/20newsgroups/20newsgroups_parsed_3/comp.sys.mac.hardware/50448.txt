@@ -7,7 +7,7 @@ control
 wasr
 appl
 keyboard
-pleas
+plea
 excus
 and
 redirect

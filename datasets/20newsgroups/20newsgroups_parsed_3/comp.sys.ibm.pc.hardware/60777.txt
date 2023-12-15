@@ -30,7 +30,7 @@ the
 card
 the
 sb
-us
+use
 bit
 dma
 chann
@@ -48,7 +48,7 @@ i
 ever
 instal
 that
-us
+use
 bit
 dma
 transfer

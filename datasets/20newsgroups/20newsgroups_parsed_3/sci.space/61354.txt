@@ -40,7 +40,7 @@ gener
 circl
 given
 by
-bats
+bat
 and
 we
 can
@@ -90,7 +90,7 @@ the
 direct
 inform
 from
-bats
+bat
 just
 look
 at

@@ -110,7 +110,7 @@ doubl
 check
 is
 unit
-pleas
+plea
 make
 sure
 that
@@ -226,7 +226,7 @@ it
 is
 difficult
 to
-ass
+as
 the
 actual
 chang

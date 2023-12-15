@@ -218,7 +218,7 @@ reform
 welfar
 state
 the
-tori
+torus
 are
 tri
 to

@@ -13,7 +13,7 @@ for
 defam
 against
 balco
-bo
+bos
 victor
 cont
 follow
@@ -125,7 +125,7 @@ said
 the
 sprinter
 had
-pass
+pas
 a
 lie
 detector
@@ -220,7 +220,7 @@ to
 take
 and
 then
-pass
+pas
 a
 lie
 detector
@@ -245,7 +245,7 @@ procedur
 that
 marion
 jone
-pass
+pas
 the
 sport
 rule

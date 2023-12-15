@@ -45,7 +45,7 @@ easili
 take
 advantag
 of
-expos
+expo
 event
 redraw
 optim

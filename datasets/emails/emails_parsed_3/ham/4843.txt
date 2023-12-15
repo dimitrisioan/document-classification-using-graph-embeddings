@@ -65,7 +65,7 @@ london
 research
 group
 richard
-pleas
+plea
 let
 me
 know
@@ -217,7 +217,7 @@ group
 here
 it
 make
-sens
+sen
 to
 includ
 thi
@@ -382,7 +382,7 @@ want
 to
 reinforc
 how
-pleas
+plea
 we
 are
 to
@@ -647,7 +647,7 @@ feedback
 ha
 greatli
 improv
-pleas
+plea
 let
 me
 know

@@ -93,7 +93,7 @@ close
 the
 scottish
 execut
-belief
+believ
 that
 the
 legisl
@@ -173,7 +173,7 @@ nation
 parti
 and
 the
-tori
+torus
 say
 the
 issu

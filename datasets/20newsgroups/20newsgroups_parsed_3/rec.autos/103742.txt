@@ -252,7 +252,7 @@ local
 groceri
 store
 that
-us
+use
 an
 xband
 radar

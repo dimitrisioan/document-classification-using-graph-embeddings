@@ -99,7 +99,7 @@ to
 receiv
 further
 mail
-pleas
+plea
 click
 here
 to
@@ -108,7 +108,7 @@ remov
 from
 the
 list
-pleas
+plea
 accept
 our
 apolog

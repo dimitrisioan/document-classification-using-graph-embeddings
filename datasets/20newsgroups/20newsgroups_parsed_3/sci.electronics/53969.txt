@@ -41,7 +41,7 @@ then
 if
 they
 are
-expos
+expo
 to
 ir
 light
@@ -72,7 +72,7 @@ in
 australia
 could
 someon
-pleas
+plea
 inform
 me
 if

@@ -247,7 +247,7 @@ you
 read
 my
 direct
-pleas
+plea
 be
 advis
 that
@@ -263,7 +263,7 @@ thibaut
 ha
 absolut
 no
-sens
+sen
 of
 direct
 direct
@@ -344,7 +344,7 @@ slightli
 to
 the
 right
-pa
+pas
 over
 speed
 bump
@@ -433,7 +433,7 @@ slightli
 to
 the
 right
-pa
+pas
 over
 speed
 bump

@@ -16,7 +16,7 @@ at
 carnegi
 mellon
 is
-pleas
+plea
 to
 announc
 aui
@@ -464,7 +464,7 @@ andrew
 messag
 system
 to
-brows
+brow
 through
 a
 few

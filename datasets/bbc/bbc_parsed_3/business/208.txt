@@ -4,7 +4,7 @@ buy
 stake
 in
 sina
-chines
+chine
 onlin
 game
 oper
@@ -262,7 +262,7 @@ take
 control
 of
 a
-chines
+chine
 internet
 portal
 firm
@@ -272,7 +272,7 @@ abil
 to
 filter
 and
-pa
+pas
 on
 news
 may

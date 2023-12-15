@@ -105,7 +105,7 @@ ani
 pair
 of
 key
-half
+halv
 if
 he
 can

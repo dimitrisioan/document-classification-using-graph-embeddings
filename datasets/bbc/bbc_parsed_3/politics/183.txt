@@ -2,7 +2,7 @@ former
 ni
 minist
 scott
-dy
+die
 former
 northern
 ireland
@@ -198,7 +198,7 @@ by
 polic
 dure
 the
-tori
+torus
 parti
 confer
 in
@@ -244,7 +244,7 @@ of
 cabinet
 minist
 and
-tori
+torus
 backbench
 the
 euroscept

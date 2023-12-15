@@ -234,7 +234,7 @@ the
 fizzydrink
 vendor
 who
-els
+el
 might
 be
 interest

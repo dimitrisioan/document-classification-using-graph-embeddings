@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 help
 my
 child
@@ -60,7 +60,7 @@ want
 i
 will
 be
-pleas
+plea
 thi
 is
 my
@@ -86,7 +86,7 @@ are
 a
 father
 then
-pleas
+plea
 thi
 is
 my
@@ -119,7 +119,7 @@ and
 good
 bless
 you
-pleas
+plea
 help
 my
 boy

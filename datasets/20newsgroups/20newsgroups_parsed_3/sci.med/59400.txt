@@ -8,7 +8,7 @@ articl
 write
 mail
 subject
-pleas
+plea
 help
 dear
 ladi

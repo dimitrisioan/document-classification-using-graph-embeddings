@@ -182,7 +182,7 @@ to
 eat
 if
 someon
-els
+el
 will
 provid
 you
@@ -414,7 +414,7 @@ peopl
 should
 use
 common
-sens
+sen
 they
 should
 not
@@ -481,7 +481,7 @@ matur
 decis
 for
 them
-self
+selv
 they
 no
 longer
@@ -720,7 +720,7 @@ activ
 sought
 end
 seriou
-discuss
+discus
 begin
 humor
 save
@@ -771,7 +771,7 @@ organ
 return
 to
 seriou
-discuss
+discus
 when
 post
 followup

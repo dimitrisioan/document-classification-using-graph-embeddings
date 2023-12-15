@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 read
 newslett
 regard
@@ -653,7 +653,7 @@ that
 express
 or
 involv
-discuss
+discus
 with
 respect
 to
@@ -743,7 +743,7 @@ expect
 will
 anticip
 estim
-belief
+believ
 understand
 or
 that
@@ -1194,7 +1194,7 @@ rocket
 sto
 ck
 report
-belief
+believ
 thi
 inform
 to

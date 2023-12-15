@@ -124,7 +124,7 @@ subject
 re
 peoplefind
 feedback
-pleas
+plea
 confrim
 that
 you
@@ -135,7 +135,7 @@ for
 shalesh
 ganjoo
 also
-pleas
+plea
 send
 an
 updat
@@ -235,7 +235,7 @@ to
 chang
 supervisor
 name
-pleas
+plea
 work
 with
 your
@@ -278,7 +278,7 @@ md
 stinson
 s
 supervisor
-pleas
+plea
 correct
 thi
 immedi

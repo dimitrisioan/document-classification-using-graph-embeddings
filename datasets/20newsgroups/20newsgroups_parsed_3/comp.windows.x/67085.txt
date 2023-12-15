@@ -6,7 +6,7 @@ and
 sparc
 keyboard
 hi
-pleas
+plea
 repli
 to
 me
@@ -26,7 +26,7 @@ new
 to
 x
 so
-pleas
+plea
 excus
 my
 lax
@@ -173,7 +173,7 @@ new
 background
 on
 a
-perus
+peru
 basi
 a
 part

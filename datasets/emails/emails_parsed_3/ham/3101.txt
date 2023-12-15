@@ -3,7 +3,7 @@ wti
 new
 eol
 product
-pleas
+plea
 provid
 comment
 on
@@ -26,7 +26,7 @@ john
 jeff
 and
 anyon
-els
+el
 involv
 the
 follow

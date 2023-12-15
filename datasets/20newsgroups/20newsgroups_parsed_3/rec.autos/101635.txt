@@ -180,7 +180,7 @@ they
 are
 use
 or
-els
+el
 dont
 speed
 photo
@@ -190,7 +190,7 @@ mail
 ticket
 make
 no
-sens
+sen
 at
 all
 speed

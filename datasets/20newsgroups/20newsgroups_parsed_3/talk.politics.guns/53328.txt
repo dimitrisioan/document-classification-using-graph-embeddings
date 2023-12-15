@@ -72,7 +72,7 @@ sourc
 nation
 safeti
 council
-pleas
+plea
 no
 dictionari
 argument
@@ -108,7 +108,7 @@ made
 no
 such
 claim
-pleas
+plea
 direct
 my
 attent
@@ -257,7 +257,7 @@ debat
 style
 jim
 anyth
-els
+el
 is
 blow
 smoke

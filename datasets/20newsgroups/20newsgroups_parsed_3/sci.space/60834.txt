@@ -246,7 +246,7 @@ chang
 steve
 emmett
 p
-pleas
+plea
 send
 ani
 question
@@ -374,7 +374,7 @@ to
 meet
 and
 have
-discuss
+discus
 with
 famou
 aviat
@@ -615,7 +615,7 @@ you
 requir
 addit
 inform
-pleas
+plea
 do
 not
 hesit

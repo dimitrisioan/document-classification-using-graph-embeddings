@@ -355,7 +355,7 @@ four
 limb
 amput
 parar
-us
+use
 a
 vauxhal
 astra
@@ -459,7 +459,7 @@ in
 hill
 climb
 she
-us
+use
 an
 ordinari
 road

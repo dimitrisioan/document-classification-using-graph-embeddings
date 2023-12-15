@@ -70,7 +70,7 @@ m
 window
 world
 thank
-pleas
+plea
 includ
 thi
 messag

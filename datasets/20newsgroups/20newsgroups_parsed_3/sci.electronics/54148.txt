@@ -99,7 +99,7 @@ the
 other
 seem
 to
-loos
+loo
 me
 what
 are
@@ -314,7 +314,7 @@ in
 steppedup
 or
 steppeddown
-puls
+pul
 out
 the
 secondari
@@ -357,7 +357,7 @@ control
 by
 vari
 the
-puls
+pul
 width
 the
 amount

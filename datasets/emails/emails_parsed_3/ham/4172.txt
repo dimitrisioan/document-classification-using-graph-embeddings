@@ -2,7 +2,7 @@ subject
 ng
 price
 margaret
-pleas
+plea
 find
 attach
 texa
@@ -187,7 +187,7 @@ you
 agre
 with
 me
-pleas
+plea
 ask
 elena
 to

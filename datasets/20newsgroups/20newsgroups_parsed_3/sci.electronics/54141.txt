@@ -89,7 +89,7 @@ program
 tend
 to
 get
-pass
+pas
 on
 resplend
 in
@@ -530,7 +530,7 @@ if
 the
 origin
 disk
-go
+goe
 bad
 theyr
 out

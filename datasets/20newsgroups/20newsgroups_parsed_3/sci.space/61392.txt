@@ -17,7 +17,7 @@ power
 of
 the
 optic
-bats
+bat
 is
 an
 altogeth
@@ -86,7 +86,7 @@ to
 do
 thi
 what
-bats
+bat
 actual
 doe
 is

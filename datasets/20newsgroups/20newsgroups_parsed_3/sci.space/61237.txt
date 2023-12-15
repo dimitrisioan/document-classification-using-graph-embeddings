@@ -194,7 +194,7 @@ say
 ani
 reason
 indepth
-perus
+peru
 of
 american
 histori

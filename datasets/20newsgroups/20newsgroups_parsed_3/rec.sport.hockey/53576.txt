@@ -4,7 +4,7 @@ goali
 mask
 my
 vote
-go
+goe
 to
 john
 vanbiesbrouck

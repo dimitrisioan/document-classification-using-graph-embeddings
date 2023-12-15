@@ -138,7 +138,7 @@ a
 better
 medic
 treatment
-els
+el
 where
 in
 europ
@@ -180,7 +180,7 @@ million
 unit
 state
 dollar
-pleas
+plea
 i
 want
 you

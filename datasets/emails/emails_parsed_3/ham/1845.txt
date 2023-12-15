@@ -63,7 +63,7 @@ week
 if
 you
 could
-pleas
+plea
 give
 me
 some
@@ -146,7 +146,7 @@ thi
 email
 in
 error
-pleas
+plea
 notifi
 the
 system
@@ -169,4 +169,4 @@ the
 presenc
 of
 comput
-viru
+virus

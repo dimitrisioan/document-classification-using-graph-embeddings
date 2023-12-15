@@ -196,7 +196,7 @@ govern
 in
 cairo
 now
-belief
+believ
 mr
 sharon
 is
@@ -215,7 +215,7 @@ wing
 group
 it
 also
-belief
+believ
 the
 u
 press

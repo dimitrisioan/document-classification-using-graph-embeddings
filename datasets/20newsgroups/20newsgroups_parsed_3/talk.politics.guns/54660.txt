@@ -135,7 +135,7 @@ a
 far
 a
 carri
-go
+goe
 one
 state
 dont
@@ -169,7 +169,7 @@ virginia
 and
 the
 law
-pass
+pas
 i
 respect
 the
@@ -223,7 +223,7 @@ weapon
 at
 random
 so
-pleas
+plea
 explain
 how
 i

@@ -758,7 +758,7 @@ onli
 further
 cloud
 the
-assess
+ass
 of
 financi
 viabil
@@ -1004,7 +1004,7 @@ and
 even
 discourag
 of
-divers
+diver
 suppli
 portfolio
 among
@@ -1031,7 +1031,7 @@ now
 is
 in
 one
-sens
+sen
 a
 sub
 optim
@@ -1125,7 +1125,7 @@ or
 frozen
 retail
 rate
-expos
+expo
 custom
 to
 at
@@ -1282,7 +1282,7 @@ shift
 sinc
 juli
 onli
-serf
+serv
 to
 undermin
 confid

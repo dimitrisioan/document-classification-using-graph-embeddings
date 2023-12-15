@@ -224,7 +224,7 @@ major
 factor
 behind
 the
-ks
+kse
 perform
 analyst
 argu
@@ -420,7 +420,7 @@ benazir
 bhutto
 husband
 ha
-eas
+ea
 polit
 tension
 between

@@ -26,7 +26,7 @@ a
 philip
 dt
 which
-us
+use
 a
 soni
 trinitron

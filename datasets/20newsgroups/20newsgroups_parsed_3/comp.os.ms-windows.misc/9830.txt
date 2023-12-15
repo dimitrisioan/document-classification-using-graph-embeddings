@@ -254,7 +254,7 @@ in
 a
 veri
 true
-sens
+sen
 so
 practic
 safe
@@ -652,7 +652,7 @@ subsystem
 data
 or
 anyth
-els
+el
 if
 i
 were

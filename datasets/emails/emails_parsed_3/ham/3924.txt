@@ -84,7 +84,7 @@ copi
 from
 our
 comput
-pleas
+plea
 let
 u
 know
@@ -136,7 +136,7 @@ on
 the
 telephon
 convers
-pleas
+plea
 see
 the
 attach
@@ -668,7 +668,7 @@ copi
 per
 minut
 machin
-pleas
+plea
 call
 me
 with
@@ -750,7 +750,7 @@ messag
 of
 thi
 kind
-pleas
+plea
 advis
 u
 immedi

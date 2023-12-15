@@ -41,7 +41,7 @@ he
 ha
 enough
 common
-sens
+sen
 to
 identifi
 the
@@ -139,7 +139,7 @@ interest
 in
 enron
 he
-life
+live
 current
 in
 california
@@ -217,7 +217,7 @@ stanford
 edu
 on
 am
-pleas
+plea
 respond
 to
 hoshino
@@ -376,7 +376,7 @@ my
 wife
 s
 father
-pass
+pas
 away
 recent
 and
@@ -467,7 +467,7 @@ custom
 better
 than
 averag
-pleas
+plea
 contact
 me
 ani

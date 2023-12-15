@@ -145,7 +145,7 @@ economist
 hire
 gwyn
 ye
-pleas
+plea
 go
 ahead
 and

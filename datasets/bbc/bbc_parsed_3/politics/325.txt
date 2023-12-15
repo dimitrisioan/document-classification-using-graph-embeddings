@@ -263,7 +263,7 @@ a
 deal
 with
 the
-tori
+torus
 in
 europ
 rather
@@ -289,7 +289,7 @@ accus
 are
 like
 hi
-sens
+sen
 of
 polit
 moral

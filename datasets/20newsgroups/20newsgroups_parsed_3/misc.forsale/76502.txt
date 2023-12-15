@@ -6,7 +6,7 @@ just
 make
 offer
 someon
-pleas
+plea
 buy
 these
 book

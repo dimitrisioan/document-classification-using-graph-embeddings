@@ -222,7 +222,7 @@ landman
 to
 more
 quickli
-leas
+lea
 and
 instal
 the
@@ -283,7 +283,7 @@ access
 to
 thi
 data
-pleas
+plea
 forward
 respons
 directli

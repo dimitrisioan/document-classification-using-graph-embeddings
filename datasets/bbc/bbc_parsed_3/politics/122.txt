@@ -1,4 +1,4 @@
-tori
+torus
 plan
 migrant
 health
@@ -410,7 +410,7 @@ the
 govern
 say
 the
-tori
+torus
 are
 a
 bit
@@ -512,7 +512,7 @@ is
 play
 and
 histori
-prof
+prove
 it
 is
 a

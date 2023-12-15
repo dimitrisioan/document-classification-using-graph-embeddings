@@ -129,7 +129,7 @@ ivoir
 nou
 voulon
 prendr
-possess
+posse
 de
 cet
 argent
@@ -211,7 +211,7 @@ remettr
 si
 tout
 se
-pass
+pas
 comm
 prvu
 vou
@@ -261,7 +261,7 @@ souhait
 que
 tout
 se
-pass
+pas
 vite
 car
 le

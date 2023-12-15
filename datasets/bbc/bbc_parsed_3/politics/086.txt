@@ -41,7 +41,7 @@ extend
 it
 but
 the
-tori
+torus
 leader
 argu
 there
@@ -214,7 +214,7 @@ the
 qualiti
 of
 peopl
-life
+live
 a
 they
 grow

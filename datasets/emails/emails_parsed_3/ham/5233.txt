@@ -70,7 +70,7 @@ thyristor
 and
 custom
 high
-puls
+pul
 power
 rate
 devic
@@ -429,7 +429,7 @@ com
 enron
 credit
 feel
-expos
+expo
 if
 you
 are
@@ -857,7 +857,7 @@ to
 the
 enron
 tent
-pass
+pas
 to
 the
 practic

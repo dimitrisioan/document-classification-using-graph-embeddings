@@ -125,7 +125,7 @@ for
 most
 gener
 purpos
-us
+use
 and
 have
 a

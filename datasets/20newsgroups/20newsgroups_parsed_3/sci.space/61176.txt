@@ -37,7 +37,7 @@ it
 would
 cook
 the
-focu
+focus
 element
 question
 whi
@@ -91,7 +91,7 @@ itself
 could
 not
 be
-expos
+expo
 to
 venuslevel
 sunlight

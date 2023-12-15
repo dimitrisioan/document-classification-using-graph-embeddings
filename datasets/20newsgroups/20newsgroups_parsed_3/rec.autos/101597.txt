@@ -4,7 +4,7 @@ toyota
 wagon
 in
 articl
-ru
+rus
 brown
 write
 in
@@ -36,7 +36,7 @@ their
 design
 no
 aesthet
-sens
+sen
 at
 all
 the

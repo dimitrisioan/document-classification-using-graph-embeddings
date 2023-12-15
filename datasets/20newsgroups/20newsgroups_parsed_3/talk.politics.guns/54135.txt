@@ -160,7 +160,7 @@ a
 effect
 a
 firearm
-pleas
+plea
 name
 them
 the
@@ -392,7 +392,7 @@ in
 a
 veri
 real
-sens
+sen
 everyth
 the
 govern
@@ -668,7 +668,7 @@ the
 night
 the
 rkba
-dy
+die
 emot
 is
 hard

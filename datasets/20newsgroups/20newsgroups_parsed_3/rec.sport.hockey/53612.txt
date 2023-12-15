@@ -168,7 +168,7 @@ jam
 houdini
 magician
 skriko
-wolf
+wolv
 recsporthockey
 choic
 buffalo
@@ -576,7 +576,7 @@ great
 scott
 widefield
 white
-wolf
+wolv
 the
 ice
 hole

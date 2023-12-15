@@ -41,7 +41,7 @@ research
 when
 hi
 current
-bo
+bos
 is
 readi
 to
@@ -103,7 +103,7 @@ copi
 of
 my
 resum
-pleas
+plea
 let
 me
 know

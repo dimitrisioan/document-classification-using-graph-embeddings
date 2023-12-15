@@ -69,7 +69,7 @@ build
 and
 inject
 toxic
-ga
+gase
 into
 the
 build
@@ -125,7 +125,7 @@ pepsi
 coke
 or
 anyth
-els
+el
 but
 you
 cant

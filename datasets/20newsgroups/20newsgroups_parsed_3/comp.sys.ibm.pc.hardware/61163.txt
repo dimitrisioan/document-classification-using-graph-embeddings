@@ -92,6 +92,6 @@ thi
 doe
 not
 make
-sens
+sen
 scott
 linn

@@ -4,7 +4,7 @@ paper
 dr
 kaminski
 attach
-pleas
+plea
 find
 a
 copi

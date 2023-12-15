@@ -16,7 +16,7 @@ where
 we
 want
 it
-pleas
+plea
 use
 the
 file
@@ -141,7 +141,7 @@ subject
 oper
 strateg
 plan
-pleas
+plea
 use
 the
 budget
@@ -365,7 +365,7 @@ know
 question
 will
 aris
-pleas
+plea
 feel
 free
 to

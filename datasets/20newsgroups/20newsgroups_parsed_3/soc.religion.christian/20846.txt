@@ -44,7 +44,7 @@ express
 a
 rather
 odd
-sens
+sen
 of
 histori
 what

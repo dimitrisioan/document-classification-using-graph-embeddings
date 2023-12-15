@@ -1,10 +1,12 @@
 from gensim.models.doc2vec import Doc2Vec
 import time
 from matplotlib import pyplot as plt
+from sklearn.linear_model import LogisticRegression
 from sklearn.manifold import TSNE
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score, precision_score, confusion_matrix, classification_report
 import os
 import pandas as pd
 from gensim.models import Word2Vec
@@ -18,134 +20,135 @@ load_save_path = load_save_results(prefix, choice)
 start_time = time.time()
 
 
-def preprocess_text(text, remove_headers=False, remove_stopwords=False, lemmatization=False, stemming=False):
-    # Remove headers for 20newsgroups dataset
-    lines = text.split('\n')
-    if remove_headers:
-        # Skip the first 3 lines (headers)
-        lines = lines[3:]
-    text = '\n'.join(lines)
-    # print(text)
-    # Remove urls and emails
-    text = re.sub(r'http\S+|www\S+|\S+@\S+', '', text)
-    # Remove punctuation
-    text = text.translate(str.maketrans('', '', string.punctuation))
-    # Remove digits
-    text = re.sub(r'\d', '', text)
-    # Lowercase text
-    text = text.lower()
-    # tokenize text
-    words = word_tokenize(text)
-    # Remove stopwords
-    if remove_stopwords:
-        stop_words = set(stopwords.words('english'))
-        words = [word for word in words if word.lower() not in stop_words]
-    # Lemmatization
-    if lemmatization:
-        lemmatizer = WordNetLemmatizer()
-        words = [lemmatizer.lemmatize(word) for word in words]
-    # Stemming
-    if stemming:
-        stemmer = PorterStemmer()
-        words = [stemmer.stem(word) for word in words]
+def calculate_doc_embedding(model, preprocessed_text):
+    # Calculate document embedding based on chosen model
+    embeddings = []
+    skipped_words = []
 
-    return words
+    if isinstance(model, Word2Vec) or isinstance(model, Doc2Vec):
+        for word in preprocessed_text:
+            try:
+                if word in model.wv.key_to_index:
+                    embeddings.append(model.wv[word])
+                else:
+                    skipped_words.append(word)
+            except KeyError:
+                skipped_words.append(word)
+
+        if len(embeddings) > 0:
+            document_embedding = sum(embeddings) / len(embeddings)
+            document_embedding = document_embedding.reshape(1, -1)
+        else:
+            print('No word found in the document!')
+
+        return document_embedding, skipped_words
 
 
 if __name__ == '__main__':
-    # Load the Doc2Vec model from the corresponding dataset directory
-    model = Doc2Vec.load(os.path.join(load_save_path, f'{prefix}_doc2vec'))
+    while True:
+        try:
+            choose_model = int(input('1 - Word2Vec\n'
+                                     '2 - Doc2Vec\n'
+                                     '3 - Node2Vec\n'
+                                     'Choose a model: '))
+            if choose_model in [1, 2, 3]:
+                break
+            else:
+                print("Please enter a valid option (1, 2, or 3).")
+        except ValueError:
+            print("Please enter a valid number (1, 2, or 3).")
 
-    # model = Doc2Vec.load("../document-classification-using-graph-embeddings/doc2vec_models/doc2vec.model")
+    if choose_model == 1:
+        model = Word2Vec.load(os.path.join(load_save_path, f'{prefix}_word2vec'))
+        df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_word2vec.csv'))
+    elif choose_model == 2:
+        model = Doc2Vec.load(os.path.join(load_save_path, f'{prefix}_doc2vec'))
+        df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_doc2vec.csv'))
+    elif choose_model == 3:
+        model = Word2Vec.load(os.path.join(load_save_path, f'{prefix}_node2vec'))
+        df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_node2vec.csv'))
 
-    df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_doc2vec.csv'))
+    total_words_model = len(model.wv.key_to_index)
+    print(f"Total words in model's vocabulary: {total_words_model}")
 
     # Convert the embeddings column from string to list of floats
     X = df['embedding'].apply(lambda x: np.fromstring(x[1:-1], sep=',')).tolist()
     y = df['category'].tolist()
-    print(type(X))
-    print(type(y))
-
-    print(X[0:3])
-    print(y[0:3])
-    # unique_categories = []
-    # for cat in y:
-    #     if cat not in unique_categories:
-    #         unique_categories.append(cat)
-    # for cat in unique_categories:
-    #     print(cat)
-
-    print(len(X))
-    print(len(y))
 
     # Split data into training and test sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    classifier = SVC(kernel='linear', C=1.0, random_state=42)
-    classifier.fit(X_train, y_train)
+    # Train Logistic Regression classifier
+    model_logreg = LogisticRegression(max_iter=1000)
+    model_logreg.fit(X_train, y_train)
 
-    y_pred = classifier.predict(X_test)
+    # Predict the categories of the test data
+    y_pred_logreg = model_logreg.predict(X_test)
 
-    accuracy = accuracy_score(y_test, y_pred)
-    print(f'accuracy of SVC classifier is {accuracy}')
+    # Evaluate Logistic Regression classifier
+    acc_score_logreg = accuracy_score(y_test, y_pred_logreg)
+    prec_score_logreg = precision_score(y_test, y_pred_logreg, average='weighted')
+    conf_matrix_logreg = confusion_matrix(y_test, y_pred_logreg)
+    report_logreg = classification_report(y_test, y_pred_logreg)
 
-    #     document_to_predict = '''
-    # Subject: re: god
-    # help god praise pray to you christ jesus mary church!! god father priest christian atheist
-    #
-    # '''
+    print("Logistic Regression classifier:\n")
+    print(f"Accuracy: {acc_score_logreg}")
+    print(f"Precision: {prec_score_logreg}")
+    print(f"Confusion matrix:\n {conf_matrix_logreg}")
+    print(f"Report:\n {report_logreg}")
 
-    # document_to_predict = '''
-    # Subject: re:
-    # I think we have a possibility to win this game. but the candidate is the opponent.
-    #  they are a pretty good defensive team, but attack has to be good to win we have to score
-    # a lot of goals.Good luck team!
-    #
-    # '''
+    # Preprocess the new document text
+    new_document = 'test_files/test_file.txt'
+    preprocessed_text = preprocess_file(new_document)
 
-    #     document_to_predict='''
-    #     Subject: spring records
-    #
-    # 	The Orioles' pitching staff again is having a fine exhibition season.
-    # Four shutouts, low team ERA, (Well, I haven't gotten any baseball news since
-    # March 14 but anyways) Could they contend, yes. Could they win it all?  Maybe.
-    #
-    # But for all those fans of teams with bad spring records, remember Earl
-    # Weaver's first law of baseball (From his book on managing)
-    #
-    # No one gives a damn in July if you lost a game in March. :)
-    #
-    # BTW, anyone have any idea on the contenders for the O's fifth starter?
-    # It's pretty much set that Sutcliffe, Mussina, McDonald and Rhodes are the
-    # first four in the rotation.
-    #
-    # Here at Johns Hopkins University where the mascot is the Blue Jay :(,
-    # their baseball team logo was the Toronto club's logo. Now it's a
-    # anatomically correct blue jay. God, can't they think of an original idea?
-    # It's even in the same pose as the baltimore oriole on the O's hats.
-    # How many people realize that the bird is really called a baltimore oriole?
-    # __________________________________________________________________________
-    # |Admiral Steve C. Liu        Internet Address: admiral@jhunix.hcf.jhu.edu|
-    # |"Committee for the Liberation and Intergration of Terrifying Organisms  |
-    # |and their Rehabilitation Into Society" from Red Dwarf - "Polymorph"     |
-    # |****The Bangles are the greatest female rock band that ever existed!****|
-    # |   This sig has been brought to you by... Frungy! The Sport of Kings!   |
-    # # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'''
+    # Word2Vec/ Node2Vec selected
+    if choose_model == 1 or choose_model == 3:
+        embeddings, skipped_words = calculate_doc_embedding(model, preprocessed_text)
 
-    document_to_predict = '''Subject: As fun as this postseason has been -- and how it already has an all-timer of an October 
-    highlight with the the first 8-5-3 double play in playoff history that ended Game 2 of the Braves-Phillies 
-    National League Division Series -- one thing we haven’t seen yet is a decisive win-or-go-home game for both 
-    teams. Frankly, we’ve only had two series so far that weren’t a sweep! And now there is only one Division Series 
-    left. It is perhaps not a coincidence that it’s the one many thought would be the tightest series heading in.'''
+        if len(embeddings) > 0:
+            document_embedding = sum(embeddings) / len(embeddings)
+            document_embedding = document_embedding.reshape(1, -1)
+        else:
+            print('No word found in the document!')
+            document_embedding = []
 
-    preprocessed_document = preprocess_text(document_to_predict)
-    print(preprocessed_document)
+        predicted_category = model_logreg.predict(document_embedding)
+        print(f"Predicted category for the new document: {predicted_category}")
 
-    new_doc_vector = model.infer_vector(preprocessed_document)
+        if skipped_words:
+            print("Words we didn't find in the vocabulary:")
+            print(skipped_words)
+        else:
+            print('No word found in the document!')
 
-    new_doc_vector = new_doc_vector.reshape(1, -1)
-    print(new_doc_vector)
+    # Doc2Vec selected
+    if choose_model == 2:
+        choose_doc2vec_method = int(input('1 - Use infer_vector method \n'
+                                          '2 - Use average method \n'
+                                          'Choose Doc2Vec method: '))
+        if choose_doc2vec_method == 1:
+            document_embedding = model.infer_vector(preprocessed_text)
+            document_embedding = document_embedding.reshape(1, -1)
+            predicted_category = model_logreg.predict(document_embedding)
+            print(f"Predicted category for the new document: {predicted_category}")
 
-    predicted_category = classifier.predict(new_doc_vector)
+        if choose_doc2vec_method == 2:
+            embeddings, skipped_words = calculate_doc_embedding(model, preprocessed_text)
 
-    print(f'This document belongs in category {predicted_category}')
+            if len(embeddings) > 0:
+                document_embedding = sum(embeddings) / len(embeddings)
+                document_embedding = document_embedding.reshape(1, -1)
+            else:
+                print('No word found in the document!')
+
+            predicted_category = model_logreg.predict(document_embedding)
+            print(f"Predicted category for the new document: {predicted_category}")
+
+            if skipped_words:
+                print("Words we didn't find in the vocabulary:")
+                print(skipped_words)
+            else:
+                print('No word found in the document!')
+
+    print("--- %s seconds ---" % (time.time() - start_time))
+

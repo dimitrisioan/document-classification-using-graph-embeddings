@@ -383,7 +383,7 @@ that
 destruct
 rev
 often
-us
+use
 the
 term
 second
@@ -417,7 +417,7 @@ second
 death
 ie
 it
-us
+use
 term
 that
 can
@@ -543,7 +543,7 @@ talk
 about
 send
 the
-curs
+cur
 into
 etern
 fire

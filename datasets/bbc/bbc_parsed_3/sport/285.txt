@@ -249,7 +249,7 @@ yet
 clear
 but
 bath
-bo
+bos
 john
 connolli
 rate

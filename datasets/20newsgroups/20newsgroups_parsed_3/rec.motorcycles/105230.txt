@@ -55,7 +55,7 @@ with
 it
 or
 not
-pleas
+plea
 send
 me
 email

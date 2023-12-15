@@ -97,7 +97,7 @@ hi
 stake
 under
 the
-guis
+gui
 of
 a
 genevabas
@@ -489,7 +489,7 @@ stretch
 figur
 we
 dont
-discu
+discus
 intern
 arrang
 bate

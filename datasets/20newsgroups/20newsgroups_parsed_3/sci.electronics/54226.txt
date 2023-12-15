@@ -112,7 +112,7 @@ can
 be
 set
 to
-puls
+pul
 dial
 most
 if

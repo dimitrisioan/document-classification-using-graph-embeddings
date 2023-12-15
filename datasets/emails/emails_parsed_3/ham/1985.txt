@@ -79,7 +79,7 @@ for
 henwood
 engag
 stinson
-pleas
+plea
 find
 attach
 a
@@ -112,7 +112,7 @@ draft
 i
 sent
 you
-pleas
+plea
 let
 me
 know
@@ -165,7 +165,7 @@ correct
 bruce
 and
 lauren
-pleas
+plea
 advis
 on
 which

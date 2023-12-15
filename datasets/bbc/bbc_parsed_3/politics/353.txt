@@ -35,7 +35,7 @@ simpl
 the
 prime
 minist
-go
+goe
 head
 to
 head
@@ -559,7 +559,7 @@ refus
 hi
 plea
 to
-discu
+discus
 the
 issu
 privat
@@ -786,7 +786,7 @@ give
 the
 public
 a
-sens
+sen
 of
 empower
 but

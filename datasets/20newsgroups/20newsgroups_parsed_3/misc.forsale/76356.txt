@@ -248,7 +248,7 @@ the
 total
 order
 cost
-pleas
+plea
 send
 email
 to

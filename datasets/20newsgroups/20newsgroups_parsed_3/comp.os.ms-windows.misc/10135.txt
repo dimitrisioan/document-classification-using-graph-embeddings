@@ -32,7 +32,7 @@ hard
 disc
 can
 someon
-pleas
+plea
 give
 me
 there
@@ -167,7 +167,7 @@ fullscreen
 for
 that
 matter
-pleas
+plea
 let
 me
 know
@@ -312,7 +312,7 @@ never
 heard
 of
 anyon
-els
+el
 who
 did
 either

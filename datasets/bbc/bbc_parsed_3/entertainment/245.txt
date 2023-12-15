@@ -56,7 +56,7 @@ happi
 monday
 now
 wilson
-belief
+believ
 rap
 act
 raw
@@ -268,7 +268,7 @@ talent
 and
 like
 everyon
-els
+el
 in
 the
 room
@@ -280,7 +280,7 @@ utterli
 blown
 away
 wilson
-belief
+believ
 raw
 t
 could

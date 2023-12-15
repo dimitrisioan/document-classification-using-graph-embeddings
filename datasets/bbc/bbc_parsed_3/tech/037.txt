@@ -87,7 +87,7 @@ a
 chip
 technolog
 to
-sens
+sen
 when
 they
 are

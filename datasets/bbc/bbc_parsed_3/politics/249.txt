@@ -53,7 +53,7 @@ news
 confer
 in
 octob
-tori
+torus
 leader
 michael
 howard

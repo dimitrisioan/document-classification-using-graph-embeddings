@@ -1,7 +1,7 @@
 subject
 meet
 to
-discu
+discus
 present
 materi
 hello
@@ -21,7 +21,7 @@ time
 with
 you
 to
-discu
+discus
 our
 present
 materi

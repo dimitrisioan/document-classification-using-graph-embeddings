@@ -215,7 +215,7 @@ request
 to
 intern
 harvest
-discuss
+discus
 of
 scout
 pickup

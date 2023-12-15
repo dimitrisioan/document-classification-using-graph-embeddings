@@ -72,7 +72,7 @@ and
 a
 leader
 that
-belief
+believ
 it
 may
 well
@@ -418,7 +418,7 @@ student
 fee
 he
 also
-belief
+believ
 be
 the
 onli
@@ -480,7 +480,7 @@ to
 rise
 while
 the
-tori
+torus
 plan
 to
 increas
@@ -629,7 +629,7 @@ westminst
 that
 if
 the
-tori
+torus
 do
 a
 badli

@@ -76,7 +76,7 @@ odi
 i
 thought
 it
-us
+use
 ndi
 my
 problem
@@ -88,7 +88,7 @@ with
 all
 it
 driver
-us
+use
 up
 most
 of
@@ -152,7 +152,7 @@ twice
 outsid
 of
 munich
-pleas
+plea
 send
 me
 a

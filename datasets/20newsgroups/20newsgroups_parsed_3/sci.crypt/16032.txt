@@ -89,7 +89,7 @@ inform
 is
 avail
 befor
-pass
+pas
 judgement
 on
 it

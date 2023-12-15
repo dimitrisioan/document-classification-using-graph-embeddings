@@ -29,7 +29,7 @@ a
 n
 divid
 by
-leaf
+leav
 a
 a
 remaind
@@ -69,7 +69,7 @@ burden
 of
 proof
 that
-viru
+virus
 dont
 exist
 in
@@ -163,7 +163,7 @@ finland
 vega
 a
 end
-pleas
+plea
 not
 pascal
 nooooo

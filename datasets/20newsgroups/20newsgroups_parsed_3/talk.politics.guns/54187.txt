@@ -368,7 +368,7 @@ murder
 wa
 done
 with
-ax
+axe
 would
 you
 impos
@@ -409,7 +409,7 @@ public
 accept
 regul
 of
-ax
+axe
 while
 the
 polit

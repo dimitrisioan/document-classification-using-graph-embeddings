@@ -92,7 +92,7 @@ bit
 overoptimist
 if
 noth
-els
+el
 a
 work
 ssto
@@ -530,7 +530,7 @@ i
 note
 that
 it
-us
+use
 rl
 engin
 arent
@@ -706,7 +706,7 @@ that
 had
 an
 ongo
-discuss
+discus
 about
 moonbas
 on
@@ -715,7 +715,7 @@ cheap
 i
 recal
 it
-discuss
+discus
 thing
 like
 how

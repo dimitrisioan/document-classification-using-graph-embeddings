@@ -79,7 +79,7 @@ shop
 mark
 fox
 make
-sens
+sen
 to
 me
 after

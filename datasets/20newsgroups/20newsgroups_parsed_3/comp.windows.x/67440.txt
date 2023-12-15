@@ -182,7 +182,7 @@ sigrelsesigalrm
 defin
 pausesig
 sigpausesigalrm
-els
+el
 defin
 holdsig
 sigblocksigmasksigalrm

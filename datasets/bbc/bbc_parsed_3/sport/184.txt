@@ -106,7 +106,7 @@ acrimoni
 move
 nottingham
 forest
-bo
+bos
 gari
 megson
 could

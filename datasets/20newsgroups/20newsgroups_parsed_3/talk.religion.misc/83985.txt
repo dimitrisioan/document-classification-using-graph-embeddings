@@ -77,7 +77,7 @@ blood
 can
 not
 gb
-cleans
+clean
 from
 all
 sin

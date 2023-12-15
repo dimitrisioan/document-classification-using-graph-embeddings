@@ -218,7 +218,7 @@ the
 end
 of
 the
-tori
+torus
 have
 promis
 a
@@ -272,7 +272,7 @@ mean
 test
 say
 the
-tori
+torus
 becaus
 that
 would
@@ -311,7 +311,7 @@ maximum
 of
 â£
 the
-tori
+torus
 also
 say
 they

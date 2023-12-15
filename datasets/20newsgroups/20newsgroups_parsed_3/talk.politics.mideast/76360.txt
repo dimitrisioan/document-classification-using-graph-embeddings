@@ -146,7 +146,7 @@ the
 greek
 girl
 lyce
-alumnu
+alumnus
 associ
 the
 principo
@@ -357,7 +357,7 @@ the
 exchang
 of
 minor
-us
+use
 the
 term
 turk
@@ -397,7 +397,7 @@ essenti
 realiti
 that
 there
-life
+live
 in
 western
 thrace
@@ -445,7 +445,7 @@ poor
 poli
 it
 also
-prof
+prove
 that
 the
 turkish
@@ -499,7 +499,7 @@ the
 democrat
 greek
 parliament
-pass
+pas
 law
 no
 virtual
@@ -877,7 +877,7 @@ the
 greek
 govern
 the
-discuss
+discus
 of
 human
 right
@@ -900,7 +900,7 @@ shall
 dwell
 on
 and
-expos
+expo
 the
 greek
 treatment
@@ -1465,7 +1465,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

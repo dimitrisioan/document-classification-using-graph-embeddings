@@ -4,7 +4,7 @@ jame
 brad
 aimon
 shirley
-pleas
+plea
 send
 a
 messag
@@ -62,7 +62,7 @@ don
 t
 know
 what
-els
+el
 i
 need
 to

@@ -471,7 +471,7 @@ befor
 we
 had
 stone
-ax
+axe
 the
 fct
 of
@@ -557,7 +557,7 @@ murder
 wa
 done
 with
-ax
+axe
 would
 you
 impos
@@ -648,7 +648,7 @@ think
 weve
 got
 more
-knife
+knive
 or
 fist
 in
@@ -776,7 +776,7 @@ peopl
 fear
 for
 their
-life
+live
 but
 recal
 the
@@ -876,7 +876,7 @@ refer
 to
 if
 your
-discuss
+discus
 someon
 violent
 assault

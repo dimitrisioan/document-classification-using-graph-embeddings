@@ -134,7 +134,7 @@ user
 group
 dear
 vinc
-pleas
+plea
 may
 i
 reintroduc
@@ -256,7 +256,7 @@ deleg
 the
 agenda
 primarili
-focu
+focus
 on
 issu
 surround
@@ -283,7 +283,7 @@ speaker
 and
 practic
 workshop
-focuss
+focus
 around
 use
 our
@@ -456,7 +456,7 @@ them
 and
 exchang
 view
-pleas
+plea
 let
 me
 know

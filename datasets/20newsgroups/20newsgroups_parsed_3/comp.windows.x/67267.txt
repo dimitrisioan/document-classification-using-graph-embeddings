@@ -104,7 +104,7 @@ nice
 draw
 program
 it
-us
+use
 motif
 which
 can
@@ -193,7 +193,7 @@ extens
 for
 tktcl
 with
-eas
+ea
 i
 can
 now

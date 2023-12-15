@@ -6,7 +6,7 @@ share
 share
 in
 deutsch
-boers
+boer
 have
 risen
 more
@@ -88,7 +88,7 @@ lisbon
 bours
 while
 deutsch
-boers
+boer
 run
 the
 frankfurt
@@ -151,7 +151,7 @@ make
 much
 differ
 deutsch
-boers
+boer
 appear
 veri
 commit
@@ -196,7 +196,7 @@ prefer
 to
 see
 deutsch
-boers
+boer
 return
 m
 â£m
@@ -204,7 +204,7 @@ to
 sharehold
 the
 deutsch
-boers
+boer
 wa
 prepar
 to
@@ -223,7 +223,7 @@ said
 tci
 anoth
 deutsch
-boers
+boer
 sharehold
 on
 monday
@@ -237,7 +237,7 @@ anoth
 investor
 in
 deutsch
-boers
+boer
 ha
 support
 the
@@ -252,7 +252,7 @@ be
 prefer
 to
 deutsch
-boers
+boer
 overpay
 for
 the
@@ -309,7 +309,7 @@ report
 a
 third
 deutsch
-boers
+boer
 sharehold
 a
 oppos
@@ -349,7 +349,7 @@ ha
 call
 for
 deutsch
-boers
+boer
 to
 hold
 an
@@ -357,7 +357,7 @@ emerg
 gener
 meet
 to
-discu
+discus
 the
 bid
 for
@@ -381,7 +381,7 @@ a
 signific
 acquisit
 deutsch
-boers
+boer
 said
 tci
 opposit
@@ -392,7 +392,7 @@ it
 bid
 approach
 deutsch
-boers
+boer
 is
 convinc
 that

@@ -49,7 +49,7 @@ by
 the
 european
 remot
-sens
+sen
 satellit
 er
 to
@@ -65,7 +65,7 @@ the
 train
 cours
 will
-discu
+discus
 the
 applic
 of
@@ -115,7 +115,7 @@ data
 from
 esa
 remot
-sens
+sen
 satellit
 twentyfour
 expert
@@ -124,7 +124,7 @@ the
 field
 of
 remot
-sens
+sen
 select
 from
 francophon
@@ -151,7 +151,7 @@ will
 focu
 on
 remot
-sens
+sen
 techniqu
 and
 data
@@ -188,7 +188,7 @@ seri
 of
 radar
 remot
-sens
+sen
 mission
 that
 will
@@ -219,7 +219,7 @@ applic
 of
 radar
 remot
-sens
+sen
 system
 to
 natur
@@ -304,7 +304,7 @@ organis
 activ
 in
 remot
-sens
+sen
 applic
 fund
 for

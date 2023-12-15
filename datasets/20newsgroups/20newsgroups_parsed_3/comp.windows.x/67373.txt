@@ -49,7 +49,7 @@ parent
 window
 get
 an
-expos
+expo
 event
 but
 becaus
@@ -69,7 +69,7 @@ obscur
 my
 window
 no
-expos
+expo
 event
 is
 sent
@@ -98,7 +98,7 @@ applic
 get
 too
 mani
-expos
+expo
 event
 and
 you

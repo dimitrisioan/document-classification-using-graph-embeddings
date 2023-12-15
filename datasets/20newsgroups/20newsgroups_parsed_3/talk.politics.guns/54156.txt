@@ -73,7 +73,7 @@ a
 effect
 a
 firearm
-pleas
+plea
 name
 one
 freedom
@@ -220,7 +220,7 @@ the
 night
 the
 rkba
-dy
+die
 the
 stat
 are
@@ -287,7 +287,7 @@ politician
 would
 not
 be
-pass
+pas
 gun
 control
 law
@@ -434,7 +434,7 @@ too
 late
 if
 all
-els
+el
 fail
 there
 alway
@@ -460,4 +460,4 @@ the
 opinion
 of
 anyon
-els
+el

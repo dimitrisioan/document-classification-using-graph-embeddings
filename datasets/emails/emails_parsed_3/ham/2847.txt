@@ -64,7 +64,7 @@ enron
 it
 purchas
 am
-pleas
+plea
 respond
 to
 enron
@@ -128,7 +128,7 @@ desktop
 enron
 it
 purchas
-pleas
+plea
 send
 all
 statu

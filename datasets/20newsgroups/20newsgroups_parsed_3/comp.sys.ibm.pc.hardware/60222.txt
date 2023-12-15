@@ -75,7 +75,7 @@ harddisk
 manufactur
 email
 address
-pleas
+plea
 help
 if
 you

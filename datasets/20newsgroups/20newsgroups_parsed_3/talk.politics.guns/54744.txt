@@ -71,7 +71,7 @@ all
 thi
 can
 you
-pleas
+plea
 give
 an
 updat
@@ -102,5 +102,5 @@ ok
 for
 a
 wiretap
-pleas
+plea
 summar

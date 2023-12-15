@@ -183,7 +183,7 @@ plug
 in
 and
 secur
-us
+use
 radio
 transmit
 watt

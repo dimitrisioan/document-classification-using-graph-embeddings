@@ -167,7 +167,7 @@ tie
 up
 a
 few
-loos
+loo
 end
 here
 in

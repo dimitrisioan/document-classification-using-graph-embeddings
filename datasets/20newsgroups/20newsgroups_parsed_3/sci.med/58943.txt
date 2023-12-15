@@ -4,7 +4,7 @@ polio
 syndrom
 inform
 need
-pleas
+plea
 k
 from
 keith
@@ -53,7 +53,7 @@ recognis
 anywher
 in
 the
-sens
+sen
 of
 a
 diseas
@@ -75,7 +75,7 @@ featur
 etc
 but
 here
-go
+goe
 with
 what
 mani
@@ -190,7 +190,7 @@ small
 angul
 fiber
 with
-dens
+den
 oxid
 enzym
 stain

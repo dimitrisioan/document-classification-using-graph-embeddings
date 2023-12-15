@@ -60,7 +60,7 @@ s
 report
 to
 me
-leaf
+leav
 a
 lot
 to
@@ -228,7 +228,7 @@ a
 littl
 introduct
 first
-pleas
+plea
 feel
 free
 to
@@ -387,7 +387,7 @@ to
 run
 and
 we
-discuss
+discus
 it
 with
 debbi
@@ -421,7 +421,7 @@ send
 it
 to
 me
-pleas
+plea
 thank
 you
 tanya

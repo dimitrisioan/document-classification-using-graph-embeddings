@@ -46,7 +46,7 @@ vinc
 juli
 on
 pm
-pleas
+plea
 respond
 to
 juli
@@ -103,7 +103,7 @@ name
 is
 there
 someon
-els
+el
 we
 should
 direct
@@ -162,7 +162,7 @@ associ
 with
 enron
 corp
-pleas
+plea
 see
 attach
 should

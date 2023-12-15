@@ -13,12 +13,12 @@ motherboard
 old
 a
 in
-us
+use
 a
 keyboard
 control
 and
-us
+use
 memori
 interleav
 rather

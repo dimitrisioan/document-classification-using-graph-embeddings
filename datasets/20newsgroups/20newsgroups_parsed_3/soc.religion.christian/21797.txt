@@ -46,7 +46,7 @@ oftquot
 phrase
 could
 someon
-pleas
+plea
 remind
 me
 of
@@ -85,7 +85,7 @@ error
 no
 doubt
 someon
-els
+el
 will
 know
 in

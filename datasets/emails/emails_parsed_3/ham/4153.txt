@@ -110,7 +110,7 @@ the
 confer
 intern
 caller
-pleas
+plea
 re
 dial
 and
@@ -140,7 +140,7 @@ to
 access
 thi
 record
-pleas
+plea
 call
 within
 the
@@ -151,7 +151,7 @@ outsid
 the
 u
 s
-pleas
+plea
 use
 confirm
 number
@@ -164,7 +164,7 @@ you
 have
 ani
 question
-pleas
+plea
 contact
 mari
 rice

@@ -14,7 +14,7 @@ if
 anyon
 know
 anyon
-els
+el
 who
 would
 like
@@ -108,7 +108,7 @@ form
 onc
 a
 day
-pleas
+plea
 use
 a
 listserv

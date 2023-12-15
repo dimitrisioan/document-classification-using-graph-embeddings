@@ -209,7 +209,7 @@ home
 from
 work
 i
-pass
+pas
 lenin
 squar
 where
@@ -224,7 +224,7 @@ member
 there
 and
 pioneer
-children
+child
 organ
 and
 there
@@ -391,7 +391,7 @@ own
 home
 the
 day
-pass
+pas
 on
 februari
 that
@@ -689,7 +689,7 @@ he
 left
 about
 minut
-pass
+pas
 and
 about
 peopl
@@ -880,7 +880,7 @@ i
 plead
 and
 beg
-pleas
+plea
 call
 someon
 have
@@ -1152,7 +1152,7 @@ the
 door
 open
 it
-pleas
+plea
 she
 didnt
 open
@@ -1221,7 +1221,7 @@ of
 you
 i
 beg
-pleas
+plea
 at
 least
 take
@@ -1522,7 +1522,7 @@ down
 on
 my
 knee
-pleas
+plea
 i
 beg
 of
@@ -1562,7 +1562,7 @@ there
 two
 minut
 hadnt
-pass
+pas
 when
 ira
 and
@@ -1586,7 +1586,7 @@ again
 i
 start
 plead
-pleas
+plea
 open
 the
 door
@@ -1609,11 +1609,11 @@ said
 again
 and
 again
-pleas
+plea
 open
 the
 door
-pleas
+plea
 he
 look
 at
@@ -1696,7 +1696,7 @@ our
 apart
 i
 had
-sens
+sen
 that
 none
 of
@@ -2038,7 +2038,7 @@ a
 day
 did
 not
-pa
+pas
 that
 there
 wasnt
@@ -2643,7 +2643,7 @@ time
 to
 find
 somewher
-els
+el
 to
 hide
 he
@@ -2852,7 +2852,7 @@ i
 look
 at
 the
-corps
+corp
 for
 a
 long

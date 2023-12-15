@@ -132,7 +132,7 @@ want
 to
 pick
 someon
-els
+el
 but
 you
 just

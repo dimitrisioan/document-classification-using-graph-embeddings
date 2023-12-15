@@ -216,7 +216,7 @@ gener
 grb
 from
 cometari
-nucleu
+nucleus
 unlik
 a
 it
@@ -251,7 +251,7 @@ distribut
 of
 grb
 the
-bats
+bat
 catalogu
 up
 to
@@ -357,7 +357,7 @@ effect
 of
 possibl
 observ
-bia
+bias
 these
 test
 impli

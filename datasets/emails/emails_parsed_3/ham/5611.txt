@@ -7,7 +7,7 @@ sloan
 school
 dear
 vinc
-pleas
+plea
 find
 the
 follow
@@ -231,7 +231,7 @@ at
 least
 one
 panel
-discuss
+discus
 with
 academ
 expert
@@ -333,7 +333,7 @@ speaker
 for
 the
 panel
-discuss
+discus
 or
 to
 give

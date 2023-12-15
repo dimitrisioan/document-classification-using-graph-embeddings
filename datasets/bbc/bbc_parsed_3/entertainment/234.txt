@@ -65,7 +65,7 @@ at
 four
 with
 breath
-elvi
+elvis
 number
 one
 is
@@ -140,7 +140,7 @@ compani
 sonybmg
 are
 releas
-elvi
+elvis
 number
 one
 singl
@@ -181,7 +181,7 @@ one
 a
 interest
 surround
-elvi
+elvis
 birthday
 grow
 elsewher

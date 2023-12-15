@@ -3,7 +3,7 @@ re
 access
 to
 o
-pleas
+plea
 grant
 access
 a
@@ -119,7 +119,7 @@ away
 daniel
 could
 you
-pleas
+plea
 advis
 on
 what

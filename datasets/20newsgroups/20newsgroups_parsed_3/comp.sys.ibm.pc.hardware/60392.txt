@@ -16,7 +16,7 @@ write
 sinc
 the
 mac
-us
+use
 onli
 scsi
 for
@@ -137,7 +137,7 @@ follow
 sinc
 the
 mac
-us
+use
 onli
 scsi
 for

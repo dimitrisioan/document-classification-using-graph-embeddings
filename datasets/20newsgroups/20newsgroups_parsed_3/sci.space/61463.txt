@@ -30,7 +30,7 @@ pressur
 hangar
 make
 consider
-sens
+sen
 the
 question
 is

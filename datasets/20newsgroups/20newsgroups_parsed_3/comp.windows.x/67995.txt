@@ -85,7 +85,7 @@ a
 postscript
 preview
 that
-us
+use
 ghostscript
 from
 the

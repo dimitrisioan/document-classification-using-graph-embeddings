@@ -135,7 +135,7 @@ physic
 data
 in
 the
-sens
+sen
 of
 pure
 scienc

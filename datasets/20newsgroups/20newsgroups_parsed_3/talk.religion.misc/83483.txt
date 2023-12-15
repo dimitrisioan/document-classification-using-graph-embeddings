@@ -123,5 +123,5 @@ true
 it
 wa
 abandon
-ru
+rus
 pauljon

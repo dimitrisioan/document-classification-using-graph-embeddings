@@ -225,7 +225,7 @@ addit
 ntl
 is
 offer
-children
+child
 programm
 adult
 content
@@ -505,7 +505,7 @@ research
 firm
 informa
 medium
-belief
+believ
 the
 time
 is
@@ -555,7 +555,7 @@ help
 them
 eat
 into
-sky
+ski
 lead
 he
 said

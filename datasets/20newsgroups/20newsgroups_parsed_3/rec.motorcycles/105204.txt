@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 ed
 green
@@ -223,7 +223,7 @@ time
 in
 order
 to
-pa
+pas
 that
 the
 front

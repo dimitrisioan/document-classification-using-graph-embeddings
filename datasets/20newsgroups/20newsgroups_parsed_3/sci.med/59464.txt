@@ -1,7 +1,7 @@
 subject
 vitamin
 b
-do
+dose
 forgiv
 me
 but
@@ -22,7 +22,7 @@ post
 about
 the
 theraput
-us
+use
 of
 vitamin
 b

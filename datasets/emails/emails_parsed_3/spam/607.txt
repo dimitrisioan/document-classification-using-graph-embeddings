@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 restor
 your
 account
@@ -101,7 +101,7 @@ will
 continu
 a
 normal
-pleas
+plea
 follow
 the
 link

@@ -78,7 +78,7 @@ costli
 penalti
 and
 defens
-laps
+lap
 at
 time
 while

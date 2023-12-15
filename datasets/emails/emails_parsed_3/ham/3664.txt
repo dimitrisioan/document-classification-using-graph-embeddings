@@ -13,7 +13,7 @@ london
 in
 houston
 ye
-pleas
+plea
 call
 m
 geman
@@ -208,7 +208,7 @@ you
 want
 to
 have
-pleas
+plea
 let
 me
 know
@@ -238,7 +238,7 @@ subject
 dear
 m
 feldman
-pleas
+plea
 find
 enclos
 a
@@ -287,7 +287,7 @@ best
 for
 enron
 sincer
-appendix
+appendic
 doc
 contract
 doc

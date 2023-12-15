@@ -64,7 +64,7 @@ in
 a
 pure
 satir
-sens
+sen
 in
 case
 you
@@ -128,7 +128,7 @@ and
 say
 that
 thi
-prof
+prove
 that
 everi
 object
@@ -195,7 +195,7 @@ it
 repel
 vampir
 and
-succubu
+succubus
 the
 donut
 start

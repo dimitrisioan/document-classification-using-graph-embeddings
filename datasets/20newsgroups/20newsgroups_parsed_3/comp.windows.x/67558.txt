@@ -27,7 +27,7 @@ or
 neg
 comment
 welcom
-pleas
+plea
 respond
 immedi
 thank

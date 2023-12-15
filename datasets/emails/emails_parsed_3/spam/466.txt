@@ -71,7 +71,7 @@ futur
 sm
 usa
 item
-pleas
+plea
 use
 thi
 to

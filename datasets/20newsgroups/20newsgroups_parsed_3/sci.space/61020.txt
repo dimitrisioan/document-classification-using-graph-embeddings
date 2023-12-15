@@ -13,10 +13,10 @@ gehrel
 were
 april
 jupit
-radiu
+radius
 august
 jupit
-radiu
+radius
 where
 jupit
 radiu

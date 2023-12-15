@@ -9,7 +9,7 @@ articl
 david
 feldman
 say
-pleas
+plea
 excus
 if
 faq
@@ -49,7 +49,7 @@ box
 ani
 suggest
 thanx
-pleas
+plea
 email
 sinc
 we
@@ -100,7 +100,7 @@ anyon
 have
 ani
 info
-pleas
+plea
 email
 me
 at

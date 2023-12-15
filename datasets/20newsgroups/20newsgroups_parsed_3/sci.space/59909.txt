@@ -796,7 +796,7 @@ the
 eclipt
 it
 will
-pa
+pas
 over
 the
 sun
@@ -991,7 +991,7 @@ technolog
 develop
 mission
 that
-us
+use
 astrophys
 sourc
 to
@@ -1104,7 +1104,7 @@ wind
 and
 ion
 and
-ga
+gase
 surround
 the
 earth

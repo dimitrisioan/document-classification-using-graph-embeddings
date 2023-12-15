@@ -287,7 +287,7 @@ caus
 seriou
 injuri
 threaten
-life
+live
 etc
 someth
 about
@@ -717,7 +717,7 @@ veri
 nice
 too
 veri
-pleas
+plea
 to
 the
 eye

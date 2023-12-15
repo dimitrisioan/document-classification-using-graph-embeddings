@@ -47,7 +47,7 @@ from
 unwant
 and
 hazard
-viru
+virus
 help
 secur
 your
@@ -128,7 +128,7 @@ fall
 prey
 to
 destruct
-viru
+virus
 or
 hacker
 protect
@@ -180,7 +180,7 @@ unsubscrib
 from
 thi
 list
-pleas
+plea
 click
 here
 if

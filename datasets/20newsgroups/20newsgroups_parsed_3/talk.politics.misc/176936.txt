@@ -1463,7 +1463,7 @@ econom
 south
 georgia
 island
-poss
+posse
 an
 enorm
 militari
@@ -2362,7 +2362,7 @@ war
 ii
 a
 i
-discuss
+discus
 in
 my
 veri
@@ -3808,7 +3808,7 @@ the
 secret
 naval
 ship
-poss
+posse
 one
 key
 differ
@@ -4434,7 +4434,7 @@ polit
 movement
 which
 i
-discuss
+discus
 last
 summer
 in
@@ -4541,7 +4541,7 @@ militari
 action
 should
 be
-devis
+devi
 that
 would
 undermin
@@ -4580,7 +4580,7 @@ russian
 were
 abl
 to
-devis
+devi
 an
 attack
 plan
@@ -4631,7 +4631,7 @@ it
 wa
 essenti
 to
-devis
+devi
 a
 scheme
 that

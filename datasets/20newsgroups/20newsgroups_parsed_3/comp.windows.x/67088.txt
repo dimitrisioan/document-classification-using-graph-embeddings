@@ -210,9 +210,9 @@ tri
 to
 do
 thi
-pleas
-pleas
-pleas
+plea
+plea
+plea
 somebodi
 tell
 me
@@ -339,7 +339,7 @@ is
 it
 accept
 to
-pa
+pas
 data
 for
 a

@@ -259,7 +259,7 @@ sourc
 for
 watt
 halogen
-pass
+pas
 light
 sinc
 the
@@ -284,7 +284,7 @@ about
 put
 a
 coupl
-pass
+pas
 light
 on
 that

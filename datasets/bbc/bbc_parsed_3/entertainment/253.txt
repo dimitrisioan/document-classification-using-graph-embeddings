@@ -730,7 +730,7 @@ of
 someth
 that
 someon
-els
+el
 ha
 done
 better
@@ -1093,7 +1093,7 @@ from
 while
 i
 am
-biass
+bias
 in
 that
 i
@@ -2499,7 +2499,7 @@ lie
 down
 it
 just
-go
+goe
 to
 show
 that
@@ -3118,7 +3118,7 @@ record
 sale
 the
 same
-go
+goe
 with
 the
 scissor

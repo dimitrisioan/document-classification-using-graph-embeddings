@@ -11,7 +11,7 @@ month
 we
 have
 been
-discuss
+discus
 our
 standard
 e
@@ -265,7 +265,7 @@ product
 that
 enron
 current
-us
+use
 with
 outlook
 we

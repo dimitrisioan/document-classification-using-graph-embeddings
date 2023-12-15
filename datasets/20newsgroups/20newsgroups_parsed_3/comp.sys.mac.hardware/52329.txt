@@ -94,7 +94,7 @@ video
 signal
 the
 mac
-us
+use
 to
 drive
 the
@@ -327,7 +327,7 @@ the
 vgastandard
 x
 mode
-us
+use
 a
 khz
 horizont

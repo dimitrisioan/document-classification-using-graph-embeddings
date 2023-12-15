@@ -2,7 +2,7 @@ subject
 re
 interest
 david
-pleas
+plea
 call
 shirley
 crenshaw
@@ -64,7 +64,7 @@ subject
 re
 interest
 david
-pleas
+plea
 stop
 by
 to
@@ -95,7 +95,7 @@ may
 we
 meet
 to
-discu
+discus
 my
 interest
 in

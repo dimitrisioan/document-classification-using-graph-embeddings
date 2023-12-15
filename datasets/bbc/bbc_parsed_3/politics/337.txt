@@ -171,7 +171,7 @@ mean
 labour
 and
 the
-tori
+torus
 are
 not
 call
@@ -410,7 +410,7 @@ their
 vote
 intent
 and
-go
+goe
 on
 to
 encourag
@@ -555,7 +555,7 @@ way
 if
 the
 watchdog
-belief
+believ
 the
 rule
 allow

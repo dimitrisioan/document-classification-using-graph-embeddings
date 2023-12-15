@@ -31,7 +31,7 @@ mswindow
 base
 product
 that
-us
+use
 a
 full
 screen
@@ -60,7 +60,7 @@ the
 data
 effici
 quickli
-pleas
+plea
 email
 respons
 and

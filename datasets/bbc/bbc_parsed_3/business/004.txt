@@ -380,6 +380,6 @@ share
 close
 up
 four
-penni
+penc
 at
-penni
+penc

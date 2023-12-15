@@ -80,7 +80,7 @@ tuesday
 juli
 am
 to
-boss
+bos
 john
 ed
 krapel
@@ -150,7 +150,7 @@ conflict
 with
 these
 time
-pleas
+plea
 notifi
 me
 we

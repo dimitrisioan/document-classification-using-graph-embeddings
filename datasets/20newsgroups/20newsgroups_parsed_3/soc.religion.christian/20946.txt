@@ -97,7 +97,7 @@ mani
 evangel
 christian
 somebodi
-els
+el
 might
 like
 it
@@ -595,7 +595,7 @@ it
 ha
 veri
 littl
-els
+el
 when
 a
 christian
@@ -887,7 +887,7 @@ one
 produc
 frustrat
 becaus
-curios
+curio
 is
 deni
 the

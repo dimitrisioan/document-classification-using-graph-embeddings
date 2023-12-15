@@ -133,7 +133,7 @@ to
 dpi
 and
 it
-us
+use
 postscript
 it
 also
@@ -163,7 +163,7 @@ fast
 thi
 particular
 product
-us
+use
 your
 host
 processor

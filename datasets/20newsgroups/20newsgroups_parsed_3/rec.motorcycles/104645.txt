@@ -80,7 +80,7 @@ with
 me
 but
 what
-els
+el
 are
 there
 tradit
@@ -209,7 +209,7 @@ want
 to
 hurt
 anyon
-els
+el
 so
 i
 dont

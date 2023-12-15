@@ -56,7 +56,7 @@ radio
 s
 today
 show
-tori
+torus
 shadow
 chancellor
 oliv

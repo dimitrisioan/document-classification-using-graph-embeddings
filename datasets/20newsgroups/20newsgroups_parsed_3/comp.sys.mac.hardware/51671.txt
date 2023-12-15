@@ -169,7 +169,7 @@ the
 vga
 one
 onli
-sens
+sen
 pin
 differ
 it
@@ -267,7 +267,7 @@ can
 at
 least
 someon
-pleas
+plea
 tri
 figur
 out
@@ -375,7 +375,7 @@ video
 composit
 sync
 gnd
-sens
+sen
 gnd
 green
 video
@@ -385,7 +385,7 @@ green
 gnd
 green
 gnd
-sens
+sen
 blue
 gnd
 nc
@@ -393,7 +393,7 @@ nc
 blue
 video
 gnd
-sens
+sen
 gnd
 csync
 vsync
@@ -418,7 +418,7 @@ by
 appl
 for
 vgasvga
-sens
+sen
 pin
 chang
 to
@@ -436,7 +436,7 @@ dsub
 mac
 pin
 dsub
-sens
+sen
 ground
 to
 sync

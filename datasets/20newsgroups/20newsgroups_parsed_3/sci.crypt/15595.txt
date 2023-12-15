@@ -237,7 +237,7 @@ out
 here
 andor
 wherev
-els
+el
 thi
 is
 not
@@ -529,7 +529,7 @@ civilian
 life
 r
 self
-possess
+posse
 is
 of
 the

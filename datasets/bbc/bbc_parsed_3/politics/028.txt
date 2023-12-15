@@ -203,7 +203,7 @@ who
 wa
 involv
 the
-tori
+torus
 criticis
 the
 lib

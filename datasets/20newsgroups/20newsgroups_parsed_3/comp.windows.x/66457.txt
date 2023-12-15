@@ -361,7 +361,7 @@ get
 one
 of
 those
-mous
+mouse
 with
 like
 button

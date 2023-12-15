@@ -82,7 +82,7 @@ specif
 present
 minut
 ashley
-go
+goe
 over
 recruit
 inform
@@ -90,7 +90,7 @@ at
 the
 end
 minut
-pleas
+plea
 take
 a
 look
@@ -127,7 +127,7 @@ to
 get
 togeth
 and
-discu
+discus
 a
 well
 that
@@ -139,7 +139,7 @@ you
 have
 ani
 question
-pleas
+plea
 don
 t
 hesit

@@ -351,7 +351,7 @@ the
 geolog
 and
 biolog
-sens
+sen
 marin
 wa
 sent
@@ -2420,7 +2420,7 @@ includ
 two
 lander
 flybi
-bu
+buse
 went
 on
 to
@@ -3635,7 +3635,7 @@ also
 show
 you
 what
-els
+el
 wa
 go
 on

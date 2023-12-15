@@ -63,7 +63,7 @@ licens
 henc
 linux
 softwar
-us
+use
 either
 the
 athena

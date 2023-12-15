@@ -50,7 +50,7 @@ let
 my
 current
 membership
-laps
+lap
 when
 it
 up

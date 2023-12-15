@@ -319,7 +319,7 @@ t
 lose
 thi
 chanc
-pleas
+plea
 take
 action
 now

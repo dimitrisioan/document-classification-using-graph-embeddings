@@ -84,7 +84,7 @@ and
 then
 my
 screen
-go
+goe
 black
 just
 befor
@@ -129,7 +129,7 @@ ega
 and
 the
 screen
-go
+goe
 black
 on
 both
@@ -182,7 +182,7 @@ on
 email
 if
 anyon
-els
+el
 need
 thi
 info

@@ -1,11 +1,11 @@
 subject
 ld
 thief
-go
+goe
 to
 paradis
 kermit
-go
+goe
 off
 tangent
 kermit
@@ -171,7 +171,7 @@ kt
 see
 also
 the
-discuss
+discus
 did
 jesu
 go
@@ -195,7 +195,7 @@ after
 death
 kt
 the
-discuss
+discus
 no
 ld
 were

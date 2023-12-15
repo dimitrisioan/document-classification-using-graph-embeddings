@@ -132,7 +132,7 @@ a
 well
 a
 anyon
-els
+el
 but
 for
 now
@@ -254,7 +254,7 @@ well
 a
 taxi
 and
-bu
+buse
 the
 rushhour
 ha
@@ -354,7 +354,7 @@ still
 quit
 expens
 final
-pleas
+plea
 ignor
 henri
 post

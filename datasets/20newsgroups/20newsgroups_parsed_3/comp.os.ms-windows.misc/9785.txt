@@ -43,7 +43,7 @@ intrest
 in
 is
 speed
-eas
+ea
 of
 use
 amount

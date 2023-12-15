@@ -80,7 +80,7 @@ from
 futur
 smartmortgageusa
 mail
-pleas
+plea
 click
 here
 to
@@ -113,7 +113,7 @@ from
 thi
 email
 publish
-pleas
+plea
 follow
 their
 list

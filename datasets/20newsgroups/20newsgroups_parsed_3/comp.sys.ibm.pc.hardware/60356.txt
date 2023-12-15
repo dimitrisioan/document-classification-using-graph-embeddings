@@ -19,7 +19,7 @@ just
 in
 case
 anyon
-els
+el
 is
 interest
 in
@@ -226,7 +226,7 @@ wellwritten
 applic
 note
 that
-go
+goe
 into
 detail
 about

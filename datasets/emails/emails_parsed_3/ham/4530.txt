@@ -4,7 +4,7 @@ deadlin
 and
 action
 item
-pleas
+plea
 forward
 to
 all
@@ -151,7 +151,7 @@ your
 person
 identif
 number
-pleas
+plea
 contact
 benefit
 at
@@ -202,7 +202,7 @@ deadlin
 friday
 decemb
 cst
-pleas
+plea
 let
 me
 know

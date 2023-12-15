@@ -34,7 +34,7 @@ ha
 becom
 a
 bit
-loos
+loo
 next
 time
 you
@@ -119,7 +119,7 @@ just
 im
 on
 it
-pass
+pas
 it
 intern
 test

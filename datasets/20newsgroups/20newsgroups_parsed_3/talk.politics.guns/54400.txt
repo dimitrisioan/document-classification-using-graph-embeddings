@@ -246,7 +246,7 @@ have
 result
 in
 the
-needl
+needle
 death
 of
 innoc

@@ -8,7 +8,7 @@ write
 a
 program
 that
-us
+use
 the
 parallel
 port
@@ -27,7 +27,7 @@ the
 ack
 line
 is
-puls
+pul
 i
 can
 get

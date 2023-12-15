@@ -92,7 +92,7 @@ thi
 chapter
 we
 have
-discuss
+discus
 volatil
 model
 and
@@ -112,7 +112,7 @@ and
 financi
 market
 we
-discu
+discus
 the
 estim
 of
@@ -133,7 +133,7 @@ energi
 user
 we
 further
-discuss
+discus
 a
 number
 of
@@ -259,7 +259,7 @@ how
 to
 improv
 it
-pleas
+plea
 let
 me
 likewis

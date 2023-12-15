@@ -93,7 +93,7 @@ unread
 the
 chip
 then
-go
+goe
 to
 the
 next

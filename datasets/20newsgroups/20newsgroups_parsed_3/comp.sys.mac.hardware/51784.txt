@@ -1,7 +1,7 @@
 subject
 mac
 orient
-bb
+bbs
 in
 chicago
 a
@@ -17,7 +17,7 @@ look
 for
 mac
 orient
-bb
+bbs
 base
 in
 chicago

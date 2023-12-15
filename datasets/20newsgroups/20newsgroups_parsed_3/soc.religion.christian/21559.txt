@@ -102,7 +102,7 @@ effemin
 nor
 homosexu
 nor
-thief
+thiev
 nor
 the
 covet
@@ -577,7 +577,7 @@ of
 that
 marriag
 relationship
-pleas
+plea
 note
 that
 i

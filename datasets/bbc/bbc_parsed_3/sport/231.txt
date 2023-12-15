@@ -4,7 +4,7 @@ escap
 fa
 charg
 chelsea
-bo
+bos
 jose
 mourinho
 will
@@ -31,7 +31,7 @@ mourinho
 intim
 that
 unit
-bo
+bos
 sir
 alex
 ferguson
@@ -240,12 +240,12 @@ there
 wa
 also
 someon
-els
+el
 refere
 chief
 keith
 hackett
-belief
+believ
 mourinho
 should
 retract
@@ -257,10 +257,10 @@ and
 barri
 a
 he
-belief
+believ
 the
 blue
-bo
+bos
 ha
 question
 their

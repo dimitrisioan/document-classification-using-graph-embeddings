@@ -112,7 +112,7 @@ like
 ioctl
 or
 someth
-els
+el
 thank
 deepak
 deepak

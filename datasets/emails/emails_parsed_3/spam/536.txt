@@ -1495,7 +1495,7 @@ much
 need
 new
 car
-pleas
+plea
 take
 time
 to
@@ -1914,7 +1914,7 @@ poor
 a
 the
 say
-go
+goe
 the
 rich
 get
@@ -2208,7 +2208,7 @@ you
 say
 no
 way
-pleas
+plea
 read
 thi
 program
@@ -2627,7 +2627,7 @@ in
 the
 report
 posit
-pleas
+plea
 make
 sure
 you
@@ -2763,7 +2763,7 @@ to
 see
 how
 it
-go
+goe
 and
 we
 ll
@@ -3049,7 +3049,7 @@ also
 assum
 that
 everyon
-els
+el
 in
 your
 organ
@@ -3764,7 +3764,7 @@ the
 answer
 is
 ye
-pleas
+plea
 look
 at
 the
@@ -4393,7 +4393,7 @@ mail
 anoth
 program
 month
-pass
+pas
 then
 it
 came
@@ -4475,7 +4475,7 @@ s
 sake
 don
 t
-pa
+pas
 up
 thi
 golden
@@ -4577,7 +4577,7 @@ bill
 sl
 titl
 hi
-pass
+pas
 by
 the
 th
@@ -4636,7 +4636,7 @@ read
 anoth
 e
 mail
-pleas
+plea
 take
 a
 moment

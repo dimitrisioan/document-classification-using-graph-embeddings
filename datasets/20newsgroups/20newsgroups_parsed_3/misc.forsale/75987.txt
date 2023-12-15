@@ -145,7 +145,7 @@ number
 for
 these
 board
-pleas
+plea
 tell
 me
 absolut
@@ -168,7 +168,7 @@ patter
 board
 z
 sync
-bu
+bus
 control
 pacman
 filter

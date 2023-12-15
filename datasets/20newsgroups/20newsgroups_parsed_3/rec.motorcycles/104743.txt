@@ -215,7 +215,7 @@ a
 few
 bar
 no
-sens
+sen
 spend
 week
 look
@@ -336,7 +336,7 @@ relev
 call
 the
 whithors
-pe
+pes
 theyr
 a
 book

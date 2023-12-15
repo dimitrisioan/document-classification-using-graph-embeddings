@@ -1,7 +1,7 @@
 subject
 re
 park
-pa
+pas
 for
 van
 ngo
@@ -34,14 +34,14 @@ enron
 enron
 subject
 park
-pa
+pas
 for
 van
 ngo
 good
 morn
 loui
-pleas
+plea
 cancel
 the
 secom

@@ -282,7 +282,7 @@ are
 actual
 about
 someth
-els
+el
 they
 both
 look
@@ -405,7 +405,7 @@ the
 ten
 command
 and
-jesu
+jesus
 word
 in
 matt
@@ -790,7 +790,7 @@ say
 that
 the
 law
-serf
+serv
 a
 purpos
 that
@@ -799,7 +799,7 @@ been
 in
 a
 certain
-sens
+sen
 superced
 again
 thi
@@ -817,7 +817,7 @@ the
 middl
 of
 hi
-discuss
+discus
 paul
 note
 that
@@ -1066,7 +1066,7 @@ of
 st
 cent
 jewish
-discuss
+discus
 jesu
 accus
 hi
@@ -1125,7 +1125,7 @@ mat
 thi
 and
 the
-discuss
+discus
 later
 in
 mat

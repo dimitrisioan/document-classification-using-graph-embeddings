@@ -497,7 +497,7 @@ vari
 a
 with
 anyth
-els
+el
 check
 with
 your
@@ -523,7 +523,7 @@ a
 start
 point
 for
-discuss
+discus
 good
 luck
 spenser

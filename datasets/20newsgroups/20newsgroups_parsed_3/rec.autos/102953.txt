@@ -61,7 +61,7 @@ downshift
 not
 downshift
 to
-pa
+pas
 at
 are
 good
@@ -150,7 +150,7 @@ light
 when
 the
 light
-go
+goe
 green
 and
 your

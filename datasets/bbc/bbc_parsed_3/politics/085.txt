@@ -71,7 +71,7 @@ ani
 individu
 govern
 depart
-tori
+torus
 and
 lib
 dem
@@ -154,7 +154,7 @@ two
 decad
 under
 both
-tori
+torus
 and
 labour
 govern
@@ -469,7 +469,7 @@ is
 set
 up
 an
-assess
+ass
 should
 be
 made

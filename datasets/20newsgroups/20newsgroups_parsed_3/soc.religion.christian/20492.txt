@@ -13,7 +13,7 @@ do
 a
 dormitori
 bibl
-discuss
+discus
 with
 my
 christian
@@ -57,7 +57,7 @@ parabl
 etc
 our
 first
-discuss
+discus
 wa
 on
 prayer
@@ -134,7 +134,7 @@ at
 thi
 from
 the
-discuss
+discus
 i
 have
 been

@@ -134,7 +134,7 @@ with
 motorcyl
 mania
 and
-children
+child
 hospit
 and
 then
@@ -189,7 +189,7 @@ coupl
 of
 disgruntl
 member
-expos
+expo
 it
 heck
 if

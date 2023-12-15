@@ -8,7 +8,7 @@ on
 dia
 stelthx
 help
-pleas
+plea
 help
 if
 you

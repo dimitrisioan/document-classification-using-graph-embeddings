@@ -32,7 +32,7 @@ would
 know
 of
 anybodi
-els
+el
 at
 enron
 who
@@ -117,7 +117,7 @@ britta
 both
 on
 pm
-pleas
+plea
 respond
 to
 to
@@ -229,7 +229,7 @@ if
 you
 or
 someon
-els
+el
 at
 your
 compani
@@ -242,7 +242,7 @@ one
 of
 the
 topic
-pleas
+plea
 let
 me
 know
@@ -298,7 +298,7 @@ ani
 question
 or
 suggest
-pleas
+plea
 do
 not
 hesit

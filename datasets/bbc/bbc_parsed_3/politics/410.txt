@@ -3,9 +3,9 @@ to
 stand
 down
 a
-tori
+torus
 mp
-tori
+torus
 mp
 jonathan
 saye

@@ -152,7 +152,7 @@ from
 an
 origin
 one
-terabytes
+terabyte
 file
 fiona
 dean

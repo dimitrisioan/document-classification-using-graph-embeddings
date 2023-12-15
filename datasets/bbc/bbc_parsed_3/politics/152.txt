@@ -276,7 +276,7 @@ health
 servic
 and
 their
-children
+child
 futur
 than
 hunt
@@ -435,7 +435,7 @@ be
 broken
 would
 be
-pass
+pas
 onto
 polic
 he

@@ -141,7 +141,7 @@ but
 by
 no
 mean
-prof
+prove
 it
 there
 is
@@ -289,7 +289,7 @@ off
 and
 the
 road
-go
+goe
 through
 the
 same
@@ -368,7 +368,7 @@ address
 author
 and
 everyth
-els
+el
 of
 tmail
 do

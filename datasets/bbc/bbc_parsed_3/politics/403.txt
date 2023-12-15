@@ -61,7 +61,7 @@ next
 elect
 both
 the
-tori
+torus
 and
 the
 lib
@@ -226,7 +226,7 @@ the
 parti
 could
 overcom
-tori
+torus
 attempt
 to
 spread
@@ -437,7 +437,7 @@ the
 tatton
 seat
 from
-tori
+torus
 neil
 hamilton
 on

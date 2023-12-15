@@ -46,7 +46,7 @@ and
 nick
 go
 somewher
-els
+el
 with
 thi
 shool

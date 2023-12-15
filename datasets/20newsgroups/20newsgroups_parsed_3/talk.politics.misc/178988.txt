@@ -485,7 +485,7 @@ and
 if
 ye
 which
-pleas
+plea
 post
 your
 answer
@@ -507,7 +507,7 @@ access
 to
 that
 group
-pleas
+plea
 mail
 your
 answer

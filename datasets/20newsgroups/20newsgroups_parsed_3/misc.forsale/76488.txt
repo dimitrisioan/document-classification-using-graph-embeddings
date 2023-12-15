@@ -22,4 +22,4 @@ thi
 ask
 no
 offer
-pleas
+plea

@@ -187,7 +187,7 @@ receiv
 addit
 special
 offer
-pleas
+plea
 scroll
 down
 to
@@ -252,7 +252,7 @@ bill
 s
 titl
 iii
-pass
+pas
 by
 the
 th
@@ -299,7 +299,7 @@ washington
 or
 virginia
 resid
-pleas
+plea
 follow
 the
 instruct
@@ -326,7 +326,7 @@ our
 e
 mail
 list
-pleas
+plea
 click
 on
 the

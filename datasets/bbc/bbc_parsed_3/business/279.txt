@@ -5,8 +5,8 @@ talk
 with
 lse
 deutsch
-boers
-boss
+boer
+bos
 have
 held
 construct
@@ -31,7 +31,7 @@ lse
 chief
 execut
 clara
-furs
+fur
 amid
 rumour
 the
@@ -108,7 +108,7 @@ news
 came
 a
 deutsch
-boers
+boer
 held
 it
 third
@@ -159,7 +159,7 @@ in
 the
 interest
 of
-l
+lse
 sharehold
 and
 custom
@@ -265,7 +265,7 @@ be
 week
 away
 deutsch
-boers
+boer
 could
 also
 face
@@ -282,13 +282,13 @@ report
 to
 have
 been
-discuss
+discus
 by
 mr
 seifert
 with
 m
-furs
+fur
 were
 plan
 to
@@ -336,7 +336,7 @@ in
 frankfurt
 someth
 deutsch
-boers
+boer
 could
 move
 to
@@ -350,7 +350,7 @@ the
 headquart
 of
 the
-boers
+boer
 but
 also
 import

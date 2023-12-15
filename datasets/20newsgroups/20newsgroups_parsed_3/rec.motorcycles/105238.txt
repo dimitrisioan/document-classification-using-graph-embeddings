@@ -55,7 +55,7 @@ the
 front
 wheel
 actual
-rever
+revers
 direct
 turn
 backward

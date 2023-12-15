@@ -40,7 +40,7 @@ to
 place
 an
 order
-pleas
+plea
 leav
 your
 name
@@ -51,7 +51,7 @@ best
 time
 to
 call
-pleas
+plea
 click
 here
 to
@@ -60,6 +60,6 @@ remov
 from
 further
 mail
-pleas
+plea
 click
 here

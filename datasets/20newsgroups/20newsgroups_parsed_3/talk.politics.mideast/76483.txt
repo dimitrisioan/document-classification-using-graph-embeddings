@@ -755,7 +755,7 @@ shamir
 to
 negoti
 or
-els
+el
 if
 the
 creation
@@ -959,7 +959,7 @@ to
 agre
 to
 anyth
-els
+el
 the
 real
 issu

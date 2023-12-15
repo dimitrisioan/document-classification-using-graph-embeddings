@@ -373,7 +373,7 @@ project
 and
 tie
 up
-loos
+loo
 end
 on
 go
@@ -423,7 +423,7 @@ forecast
 verif
 like
 houston
-loos
+loo
 end
 contract
 with

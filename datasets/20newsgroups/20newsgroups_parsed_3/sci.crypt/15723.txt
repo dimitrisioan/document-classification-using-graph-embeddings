@@ -65,7 +65,7 @@ vector
 no
 diseas
 vector
-pleas
+plea
 ef
 e
 ad

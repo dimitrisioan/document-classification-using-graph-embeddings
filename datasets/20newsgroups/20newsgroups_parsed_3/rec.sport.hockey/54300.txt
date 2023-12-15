@@ -141,7 +141,7 @@ i
 caught
 a
 sig
-curs
+cur
 from
 nelson
 first

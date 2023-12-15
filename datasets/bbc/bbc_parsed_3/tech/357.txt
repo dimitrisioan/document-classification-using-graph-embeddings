@@ -22,7 +22,7 @@ pump
 out
 spam
 and
-viru
+virus
 the
 huge
 number
@@ -319,7 +319,7 @@ a
 launch
 platform
 for
-viru
+virus
 but
 the
 research
@@ -332,7 +332,7 @@ put
 to
 veri
 differ
-us
+use
 dure
 the
 monitor

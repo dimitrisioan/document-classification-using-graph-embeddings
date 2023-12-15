@@ -70,7 +70,7 @@ which
 a
 compani
 is
-expos
+expo
 to
 and
 would
@@ -188,7 +188,7 @@ length
 and
 doe
 not
-pa
+pas
 the
 smell
 test
@@ -359,7 +359,7 @@ digit
 put
 to
 somebodi
-els
+el
 that
 i
 can

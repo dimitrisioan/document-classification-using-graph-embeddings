@@ -200,7 +200,7 @@ core
 will
 final
 be
-expos
+expo
 a
 weak
 an

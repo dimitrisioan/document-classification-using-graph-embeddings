@@ -180,7 +180,7 @@ cost
 that
 are
 just
-pass
+pas
 on
 to
 consum

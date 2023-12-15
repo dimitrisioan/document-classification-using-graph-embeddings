@@ -107,7 +107,7 @@ of
 the
 present
 then
-pleas
+plea
 just
 print
 the

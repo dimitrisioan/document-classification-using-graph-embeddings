@@ -110,7 +110,7 @@ and
 on
 occas
 isol
-focu
+focus
 of
 intralobular
 necrosi

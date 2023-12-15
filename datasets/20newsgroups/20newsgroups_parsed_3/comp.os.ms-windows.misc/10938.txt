@@ -17,7 +17,7 @@ pctool
 demo
 from
 compuserv
-pleas
+plea
 upload
 it
 to

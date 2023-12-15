@@ -3,7 +3,7 @@ budget
 hi
 dale
 follow
-discuss
+discus
 with
 vinc
 grant
@@ -128,7 +128,7 @@ if
 you
 want
 to
-discu
+discus
 ani
 of
 these

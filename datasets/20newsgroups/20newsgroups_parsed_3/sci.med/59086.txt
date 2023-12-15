@@ -1,6 +1,6 @@
 subject
 modifi
-sens
+sen
 of
 tast
 in
@@ -16,7 +16,7 @@ of
 food
 or
 a
-sens
+sen
 of
 tast
 that

@@ -55,7 +55,7 @@ push
 the
 can
 someon
-pleas
+plea
 tell
 me
 what
@@ -179,7 +179,7 @@ is
 no
 way
 of
-expos
+expo
 the
 eprom
 array

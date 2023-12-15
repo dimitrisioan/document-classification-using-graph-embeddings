@@ -20,7 +20,7 @@ call
 of
 duti
 franchis
-leaf
+leav
 fan
 of
 wartim
@@ -599,7 +599,7 @@ it
 pc
 parent
 the
-sens
+sen
 of
 be
 part

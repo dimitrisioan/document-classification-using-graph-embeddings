@@ -32,13 +32,13 @@ label
 it
 might
 not
-pleas
+plea
 a
 medic
 research
 but
 it
-pleas
+plea
 my
 own
 person
@@ -187,7 +187,7 @@ fine
 but
 it
 ha
-pass
+pas
 the
 safeti
 test
@@ -343,7 +343,7 @@ at
 one
 of
 the
-chines
+chine
 restaur
 the
 day

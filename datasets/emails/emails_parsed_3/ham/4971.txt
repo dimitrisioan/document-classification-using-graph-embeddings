@@ -154,7 +154,7 @@ subject
 resum
 dear
 vinc
-pleas
+plea
 find
 attach
 a
@@ -205,7 +205,7 @@ group
 within
 thi
 area
-pleas
+plea
 let
 me
 know
@@ -247,7 +247,7 @@ job
 opportun
 with
 enron
-pleas
+plea
 let
 me
 know
@@ -255,7 +255,7 @@ if
 there
 is
 anyth
-els
+el
 i
 can
 do
@@ -284,7 +284,7 @@ you
 my
 park
 permit
-pleas
+plea
 contact
 me
 if

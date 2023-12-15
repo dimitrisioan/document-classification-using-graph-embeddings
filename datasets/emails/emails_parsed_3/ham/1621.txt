@@ -12,7 +12,7 @@ prompt
 return
 call
 a
-discuss
+discus
 pl
 find
 attach
@@ -80,12 +80,12 @@ your
 review
 and
 addit
-discuss
+discus
 re
 best
 fit
 a
-discuss
+discus
 it
 s
 best
@@ -101,7 +101,7 @@ newsoussan
 iwon
 com
 or
-els
+el
 pl
 leav
 me

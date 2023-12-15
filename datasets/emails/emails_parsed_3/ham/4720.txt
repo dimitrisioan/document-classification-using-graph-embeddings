@@ -178,7 +178,7 @@ tool
 add
 in
 and
-brows
+brow
 to
 reach
 the
@@ -217,7 +217,7 @@ in
 run
 specif
 exampl
-pleas
+plea
 let
 me
 vinc

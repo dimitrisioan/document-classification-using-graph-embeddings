@@ -43,7 +43,7 @@ in
 spection
 station
 and
-pass
+pas
 with
 no
 problem
@@ -167,7 +167,7 @@ best
 of
 both
 world
-ru
+rus
 hugh
 fxstc
 dod

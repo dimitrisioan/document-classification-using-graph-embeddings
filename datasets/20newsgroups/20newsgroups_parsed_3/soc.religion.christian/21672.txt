@@ -19,7 +19,7 @@ not
 clear
 which
 name
-go
+goe
 with
 which
 level
@@ -146,7 +146,7 @@ within
 the
 marriag
 relationship
-els
+el
 they
 would
 not

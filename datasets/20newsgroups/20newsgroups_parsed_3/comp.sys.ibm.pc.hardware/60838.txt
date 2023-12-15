@@ -71,7 +71,7 @@ is
 use
 help
 me
-pleas
+plea
 at
 kevin
 p
@@ -627,7 +627,7 @@ modem
 a
 cabl
 that
-pass
+pas
 through
 sg
 and
@@ -1097,7 +1097,7 @@ with
 one
 packag
 that
-us
+use
 rtsct
 and
 dtrdsr
@@ -1351,7 +1351,7 @@ cours
 the
 sg
 must
-pa
+pas
 through
 thi
 null

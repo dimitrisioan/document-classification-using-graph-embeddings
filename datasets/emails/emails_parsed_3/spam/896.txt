@@ -73,7 +73,7 @@ get
 thi
 onc
 so
-pleas
+plea
 do
 noth
 if
@@ -359,7 +359,7 @@ money
 for
 some
 one
-els
+el
 we
 want
 the

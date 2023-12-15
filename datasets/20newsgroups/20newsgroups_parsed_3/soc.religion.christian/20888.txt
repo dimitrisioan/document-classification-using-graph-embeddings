@@ -332,9 +332,9 @@ add
 and
 anybodi
 who
-belief
+believ
 anyth
-els
+el
 is
 damn
 then
@@ -406,13 +406,13 @@ arrog
 in
 a
 certain
-sens
+sen
 though
 onli
 in
 the
 same
-sens
+sen
 a
 call
 the
@@ -441,7 +441,7 @@ but
 not
 christian
 for
-pass
+pas
 it
 on
 given

@@ -14,7 +14,7 @@ effect
 where
 the
 doctor
-belief
+believ
 so
 strongli
 in
@@ -248,7 +248,7 @@ are
 anim
 such
 a
-mous
+mouse
 there
 were
 mani
@@ -274,7 +274,7 @@ so
 import
 to
 make
-mous
+mouse
 more
 ignor
 than

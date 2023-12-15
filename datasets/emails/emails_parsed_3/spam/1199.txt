@@ -153,7 +153,7 @@ profit
 when
 the
 market
-go
+goe
 up
 down
 or
@@ -305,7 +305,7 @@ profit
 when
 a
 stock
-go
+goe
 up
 down
 or

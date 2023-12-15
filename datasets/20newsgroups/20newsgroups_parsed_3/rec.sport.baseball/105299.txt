@@ -17,7 +17,7 @@ frame
 for
 bat
 speed
-discuss
+discus
 ommit
 well
 it
@@ -191,7 +191,7 @@ part
 of
 the
 ball
-pass
+pas
 through
 the
 strike

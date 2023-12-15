@@ -142,7 +142,7 @@ unit
 sanitari
 materi
 hypoderm
-syrinx
+syring
 hemostat
 clamp
 etc
@@ -341,7 +341,7 @@ remov
 from
 our
 list
-pleas
+plea
 return
 u
 indic

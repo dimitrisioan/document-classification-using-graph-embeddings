@@ -12,7 +12,7 @@ scope
 in
 good
 condit
-pleas
+plea
 email
 me
 or

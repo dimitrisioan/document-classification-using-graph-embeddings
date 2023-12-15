@@ -157,7 +157,7 @@ bid
 to
 cope
 and
-eas
+ea
 congest
 provid
 are

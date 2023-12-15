@@ -134,7 +134,7 @@ word
 ensur
 the
 argument
-go
+goe
 on
 and
 on
@@ -245,7 +245,7 @@ two
 prison
 the
 stori
-go
+goe
 that
 two
 prison

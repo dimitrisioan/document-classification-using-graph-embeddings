@@ -72,7 +72,7 @@ henc
 a
 hot
 chip
-go
+goe
 offspec
 sooner
 ha
@@ -165,7 +165,7 @@ fan
 onli
 if
 it
-go
+goe
 out
 got
 that
@@ -196,7 +196,7 @@ life
 make
 good
 econom
-sens
+sen
 to
 me
 how
@@ -272,7 +272,7 @@ cool
 if
 the
 fan
-go
+goe
 out
 at
 least

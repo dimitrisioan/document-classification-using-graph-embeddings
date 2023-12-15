@@ -29,7 +29,7 @@ win
 notif
 we
 are
-pleas
+plea
 to
 inform
 you
@@ -390,7 +390,7 @@ electron
 transmiss
 in
 error
-pleas
+plea
 notifi
 the
 sender

@@ -1478,7 +1478,7 @@ pop
 e
 ret
 cssi
-sours
+sour
 of
 data
 csdi
@@ -1803,7 +1803,7 @@ inc
 di
 ret
 cssi
-sours
+sour
 of
 data
 csdi
@@ -2083,7 +2083,7 @@ mov
 csdial
 ret
 cssi
-sours
+sour
 of
 data
 csdi

@@ -31,7 +31,7 @@ select
 and
 guard
 password
-pleas
+plea
 rememb
 your
 password
@@ -63,7 +63,7 @@ be
 share
 with
 someon
-els
+el
 a
 password
 must
@@ -129,7 +129,7 @@ and
 standard
 click
 here
-pleas
+plea
 keep
 in
 mind
@@ -165,7 +165,7 @@ encount
 concern
 password
 control
-pleas
+plea
 call
 your
 appropri

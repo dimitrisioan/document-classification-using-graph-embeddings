@@ -131,7 +131,7 @@ read
 to
 care
 vlbide
-us
+use
 the
 same
 connect
@@ -883,7 +883,7 @@ again
 doe
 it
 make
-sens
+sen
 to
 go
 scsi
@@ -1030,7 +1030,7 @@ in
 and
 away
 it
-go
+goe
 so
 the
 c

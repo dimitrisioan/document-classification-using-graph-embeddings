@@ -76,7 +76,7 @@ pinout
 power
 requir
 function
-pleas
+plea
 send
 me
 email

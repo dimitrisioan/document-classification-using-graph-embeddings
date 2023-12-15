@@ -439,7 +439,7 @@ god
 is
 abov
 time
-pa
+pas
 directli
 from
 death

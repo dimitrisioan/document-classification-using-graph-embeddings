@@ -17,5 +17,5 @@ all
 help
 through
 email
-pleas
+plea
 scotti

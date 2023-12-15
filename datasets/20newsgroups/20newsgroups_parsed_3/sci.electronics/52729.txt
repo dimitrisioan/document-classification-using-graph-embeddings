@@ -89,7 +89,7 @@ on
 nonturbomod
 the
 speed
-go
+goe
 to
 mhz
 and
@@ -98,7 +98,7 @@ c
 ad
 doesnt
 work
-pleas
+plea
 mail
 your
 view
@@ -121,7 +121,7 @@ but
 some
 nonstnadard
 isa
-bu
+buse
 do
 have
 higher

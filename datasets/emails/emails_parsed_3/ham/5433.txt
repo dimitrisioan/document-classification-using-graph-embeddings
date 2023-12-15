@@ -124,7 +124,7 @@ share
 a
 singl
 subscript
-pleas
+plea
 tell
 me
 whether
@@ -148,7 +148,7 @@ alloc
 your
 cost
 share
-pleas
+plea
 indic
 your
 choic
@@ -350,10 +350,10 @@ to
 you
 today
 a
-discuss
+discus
 poten
 is
-pleas
+plea
 to
 offer
 enron
@@ -893,7 +893,7 @@ ani
 money
 to
 anyon
-els
+el
 in
 ene
 then

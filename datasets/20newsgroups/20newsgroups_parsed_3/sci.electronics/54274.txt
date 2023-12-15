@@ -45,7 +45,7 @@ cr
 where
 the
 part
-go
+goe
 possibl
 an
 scr
@@ -56,7 +56,7 @@ g
 on
 the
 board
-go
+goe
 to
 a
 zener
@@ -67,7 +67,7 @@ the
 pin
 label
 t
-go
+goe
 to
 the
 neg
@@ -84,7 +84,7 @@ the
 pin
 label
 t
-go
+goe
 to
 the
 neg
@@ -115,7 +115,7 @@ one
 just
 like
 it
-pleas
+plea
 email
 me
 at
@@ -152,7 +152,7 @@ me
 it
 make
 no
-sens
+sen
 to
 me
 thank

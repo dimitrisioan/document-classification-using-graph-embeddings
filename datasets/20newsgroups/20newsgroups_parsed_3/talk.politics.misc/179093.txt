@@ -2,7 +2,7 @@ subject
 re
 waco
 burnout
-ru
+rus
 anderson
 write
 in
@@ -77,7 +77,7 @@ carmel
 complex
 a
 few
-year
+years
 ago
 in
 a

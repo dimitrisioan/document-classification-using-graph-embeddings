@@ -17,7 +17,7 @@ compress
 ratio
 at
 use
-do
+dos
 doubl
 disk
 do
@@ -25,7 +25,7 @@ i
 have
 to
 format
-eras
+era
 everyth
 to
 doubl

@@ -84,7 +84,7 @@ to
 memori
 ide
 also
-us
+use
 dma
 techniqu
 i
@@ -92,7 +92,7 @@ believ
 floppi
 control
 also
-us
+use
 dma
 and
 most

@@ -149,7 +149,7 @@ are
 use
 and
 what
-els
+el
 is
 exclud
 dure
@@ -377,7 +377,7 @@ six
 day
 eat
 noth
-els
+el
 dure
 the
 six
@@ -477,7 +477,7 @@ the
 seasalt
 soda
 bath
-pleas
+plea
 keep
 an
 open
@@ -851,7 +851,7 @@ never
 take
 larg
 concentr
-do
+dose
 of
 laetril
 oral
@@ -1037,7 +1037,7 @@ eat
 or
 drink
 anyth
-els
+el
 appli
 hydrogenperoxid
 directli
@@ -1082,7 +1082,7 @@ combin
 togeth
 in
 mega
-do
+dose
 into
 singl
 tablet
@@ -1135,7 +1135,7 @@ replac
 with
 daili
 minut
-do
+dose
 of
 pulsat
 maxwel

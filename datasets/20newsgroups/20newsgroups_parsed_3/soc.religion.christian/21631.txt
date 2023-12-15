@@ -95,7 +95,7 @@ genesi
 hi
 latin
 clearli
-us
+use
 the
 feminin
 but

@@ -14,7 +14,7 @@ the
 window
 icon
 olwm
-us
+use
 for
 thing
 like

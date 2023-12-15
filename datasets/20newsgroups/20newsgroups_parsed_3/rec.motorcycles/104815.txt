@@ -95,7 +95,7 @@ will
 panic
 when
 one
-go
+goe
 on
 attack
 they

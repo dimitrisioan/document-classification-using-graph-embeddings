@@ -61,7 +61,7 @@ the
 year
 end
 perform
-assess
+ass
 process
 the
 logist
@@ -75,7 +75,7 @@ pm
 locat
 eb
 c
-pleas
+plea
 rsvp
 to
 constanc

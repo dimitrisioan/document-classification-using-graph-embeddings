@@ -72,7 +72,7 @@ i
 know
 we
 have
-discuss
+discus
 thi
 matter
 mani
@@ -127,7 +127,7 @@ specif
 situat
 after
 our
-discuss
+discus
 yesterday
 i
 understand
@@ -216,7 +216,7 @@ energi
 oper
 i
 am
-pleas
+plea
 to
 announc
 the
@@ -250,7 +250,7 @@ of
 enron
 north
 america
-pleas
+plea
 join
 me
 in
@@ -266,7 +266,7 @@ senior
 director
 kristin
 albrecht
-serf
+serv
 a
 busi
 control
@@ -279,7 +279,7 @@ busi
 along
 with
 lesli
-reef
+reev
 kristin
 ensur
 that
@@ -323,7 +323,7 @@ genco
 oper
 brenda
 herod
-serf
+serv
 a
 busi
 control
@@ -371,7 +371,7 @@ enron
 midstream
 servic
 lesli
-reef
+reev
 is
 a
 busi
@@ -492,7 +492,7 @@ to
 director
 scott
 pleu
-serf
+serv
 a
 busi
 control
@@ -882,7 +882,7 @@ ga
 logist
 peggi
 also
-serf
+serv
 a
 a
 key

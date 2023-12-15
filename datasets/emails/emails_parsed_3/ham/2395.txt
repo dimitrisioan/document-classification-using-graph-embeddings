@@ -61,7 +61,7 @@ the
 elba
 island
 project
-pleas
+plea
 see
 point
 elba
@@ -590,7 +590,7 @@ info
 yet
 can
 you
-pleas
+plea
 let
 me
 know

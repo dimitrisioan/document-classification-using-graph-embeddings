@@ -191,7 +191,7 @@ sanguini
 acceptabilemqu
 facer
 wholli
-pleas
+plea
 in
 everi
 jesu
@@ -251,7 +251,7 @@ sui
 accepit
 panem
 in
-sancta
+sanctum
 ac
 suffer
 took
@@ -275,7 +275,7 @@ te
 sanct
 pater
 elevati
-oculi
+oculus
 in
 ccelum
 hand
@@ -414,7 +414,7 @@ chalic
 accepit
 respexit
 in
-sancta
+sanctum
 ac
 venerabil
 manu
@@ -939,7 +939,7 @@ most
 ancient
 wit
 we
-poss
+posse
 a
 to
 the
@@ -979,7 +979,7 @@ of
 de
 sacramenti
 is
-discuss
+discus
 by
 liturgiologist
 mgr

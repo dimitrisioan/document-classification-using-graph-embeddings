@@ -67,7 +67,7 @@ away
 win
 and
 noth
-els
+el
 said
 manag
 marco
@@ -164,7 +164,7 @@ dal
 maso
 treviso
 s
-pariss
+paris
 treviso
 g
 intoppa

@@ -135,7 +135,7 @@ either
 make
 a
 bad
-pa
+pas
 result
 in
 a

@@ -22,7 +22,7 @@ on
 a
 machin
 that
-us
+use
 ndi
 to
 connect

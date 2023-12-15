@@ -13,7 +13,7 @@ project
 also
 if
 requir
-pleas
+plea
 do
 not
 forget
@@ -54,7 +54,7 @@ ani
 question
 or
 queri
-pleas
+plea
 do
 not
 hesit

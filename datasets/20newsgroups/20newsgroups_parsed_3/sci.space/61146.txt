@@ -205,7 +205,7 @@ with
 send
 space
 faqmanifest
-pleas
+plea
 get
 thi
 document

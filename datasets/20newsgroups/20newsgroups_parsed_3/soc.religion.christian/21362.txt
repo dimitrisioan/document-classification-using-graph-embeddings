@@ -55,7 +55,7 @@ marriag
 is
 nt
 realli
-discuss
+discus
 in
 the
 bibl
@@ -159,7 +159,7 @@ that
 marriag
 is
 not
-discuss
+discus
 in
 the
 bibl
@@ -172,7 +172,7 @@ aspect
 of
 marriag
 are
-discuss
+discus
 in
 some
 of

@@ -257,7 +257,7 @@ head
 x
 amorph
 alloy
-eras
+era
 head
 x
 doubl

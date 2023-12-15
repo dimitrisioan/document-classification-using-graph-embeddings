@@ -1,7 +1,7 @@
 subject
 re
 dolor
-pleas
+plea
 regist
 me
 for
@@ -157,7 +157,7 @@ time
 for
 each
 session
-pleas
+plea
 select
 a
 date

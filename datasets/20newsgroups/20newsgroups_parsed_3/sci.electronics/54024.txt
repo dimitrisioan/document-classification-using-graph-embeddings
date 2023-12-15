@@ -69,14 +69,14 @@ a
 target
 radar
 gener
-us
-puls
+use
+pul
 while
 radio
 altimet
 use
 either
-puls
+pul
 or
 a
 modul

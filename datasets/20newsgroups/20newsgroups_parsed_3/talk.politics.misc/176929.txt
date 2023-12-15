@@ -866,7 +866,7 @@ will
 of
 the
 peopl
-serf
+serv
 a
 the
 basi
@@ -1399,7 +1399,7 @@ door
 even
 casement
 window
-sens
+sen
 the
 danger
 amon

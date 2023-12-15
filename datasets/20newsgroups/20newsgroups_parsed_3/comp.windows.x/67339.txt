@@ -86,7 +86,7 @@ becaus
 the
 hardwar
 actual
-life
+live
 in
 yuv
 space
@@ -217,7 +217,7 @@ easier
 for
 you
 to
-expos
+expo
 bit
 pseudocolor
 a

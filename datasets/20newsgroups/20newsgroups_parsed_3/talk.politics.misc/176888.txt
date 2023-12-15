@@ -380,7 +380,7 @@ to
 make
 what
 littl
-sens
+sen
 it
 manag
 to

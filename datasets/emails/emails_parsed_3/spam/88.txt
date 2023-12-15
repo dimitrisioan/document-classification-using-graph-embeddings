@@ -3,7 +3,7 @@ enjoy
 medium
 ejym
 enter
-chines
+chine
 tv
 advertis
 market
@@ -11,7 +11,7 @@ enjoy
 medium
 ejym
 a
-chines
+chine
 medium
 compani
 on
@@ -21,7 +21,7 @@ track
 by
 sign
 up
-chines
+chine
 advertis
 client
 enjoy
@@ -59,7 +59,7 @@ servic
 compani
 in
 china
-discu
+discus
 about
 the
 compani
@@ -245,7 +245,7 @@ the
 compani
 said
 the
-chines
+chine
 advertis
 industri
 is
@@ -494,7 +494,7 @@ inform
 about
 enjoy
 medium
-pleas
+plea
 visit
 http
 www
@@ -630,7 +630,7 @@ book
 base
 on
 popular
-chines
+chine
 folklor
 showgood
 current
@@ -669,7 +669,7 @@ favor
 for
 showgood
 a
-chines
+chine
 audienc
 are
 increasingli
@@ -679,7 +679,7 @@ see
 local
 made
 anim
-chines
+chine
 author
 recent
 sent
@@ -803,7 +803,7 @@ start
 thi
 month
 the
-chines
+chine
 travel
 industri
 a
@@ -818,7 +818,7 @@ grow
 significantli
 a
 the
-chines
+chine
 govern
 relax
 the
@@ -853,7 +853,7 @@ the
 new
 demand
 from
-chines
+chine
 travel
 enjoy
 medium
@@ -1039,7 +1039,7 @@ statement
 contain
 term
 like
-belief
+believ
 doe
 not
 believ

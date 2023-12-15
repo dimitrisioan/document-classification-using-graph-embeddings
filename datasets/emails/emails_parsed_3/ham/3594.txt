@@ -11,7 +11,7 @@ a
 lot
 i
 have
-pass
+pas
 thi
 inform
 to
@@ -264,7 +264,7 @@ will
 caus
 an
 rf
-puls
+pul
 that
 should
 propog
@@ -277,7 +277,7 @@ transform
 will
 attenu
 the
-puls
+pul
 howev
 it
 should

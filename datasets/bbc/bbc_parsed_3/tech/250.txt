@@ -262,7 +262,7 @@ most
 benign
 exploit
 lazi
-brows
+brow
 habit
 to
 instal

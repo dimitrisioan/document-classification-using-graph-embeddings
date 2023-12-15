@@ -191,7 +191,7 @@ them
 more
 bargain
 power
-pleas
+plea
 help
 me
 i
@@ -239,7 +239,7 @@ price
 are
 negoti
 truman
-pleas
+plea
 email
 and
 tell

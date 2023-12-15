@@ -48,7 +48,7 @@ for
 an
 inform
 and
-discuss
+discus
 forum
 for
 sco
@@ -226,7 +226,7 @@ dec
 to
 provid
 a
-discuss
+discus
 area
 for
 the
@@ -349,7 +349,7 @@ the
 mail
 list
 the
-discuss
+discus
 newsgroup
 are
 bidirect
@@ -580,7 +580,7 @@ to
 your
 site
 we
-loos
+loo
 a
 hand
 of
@@ -594,7 +594,7 @@ thi
 happen
 to
 you
-pleas
+plea
 email
 u
 your
@@ -654,7 +654,7 @@ and
 of
 cours
 result
-discuss
+discus
 bizscoannounc
 sco
 and

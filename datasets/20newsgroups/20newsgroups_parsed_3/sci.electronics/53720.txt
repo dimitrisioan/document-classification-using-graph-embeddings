@@ -68,7 +68,7 @@ on
 thi
 subject
 avail
-pleas
+plea
 repli
 vi
 email

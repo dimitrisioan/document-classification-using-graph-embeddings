@@ -86,7 +86,7 @@ widget
 with
 xtappiniti
 i
-pass
+pas
 a
 a
 applicationclass
@@ -106,7 +106,7 @@ width
 use
 xtsetarg
 and
-pass
+pas
 it
 to
 the

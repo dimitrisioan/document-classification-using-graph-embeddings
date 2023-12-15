@@ -98,7 +98,7 @@ know
 cd
 player
 ect
-pleas
+plea
 if
 you
 are

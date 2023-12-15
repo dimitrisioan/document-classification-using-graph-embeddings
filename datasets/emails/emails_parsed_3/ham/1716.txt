@@ -43,7 +43,7 @@ hi
 scott
 a
 we
-discuss
+discus
 i
 will
 be
@@ -88,7 +88,7 @@ vasant
 amitava
 and
 i
-discuss
+discus
 my
 stay
 and
@@ -136,7 +136,7 @@ add
 to
 thi
 list
-pleas
+plea
 let
 me
 know

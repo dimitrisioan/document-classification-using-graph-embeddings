@@ -108,7 +108,7 @@ and
 copi
 protect
 devic
-pleas
+plea
 respond
 by
 email

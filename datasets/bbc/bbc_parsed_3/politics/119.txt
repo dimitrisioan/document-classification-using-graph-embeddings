@@ -1,6 +1,6 @@
 lord
 scarman
-dy
+die
 peac
 distinguish
 lawyer
@@ -122,7 +122,7 @@ said
 the
 peer
 who
-pass
+pas
 away
 peac
 on
@@ -381,7 +381,7 @@ systemat
 ignor
 by
 everyon
-els
+el
 wa
 suddenli
 embrac

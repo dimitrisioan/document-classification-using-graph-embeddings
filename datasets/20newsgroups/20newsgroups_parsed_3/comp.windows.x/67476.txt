@@ -371,7 +371,7 @@ xmptablegetproposedchilds
 tw
 xmptablesaveproposedlayout
 tw
-els
+el
 the
 resiz
 ha
@@ -469,7 +469,7 @@ xptablegetproposedchilds
 tw
 xptablesaveproposedlayout
 tw
-els
+el
 the
 resiz
 ha

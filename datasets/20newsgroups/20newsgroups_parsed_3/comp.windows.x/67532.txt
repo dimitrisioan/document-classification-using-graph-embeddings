@@ -5,7 +5,7 @@ xcleararea
 hi
 could
 some
-pleas
+plea
 tell
 me
 the
@@ -72,7 +72,7 @@ there
 even
 if
 i
-pa
+pas
 xcleararea
 a
 fals
@@ -93,7 +93,7 @@ is
 still
 there
 help
-pleas
+plea
 thank
 randi
 pari

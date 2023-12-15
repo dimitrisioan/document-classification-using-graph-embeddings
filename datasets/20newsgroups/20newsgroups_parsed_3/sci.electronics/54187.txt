@@ -61,7 +61,7 @@ ha
 endow
 u
 with
-sens
+sen
 theoret
 physic
 reason

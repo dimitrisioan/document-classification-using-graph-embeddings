@@ -118,7 +118,7 @@ who
 program
 in
 their
-half
+halv
 of
 the
 key

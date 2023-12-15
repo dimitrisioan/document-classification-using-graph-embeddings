@@ -347,7 +347,7 @@ for
 multiton
 payload
 anywher
-els
+el
 if
 the
 dc
@@ -509,7 +509,7 @@ serious
 propos
 thi
 refer
-pleas
+plea
 the
 dc
 must
@@ -541,7 +541,7 @@ hand
 argument
 your
 common
-sens
+sen
 tell
 you
 if

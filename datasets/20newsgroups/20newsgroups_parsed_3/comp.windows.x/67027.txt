@@ -97,7 +97,7 @@ colorpixel
 color
 colorgreen
 colorblu
-els
+el
 printfn
 error
 couldnt
@@ -173,7 +173,7 @@ helpinform
 will
 be
 appreci
-pleas
+plea
 send
 mail
 to

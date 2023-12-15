@@ -16,7 +16,7 @@ compaq
 eisa
 deskpro
 machin
-pleas
+plea
 repli
 prefer
 via

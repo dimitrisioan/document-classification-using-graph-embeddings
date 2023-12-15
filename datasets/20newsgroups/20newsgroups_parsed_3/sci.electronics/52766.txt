@@ -250,7 +250,7 @@ the
 horizont
 rang
 probabl
-go
+goe
 lower
 than
 but
@@ -259,7 +259,7 @@ dont
 know
 if
 it
-go
+goe
 all
 the
 way

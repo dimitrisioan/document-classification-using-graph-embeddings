@@ -77,7 +77,7 @@ in
 swedish
 out
 of
-curios
+curio
 i
 went
 to
@@ -391,7 +391,7 @@ you
 want
 their
 address
-pleas
+plea
 email
 me
 ceci

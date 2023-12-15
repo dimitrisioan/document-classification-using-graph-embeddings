@@ -9,7 +9,7 @@ garrod
 write
 in
 articl
-ru
+rus
 anderson
 write
 look
@@ -220,7 +220,7 @@ the
 videotap
 howev
 someon
-els
+el
 identifi
 a
 fire
@@ -524,7 +524,7 @@ have
 been
 tape
 everyth
-els
+el
 you
 wouldnt
 beleiv

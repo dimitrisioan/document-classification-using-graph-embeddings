@@ -328,7 +328,7 @@ thi
 case
 it
 make
-sens
+sen
 to
 tent
 treat
@@ -359,7 +359,7 @@ test
 secondli
 it
 make
-sens
+sen
 to
 be
 more
@@ -500,7 +500,7 @@ look
 for
 idea
 and
-hypothesi
+hypothes
 which
 might
 be

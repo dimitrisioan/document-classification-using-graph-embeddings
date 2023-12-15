@@ -27,7 +27,7 @@ date
 fri
 apr
 gmt
-discuss
+discus
 delet
 good
 for
@@ -184,7 +184,7 @@ like
 the
 most
 aesthet
-pleas
+plea
 player
 to
 ever
@@ -229,7 +229,7 @@ thi
 crap
 about
 cogent
-arguments
+argument
 yet
 to
 read
@@ -499,7 +499,7 @@ of
 them
 is
 worth
-discuss
+discus
 how
 mani
 individu
@@ -511,7 +511,7 @@ dont
 rememb
 onc
 again
-pleas
+plea
 feel
 free
 to
@@ -802,7 +802,7 @@ whi
 bring
 up
 everybodi
-els
+el
 how
 doe
 it

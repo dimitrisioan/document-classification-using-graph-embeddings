@@ -83,7 +83,7 @@ from
 file
 geodeagif
 it
-us
+use
 a
 space
 shuttl
@@ -486,7 +486,7 @@ solar
 panel
 thi
 design
-us
+use
 most
 of
 the
@@ -546,7 +546,7 @@ orbit
 seem
 more
 like
-pleas
+plea
 note
 that
 thi

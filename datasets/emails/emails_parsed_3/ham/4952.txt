@@ -2,7 +2,7 @@ subject
 re
 check
 vinc
-pleas
+plea
 find
 attach
 an
@@ -53,7 +53,7 @@ split
 thi
 expens
 intern
-pleas
+plea
 send
 it
 to
@@ -87,7 +87,7 @@ inform
 me
 that
 she
-pass
+pas
 it
 along
 to

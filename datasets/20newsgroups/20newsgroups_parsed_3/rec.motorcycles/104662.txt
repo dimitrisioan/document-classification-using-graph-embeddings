@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 mike
 sixsmith
@@ -193,7 +193,7 @@ veri
 fast
 but
 it
-prof
+prove
 that
 you
 can

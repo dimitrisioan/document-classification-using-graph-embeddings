@@ -59,8 +59,8 @@ if
 you
 need
 anyth
-els
-pleas
+el
+plea
 let
 me
 know
@@ -112,7 +112,7 @@ the
 registr
 could
 you
-pleas
+plea
 provid
 and
 confirm
@@ -162,7 +162,7 @@ hyatt
 in
 downtown
 houston
-pleas
+plea
 contact
 me
 if
@@ -199,7 +199,7 @@ good
 afternoon
 professor
 strickland
-pleas
+plea
 regist
 vinc
 kaminski
@@ -223,7 +223,7 @@ for
 march
 and
 st
-pleas
+plea
 forward
 method
 of
@@ -264,7 +264,7 @@ energi
 deriv
 cours
 shirley
-pleas
+plea
 enrol
 me
 in
@@ -630,7 +630,7 @@ behaviour
 build
 forward
 curv
-assess
+ass
 avail
 model
 the
@@ -830,7 +830,7 @@ hedg
 an
 energi
 portfolio
-pleas
+plea
 feel
 free
 to
@@ -1061,7 +1061,7 @@ issu
 what
 is
 var
-us
+use
 of
 var
 type

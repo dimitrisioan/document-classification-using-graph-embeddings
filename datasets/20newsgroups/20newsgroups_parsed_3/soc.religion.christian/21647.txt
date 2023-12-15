@@ -110,7 +110,7 @@ in
 thi
 book
 hanegraaff
-discu
+discus
 such
 leader
 of
@@ -288,7 +288,7 @@ go
 to
 have
 a
-discuss
+discus
 of
 book
 here

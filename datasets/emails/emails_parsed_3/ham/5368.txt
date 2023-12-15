@@ -6,7 +6,7 @@ energi
 and
 weather
 vinc
-pleas
+plea
 find
 attach
 a
@@ -42,7 +42,7 @@ should
 have
 ani
 question
-pleas
+plea
 contact
 me
 sincer

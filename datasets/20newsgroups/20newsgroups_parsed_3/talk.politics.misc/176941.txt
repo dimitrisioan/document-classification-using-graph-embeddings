@@ -281,7 +281,7 @@ kind
 of
 aid
 were
-discuss
+discus
 for
 exampl
 the
@@ -812,7 +812,7 @@ in
 brief
 that
 you
-discuss
+discus
 the
 start
 ii
@@ -888,7 +888,7 @@ presid
 clinton
 first
 we
-discuss
+discus
 the
 issu
 of
@@ -1431,7 +1431,7 @@ presid
 bush
 or
 anyon
-els
+el
 i
 cant
 say

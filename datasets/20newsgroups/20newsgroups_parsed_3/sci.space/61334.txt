@@ -9,7 +9,7 @@ they
 in
 articl
 write
-bats
+bat
 by
 have
 detector
@@ -86,7 +86,7 @@ i
 do
 know
 that
-bats
+bat
 is
 the
 primari
@@ -121,7 +121,7 @@ figur
 out
 how
 well
-bats
+bat
 can
 determin
 the

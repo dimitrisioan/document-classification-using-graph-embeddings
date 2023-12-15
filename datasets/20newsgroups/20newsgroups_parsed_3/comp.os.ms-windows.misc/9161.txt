@@ -16,7 +16,7 @@ newsgroup
 for
 the
 gener
-discuss
+discus
 of
 the
 microsoft
@@ -157,7 +157,7 @@ where
 access
 user
 can
-discu
+discus
 their
 experi
 with

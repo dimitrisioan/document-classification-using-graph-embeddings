@@ -304,7 +304,7 @@ end
 the
 sieg
 i
-discuss
+discus
 it
 with
 attorney
@@ -1864,7 +1864,7 @@ way
 is
 there
 someth
-els
+el
 we
 should
 have
@@ -1901,7 +1901,7 @@ could
 have
 done
 noth
-els
+el
 to
 make
 the

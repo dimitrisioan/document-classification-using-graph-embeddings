@@ -4,7 +4,7 @@ type
 font
 problem
 repost
-pleas
+plea
 help
 word
 c
@@ -149,7 +149,7 @@ from
 a
 coreldraw
 ttf
-ru
+rus
 sharp
 ph
 fax

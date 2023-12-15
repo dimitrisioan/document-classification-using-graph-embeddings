@@ -115,7 +115,7 @@ ani
 public
 comment
 or
-discuss
+discus
 ha
 been
 allow
@@ -310,7 +310,7 @@ chip
 algorithm
 classifi
 eff
-belief
+believ
 that
 ani
 standard
@@ -446,7 +446,7 @@ be
 adopt
 befor
 the
-discuss
+discus
 even
 begin
 detail
@@ -672,7 +672,7 @@ show
 that
 the
 govern
-belief
+believ
 in
 the
 secur

@@ -183,7 +183,7 @@ field
 and
 flock
 of
-goos
+gee
 last
 week
 it
@@ -390,7 +390,7 @@ then
 all
 hell
 broke
-loos
+loo
 bullet
 were
 rain
@@ -1104,7 +1104,7 @@ at
 u
 a
 we
-pass
+pas
 back
 at
 the
@@ -1188,7 +1188,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

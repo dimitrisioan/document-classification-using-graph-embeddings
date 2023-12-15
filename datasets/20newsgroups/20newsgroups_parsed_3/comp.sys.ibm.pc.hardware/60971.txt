@@ -62,7 +62,7 @@ a
 deriv
 o
 obvious
-pleas
+plea
 take
 note
 that
@@ -103,7 +103,7 @@ that
 someth
 happen
 here
-pleas
+plea
 take
 note
 how
@@ -271,7 +271,7 @@ onli
 the
 digit
 sound
-us
+use
 interrupt
 when
 the

@@ -493,7 +493,7 @@ an
 index
 bibliographi
 and
-appendix
+appendic
 are
 includ
 content

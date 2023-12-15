@@ -23,7 +23,7 @@ in
 an
 edinburgh
 lectur
-discuss
+discus
 for
 ani
 cultur
@@ -89,7 +89,7 @@ prestigi
 lectur
 seri
 to
-discu
+discus
 scotland
 role
 in
@@ -519,7 +519,7 @@ clearli
 be
 benefici
 for
-divers
+diver
 in
 music
 to
@@ -828,7 +828,7 @@ the
 propos
 make
 financi
-sens
+sen
 franz
 ferdinand
 must

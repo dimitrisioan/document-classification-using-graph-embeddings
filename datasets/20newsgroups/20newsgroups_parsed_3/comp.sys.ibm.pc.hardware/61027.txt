@@ -126,7 +126,7 @@ intent
 benchmark
 cheat
 on
-cirru
+cirrus
 part
 but
 i

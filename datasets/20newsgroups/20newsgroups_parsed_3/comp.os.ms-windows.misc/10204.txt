@@ -55,7 +55,7 @@ my
 understand
 that
 bu
-mous
+mouse
 are
 more
 accur
@@ -65,7 +65,7 @@ in
 gener
 than
 serial
-mous
+mouse
 if
 i
 rememb

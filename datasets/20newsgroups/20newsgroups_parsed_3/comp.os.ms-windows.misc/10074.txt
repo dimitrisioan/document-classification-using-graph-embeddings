@@ -4,7 +4,7 @@ window
 v
 share
 window
-discuss
+discus
 i
 would
 like
@@ -12,7 +12,7 @@ to
 see
 a
 seriou
-discuss
+discus
 on
 the
 best
@@ -352,7 +352,7 @@ now
 have
 access
 to
-eras
+era
 or
 corrupt
 their
@@ -790,7 +790,7 @@ network
 user
 file
 the
-discuss
+discus
 i
 would
 like

@@ -25,7 +25,7 @@ gain
 andor
 a
 distort
-sens
+sen
 of
 tast
 or
@@ -125,7 +125,7 @@ a
 foul
 smell
 and
-sens
+sen
 of
 tast
 for
@@ -151,7 +151,7 @@ and
 he
 said
 my
-sinu
+sinus
 did
 look
 a

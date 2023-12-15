@@ -39,7 +39,7 @@ net
 commun
 ha
 settl
-pleas
+plea
 dont
 bring
 them
@@ -52,7 +52,7 @@ truli
 new
 to
 be
-discuss
+discus
 the
 net
 cant
@@ -252,7 +252,7 @@ there
 ha
 been
 extens
-discuss
+discus
 on
 thi
 topic
@@ -716,7 +716,7 @@ charli
 jackman
 and
 ann
-dougla
+douglas
 nasagoddard
 space
 flight
@@ -925,7 +925,7 @@ prather
 mm
 garcia
 ar
-dougla
+douglas
 ch
 jackman
 mkw
@@ -1622,7 +1622,7 @@ berkeley
 california
 usa
 elabor
-discuss
+discus
 of
 evid
 and
@@ -1682,7 +1682,7 @@ vol
 no
 may
 p
-us
+use
 a
 fractal
 imag

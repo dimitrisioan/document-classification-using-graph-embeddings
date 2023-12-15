@@ -53,7 +53,7 @@ to
 a
 amp
 u
-puls
+pul
 at
 a
 duti
@@ -152,7 +152,7 @@ pulser
 to
 send
 a
-puls
+pul
 a
 hamamatsu
 detector

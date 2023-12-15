@@ -32,7 +32,7 @@ is
 face
 opposit
 from
-tori
+torus
 and
 lib
 dem
@@ -386,7 +386,7 @@ a
 terrorist
 attack
 but
-tori
+torus
 leader
 michael
 howard

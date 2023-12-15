@@ -64,7 +64,7 @@ dendrit
 growth
 silversold
 when
-expos
+expo
 to
 high
 humid

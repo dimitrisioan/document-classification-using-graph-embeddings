@@ -98,7 +98,7 @@ bright
 point
 of
 light
-pass
+pas
 through
 the
 field

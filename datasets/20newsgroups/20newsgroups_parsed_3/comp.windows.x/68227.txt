@@ -60,7 +60,7 @@ strchr
 defin
 rindex
 strrchr
-els
+el
 bsd
 stdc
 includ
@@ -75,7 +75,7 @@ both
 if
 and
 correspond
-els
+el
 statement
 to
 true
@@ -217,7 +217,7 @@ delay
 in
 our
 newsfe
-pleas
+plea
 repli
 directli
 to

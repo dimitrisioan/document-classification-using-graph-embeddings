@@ -13,7 +13,7 @@ post
 your
 biolog
 alchemi
-discuss
+discus
 ive
 been
 compar
@@ -793,7 +793,7 @@ explan
 seem
 to
 make
-sens
+sen
 to
 me
 base
@@ -828,7 +828,7 @@ bloom
 seem
 to
 make
-sens
+sen
 to
 me
 i
@@ -939,7 +939,7 @@ brain
 tumor
 that
 everyon
-els
+el
 ha
 given
 up
@@ -965,7 +965,7 @@ that
 i
 heard
 him
-discuss
+discus
 would
 normal
 use
@@ -1047,7 +1047,7 @@ those
 that
 the
 neurosurgeon
-us
+use
 is
 it
 becaus

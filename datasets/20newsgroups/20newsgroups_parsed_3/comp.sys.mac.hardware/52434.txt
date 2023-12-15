@@ -40,7 +40,7 @@ next
 day
 a
 week
-pass
+pas
 and
 no
 drive

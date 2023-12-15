@@ -387,7 +387,7 @@ writer
 assist
 for
 window
-pleas
+plea
 save
 the
 bitmap
@@ -745,7 +745,7 @@ of
 the
 abov
 topic
-pleas
+plea
 send
 u
 mail

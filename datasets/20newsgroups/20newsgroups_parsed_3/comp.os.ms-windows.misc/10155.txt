@@ -132,7 +132,7 @@ present
 click
 on
 the
-brows
+brow
 box
 and
 look
@@ -142,7 +142,7 @@ file
 moriconsdl
 select
 it
-brows
+brow
 through
 the
 icon

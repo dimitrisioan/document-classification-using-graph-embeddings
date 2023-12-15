@@ -257,7 +257,7 @@ in
 the
 prc
 meet
-pleas
+plea
 note
 the
 prc
@@ -770,7 +770,7 @@ in
 the
 juli
 prc
-pleas
+plea
 call
 terri
 bosien

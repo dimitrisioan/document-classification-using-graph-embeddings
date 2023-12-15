@@ -91,7 +91,7 @@ the
 ewb
 stat
 disk
-pleas
+plea
 email
 me
 admir

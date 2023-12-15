@@ -144,7 +144,7 @@ make
 a
 lot
 of
-sens
+sen
 for
 her
 to
@@ -166,7 +166,7 @@ with
 you
 it
 make
-sens
+sen
 for
 both
 of
@@ -382,7 +382,7 @@ and
 i
 met
 to
-discu
+discus
 prioriti
 a
 it

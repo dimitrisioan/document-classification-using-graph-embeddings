@@ -124,7 +124,7 @@ thi
 email
 in
 error
-pleas
+plea
 accept
 our
 apolog
@@ -137,7 +137,7 @@ to
 receiv
 further
 offer
-pleas
+plea
 click
 below
 and
@@ -164,7 +164,7 @@ bill
 s
 titl
 iii
-pass
+pas
 by
 the
 th
@@ -200,7 +200,7 @@ e
 mail
 is
 unsolicit
-pleas
+plea
 accept
 our
 apolog

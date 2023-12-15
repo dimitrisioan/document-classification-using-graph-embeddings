@@ -3,7 +3,7 @@ re
 ethernet
 card
 that
-us
+use
 aros
 in
 articl

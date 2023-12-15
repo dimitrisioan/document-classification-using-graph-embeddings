@@ -58,7 +58,7 @@ who
 ha
 claim
 to
-poss
+posse
 the
 fruit
 of
@@ -140,7 +140,7 @@ an
 embarrass
 to
 the
-fundi
+fundus
 nor
 for
 object

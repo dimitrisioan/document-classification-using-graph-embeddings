@@ -3,7 +3,7 @@ help
 my
 esdi
 is
-posess
+pose
 by
 demon
 help
@@ -124,7 +124,7 @@ well
 what
 happen
 spinrit
-go
+goe
 and
 return
 the
@@ -158,7 +158,7 @@ format
 again
 the
 problem
-go
+goe
 away
 for
 a
@@ -227,7 +227,7 @@ then
 cyl
 and
 everyth
-els
+el
 select
 is
 standard
@@ -253,7 +253,7 @@ to
 fix
 thi
 problem
-pleas
+plea
 tell
 me
 how

@@ -326,7 +326,7 @@ initi
 prc
 in
 a
-discuss
+discus
 about
 asia
 is
@@ -384,7 +384,7 @@ johnson
 everi
 letter
 that
-pass
+pas
 through
 hi
 hand

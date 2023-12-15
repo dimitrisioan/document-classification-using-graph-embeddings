@@ -160,7 +160,7 @@ other
 titl
 of
 interest
-pleas
+plea
 click
 here
 risk
@@ -193,7 +193,7 @@ high
 frequenc
 data
 the
-us
+use
 of
 high
 frequenc

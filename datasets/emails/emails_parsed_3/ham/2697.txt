@@ -108,7 +108,7 @@ a
 signific
 increas
 that
-go
+goe
 with
 expand
 respons
@@ -158,7 +158,7 @@ view
 it
 creat
 a
-sens
+sen
 of
 fals
 secur

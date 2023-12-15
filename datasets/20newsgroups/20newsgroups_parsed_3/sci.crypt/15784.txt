@@ -97,7 +97,7 @@ quit
 disson
 with
 much
-els
+el
 that
 ha
 been
@@ -449,7 +449,7 @@ my
 view
 on
 anyon
-els
+el
 they
 would
 look

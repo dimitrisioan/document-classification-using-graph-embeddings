@@ -129,7 +129,7 @@ area
 for
 data
 normal
-pass
+pas
 directli
 into
 the
@@ -188,7 +188,7 @@ than
 most
 simm
 access
-pleas
+plea
 help
 im
 tri

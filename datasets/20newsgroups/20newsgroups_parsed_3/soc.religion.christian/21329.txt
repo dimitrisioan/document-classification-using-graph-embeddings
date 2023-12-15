@@ -50,7 +50,7 @@ philosophi
 it
 will
 also
-discu
+discus
 the
 distinct
 between
@@ -68,7 +68,7 @@ thi
 newsgroup
 will
 also
-discu
+discus
 the
 belief
 teach
@@ -244,7 +244,7 @@ header
 of
 your
 mail
-pleas
+plea
 make
 sure
 to
@@ -369,7 +369,7 @@ be
 count
 a
 vote
-pleas
+plea
 do
 not
 send
@@ -478,7 +478,7 @@ muslim
 commun
 ii
 to
-discu
+discus
 the
 doctrin
 origin
@@ -516,7 +516,7 @@ iv
 to
 emphas
 and
-discu
+discus
 the
 similar
 between
@@ -704,7 +704,7 @@ religion
 ix
 to
 add
-divers
+diver
 to
 the
 exist
@@ -830,7 +830,7 @@ to
 discourag
 gratuit
 deroga
-tori
+torus
 abus
 or
 squalid
@@ -867,7 +867,7 @@ among
 the
 propon
 by
-discuss
+discus
 in
 newsgroup
 the
@@ -1092,7 +1092,7 @@ countri
 who
 come
 from
-divers
+diver
 ethnic
 and
 cul
@@ -1223,7 +1223,7 @@ brotherhood
 newsgroup
 creation
 the
-discuss
+discus
 for
 thi
 propos

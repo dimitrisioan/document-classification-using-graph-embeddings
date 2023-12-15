@@ -85,5 +85,5 @@ set
 to
 the
 red
-chines
+chine
 g

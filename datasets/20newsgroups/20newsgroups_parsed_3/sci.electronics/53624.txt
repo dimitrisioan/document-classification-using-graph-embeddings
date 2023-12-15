@@ -6,7 +6,7 @@ about
 vac
 outlet
 wire
-ru
+rus
 crisp
 write
 so

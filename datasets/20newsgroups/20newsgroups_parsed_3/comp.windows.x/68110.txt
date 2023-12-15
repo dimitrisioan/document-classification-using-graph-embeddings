@@ -64,7 +64,7 @@ the
 blink
 would
 caus
-needl
+needle
 and
 yucki
 network
@@ -404,7 +404,7 @@ eg
 sun
 with
 anyth
-els
+el
 than
 a
 csh

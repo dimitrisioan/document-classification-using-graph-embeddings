@@ -137,7 +137,7 @@ texa
 the
 chip
 also
-us
+use
 much
 le
 power

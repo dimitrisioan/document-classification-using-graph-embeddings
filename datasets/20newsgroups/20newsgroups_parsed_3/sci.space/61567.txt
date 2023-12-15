@@ -248,7 +248,7 @@ rule
 car
 have
 to
-pa
+pas
 safeti
 test
 five

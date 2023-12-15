@@ -180,7 +180,7 @@ wa
 written
 with
 someth
-els
+el
 in
 mind
 and
@@ -723,7 +723,7 @@ the
 u
 presid
 now
-pleas
+plea
 explain
 to
 me
@@ -1465,7 +1465,7 @@ it
 would
 make
 more
-sens
+sen
 to
 make
 more
@@ -2359,7 +2359,7 @@ impos
 feder
 power
 on
-divers
+diver
 peopl
 whi
 should
@@ -2394,7 +2394,7 @@ peopl
 in
 veri
 veri
-divers
+diver
 place
 and
 live

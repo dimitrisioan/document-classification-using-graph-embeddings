@@ -3,7 +3,7 @@ re
 summer
 internship
 martin
-pleas
+plea
 refer
 john
 directli
@@ -208,7 +208,7 @@ subject
 summer
 internship
 martin
-pleas
+plea
 take
 a
 look
@@ -963,7 +963,7 @@ tri
 to
 coordin
 smoothli
-pleas
+plea
 let
 me
 know
@@ -1079,7 +1079,7 @@ you
 a
 summer
 internship
-pleas
+plea
 let
 me
 know

@@ -177,7 +177,7 @@ educ
 subfil
 in
 it
-serf
+serv
 a
 a
 resourc
@@ -856,7 +856,7 @@ qualiti
 mammographi
 facil
 also
-discu
+discus
 typic
 cost
 and
@@ -1046,7 +1046,7 @@ thi
 seri
 of
 pamphlet
-discu
+discus
 symptom
 diagnosi
 treatment
@@ -1082,7 +1082,7 @@ colon
 and
 rectum
 dysplast
-nevu
+nevus
 esophagu
 hodgkin
 diseas
@@ -1183,7 +1183,7 @@ a
 termin
 ill
 by
-discuss
+discus
 practic
 consider
 for
@@ -1354,7 +1354,7 @@ their
 famili
 thi
 booklet
-discu
+discus
 pain
 control
 use
@@ -1539,7 +1539,7 @@ should
 know
 thi
 booklet
-discu
+discus
 biopsi
 procedur
 it
@@ -1580,7 +1580,7 @@ of
 breast
 surgeri
 it
-discu
+discus
 lumpectomi
 and
 radiat
@@ -1844,7 +1844,7 @@ it
 suggest
 way
 to
-discu
+discus
 diseaserel
 issu
 with
@@ -1893,7 +1893,7 @@ for
 parent
 thi
 booklet
-discu
+discus
 the
 most
 common
@@ -1975,7 +1975,7 @@ for
 young
 woman
 it
-discu
+discus
 variou
 health
 promot
@@ -3315,7 +3315,7 @@ ineffect
 in
 prolong
 the
-life
+live
 of
 peopl
 infect
@@ -4097,7 +4097,7 @@ aid
 research
 amfar
 wa
-pleas
+plea
 with
 the
 news
@@ -4209,7 +4209,7 @@ if
 they
 have
 been
-expos
+expo
 to
 hiv
 infect
@@ -4237,7 +4237,7 @@ a
 remot
 risk
 of
-expos
+expo
 patient
 to
 the

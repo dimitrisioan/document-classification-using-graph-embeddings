@@ -139,7 +139,7 @@ and
 inform
 segment
 congress
-pass
+pas
 the
 eea
 in
@@ -152,7 +152,7 @@ how
 corpor
 america
 collect
-us
+use
 and
 protect
 valu
@@ -371,7 +371,7 @@ th
 floor
 confer
 room
-pleas
+plea
 rsvp
 to
 either

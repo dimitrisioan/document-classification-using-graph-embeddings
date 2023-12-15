@@ -624,7 +624,7 @@ stone
 out
 of
 hors
-hoof
+hoov
 it
 ha
 to
@@ -735,10 +735,10 @@ of
 the
 current
 hightech
-obsess
+ob
 than
 anyht
-els
+el
 i
 say
 thi
@@ -782,7 +782,7 @@ fashion
 over
 well
 everyth
-els
+el
 utter
 rubbish
 ye
@@ -1180,7 +1180,7 @@ on
 the
 market
 today
-us
+use
 theyr
 invari
 inaccur

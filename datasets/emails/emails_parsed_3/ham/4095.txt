@@ -10,7 +10,7 @@ network
 engin
 hi
 shirley
-pleas
+plea
 give
 me
 a
@@ -168,7 +168,7 @@ denver
 for
 thi
 event
-pleas
+plea
 follow
 thi
 up

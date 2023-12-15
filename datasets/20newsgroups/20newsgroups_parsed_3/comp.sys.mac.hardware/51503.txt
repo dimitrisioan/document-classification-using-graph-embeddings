@@ -7,7 +7,7 @@ constantli
 reboot
 in
 articl
-ru
+rus
 hode
 write
 tae
@@ -16,7 +16,7 @@ wrote
 basic
 the
 mac
-plu
+pluse
 are
 constantli
 reboot

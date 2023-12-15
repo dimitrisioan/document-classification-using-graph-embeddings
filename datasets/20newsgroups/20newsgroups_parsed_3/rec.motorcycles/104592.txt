@@ -14,7 +14,7 @@ race
 listserv
 boogieebaysuncom
 contain
-discuss
+discus
 devot
 to
 race
@@ -97,7 +97,7 @@ to
 both
 provid
 technic
-discuss
+discus
 of
 ride
 at
@@ -123,7 +123,7 @@ is
 free
 to
 join
-discuss
+discus
 is
 necessarili
 limit
@@ -176,7 +176,7 @@ on
 the
 topic
 nb
-pleas
+plea
 do
 not
 send
@@ -200,7 +200,7 @@ receiv
 an
 rsvp
 request
-pleas
+plea
 respond
 to
 thi
@@ -317,7 +317,7 @@ everi
 k
 or
 so
-pleas
+plea
 send
 a
 subscript

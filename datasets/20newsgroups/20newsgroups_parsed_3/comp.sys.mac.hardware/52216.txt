@@ -111,7 +111,7 @@ out
 ani
 more
 inform
-pleas
+plea
 let
 me
 know
@@ -127,11 +127,11 @@ problem
 or
 if
 anyon
-els
+el
 ha
 the
 inform
-pleas
+plea
 post
 thank
 al

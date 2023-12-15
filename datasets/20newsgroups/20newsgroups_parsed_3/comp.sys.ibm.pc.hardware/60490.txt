@@ -4,7 +4,7 @@ card
 other
 vlb
 card
-pleas
+plea
 hai
 in
 a
@@ -66,7 +66,7 @@ tseng
 i
 wa
 pretti
-pleas
+plea
 with
 it
 so
@@ -151,7 +151,7 @@ altern
 than
 the
 w
-pleas
+plea
 tell
 me
 about

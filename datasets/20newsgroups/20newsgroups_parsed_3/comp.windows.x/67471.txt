@@ -10,7 +10,7 @@ thi
 for
 a
 friend
-pleas
+plea
 respond
 to
 im
@@ -140,7 +140,7 @@ bmp
 j
 pixel
 on
-els
+el
 bmp
 j
 pixel

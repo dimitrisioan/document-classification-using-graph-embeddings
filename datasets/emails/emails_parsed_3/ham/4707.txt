@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 add
 our
 contact
@@ -443,7 +443,7 @@ person
 hold
 thi
 posit
-serf
+serv
 a
 a
 transact
@@ -656,7 +656,7 @@ and
 the
 compani
 in
-discuss
+discus
 with
 interest
 parti

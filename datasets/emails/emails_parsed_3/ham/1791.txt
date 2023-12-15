@@ -3,7 +3,7 @@ re
 contact
 info
 glenn
-pleas
+plea
 contact
 rudi
 zipter
@@ -22,7 +22,7 @@ glenn
 darrah
 on
 pm
-pleas
+plea
 respond
 to
 gdarrah
@@ -131,7 +131,7 @@ the
 enterpris
 risk
 project
-pleas
+plea
 keep
 in
 touch

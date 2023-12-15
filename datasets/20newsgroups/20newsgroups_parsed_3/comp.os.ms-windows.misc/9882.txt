@@ -69,7 +69,7 @@ problem
 in
 winqvt
 version
-us
+use
 standard
 window
 printer

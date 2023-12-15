@@ -31,7 +31,7 @@ figur
 out
 how
 well
-bats
+bat
 can
 determin
 the
@@ -110,7 +110,7 @@ power
 of
 the
 optic
-bats
+bat
 is
 an
 altogeth

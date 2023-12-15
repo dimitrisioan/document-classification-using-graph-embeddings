@@ -71,7 +71,7 @@ a
 newsgroup
 for
 gener
-discuss
+discus
 of
 diabet
 is
@@ -296,7 +296,7 @@ a
 forum
 for
 the
-discuss
+discus
 of
 issu
 pertain
@@ -336,11 +336,11 @@ depend
 diabet
 both
 technic
-discuss
+discus
 and
 gener
 support
-discuss
+discus
 relev
 to
 diabet
@@ -354,7 +354,7 @@ intend
 to
 be
 for
-discuss
+discus
 purpos
 onli
 and

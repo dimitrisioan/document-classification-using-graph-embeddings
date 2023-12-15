@@ -19,6 +19,6 @@ throughput
 etc
 kurt
 tiedtk
-pleas
+plea
 email
 thank

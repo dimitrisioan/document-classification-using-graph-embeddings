@@ -145,7 +145,7 @@ total
 ie
 use
 gun
-knife
+knive
 tireiron
 basebal
 bat

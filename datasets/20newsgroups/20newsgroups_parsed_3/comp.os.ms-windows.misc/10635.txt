@@ -20,7 +20,7 @@ emm
 qemm
 or
 anyth
-els
+el
 on
 mani
 window

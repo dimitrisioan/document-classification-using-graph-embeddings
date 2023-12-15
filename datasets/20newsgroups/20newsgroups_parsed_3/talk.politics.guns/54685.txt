@@ -79,7 +79,7 @@ in
 and
 get
 thing
-pass
+pas
 they
 provid
 a

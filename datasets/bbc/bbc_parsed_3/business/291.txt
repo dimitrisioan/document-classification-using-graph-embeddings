@@ -222,7 +222,7 @@ racket
 law
 which
 were
-pass
+pas
 to
 deni
 mafia

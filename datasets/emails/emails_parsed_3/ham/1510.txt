@@ -214,7 +214,7 @@ should
 help
 get
 a
-sens
+sen
 of
 what
 we

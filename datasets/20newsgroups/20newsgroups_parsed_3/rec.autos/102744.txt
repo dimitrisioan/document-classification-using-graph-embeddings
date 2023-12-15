@@ -502,7 +502,7 @@ the
 neg
 side
 tachtyp
-sens
+sen
 gizmo
 and
 the
@@ -684,7 +684,7 @@ some
 of
 your
 wisdom
-pleas
+plea
 email
 a
 i

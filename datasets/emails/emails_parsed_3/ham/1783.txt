@@ -35,7 +35,7 @@ other
 unit
 of
 enron
-pleas
+plea
 let
 me
 know
@@ -138,7 +138,7 @@ me
 to
 tri
 someth
-els
+el
 i
 am
 begin
@@ -163,7 +163,7 @@ you
 might
 be
 ad
-pleas
+plea
 consid
 me
 i

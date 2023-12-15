@@ -5,7 +5,7 @@ call
 tuesday
 januari
 kari
-pleas
+plea
 enrol
 vinc
 kaminski
@@ -44,7 +44,7 @@ to
 the
 confer
 call
-pleas
+plea
 confirm
 hi
 registr

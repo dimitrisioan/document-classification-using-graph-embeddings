@@ -5,7 +5,7 @@ for
 yingquan
 shen
 charl
-pleas
+plea
 be
 awar
 of
@@ -79,7 +79,7 @@ for
 yingquan
 shen
 charl
-pleas
+plea
 find
 the
 interview
@@ -96,7 +96,7 @@ occur
 on
 friday
 octob
-pleas
+plea
 print
 all
 three
@@ -113,7 +113,7 @@ or
 conflict
 of
 schedul
-pleas
+plea
 do
 not
 hesit

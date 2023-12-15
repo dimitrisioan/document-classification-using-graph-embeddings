@@ -106,7 +106,7 @@ complet
 off
 but
 just
-go
+goe
 to
 a
 standbi

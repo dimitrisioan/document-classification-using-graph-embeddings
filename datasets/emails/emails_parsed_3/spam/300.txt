@@ -37,7 +37,7 @@ few
 moment
 to
 load
-pleas
+plea
 be
 patient
 find
@@ -65,7 +65,7 @@ your
 ident
 even
 your
-bo
+bos
 did
 you
 know
@@ -153,7 +153,7 @@ your
 friend
 neighbor
 or
-bo
+bos
 o
 locat
 transcript
@@ -281,7 +281,7 @@ in
 the
 subject
 line
-pleas
+plea
 do
 not
 includ

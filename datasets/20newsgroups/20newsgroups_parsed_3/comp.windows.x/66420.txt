@@ -73,7 +73,7 @@ each
 program
 exit
 disclaim
-pleas
+plea
 note
 that
 the

@@ -6,7 +6,7 @@ enron
 com
 final
 notic
-pleas
+plea
 be
 awar
 that
@@ -49,7 +49,7 @@ no
 longer
 be
 deliv
-pleas
+plea
 note
 that
 thi
@@ -110,7 +110,7 @@ be
 deliv
 after
 octob
-pleas
+plea
 contact
 the
 servic
@@ -173,7 +173,7 @@ develop
 ect
 enron
 com
-pleas
+plea
 direct
 ani
 question

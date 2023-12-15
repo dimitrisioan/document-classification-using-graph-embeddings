@@ -90,12 +90,12 @@ get
 it
 from
 someon
-els
+el
 someon
-els
+el
 could
 you
-pleas
+plea
 comment
 on
 that
@@ -139,7 +139,7 @@ of
 ani
 board
 which
-us
+use
 the
 rockwel
 mpu

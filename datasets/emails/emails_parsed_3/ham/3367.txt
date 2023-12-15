@@ -159,7 +159,7 @@ et
 s
 enron
 enron
-theres
+there
 lohman
 et
 s
@@ -638,7 +638,7 @@ packag
 they
 let
 someon
-els
+el
 do
 all
 the
@@ -721,7 +721,7 @@ but
 sort
 of
 make
-sens
+sen
 other
 sourc
 heavili

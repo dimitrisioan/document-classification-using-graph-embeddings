@@ -190,7 +190,7 @@ is
 reciev
 the
 spacecraft
-go
+goe
 back
 to
 the

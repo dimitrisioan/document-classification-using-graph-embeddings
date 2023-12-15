@@ -88,7 +88,7 @@ build
 burn
 almost
 everyon
-dy
+die
 it
 probabl
 doesnt
@@ -154,7 +154,7 @@ in
 a
 build
 and
-gass
+gas
 those
 insid
 wa

@@ -72,7 +72,7 @@ ahead
 of
 u
 ben
-pleas
+plea
 let
 me
 know
@@ -144,7 +144,7 @@ swap
 price
 placement
 model
-us
+use
 linear
 regress
 to

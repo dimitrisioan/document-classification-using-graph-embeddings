@@ -4,7 +4,7 @@ zhang
 s
 resum
 fyi
-pleas
+plea
 cancel
 the
 interview
@@ -250,7 +250,7 @@ thi
 email
 in
 error
-pleas
+plea
 notifi
 the
 system
@@ -273,7 +273,7 @@ the
 presenc
 of
 comput
-viru
+virus
 zhan
 ren
 doc

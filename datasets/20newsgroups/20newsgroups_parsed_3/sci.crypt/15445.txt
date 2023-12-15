@@ -254,7 +254,7 @@ cellphon
 scrambl
 system
 wa
-discuss
+discus
 incident
 my
 mp
@@ -374,7 +374,7 @@ decrypt
 at
 the
 basest
-pass
+pas
 to
 anoth
 basest

@@ -1,6 +1,6 @@
 subject
 re
-tauruss
+taurus
 rotor
 recal
 antonio
@@ -12,7 +12,7 @@ wail
 wrote
 from
 subject
-tauruss
+taurus
 rotor
 recal
 my

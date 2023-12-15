@@ -137,7 +137,7 @@ beer
 tip
 in
 a
-pa
+pas
 from
 shawn
 chamber
@@ -771,7 +771,7 @@ zombo
 intercept
 a
 tampa
-pa
+pas
 in
 the
 neutral
@@ -906,7 +906,7 @@ hi
 st
 convert
 a
-pa
+pas
 from
 nelson
 emerson

@@ -58,7 +58,7 @@ a
 cage
 when
 you
-pa
+pas
 make
 it
 a
@@ -69,7 +69,7 @@ and
 if
 you
 cant
-pa
+pas
 fulli
 at
 least
@@ -108,7 +108,7 @@ lane
 after
 make
 a
-pa
+pas
 do
 it
 a
@@ -178,7 +178,7 @@ saw
 you
 made
 the
-pa
+pas
 success
 but
 you

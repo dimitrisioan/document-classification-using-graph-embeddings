@@ -87,7 +87,7 @@ bad
 to
 appli
 today
-pleas
+plea
 fill
 out
 the
@@ -115,7 +115,7 @@ not
 appli
 to
 you
-pleas
+plea
 put
 n
 a
@@ -274,7 +274,7 @@ free
 with
 no
 risk
-pleas
+plea
 fill
 out
 the

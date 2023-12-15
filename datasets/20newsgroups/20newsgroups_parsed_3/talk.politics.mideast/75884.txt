@@ -14,7 +14,7 @@ jewish
 group
 su
 for
-pass
+pas
 offici
 inform
 by
@@ -217,7 +217,7 @@ francisco
 polic
 intellig
 unit
-pass
+pas
 confidenti
 polic
 file
@@ -637,7 +637,7 @@ of
 palestinian
 the
 adl
-belief
+believ
 that
 anyon
 who
@@ -866,7 +866,7 @@ and
 govern
 comput
 and
-pass
+pas
 inform
 on
 to
@@ -1049,7 +1049,7 @@ from
 these
 file
 were
-pass
+pas
 to
 the
 foreign
@@ -1140,7 +1140,7 @@ that
 is
 in
 some
-sens
+sen
 oppos
 to
 israel
@@ -1168,7 +1168,7 @@ southern
 california
 the
 adl
-belief
+believ
 that
 anyon
 who

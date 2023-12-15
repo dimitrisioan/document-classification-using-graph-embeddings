@@ -18,7 +18,7 @@ vanderbyl
 write
 in
 articl
-ru
+rus
 crisp
 write
 im

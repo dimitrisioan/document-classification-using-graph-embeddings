@@ -1,7 +1,7 @@
 movi
 bodi
 target
-children
+child
 pc
 the
 bodi
@@ -43,7 +43,7 @@ let
 parent
 check
 their
-children
+child
 comput
 for
 peertop
@@ -81,7 +81,7 @@ found
 would
 not
 be
-pass
+pas
 on
 to
 it
@@ -207,7 +207,7 @@ such
 common
 problem
 a
-viru
+virus
 trojan
 hors
 and

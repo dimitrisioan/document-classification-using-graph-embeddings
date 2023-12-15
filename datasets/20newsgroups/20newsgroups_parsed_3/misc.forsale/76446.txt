@@ -24,7 +24,7 @@ and
 a
 coprocessor
 everyth
-els
+el
 is
 your
 to
@@ -89,7 +89,7 @@ latest
 version
 phoenix
 bio
-pleas
+plea
 do
 not
 postemail

@@ -55,7 +55,7 @@ do
 you
 mean
 someth
-els
+el
 what
 criterion
 have
@@ -64,7 +64,7 @@ chosen
 for
 your
 object
-asses
+ass
 are
 you
 sure

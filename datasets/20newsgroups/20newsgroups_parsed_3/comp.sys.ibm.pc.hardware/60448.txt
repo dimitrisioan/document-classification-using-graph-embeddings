@@ -10,7 +10,7 @@ c
 pao
 write
 much
-discuss
+discus
 about
 switch
 and
@@ -101,7 +101,7 @@ sharewareavail
 on
 mani
 major
-bb
+bbs
 will
 also
 make

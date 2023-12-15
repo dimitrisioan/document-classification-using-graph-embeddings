@@ -299,7 +299,7 @@ said
 i
 wa
 just
-discuss
+discus
 the
 tax
 respons
@@ -1364,11 +1364,11 @@ exampl
 q
 or
 anyth
-els
+el
 q
 or
 anyth
-els
+el
 q
 it
 wa
@@ -1511,7 +1511,7 @@ down
 the
 line
 reform
-go
+goe
 ahead
 on
 it
@@ -1535,7 +1535,7 @@ much
 later
 and
 then
-go
+goe
 ahead
 and
 announc
@@ -2367,7 +2367,7 @@ someth
 that
 we
 have
-discuss
+discus
 both
 intern
 and
@@ -4186,7 +4186,7 @@ georg
 a
 the
 presid
-go
+goe
 about
 the
 busi
@@ -4849,7 +4849,7 @@ forward
 to
 that
 in
-discuss
+discus
 a
 number
 of
@@ -5174,7 +5174,7 @@ have
 schedul
 c
 noncar
-s
+se
 pa
 fulltim
 im
@@ -5894,7 +5894,7 @@ for
 instanc
 did
 you
-discu
+discus
 whether
 it
 would
@@ -5912,7 +5912,7 @@ mr
 stephanopoulo
 well
 we
-discuss
+discus
 a
 wide
 rang

@@ -220,7 +220,7 @@ nation
 laboratori
 program
 chair
-ru
+rus
 housley
 xerox
 special
@@ -317,7 +317,7 @@ and
 propos
 for
 panel
-discuss
+discus
 on
 technic
 and
@@ -491,13 +491,13 @@ receiv
 within
 seven
 day
-pleas
+plea
 contact
 either
 rob
 shirey
 or
-ru
+rus
 housley
 or
 telephon

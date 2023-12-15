@@ -174,7 +174,7 @@ and
 then
 it
 make
-sens
+sen
 that
 is
 doe
@@ -236,7 +236,7 @@ each
 other
 a
 i
-pass
+pas
 the
 first
 radar
@@ -309,7 +309,7 @@ for
 exampl
 a
 i
-pa
+pas
 a
 sourc
 the
@@ -372,7 +372,7 @@ and
 a
 the
 car
-pass
+pas
 me
 i
 can

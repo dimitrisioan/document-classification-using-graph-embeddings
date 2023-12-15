@@ -82,4 +82,4 @@ use
 glove
 and
 goggl
-pleas
+plea

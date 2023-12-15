@@ -84,7 +84,7 @@ director
 alex
 huang
 director
-pleas
+plea
 let
 me
 know

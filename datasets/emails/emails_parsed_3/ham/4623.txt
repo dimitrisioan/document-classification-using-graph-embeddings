@@ -69,7 +69,7 @@ griebl
 palm
 net
 am
-pleas
+plea
 respond
 to
 john
@@ -110,7 +110,7 @@ wrote
 on
 hi
 shirley
-pleas
+plea
 give
 me
 a

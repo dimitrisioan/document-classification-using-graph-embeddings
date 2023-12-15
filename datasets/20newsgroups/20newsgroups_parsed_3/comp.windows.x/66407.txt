@@ -6,7 +6,7 @@ with
 gcc
 can
 peopl
-pleas
+plea
 send
 me
 ani

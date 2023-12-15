@@ -46,7 +46,7 @@ kerbero
 version
 be
 use
-pleas
+plea
 repli
 via
 email

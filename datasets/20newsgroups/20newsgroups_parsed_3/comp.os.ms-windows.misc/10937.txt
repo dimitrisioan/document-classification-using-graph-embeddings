@@ -36,7 +36,7 @@ addon
 in
 it
 great
-els
+el
 add
 the
 follow
@@ -58,7 +58,7 @@ infofilesizedl
 note
 that
 the
-files
+file
 dll
 is
 a

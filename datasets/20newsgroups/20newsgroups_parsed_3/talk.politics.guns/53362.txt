@@ -68,7 +68,7 @@ total
 number
 your
 choic
-pleas
+plea
 pay
 attent
 i
@@ -157,7 +157,7 @@ the
 uk
 in
 that
-sens
+sen
 the
 weapon
 is

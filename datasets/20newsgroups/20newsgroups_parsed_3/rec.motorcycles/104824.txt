@@ -59,7 +59,7 @@ speak
 for
 no
 one
-els
+el
 and
 listen
 to

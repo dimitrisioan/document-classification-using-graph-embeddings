@@ -22,7 +22,7 @@ surround
 david
 blunkett
 the
-tori
+torus
 and
 the
 lib

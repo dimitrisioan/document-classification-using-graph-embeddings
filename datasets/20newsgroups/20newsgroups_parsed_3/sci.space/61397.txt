@@ -117,7 +117,7 @@ cost
 ship
 if
 memori
-serf
+serv
 thi
 doe
 not

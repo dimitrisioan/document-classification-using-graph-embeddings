@@ -169,7 +169,7 @@ lower
 level
 disrupt
 that
-go
+goe
 on
 in
 the
@@ -454,7 +454,7 @@ comment
 did
 not
 impress
-tori
+torus
 shadow
 educ
 secretari

@@ -92,7 +92,7 @@ the
 cost
 centr
 below
-pleas
+plea
 could
 we
 charg
@@ -144,7 +144,7 @@ tani
 slava
 could
 you
-pleas
+plea
 let
 me
 know
@@ -531,7 +531,7 @@ regular
 basi
 could
 i
-pleas
+plea
 get
 microsoft
 frontpag

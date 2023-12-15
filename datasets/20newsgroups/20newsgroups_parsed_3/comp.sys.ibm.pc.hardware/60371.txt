@@ -1,6 +1,6 @@
 subject
 re
-pleas
+plea
 help
 identifi
 thi
@@ -195,7 +195,7 @@ program
 for
 c
 succes
-pass
+pas
 with
 fli
 colour

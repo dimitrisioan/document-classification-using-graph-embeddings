@@ -482,7 +482,7 @@ geoffrey
 fairvf
 marvel
 modul
-thief
+thiev
 cover
 detach
 but
@@ -982,7 +982,7 @@ campaign
 help
 tnde
 excel
-elf
+elv
 giant
 poster
 insid
@@ -1045,7 +1045,7 @@ you
 notic
 ani
 error
-pleas
+plea
 let
 me
 know

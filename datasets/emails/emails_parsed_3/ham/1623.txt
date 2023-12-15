@@ -19,7 +19,7 @@ march
 forb
 magazin
 survey
-alumnu
+alumnus
 associ
 recept
 new
@@ -105,7 +105,7 @@ the
 forb
 magazin
 survey
-pleas
+plea
 do
 fill
 it
@@ -188,7 +188,7 @@ the
 jone
 graduat
 school
-alumnu
+alumnus
 associ
 will
 host
@@ -247,7 +247,7 @@ avenu
 new
 york
 ny
-pleas
+plea
 rsvp
 to
 deanna
@@ -256,7 +256,7 @@ director
 of
 financ
 and
-alumnu
+alumnus
 affair
 at
 sheaffer
@@ -692,7 +692,7 @@ bring
 togeth
 student
 faculti
-alumnu
+alumnus
 and
 other
 rice
@@ -839,7 +839,7 @@ the
 jone
 school
 websit
-pleas
+plea
 e
 mail
 jgsmnew

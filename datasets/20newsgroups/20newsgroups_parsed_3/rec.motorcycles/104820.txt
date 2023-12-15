@@ -135,7 +135,7 @@ ticket
 a
 cop
 write
-go
+goe
 through
 if
 contest
@@ -241,7 +241,7 @@ in
 a
 town
 car
-pass
+pas
 me
 on
 the

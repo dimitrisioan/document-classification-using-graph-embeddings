@@ -65,11 +65,11 @@ vote
 could
 let
 the
-tori
+torus
 in
 while
 the
-tori
+torus
 say
 the
 lib
@@ -192,7 +192,7 @@ between
 them
 and
 the
-tori
+torus
 speak
 to
 the
@@ -334,7 +334,7 @@ would
 mean
 let
 the
-tori
+torus
 in
 by
 the

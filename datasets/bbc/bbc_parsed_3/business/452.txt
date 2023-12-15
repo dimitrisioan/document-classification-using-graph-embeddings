@@ -1,7 +1,7 @@
 mcdonald
-bo
+bos
 bell
-dy
+die
 age
 charli
 bell
@@ -79,7 +79,7 @@ mcdonald
 sale
 mr
 bell
-leaf
+leav
 a
 wife
 and
@@ -88,7 +88,7 @@ a
 we
 mourn
 hi
-pass
+pas
 i
 ask
 you

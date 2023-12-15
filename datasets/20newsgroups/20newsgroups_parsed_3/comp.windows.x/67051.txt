@@ -175,7 +175,7 @@ the
 dec
 oracl
 case
-us
+use
 dxterm
 by
 default

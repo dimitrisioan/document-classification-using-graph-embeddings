@@ -24,14 +24,14 @@ vari
 color
 and
 then
-eras
+era
 it
 without
 have
 to
 redraw
 everyth
-els
+el
 what
 happen
 is
@@ -51,7 +51,7 @@ specifi
 color
 if
 i
-eras
+era
 it
 use
 gxcopi
@@ -104,7 +104,7 @@ of
 underli
 object
 in
-eras
+era
 mode
 what
 the

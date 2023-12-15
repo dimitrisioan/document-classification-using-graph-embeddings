@@ -153,7 +153,7 @@ occas
 with
 labour
 coalit
-pleas
+plea
 cite
 specif
 exampl
@@ -440,7 +440,7 @@ a
 far
 a
 secur
-go
+goe
 i
 think
 that

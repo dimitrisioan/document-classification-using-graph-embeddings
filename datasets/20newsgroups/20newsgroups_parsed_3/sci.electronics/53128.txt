@@ -22,7 +22,7 @@ physic
 where
 one
 often
-discu
+discus
 particlehol
 excit
 and
@@ -145,7 +145,7 @@ mobil
 to
 electron
 mobil
-pleas
+plea
 quot
 actual
 test
@@ -249,7 +249,7 @@ dont
 want
 a
 theoret
-discuss
+discus
 here
 about
 whether
@@ -265,7 +265,7 @@ ask
 for
 an
 experiment
-discuss
+discus
 on
 how
 to
@@ -293,7 +293,7 @@ now
 becom
 an
 electron
-discuss
+discus
 thanx
 eric
 et

@@ -6,7 +6,7 @@ for
 sale
 plu
 extra
-pleas
+plea
 take
 thi
 system

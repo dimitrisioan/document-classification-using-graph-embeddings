@@ -89,7 +89,7 @@ wa
 said
 by
 someon
-els
+el
 and
 wa
 a
@@ -240,7 +240,7 @@ to
 reap
 what
 everyon
-els
+el
 is
 abl
 to

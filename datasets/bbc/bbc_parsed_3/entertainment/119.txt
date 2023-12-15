@@ -3,7 +3,7 @@ of
 fire
 hit
 cowrit
-dy
+die
 merl
 kilgor
 cowrit

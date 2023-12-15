@@ -62,14 +62,14 @@ alway
 involv
 restaur
 usual
-chines
+chine
 the
 most
 notabl
 case
 a
 cheap
-chines
+chine
 fast
 food
 chain
@@ -83,7 +83,7 @@ the
 steak
 and
 anoth
-chines
+chine
 fast
 food
 chain
@@ -139,7 +139,7 @@ to
 assum
 that
 high
-do
+dose
 of
 msg
 can

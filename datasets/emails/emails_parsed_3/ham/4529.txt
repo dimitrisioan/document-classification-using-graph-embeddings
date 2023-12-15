@@ -80,7 +80,7 @@ and
 i
 know
 everyon
-els
+el
 from
 enron
 that
@@ -105,7 +105,7 @@ don
 t
 know
 what
-els
+el
 to
 say
 but

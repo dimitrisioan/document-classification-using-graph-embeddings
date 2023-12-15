@@ -227,7 +227,7 @@ soloflex
 in
 that
 it
-us
+use
 resist
 band
 to
@@ -286,7 +286,7 @@ for
 atlanta
 area
 onli
-pleas
+plea
 i
 will
 share
@@ -301,7 +301,7 @@ bb
 public
 access
 newsgroupsemail
-pleas
+plea
 repli
 to
 sysop

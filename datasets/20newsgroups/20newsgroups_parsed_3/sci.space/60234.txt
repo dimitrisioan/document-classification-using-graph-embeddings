@@ -116,7 +116,7 @@ we
 have
 assembl
 a
-divers
+diver
 panel
 of
 expert
@@ -144,7 +144,7 @@ is
 charg
 with
 independ
-assess
+ass
 variou
 redesign
 option

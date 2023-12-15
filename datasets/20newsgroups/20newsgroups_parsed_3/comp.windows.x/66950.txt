@@ -52,7 +52,7 @@ raster
 widget
 handl
 now
-expos
+expo
 event
 slightli
 more
@@ -71,7 +71,7 @@ a
 simpl
 program
 that
-us
+use
 xr
 athena
 porthol

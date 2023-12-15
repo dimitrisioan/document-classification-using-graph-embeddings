@@ -101,7 +101,7 @@ rate
 increas
 to
 be
-pass
+pas
 along
 to
 consum
@@ -746,7 +746,7 @@ to
 price
 cap
 and
-belief
+believ
 in
 free
 market

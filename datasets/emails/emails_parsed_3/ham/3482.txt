@@ -15,7 +15,7 @@ make
 a
 lot
 of
-sens
+sen
 to
 get
 thi
@@ -35,7 +35,7 @@ thi
 thursday
 at
 lunch
-pleas
+plea
 call
 shirley
 crenshaw
@@ -54,7 +54,7 @@ vinc
 joe
 can
 you
-pleas
+plea
 babysit
 thi
 present

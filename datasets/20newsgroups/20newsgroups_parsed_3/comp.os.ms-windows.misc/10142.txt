@@ -47,7 +47,7 @@ eisa
 orchid
 pro
 design
-iis
+ii
 is
 onli
 about
@@ -255,7 +255,7 @@ transact
 between
 the
 two
-bu
+bus
 most
 isa
 board

@@ -40,7 +40,7 @@ averag
 daili
 worker
 salari
-go
+goe
 toward
 tax
 in
@@ -385,7 +385,7 @@ system
 is
 current
 bankrupt
-pleas
+plea
 explain
 thi
 one

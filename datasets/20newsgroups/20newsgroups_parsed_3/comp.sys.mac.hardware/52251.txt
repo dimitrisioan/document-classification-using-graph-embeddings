@@ -32,7 +32,7 @@ s
 video
 composit
 etc
-covers
+cover
 plu
 also
 gener

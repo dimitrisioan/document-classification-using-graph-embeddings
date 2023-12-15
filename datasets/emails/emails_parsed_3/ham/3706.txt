@@ -51,7 +51,7 @@ decreas
 a
 the
 level
-go
+goe
 up
 if
 the
@@ -202,7 +202,7 @@ fuel
 adjust
 keep
 everyth
-els
+el
 the
 same
 the

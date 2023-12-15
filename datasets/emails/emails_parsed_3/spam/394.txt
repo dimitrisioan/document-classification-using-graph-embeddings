@@ -157,7 +157,7 @@ for
 it
 sharehold
 vinobl
-belief
+believ
 that
 the
 opportun
@@ -404,7 +404,7 @@ that
 express
 or
 involv
-discuss
+discus
 with
 respect
 to
@@ -492,7 +492,7 @@ project
 forese
 expect
 estim
-belief
+believ
 understand
 will
 part
@@ -576,7 +576,7 @@ kind
 of
 invest
 advic
-pleas
+plea
 have
 in
 mind

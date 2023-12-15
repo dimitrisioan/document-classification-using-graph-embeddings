@@ -31,7 +31,7 @@ u
 version
 hp
 it
-go
+goe
 from
 to
 kmh
@@ -99,7 +99,7 @@ motor
 i
 am
 veri
-pleas
+plea
 with
 the
 car

@@ -219,7 +219,7 @@ individu
 freedom
 in
 the
-guis
+gui
 of
 public
 safeti

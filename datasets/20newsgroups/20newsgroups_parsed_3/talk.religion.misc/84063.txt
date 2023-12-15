@@ -75,7 +75,7 @@ write
 skill
 show
 noth
-els
+el
 heck
 english
 may

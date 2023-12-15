@@ -116,7 +116,7 @@ ga
 i
 wa
 briefli
-expos
+expo
 to
 it
 onc
@@ -186,10 +186,10 @@ afterward
 if
 i
 wa
-expos
+expo
 to
 a
-dens
+den
 concentr
 of
 thi

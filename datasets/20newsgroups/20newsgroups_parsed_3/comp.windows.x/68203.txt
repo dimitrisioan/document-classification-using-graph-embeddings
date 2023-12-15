@@ -28,7 +28,7 @@ sun
 with
 me
 anyth
-els
+el
 than
 a
 csh
@@ -275,7 +275,7 @@ of
 time
 thi
 onli
-us
+use
 up
 some
 disk

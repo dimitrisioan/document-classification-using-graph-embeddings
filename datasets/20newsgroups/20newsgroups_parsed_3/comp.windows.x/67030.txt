@@ -166,7 +166,7 @@ xmtextfield
 man
 page
 dure
-discuss
+discus
 of
 resourc
 xmnverifybel

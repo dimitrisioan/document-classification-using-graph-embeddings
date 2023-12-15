@@ -241,7 +241,7 @@ with
 liverpool
 not
 somewher
-els
+el
 i
 am
 a
@@ -354,7 +354,7 @@ red
 manag
 rafael
 benitez
-belief
+believ
 gerrard
 can
 win

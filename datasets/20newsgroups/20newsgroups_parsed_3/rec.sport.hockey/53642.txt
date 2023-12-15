@@ -115,7 +115,7 @@ winner
 from
 a
 brilliant
-pa
+pas
 by
 brian
 bellow

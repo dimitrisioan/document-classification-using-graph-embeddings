@@ -19,7 +19,7 @@ a
 cardin
 mail
 list
-pleas
+plea
 email
 me
 if

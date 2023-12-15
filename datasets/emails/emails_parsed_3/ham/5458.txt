@@ -16,7 +16,7 @@ it
 it
 make
 perfect
-sens
+sen
 vinc
 becki
 pham
@@ -48,7 +48,7 @@ on
 the
 suggest
 below
-pleas
+plea
 let
 me
 know
@@ -132,7 +132,7 @@ suggest
 in
 which
 categori
-y
+i
 we
 need
 to
@@ -179,7 +179,7 @@ line
 suggest
 by
 delainey
-pleas
+plea
 let
 me
 know

@@ -230,7 +230,7 @@ truth
 btw
 thi
 argument
-go
+goe
 for
 anyon
 i
@@ -278,7 +278,7 @@ more
 use
 line
 of
-discuss
+discus
 is
 whi
 peopl
@@ -292,7 +292,7 @@ dont
 mind
 what
 anyon
-belief
+believ
 a
 long
 a

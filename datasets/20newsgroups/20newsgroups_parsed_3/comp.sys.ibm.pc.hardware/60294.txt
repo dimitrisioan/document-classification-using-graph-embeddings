@@ -291,7 +291,7 @@ appl
 salesperson
 said
 it
-us
+use
 a
 fast
 scsi
@@ -312,7 +312,7 @@ maximum
 synchron
 and
 quadra
-us
+use
 ansynchron
 scsi
 which

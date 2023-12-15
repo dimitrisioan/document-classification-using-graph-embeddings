@@ -59,7 +59,7 @@ tri
 to
 determin
 who
-els
+el
 is
 involv
 with
@@ -96,7 +96,7 @@ forward
 on
 thi
 project
-pleas
+plea
 let
 me
 know

@@ -244,8 +244,8 @@ vsync
 hsync
 ground
 nc
-sens
-sens
+sen
+sen
 tie
 togeth
 vga

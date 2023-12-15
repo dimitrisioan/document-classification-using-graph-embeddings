@@ -140,7 +140,7 @@ that
 thought
 with
 someon
-els
+el
 at
 a
 distanc
@@ -285,7 +285,7 @@ exactli
 how
 the
 logic
-go
+goe
 when
 someon
 give

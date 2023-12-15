@@ -13,7 +13,7 @@ mail
 list
 in
 a
-discuss
+discus
 between
 me
 and

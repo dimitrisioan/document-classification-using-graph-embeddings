@@ -1,5 +1,5 @@
 weir
-pois
+poi
 for
 sunderland
 move
@@ -9,7 +9,7 @@ star
 robbi
 weir
 is
-pois
+poi
 to
 join
 sunderland
@@ -46,7 +46,7 @@ the
 race
 but
 larn
-bo
+bos
 jimmi
 mcgeough
 ha

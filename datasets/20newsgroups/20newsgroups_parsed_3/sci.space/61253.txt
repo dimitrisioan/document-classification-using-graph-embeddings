@@ -271,7 +271,7 @@ explor
 are
 most
 welcom
-pleas
+plea
 send
 your
 onlin
@@ -323,7 +323,7 @@ send
 your
 articl
 submiss
-pleas
+plea
 be
 certain
 to
@@ -671,7 +671,7 @@ to
 earth
 atop
 the
-bu
+buse
 where
 lander
 were
@@ -1075,7 +1075,7 @@ due
 to
 venu
 veri
-dens
+den
 atmospher
 there
 were
@@ -1386,14 +1386,14 @@ did
 not
 come
 to
-pa
+pas
 a
 the
 orbit
 may
 not
 have
-possess
+posse
 enough
 attitudecontrol
 ga
@@ -1933,7 +1933,7 @@ and
 reach
 venu
 the
-bu
+buse
 would
 drop
 off
@@ -2853,7 +2853,7 @@ made
 a
 kilomet
 mile
-pa
+pas
 at
 the
 dark
@@ -2966,7 +2966,7 @@ hour
 when
 the
 balloon
-pass
+pas
 over
 a
 five
@@ -3029,7 +3029,7 @@ vega
 lander
 a
 it
-pass
+pas
 through
 the
 balloon
@@ -3268,7 +3268,7 @@ adoni
 which
 vega
 could
-pa
+pas
 at
 a
 distanc
@@ -3647,7 +3647,7 @@ in
 a
 plan
 wa
-devis
+devi
 for
 a
 venu

@@ -1,7 +1,7 @@
 subject
 term
 paper
-pleas
+plea
 respond
 to
 vinc
@@ -15,7 +15,7 @@ paper
 in
 pdf
 format
-pleas
+plea
 let
 u
 know

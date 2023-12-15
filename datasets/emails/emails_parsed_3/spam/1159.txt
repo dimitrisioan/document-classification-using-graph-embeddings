@@ -17,7 +17,7 @@ ha
 a
 program
 call
-divers
+diver
 immigr
 visa
 lotteri
@@ -163,7 +163,7 @@ unsubscrib
 from
 thi
 list
-pleas
+plea
 click
 here
 if

@@ -299,7 +299,7 @@ ani
 case
 o
 obscur
-pars
+par
 bug
 for
 construct

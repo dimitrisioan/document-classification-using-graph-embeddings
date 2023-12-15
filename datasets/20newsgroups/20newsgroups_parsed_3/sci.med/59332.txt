@@ -99,7 +99,7 @@ that
 ha
 been
 be
-discuss
+discus
 found
 in
 the
@@ -258,7 +258,7 @@ therapi
 that
 were
 be
-discuss
+discus
 there
 is
 some
@@ -399,7 +399,7 @@ one
 yet
 the
 lactobacillu
-genu
+genus
 are
 mostli
 facult

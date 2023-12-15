@@ -1,7 +1,7 @@
 subject
 nhl
 summari
-pars
+par
 result
 for
 game
@@ -195,7 +195,7 @@ first
 period
 ny
 ranger
-graf
+grave
 zubov
 andersson
 washington
@@ -248,5 +248,5 @@ pt
 amont
 andersson
 gartner
-graf
+grave
 zubov

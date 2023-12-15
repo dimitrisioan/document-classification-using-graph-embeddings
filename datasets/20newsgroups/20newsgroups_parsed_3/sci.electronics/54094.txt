@@ -293,7 +293,7 @@ darlington
 on
 the
 current
-sens
+sen
 resistor
 will
 be
@@ -307,7 +307,7 @@ an
 op
 amp
 to
-sens
+sen
 the
 current
 rele

@@ -224,7 +224,7 @@ thi
 is
 technoiogi
 which
-us
+use
 tini
 sensor
 to
@@ -822,7 +822,7 @@ that
 express
 or
 involv
-discuss
+discus
 with
 respect
 to

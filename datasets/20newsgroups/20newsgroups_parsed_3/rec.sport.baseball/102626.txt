@@ -6,7 +6,7 @@ in
 articl
 dave
 almost
-curs
+cur
 the
 jay
 kirsch
@@ -18,7 +18,7 @@ an
 interest
 point
 anyon
-els
+el
 catch
 espn
 piec

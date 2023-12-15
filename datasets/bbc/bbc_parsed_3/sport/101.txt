@@ -407,7 +407,7 @@ the
 post
 manchest
 citi
-bo
+bos
 kevin
 keegan
 we
@@ -477,7 +477,7 @@ score
 from
 manchest
 unit
-bo
+bos
 sir
 alex
 ferguson

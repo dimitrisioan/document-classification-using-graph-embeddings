@@ -24,7 +24,7 @@ howev
 it
 may
 make
-sens
+sen
 to
 creat
 some
@@ -281,7 +281,7 @@ wa
 away
 last
 week
-pleas
+plea
 revert
 with
 hi
@@ -330,7 +330,7 @@ we
 had
 a
 good
-discuss
+discus
 about
 the
 deal

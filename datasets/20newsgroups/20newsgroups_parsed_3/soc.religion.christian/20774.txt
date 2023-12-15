@@ -2,7 +2,7 @@ subject
 re
 cell
 church
-discuss
+discus
 group
 in
 articl
@@ -14,7 +14,7 @@ am
 begin
 an
 email
-discuss
+discus
 group
 about
 cell
@@ -22,7 +22,7 @@ church
 if
 you
 are
-pleas
+plea
 defin
 cell
 church

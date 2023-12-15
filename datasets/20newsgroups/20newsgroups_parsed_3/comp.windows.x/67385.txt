@@ -35,7 +35,7 @@ to
 the
 widget
 be
-pass
+pas
 to
 the
 callback

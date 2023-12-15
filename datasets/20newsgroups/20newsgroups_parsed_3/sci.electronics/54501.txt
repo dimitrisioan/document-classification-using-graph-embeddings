@@ -30,7 +30,7 @@ wed
 apr
 gmt
 the
-discuss
+discus
 under
 the
 old
@@ -44,14 +44,14 @@ some
 peopl
 instead
 of
-discuss
+discus
 the
 issu
 itself
 they
 decid
 to
-discu
+discus
 the
 nontechn
 part

@@ -266,7 +266,7 @@ and
 reason
 price
 vehicl
-pleas
+plea
 dont
 knock
 it

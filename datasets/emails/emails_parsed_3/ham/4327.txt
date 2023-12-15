@@ -3,7 +3,7 @@ your
 confirm
 is
 need
-pleas
+plea
 respond
 to
 energi
@@ -15,7 +15,7 @@ confirm
 from
 lyri
 listmanag
-pleas
+plea
 repli
 to
 thi

@@ -215,7 +215,7 @@ sure
 but
 when
 all
-els
+el
 fail
 and
 your

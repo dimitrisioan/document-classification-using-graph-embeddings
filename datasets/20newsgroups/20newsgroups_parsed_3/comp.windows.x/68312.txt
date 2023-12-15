@@ -66,7 +66,7 @@ widget
 which
 onli
 redraw
-expos
+expo
 area
 here
 a
@@ -75,7 +75,7 @@ piec
 of
 code
 that
-us
+use
 those
 routin
 static
@@ -100,10 +100,10 @@ ppexposureregion
 xcreateregion
 region
 is
-pass
+pas
 via
 an
-expos
+expo
 event
 ifregion
 null
@@ -127,7 +127,7 @@ exporectwidth
 pwcorewidth
 exporectheight
 pwcoreheight
-els
+el
 exporectx
 evx
 exporecti
@@ -145,7 +145,7 @@ the
 exposur
 region
 xunionrectwithregionexporectppexposureregionppexposureregion
-els
+el
 xunionregion
 region
 ppexposureregion
@@ -157,7 +157,7 @@ need
 to
 clip
 on
-expos
+expo
 region
 for
 redraw
@@ -173,7 +173,7 @@ see
 if
 child
 is
-expos
+expo
 if
 xrectinregion
 pwplotterexposureregion

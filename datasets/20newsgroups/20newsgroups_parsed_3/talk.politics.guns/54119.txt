@@ -15,7 +15,7 @@ nice
 strawman
 inde
 the
-discuss
+discus
 is
 not
 about
@@ -138,7 +138,7 @@ claim
 and
 defend
 someth
-els
+el
 that
 nobodi
 is
@@ -432,7 +432,7 @@ been
 big
 news
 awesley
-go
+goe
 on
 you
 can

@@ -190,7 +190,7 @@ real
 option
 valuat
 method
-pleas
+plea
 advis
 if
 you

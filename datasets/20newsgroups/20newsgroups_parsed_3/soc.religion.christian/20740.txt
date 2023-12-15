@@ -69,7 +69,7 @@ those
 book
 were
 not
-expos
+expo
 to
 me
 joe
@@ -79,7 +79,7 @@ r
 khan
 after
 juli
-pleas
+plea
 send
 mail
 to

@@ -34,7 +34,7 @@ in
 multilevel
 secur
 network
-pleas
+plea
 semd
 me
 ani
@@ -66,7 +66,7 @@ gateway
 kerbero
 authent
 servic
-pleas
+plea
 send
 me
 a

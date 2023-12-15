@@ -31,7 +31,7 @@ other
 site
 a
 mark
-pleas
+plea
 consult
 the
 archi
@@ -589,7 +589,7 @@ devic
 it
 can
 be
-pass
+pas
 an
 x
 window
@@ -1202,7 +1202,7 @@ pubpapersibuildp
 on
 interviewsstanfordedu
 quest
-window
+windows
 objectview
 c
 packag
@@ -2185,7 +2185,7 @@ c
 and
 fortran
 pdb
-us
+use
 the
 oi
 toolkit
@@ -2713,7 +2713,7 @@ server
 in
 addit
 oreilli
-associ
+associate
 volum
 on
 x
@@ -2911,7 +2911,7 @@ use
 openwindow
 xrbase
 xt
-pleas
+plea
 contact
 your
 local
@@ -3043,7 +3043,7 @@ use
 incompat
 method
 of
-pass
+pas
 structur
 a
 argument
@@ -3065,7 +3065,7 @@ with
 sunsuppli
 function
 that
-pa
+pas
 or
 return
 struct
@@ -3090,7 +3090,7 @@ the
 sparc
 gnu
 cc
-us
+use
 an
 incompat
 call
@@ -3098,7 +3098,7 @@ convent
 for
 structur
 it
-pass
+pas
 them
 by
 includ
@@ -3112,7 +3112,7 @@ wherea
 the
 standard
 compil
-pass
+pas
 them
 effect
 by
@@ -3651,7 +3651,7 @@ xload
 a
 setuid
 program
-pleas
+plea
 note
 that
 the
@@ -3671,7 +3671,7 @@ program
 to
 work
 or
-els
+el
 those
 program
 must
@@ -3717,7 +3717,7 @@ by
 build
 mkfontdir
 static
-pa
+pas
 bstatic
 to
 most
@@ -4097,7 +4097,7 @@ x
 the
 x
 releas
-us
+use
 it
 to
 help
@@ -4273,7 +4273,7 @@ configxrp
 postscript
 some
 supplement
-appendix
+appendic
 are
 nearbi
 document
@@ -4843,7 +4843,7 @@ be
 a
 program
 that
-us
+use
 xt
 function
 but
@@ -5509,7 +5509,7 @@ of
 thi
 program
 which
-us
+use
 r
 xlib
 call

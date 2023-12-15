@@ -213,7 +213,7 @@ rule
 car
 have
 to
-pa
+pas
 safeti
 test
 compani
@@ -259,7 +259,7 @@ more
 like
 to
 work
-pleas
+plea
 note
 that
 im

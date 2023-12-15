@@ -44,7 +44,7 @@ hello
 ron
 and
 jean
-pleas
+plea
 furnish
 me
 your
@@ -142,7 +142,7 @@ electr
 market
 could
 i
-pleas
+plea
 get
 the
 follow

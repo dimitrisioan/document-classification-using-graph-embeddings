@@ -67,7 +67,7 @@ use
 the
 issu
 wa
-discuss
+discus
 at
 a
 major
@@ -108,7 +108,7 @@ team
 of
 forens
 investig
-go
+goe
 about
 solv
 a

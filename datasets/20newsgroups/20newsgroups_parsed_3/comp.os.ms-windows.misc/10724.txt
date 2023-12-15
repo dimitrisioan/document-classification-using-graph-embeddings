@@ -65,7 +65,7 @@ from
 where
 ha
 anybodi
-els
+el
 done
 thi
 and

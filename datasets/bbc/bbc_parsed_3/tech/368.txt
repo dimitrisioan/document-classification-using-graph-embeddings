@@ -38,7 +38,7 @@ involv
 in
 the
 smart
-sens
+sen
 system
 believ
 it
@@ -54,7 +54,7 @@ data
 gather
 will
 be
-pass
+pas
 to
 polic
 to
@@ -78,7 +78,7 @@ sign
 up
 for
 the
-sens
+sen
 system
 includ
 mci
@@ -112,7 +112,7 @@ of
 attack
 will
 be
-pass
+pas
 to
 anyon
 suffer
@@ -207,7 +207,7 @@ the
 inform
 will
 be
-pass
+pas
 back
 down
 the
@@ -236,7 +236,7 @@ servic
 and
 it
 would
-pa
+pas
 on
 fingerprint
 data
@@ -309,7 +309,7 @@ what
 type
 of
 traffic
-pass
+pas
 between
 machin
 or
@@ -432,7 +432,7 @@ inform
 system
 exist
 to
-pa
+pas
 on
 inform
 about

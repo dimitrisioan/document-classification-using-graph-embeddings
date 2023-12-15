@@ -128,7 +128,7 @@ play
 point
 tend
 to
-expos
+expo
 these
 overr
 player

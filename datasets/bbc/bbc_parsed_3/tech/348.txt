@@ -113,7 +113,7 @@ could
 be
 on
 shop
-shelf
+shelv
 by
 novemb
 howev
@@ -300,7 +300,7 @@ gamer
 thi
 emphasi
 on
-eas
+ea
 of
 use
 would
@@ -308,7 +308,7 @@ mean
 everi
 xbox
 titl
-us
+use
 the
 same
 interfac
@@ -374,7 +374,7 @@ vehicl
 for
 game
 they
-poss
+posse
 thi
 abil
 to

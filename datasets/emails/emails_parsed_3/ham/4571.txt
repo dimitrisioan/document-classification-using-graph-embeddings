@@ -4,7 +4,7 @@ new
 email
 address
 hello
-pleas
+plea
 note
 that
 i
@@ -34,7 +34,7 @@ financi
 mathemat
 train
 cours
-pleas
+plea
 let
 me
 know
@@ -71,7 +71,7 @@ plan
 on
 bring
 copi
-pleas
+plea
 note
 to
 bring

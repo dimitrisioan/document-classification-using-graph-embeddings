@@ -232,7 +232,7 @@ consent
 of
 the
 author
-pleas
+plea
 note
 that
 i
@@ -262,7 +262,7 @@ sound
 card
 miscellan
 info
-pleas
+plea
 note
 that
 part
@@ -284,7 +284,7 @@ technic
 support
 adaptec
 bb
-pleas
+plea
 send
 comment
 correct
@@ -361,7 +361,7 @@ speed
 it
 up
 are
-discuss
+discus
 in
 the
 section
@@ -1586,7 +1586,7 @@ few
 second
 thi
 caus
-needl
+needle
 wear
 to
 the
@@ -1656,7 +1656,7 @@ drive
 and
 the
 adaptec
-us
+use
 dma
 to
 transfer

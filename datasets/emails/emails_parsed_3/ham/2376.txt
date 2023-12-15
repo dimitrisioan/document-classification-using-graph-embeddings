@@ -38,7 +38,7 @@ rpi
 model
 hi
 zimin
-pleas
+plea
 find
 attach
 the
@@ -103,7 +103,7 @@ the
 curv
 a
 lot
-pleas
+plea
 find
 below
 a

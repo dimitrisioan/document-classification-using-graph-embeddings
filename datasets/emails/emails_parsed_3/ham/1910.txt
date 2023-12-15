@@ -35,7 +35,7 @@ credit
 card
 would
 you
-pleas
+plea
 verifi
 that
 you
@@ -77,7 +77,7 @@ subject
 iaf
 membership
 shirley
-pleas
+plea
 renew
 my
 membership
@@ -105,7 +105,7 @@ dear
 colleagu
 we
 are
-pleas
+plea
 to
 report
 that
@@ -141,7 +141,7 @@ option
 avail
 to
 you
-pleas
+plea
 take
 a
 moment
@@ -242,7 +242,7 @@ while
 on
 our
 websit
-pleas
+plea
 take
 a
 moment
@@ -262,7 +262,7 @@ you
 have
 ani
 question
-pleas
+plea
 don
 t
 hesit

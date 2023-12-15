@@ -50,7 +50,7 @@ code
 of
 object
 moral
-pleas
+plea
 defin
 thi
 object
@@ -59,7 +59,7 @@ while
 your
 at
 it
-pleas
+plea
 state
 the
 theori

@@ -106,7 +106,7 @@ ha
 fixat
 itself
 upon
-go
+goe
 bad
 you
 replac
@@ -132,7 +132,7 @@ assum
 that
 the
 program
-us
+use
 someth
 in
 rom
@@ -152,7 +152,7 @@ obvious
 if
 the
 drive
-go
+goe
 bad
 youll
 be
@@ -287,7 +287,7 @@ sleep
 let
 consid
 what
-go
+goe
 on
 in
 our
@@ -620,11 +620,11 @@ and
 tech
 manual
 whatev
-els
+el
 for
 your
 program
-pleas
+plea
 do
 thi
 regardless
@@ -651,7 +651,7 @@ cut
 your
 loss
 but
-pleas
+plea
 take
 a
 cue
@@ -828,7 +828,7 @@ they
 went
 after
 somebodi
-els
+el
 casual
 pirat
 is

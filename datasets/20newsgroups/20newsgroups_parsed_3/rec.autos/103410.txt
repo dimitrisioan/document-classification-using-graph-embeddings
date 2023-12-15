@@ -650,7 +650,7 @@ me
 but
 sinc
 someon
-els
+el
 point
 out
 cd
@@ -875,7 +875,7 @@ me
 more
 than
 anyth
-els
+el
 some
 big
 wig

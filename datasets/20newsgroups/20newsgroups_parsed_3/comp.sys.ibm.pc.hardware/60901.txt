@@ -71,7 +71,7 @@ when
 the
 network
 connect
-dy
+die
 in
 case
 it
@@ -127,7 +127,7 @@ the
 interim
 the
 card
-us
+use
 port
 address
 xe
@@ -202,7 +202,7 @@ of
 ibm
 or
 anyon
-els
+el
 for
 that
 matter

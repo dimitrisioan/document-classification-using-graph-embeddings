@@ -180,7 +180,7 @@ stori
 imag
 or
 anyth
-els
+el
 microsoft
 is
 keen

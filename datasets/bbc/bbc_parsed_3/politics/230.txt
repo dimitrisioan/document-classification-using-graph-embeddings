@@ -195,7 +195,7 @@ and
 gratuit
 forc
 the
-tori
+torus
 have
 call
 for
@@ -228,7 +228,7 @@ commission
 sir
 john
 steven
-tori
+torus
 frontbench
 patrick
 mercer

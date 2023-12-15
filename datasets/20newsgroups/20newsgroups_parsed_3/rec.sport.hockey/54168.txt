@@ -219,7 +219,7 @@ coulman
 bozrah
 bruin
 skriko
-wolf
+wolv
 buffalo
 soldier
 houdini
@@ -633,7 +633,7 @@ sandi
 sabr
 widefield
 white
-wolf
+wolv
 florida
 tech
 burgh

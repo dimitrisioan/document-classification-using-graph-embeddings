@@ -25,7 +25,7 @@ thminut
 own
 goal
 blue
-bo
+bos
 jose
 mourinho
 wa
@@ -66,7 +66,7 @@ header
 made
 for
 a
-tens
+ten
 final
 it
 wa
@@ -286,7 +286,7 @@ followup
 and
 despit
 chelsea
-possess
+posse
 it
 wa
 liverpool

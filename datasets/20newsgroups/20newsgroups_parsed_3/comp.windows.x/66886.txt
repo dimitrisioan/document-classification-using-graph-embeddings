@@ -52,7 +52,7 @@ of
 motif
 no
 flame
-pleas
+plea
 just
 an
 opinion
@@ -302,7 +302,7 @@ flame
 on
 thi
 one
-pleas
+plea
 bambi
 david
 j

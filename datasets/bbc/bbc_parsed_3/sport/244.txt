@@ -5,7 +5,7 @@ succeed
 keegan
 joint
 assist
-bo
+bos
 stuart
 pearc
 ha

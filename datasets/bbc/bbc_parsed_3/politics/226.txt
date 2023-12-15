@@ -1,4 +1,4 @@
-tori
+torus
 unveil
 quango
 blitz
@@ -38,7 +38,7 @@ under
 propos
 which
 the
-tori
+torus
 say
 would
 save
@@ -60,7 +60,7 @@ access
 regul
 for
 univers
-tori
+torus
 frontbench
 john
 redwood
@@ -107,7 +107,7 @@ or
 nation
 govern
 the
-tori
+torus
 say
 the
 strateg

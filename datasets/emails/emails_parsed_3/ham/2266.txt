@@ -120,7 +120,7 @@ luci
 deathridg
 on
 am
-pleas
+plea
 respond
 to
 luci
@@ -180,7 +180,7 @@ have
 not
 receiv
 it
-pleas
+plea
 let
 me
 know
@@ -201,7 +201,7 @@ of
 thi
 confer
 and
-pleas
+plea
 do
 not
 hesit

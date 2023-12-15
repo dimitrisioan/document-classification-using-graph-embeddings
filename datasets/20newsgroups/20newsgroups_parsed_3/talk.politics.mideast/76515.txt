@@ -23,7 +23,7 @@ and
 disgust
 it
 onli
-prof
+prove
 that
 we
 must
@@ -522,7 +522,7 @@ thi
 propos
 for
 meaning
-discuss
+discus
 and
 enrich
 elia

@@ -180,7 +180,7 @@ the
 th
 follow
 by
-goos
+goo
 gossag
 in
 the

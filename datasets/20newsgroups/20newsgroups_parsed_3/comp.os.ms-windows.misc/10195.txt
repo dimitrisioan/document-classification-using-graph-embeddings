@@ -8,7 +8,7 @@ in
 articl
 toni
 s
-annes
+anne
 write
 in
 articl
@@ -76,7 +76,7 @@ do
 thi
 though
 toni
-annes
+anne
 or
 thi
 may

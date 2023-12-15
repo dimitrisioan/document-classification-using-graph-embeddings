@@ -28,7 +28,7 @@ job
 but
 if
 someon
-els
+el
 ha
 alreadi
 done

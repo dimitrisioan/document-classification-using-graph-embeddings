@@ -134,7 +134,7 @@ here
 it
 wa
 somewher
-els
+el
 first
 said
 that
@@ -326,7 +326,7 @@ the
 bullpen
 if
 jonesi
-go
+goe
 out
 we
 may

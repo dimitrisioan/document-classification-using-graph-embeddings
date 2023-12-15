@@ -1,5 +1,5 @@
 subject
-bo
+bos
 s
 day
 hey
@@ -12,7 +12,7 @@ not
 be
 awar
 that
-bo
+bos
 s
 day
 oct
@@ -32,7 +32,7 @@ th
 with
 the
 big
-bo
+bos
 vinc
 kaminski
 and
@@ -50,8 +50,8 @@ someth
 special
 for
 our
-bo
-pleas
+bos
+plea
 inform
 me
 wherebi

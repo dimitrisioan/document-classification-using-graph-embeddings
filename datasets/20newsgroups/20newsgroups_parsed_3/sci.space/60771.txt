@@ -7,7 +7,7 @@ articl
 mark
 prado
 write
-pleas
+plea
 go
 just
 one
@@ -30,11 +30,11 @@ song
 clementin
 if
 memori
-serf
+serv
 part
 of
 it
-go
+goe
 in
 a
 cavern

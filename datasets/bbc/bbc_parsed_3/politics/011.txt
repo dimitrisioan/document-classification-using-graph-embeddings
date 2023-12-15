@@ -57,7 +57,7 @@ london
 hq
 everi
 morn
-tori
+torus
 cochairman
 liam
 fox
@@ -84,7 +84,7 @@ afraid
 of
 scrutini
 the
-tori
+torus
 leader
 want
 to

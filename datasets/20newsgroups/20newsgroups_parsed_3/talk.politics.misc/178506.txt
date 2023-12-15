@@ -267,7 +267,7 @@ bay
 area
 workingclass
 neighborhood
-go
+goe
 for
 about
 i
@@ -454,7 +454,7 @@ is
 bill
 gate
 make
-sens
+sen
 timr
 there
 noth

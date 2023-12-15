@@ -1,7 +1,7 @@
 subject
 re
 our
-discuss
+discus
 mike
 there
 might
@@ -87,7 +87,7 @@ texa
 net
 subject
 our
-discuss
+discus
 vinc
 stinson
 i
@@ -168,7 +168,7 @@ merger
 with
 boc
 steve
-belief
+believ
 that
 there
 will
@@ -292,7 +292,7 @@ com
 cc
 subject
 our
-discuss
+discus
 mike
 thank
 for
@@ -337,7 +337,7 @@ crack
 up
 to
 be
-pleas
+plea
 see
 the
 attach

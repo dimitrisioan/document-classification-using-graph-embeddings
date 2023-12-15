@@ -89,7 +89,7 @@ like
 a
 lot
 of
-boss
+bos
 he
 didnt
 obey
@@ -213,7 +213,7 @@ the
 german
 word
 himmler
-us
+use
 that
 is
 translat

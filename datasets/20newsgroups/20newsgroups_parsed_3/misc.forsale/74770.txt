@@ -167,7 +167,7 @@ qualiti
 standard
 list
 abov
-pleas
+plea
 respond
 to
 via

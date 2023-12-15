@@ -52,7 +52,7 @@ end
 up
 shoot
 someon
-els
+el
 could
 be
 it
@@ -79,7 +79,7 @@ time
 believ
 that
 anyon
-els
+el
 would
 react
 otherwis

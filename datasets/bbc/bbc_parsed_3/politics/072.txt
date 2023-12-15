@@ -64,7 +64,7 @@ arrest
 propos
 lord
 strathclyd
-tori
+torus
 leader
 in
 the
@@ -278,7 +278,7 @@ the
 lord
 no
 bill
-go
+goe
 through
 parliament
 without
@@ -512,7 +512,7 @@ the
 new
 bill
 to
-pa
+pas
 into
 law
 by

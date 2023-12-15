@@ -16,7 +16,7 @@ write
 i
 want
 thi
-discuss
+discus
 to
 take
 place
@@ -892,7 +892,7 @@ tragic
 they
 are
 to
-expos
+expo
 the
 antiarmenian
 activ
@@ -913,7 +913,7 @@ indic
 of
 the
 link
-loos
+loo
 a
 it
 may
@@ -1135,7 +1135,7 @@ by
 mr
 o
 boy
-pleas
+plea
 can
 you
 tell
@@ -1230,7 +1230,7 @@ the
 copi
 of
 page
-pleas
+plea
 ask
 by
 sct
@@ -1693,7 +1693,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

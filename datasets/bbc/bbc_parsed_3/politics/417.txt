@@ -54,7 +54,7 @@ trust
 and
 that
 the
-tori
+torus
 had
 fail
 to
@@ -180,7 +180,7 @@ respond
 to
 the
 claim
-tori
+torus
 parti
 cochairman
 liam
@@ -209,7 +209,7 @@ more
 control
 over
 our
-life
+live
 mr
 kennedi
 also
@@ -267,7 +267,7 @@ said
 labour
 and
 the
-tori
+torus
 claim
 the
 sum

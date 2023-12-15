@@ -48,7 +48,7 @@ with
 unlimit
 mileag
 day
-pa
+pas
 to
 univers
 studio

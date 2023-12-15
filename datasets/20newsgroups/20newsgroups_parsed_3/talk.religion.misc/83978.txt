@@ -4,7 +4,7 @@ wa
 after
 year
 thi
-discuss
+discus
 on
 object
 seem
@@ -352,7 +352,7 @@ it
 in
 ani
 concret
-sens
+sen
 eg
 i
 have

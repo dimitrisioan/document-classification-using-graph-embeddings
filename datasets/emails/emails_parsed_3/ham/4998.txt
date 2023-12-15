@@ -260,7 +260,7 @@ inform
 or
 to
 regist
-pleas
+plea
 visit
 our
 websit
@@ -296,7 +296,7 @@ engin
 to
 ut
 engin
-alumnu
+alumnus
 it
 wa
 e
@@ -328,7 +328,7 @@ the
 colleg
 of
 engin
-pleas
+plea
 repli
 to
 thi

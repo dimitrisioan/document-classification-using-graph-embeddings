@@ -21,6 +21,6 @@ palo
 yoshiuro
 grade
 a
-pleas
+plea
 confirm
 vinc

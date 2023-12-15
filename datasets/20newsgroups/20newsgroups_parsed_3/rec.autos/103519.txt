@@ -327,7 +327,7 @@ start
 a
 mail
 list
-pleas
+plea
 speak
 up
 gki
@@ -392,7 +392,7 @@ that
 is
 if
 nobodi
-els
+el
 beat
 me
 to
@@ -404,7 +404,7 @@ announc
 here
 when
 it
-go
+goe
 up
 the
 cut

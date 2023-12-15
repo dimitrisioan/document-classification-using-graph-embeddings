@@ -24,7 +24,7 @@ expir
 feb
 ask
 price
-pleas
+plea
 call
 fulvio
 locat

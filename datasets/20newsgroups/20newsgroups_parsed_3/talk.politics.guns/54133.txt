@@ -47,7 +47,7 @@ the
 state
 rep
 gener
-life
+live
 no
 more
 than

@@ -35,7 +35,7 @@ setenv
 lcctype
 iso
 stti
-pa
+pas
 then
 i
 add

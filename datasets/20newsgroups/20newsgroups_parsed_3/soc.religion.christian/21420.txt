@@ -359,7 +359,7 @@ direct
 evid
 in
 st
-irenaeu
+irenaeus
 against
 heresi
 and

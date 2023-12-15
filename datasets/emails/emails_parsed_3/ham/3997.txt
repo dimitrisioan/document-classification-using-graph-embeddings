@@ -54,7 +54,7 @@ help
 in
 collect
 or
-pass
+pas
 along
 these
 edit

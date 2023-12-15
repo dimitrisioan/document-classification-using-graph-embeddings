@@ -5,7 +5,7 @@ mcweekli
 stat
 write
 some
-discuss
+discus
 about
 whether
 elia
@@ -204,7 +204,7 @@ the
 debat
 over
 elia
-go
+goe
 way
 back
 bill

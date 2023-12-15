@@ -170,7 +170,7 @@ it
 look
 like
 volvo
-us
+use
 someth
 like
 do
@@ -248,7 +248,7 @@ and
 in
 a
 posit
-sens
+sen
 but
 in
 ani

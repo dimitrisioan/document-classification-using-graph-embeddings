@@ -43,7 +43,7 @@ eye
 and
 send
 sound
-puls
+pul
 in
 sync
 with

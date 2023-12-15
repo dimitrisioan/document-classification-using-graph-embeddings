@@ -11,7 +11,7 @@ articl
 write
 in
 articl
-ru
+rus
 crisp
 write
 so
@@ -198,7 +198,7 @@ gfci
 devic
 do
 save
-life
+live
 if
 you
 decid
@@ -242,9 +242,9 @@ doubl
 check
 their
 common
-sens
+sen
 list
-pleas
+plea
 exercis
 caution
 gari

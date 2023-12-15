@@ -129,7 +129,7 @@ allow
 use
 of
 the
-s
+se
 power
 suppli
 he

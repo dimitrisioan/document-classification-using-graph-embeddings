@@ -1,5 +1,5 @@
 taylor
-pois
+poi
 for
 scotland
 return

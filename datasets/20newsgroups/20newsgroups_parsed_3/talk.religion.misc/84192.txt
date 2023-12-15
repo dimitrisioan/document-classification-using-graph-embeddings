@@ -16,7 +16,7 @@ write
 me
 brian
 k
-pleas
+plea
 step
 asid
 befor
@@ -154,7 +154,7 @@ mind
 i
 think
 the
-discuss
+discus
 is
 more
 like
@@ -348,7 +348,7 @@ the
 daisi
 if
 you
-pleas
+plea
 bc
 whi
 do
@@ -482,7 +482,7 @@ submiss
 to
 their
 influenc
-pleas
+plea
 offer
 me
 an

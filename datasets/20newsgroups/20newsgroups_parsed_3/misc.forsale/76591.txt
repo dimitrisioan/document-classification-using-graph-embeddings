@@ -49,7 +49,7 @@ or
 nicad
 recharg
 or
-us
+use
 an
 ac
 adapt

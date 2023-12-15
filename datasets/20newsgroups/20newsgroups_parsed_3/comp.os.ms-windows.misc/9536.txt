@@ -3,7 +3,7 @@ re
 window
 keep
 crash
-pleas
+plea
 help
 in
 articl
@@ -17,7 +17,7 @@ subject
 window
 keep
 crash
-pleas
+plea
 help
 date
 fri

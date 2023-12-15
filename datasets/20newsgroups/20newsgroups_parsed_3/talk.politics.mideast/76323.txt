@@ -128,7 +128,7 @@ hero
 who
 gave
 their
-life
+live
 gener
 and
 with
@@ -178,7 +178,7 @@ not
 onli
 took
 the
-life
+live
 of
 million
 muslim
@@ -667,7 +667,7 @@ equip
 with
 a
 deep
-sens
+sen
 of
 commit
 polit
@@ -741,7 +741,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

@@ -65,7 +65,7 @@ type
 in
 italian
 languag
-pleas
+plea
 repli
 via
 email

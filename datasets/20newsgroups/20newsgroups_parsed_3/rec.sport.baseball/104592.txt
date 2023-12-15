@@ -88,10 +88,10 @@ a
 factor
 of
 mediot
-bia
+bias
 than
 anyth
-els
+el
 i
 wonder
 if

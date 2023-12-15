@@ -33,7 +33,7 @@ version
 control
 system
 scc
-pleas
+plea
 put
 all
 your
@@ -49,7 +49,7 @@ do
 and
 a
 we
-discuss
+discus
 with
 you
 thank
@@ -190,7 +190,7 @@ problem
 with
 the
 program
-pleas
+plea
 let
 me
 know

@@ -154,7 +154,7 @@ and
 you
 want
 to
-pa
+pas
 you
 might
 not
@@ -263,7 +263,7 @@ line
 and
 they
 dont
-pa
+pas
 it
 on
 so
@@ -280,7 +280,7 @@ front
 and
 he
 doesnt
-pa
+pas
 it
 on
 and

@@ -86,7 +86,7 @@ dragster
 no
 no
 flame
-pleas
+plea
 ive
 got
 both

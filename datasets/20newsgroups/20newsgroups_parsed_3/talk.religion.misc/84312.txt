@@ -140,7 +140,7 @@ oword
 thi
 doe
 not
-pars
+par
 how
 could
 you

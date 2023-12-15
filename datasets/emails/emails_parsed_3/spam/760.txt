@@ -48,7 +48,7 @@ stock
 market
 govern
 polit
-discuss
+discus
 credit
 card
 mortgag

@@ -398,7 +398,7 @@ how
 to
 access
 them
-pleas
+plea
 see
 the
 introduct
@@ -517,7 +517,7 @@ is
 faster
 than
 r
-pleas
+plea
 see
 the
 x
@@ -2796,7 +2796,7 @@ number
 here
 doe
 anyon
-els
+el
 share
 librari
 and
@@ -3175,7 +3175,7 @@ window
 ill
 let
 someon
-els
+el
 figur
 out
 how
@@ -3458,7 +3458,7 @@ compress
 and
 collaps
 multipl
-expos
+expo
 event
 thi
 can
@@ -3632,7 +3632,7 @@ again
 and
 again
 xt
-us
+use
 a
 definit
 better
@@ -3697,7 +3697,7 @@ swap
 display
 with
 someon
-els
+el
 run
 all
 your
@@ -3917,7 +3917,7 @@ are
 expens
 use
 cpu
-half
+halv
 them
 you
 pay
@@ -4084,7 +4084,7 @@ want
 to
 be
 credit
-pleas
+plea
 tell
 me
 speedupxfaq

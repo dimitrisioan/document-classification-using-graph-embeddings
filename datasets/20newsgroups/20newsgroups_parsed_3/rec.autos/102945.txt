@@ -152,7 +152,7 @@ the
 trunklid
 wa
 miss
-expos
+expo
 a
 boot
 with

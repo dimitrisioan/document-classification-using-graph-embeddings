@@ -8,7 +8,7 @@ visit
 anjam
 it
 make
-sens
+sen
 to
 come
 to

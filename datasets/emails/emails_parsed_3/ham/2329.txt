@@ -2,7 +2,7 @@ subject
 enron
 credit
 model
-discuss
+discus
 hi
 thi
 email
@@ -14,7 +14,7 @@ our
 plan
 for
 detail
-discuss
+discus
 about
 enron
 credit
@@ -27,7 +27,7 @@ have
 alreadi
 been
 schedul
-pleas
+plea
 refer
 to
 the
@@ -46,7 +46,7 @@ can
 have
 more
 inform
-discuss
+discus
 over
 lunch
 dinner

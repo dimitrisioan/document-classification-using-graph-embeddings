@@ -8,14 +8,14 @@ new
 aircraft
 tum
 for
-leas
+lea
 set
 spare
 part
 categori
 offer
 to
-leas
+lea
 headlin
 new
 aircraft
@@ -199,7 +199,7 @@ subsid
 andor
 underwrit
 the
-leas
+lea
 that
 could
 make

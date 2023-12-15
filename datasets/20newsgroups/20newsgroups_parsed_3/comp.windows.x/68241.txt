@@ -74,7 +74,7 @@ i
 get
 thi
 messag
-pleas
+plea
 help
 me
 i

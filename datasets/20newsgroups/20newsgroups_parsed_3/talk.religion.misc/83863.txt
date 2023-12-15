@@ -332,7 +332,7 @@ dialog
 me
 brian
 k
-pleas
+plea
 step
 asid
 befor
@@ -518,7 +518,7 @@ one
 time
 in
 their
-life
+live
 i
 have
 i

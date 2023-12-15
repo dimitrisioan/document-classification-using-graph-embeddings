@@ -42,7 +42,7 @@ resum
 book
 thi
 morn
-pleas
+plea
 call
 alys
 at
@@ -63,7 +63,7 @@ resum
 book
 to
 you
-pleas
+plea
 email
 me
 your

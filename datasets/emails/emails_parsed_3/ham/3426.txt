@@ -603,7 +603,7 @@ on
 separ
 occas
 to
-discu
+discus
 particular
 topic
 vinc
@@ -690,7 +690,7 @@ the
 professor
 were
 research
-focuss
+focus
 tenur
 with
 littl
@@ -1198,7 +1198,7 @@ industri
 connect
 present
 and
-discuss
+discus
 from
 charli
 weldon
@@ -1323,7 +1323,7 @@ the
 exampl
 and
 problem
-discuss
+discus
 pertain
 directli
 to

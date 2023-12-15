@@ -66,7 +66,7 @@ oliv
 letwin
 for
 the
-tori
+torus
 attack
 govern
 red

@@ -1,7 +1,7 @@
 subject
 real
 option
-pleas
+plea
 find
 enclos
 the
@@ -34,7 +34,7 @@ th
 th
 even
 th
-pleas
+plea
 review
 thi
 inform

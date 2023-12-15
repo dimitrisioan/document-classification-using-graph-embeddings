@@ -82,7 +82,7 @@ allow
 u
 to
 hold
-discuss
+discus
 and
 share
 inform
@@ -209,7 +209,7 @@ is
 still
 small
 and
-spars
+spar
 but
 we
 are

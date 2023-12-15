@@ -193,7 +193,7 @@ and
 you
 begin
 to
-loos
+loo
 speed
 i
 should

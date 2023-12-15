@@ -101,13 +101,13 @@ and
 engin
 research
 the
-assess
+ass
 process
 and
 the
 design
 approach
-discuss
+discus
 on
 manag
 option
@@ -195,7 +195,7 @@ level
 the
 a
 option
-us
+use
 current
 or
 simplifi
@@ -1010,7 +1010,7 @@ of
 the
 oper
 phase
-assess
+ass
 team
 lead
 by
@@ -1116,7 +1116,7 @@ begin
 the
 detail
 cost
-assess
+ass
 also
 thi
 week
@@ -1130,7 +1130,7 @@ the
 next
 round
 of
-discuss
+discus
 with
 the
 redesign

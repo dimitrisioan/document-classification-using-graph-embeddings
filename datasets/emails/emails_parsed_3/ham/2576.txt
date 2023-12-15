@@ -1,7 +1,7 @@
 subject
 risk
 panel
-discuss
+discus
 good
 morn
 gentleman
@@ -22,7 +22,7 @@ at
 am
 est
 cst
-pleas
+plea
 let
 me
 know
@@ -47,7 +47,7 @@ can
 not
 do
 thi
-pleas
+plea
 let
 me
 know
@@ -85,7 +85,7 @@ cc
 subject
 risk
 panel
-discuss
+discus
 hello
 everyon
 vinc
@@ -112,7 +112,7 @@ day
 is
 rather
 full
-pleas
+plea
 let
 me
 know

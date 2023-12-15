@@ -7,7 +7,7 @@ rice
 dorothi
 no
 problem
-pleas
+plea
 cc
 mail
 me
@@ -133,7 +133,7 @@ mind
 return
 thi
 call
-pleas
+plea
 let
 me
 know

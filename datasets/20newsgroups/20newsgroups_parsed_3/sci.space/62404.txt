@@ -28,7 +28,7 @@ gregori
 mccolm
 write
 huh
-pleas
+plea
 state
 your
 criterion
@@ -88,7 +88,7 @@ cryptic
 remark
 a
 you
-pleas
+plea
 some
 peopl
 have

@@ -85,7 +85,7 @@ bn
 â£bn
 swiss
 re
-belief
+believ
 that
 the
 cost
@@ -382,7 +382,7 @@ and
 those
 that
 do
-pa
+pas
 on
 a
 lot
@@ -630,7 +630,7 @@ it
 said
 loss
 of
-possess
+posse
 will
 usual
 be

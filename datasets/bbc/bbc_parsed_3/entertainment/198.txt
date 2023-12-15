@@ -1,7 +1,7 @@
 brooksid
 actress
 keaveney
-dy
+die
 actress
 anna
 keaveney
@@ -108,7 +108,7 @@ in
 itv
 drama
 footbal
-wife
+wive
 and
 a
 cameo
@@ -140,7 +140,7 @@ the
 nation
 theatr
 privat
-life
+live
 and
 the
 rise

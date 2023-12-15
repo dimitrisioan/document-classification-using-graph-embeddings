@@ -59,7 +59,7 @@ recal
 sleep
 featur
 tel
-pleas
+plea
 repli
 to
 for

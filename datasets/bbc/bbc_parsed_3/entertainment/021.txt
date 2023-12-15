@@ -113,7 +113,7 @@ for
 hi
 compani
 ballet
-ru
+rus
 she
 becam
 ill
@@ -324,7 +324,7 @@ in
 a
 reform
 ballet
-ru
+rus
 she
 play
 to

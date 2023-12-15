@@ -52,7 +52,7 @@ of
 the
 parent
 which
-us
+use
 the
 default
 visual
@@ -112,7 +112,7 @@ attribut
 when
 creat
 or
-els
+el
 a
 badmatch
 occur
@@ -181,7 +181,7 @@ howev
 even
 if
 i
-pa
+pas
 along
 a
 suitabl
@@ -282,7 +282,7 @@ that
 copyfrompar
 make
 ani
-sens
+sen
 a
 the
 borderwidth

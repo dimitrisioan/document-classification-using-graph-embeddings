@@ -61,7 +61,7 @@ match
 and
 when
 all
-els
+el
 fail
 return
 the

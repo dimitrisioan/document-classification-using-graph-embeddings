@@ -96,7 +96,7 @@ otherwis
 both
 locat
 and
-motif
+motiv
 wise
 cap
 dont
@@ -1203,7 +1203,7 @@ for
 them
 and
 everyon
-els
+el
 id
 push
 for

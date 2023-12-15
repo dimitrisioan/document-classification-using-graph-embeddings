@@ -35,15 +35,15 @@ held
 talk
 with
 lse
-bo
+bos
 clara
-furs
+fur
 the
 day
 after
 rival
 deutsch
-boers
+boer
 put
 forward
 it
@@ -89,7 +89,7 @@ bid
 to
 â£bn
 deutsch
-boers
+boer
 previous
 offer
 â£bn
@@ -182,7 +182,7 @@ market
 union
 for
 deutsch
-boers
+boer
 staff
 in
 frankfurt
@@ -340,7 +340,7 @@ merger
 comment
 believ
 deutsch
-boers
+boer
 which
 ha
 now

@@ -40,7 +40,7 @@ they
 give
 histor
 background
-discuss
+discus
 of
 literari
 style
@@ -90,7 +90,7 @@ the
 style
 is
 somewhat
-dens
+den
 but
 the
 book
@@ -117,7 +117,7 @@ but
 not
 quit
 so
-dens
+den
 pack
 also
 the
@@ -324,9 +324,9 @@ himself
 whether
 these
 are
-plu
+pluse
 or
-minu
+minus
 in
 ani
 case

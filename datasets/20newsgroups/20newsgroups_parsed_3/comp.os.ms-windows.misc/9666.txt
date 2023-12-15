@@ -29,7 +29,7 @@ and
 fax
 program
 etc
-pleas
+plea
 mail
 me
 all

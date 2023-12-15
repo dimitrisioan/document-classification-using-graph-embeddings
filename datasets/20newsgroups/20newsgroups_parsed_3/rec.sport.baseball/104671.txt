@@ -15,7 +15,7 @@ yee
 write
 sunday
 game
-expos
+expo
 the
 weak
 of

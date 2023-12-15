@@ -19,7 +19,7 @@ gravel
 road
 with
 few
-loos
+loo
 rock
 on
 it
@@ -139,7 +139,7 @@ friend
 and
 i
 were
-pass
+pas
 a
 field
 of
@@ -154,7 +154,7 @@ a
 we
 slow
 to
-pa
+pas
 the
 ram
 made

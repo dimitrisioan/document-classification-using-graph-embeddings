@@ -32,7 +32,7 @@ by
 fred
 lagrasta
 group
-pleas
+plea
 let
 me
 know

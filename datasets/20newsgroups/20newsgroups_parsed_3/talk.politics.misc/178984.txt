@@ -44,7 +44,7 @@ get
 it
 back
 with
-expos
+expo
 film
 shortli
 after
@@ -78,7 +78,7 @@ for
 jaywalk
 and
 accid
-eras
+era
 the
 tape
 while

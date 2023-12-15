@@ -1,7 +1,7 @@
 subject
 nhl
 summari
-pars
+par
 result
 for
 game
@@ -19,7 +19,7 @@ janssen
 greig
 ny
 ranger
-graf
+grave
 turcott
 zubov
 second
@@ -28,7 +28,7 @@ ny
 ranger
 kovalev
 turcott
-graf
+grave
 hartford
 sanderson
 cassel
@@ -87,7 +87,7 @@ a
 pt
 amont
 andersson
-graf
+grave
 kovalev
 messier
 m

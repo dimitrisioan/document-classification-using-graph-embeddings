@@ -151,7 +151,7 @@ vital
 that
 rise
 were
-minims
+minim
 a
 limit
 amount
@@ -475,7 +475,7 @@ i
 know
 from
 my
-discuss
+discus
 with
 welsh
 liber

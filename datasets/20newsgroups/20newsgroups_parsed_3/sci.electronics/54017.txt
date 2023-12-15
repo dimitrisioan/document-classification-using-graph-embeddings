@@ -27,7 +27,7 @@ in
 australia
 could
 someon
-pleas
+plea
 inform
 me
 if
@@ -101,7 +101,7 @@ instruct
 do
 say
 to
-expos
+expo
 it
 to
 light

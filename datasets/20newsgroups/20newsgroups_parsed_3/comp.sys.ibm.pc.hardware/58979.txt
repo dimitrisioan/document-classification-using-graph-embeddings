@@ -5,7 +5,7 @@ ii
 driver
 could
 anybodi
-pleas
+plea
 provid
 me
 a
@@ -48,7 +48,7 @@ you
 can
 help
 me
-pleas
+plea
 do
 ani
 of
@@ -101,7 +101,7 @@ me
 by
 electron
 mail
-pleas
+plea
 notifi
 me
 by

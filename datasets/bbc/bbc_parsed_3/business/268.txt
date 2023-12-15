@@ -169,7 +169,7 @@ in
 a
 higher
 rate
-children
+child
 deposit
 account
 and
@@ -396,7 +396,7 @@ cash
 save
 in
 their
-children
+child
 name
 and
 take

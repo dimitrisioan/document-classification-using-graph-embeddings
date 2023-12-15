@@ -150,7 +150,7 @@ stop
 transmiss
 if
 ct
-go
+goe
 high
 thi
 mean

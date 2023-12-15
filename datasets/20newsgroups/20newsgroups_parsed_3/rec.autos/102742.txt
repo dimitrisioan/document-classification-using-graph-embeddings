@@ -84,7 +84,7 @@ the
 microprocessor
 also
 ignor
-puls
+pul
 come
 from
 the
@@ -106,7 +106,7 @@ the
 read
 by
 bench
-puls
+pul
 at
 least
 somewhat

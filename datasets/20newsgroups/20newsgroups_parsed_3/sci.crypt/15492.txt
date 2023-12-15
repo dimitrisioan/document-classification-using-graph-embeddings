@@ -47,7 +47,7 @@ of
 oper
 the
 algorithm
-us
+use
 round
 of
 scrambl

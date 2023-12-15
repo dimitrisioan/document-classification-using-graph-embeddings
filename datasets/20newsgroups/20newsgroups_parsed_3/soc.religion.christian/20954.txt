@@ -130,7 +130,7 @@ i
 tri
 to
 make
-sens
+sen
 of
 that
 experi
@@ -202,7 +202,7 @@ my
 belief
 if
 someon
-els
+el
 ha
 belief
 that
@@ -219,10 +219,10 @@ are
 necessarili
 wrong
 someon
-els
+el
 is
 make
-sens
+sen
 out
 of
 a

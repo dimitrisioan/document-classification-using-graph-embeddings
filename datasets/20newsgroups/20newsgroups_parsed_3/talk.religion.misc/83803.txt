@@ -140,9 +140,9 @@ a
 particular
 master
 physic
-dy
+die
 and
-leaf
+leav
 thi
 world
 there
@@ -625,7 +625,7 @@ hypnot
 regress
 to
 past
-life
+live
 about
 accur
 the
@@ -657,7 +657,7 @@ recent
 previou
 rel
 home
-possess
+posse
 etc
 dream
 recal
@@ -750,7 +750,7 @@ from
 a
 person
 past
-life
+live
 for
 exampl
 a
@@ -858,7 +858,7 @@ a
 divin
 master
 physic
-dy
+die
 translat
 befor
 a
@@ -872,7 +872,7 @@ when
 that
 initi
 physic
-dy
+die
 translat
 the
 master
@@ -1258,7 +1258,7 @@ to
 your
 question
 etc
-pleas
+plea
 consult
 my
 cite

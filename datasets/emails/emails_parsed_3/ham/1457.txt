@@ -2,7 +2,7 @@ subject
 dear
 m
 feldman
-pleas
+plea
 find
 enclos
 a
@@ -51,7 +51,7 @@ best
 for
 enron
 sincer
-appendix
+appendic
 doc
 contract
 doc

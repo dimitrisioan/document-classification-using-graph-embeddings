@@ -31,7 +31,7 @@ year
 old
 obo
 common
-sens
+sen
 state
 univers
 of

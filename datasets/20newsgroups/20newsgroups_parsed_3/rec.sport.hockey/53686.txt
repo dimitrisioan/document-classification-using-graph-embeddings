@@ -180,7 +180,7 @@ pick
 loser
 in
 seri
-go
+goe
 point
 pick
 loser

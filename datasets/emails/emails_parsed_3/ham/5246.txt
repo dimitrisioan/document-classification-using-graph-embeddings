@@ -81,10 +81,10 @@ are
 unavail
 would
 you
-pleas
+plea
 suggest
 someon
-els
+el
 in
 your
 group
@@ -123,8 +123,8 @@ mark
 s
 resum
 a
-discuss
-pleas
+discus
+plea
 let
 me
 know
@@ -305,7 +305,7 @@ not
 an
 intend
 recipi
-pleas
+plea
 notifi
 u
 immedi

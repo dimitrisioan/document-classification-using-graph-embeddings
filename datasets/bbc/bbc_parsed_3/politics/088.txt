@@ -171,7 +171,7 @@ mean
 labour
 and
 the
-tori
+torus
 are
 not
 call
@@ -540,7 +540,7 @@ way
 if
 the
 watchdog
-belief
+believ
 the
 rule
 allow

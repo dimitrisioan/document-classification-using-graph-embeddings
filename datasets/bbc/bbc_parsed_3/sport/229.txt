@@ -3,10 +3,10 @@ target
 champion
 leagu
 middlesbrough
-bo
+bos
 steve
 mcclaren
-belief
+believ
 hi
 side
 can

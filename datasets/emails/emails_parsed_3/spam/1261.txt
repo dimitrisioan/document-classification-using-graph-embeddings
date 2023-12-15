@@ -665,7 +665,7 @@ that
 express
 or
 invoiv
-discuss
+discus
 with
 respect
 to
@@ -755,7 +755,7 @@ expect
 wil
 anticip
 estim
-belief
+believ
 understand
 or
 that

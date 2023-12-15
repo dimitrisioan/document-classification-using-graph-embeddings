@@ -472,7 +472,7 @@ and
 map
 composit
 in
-loos
+loo
 term
 we
 could

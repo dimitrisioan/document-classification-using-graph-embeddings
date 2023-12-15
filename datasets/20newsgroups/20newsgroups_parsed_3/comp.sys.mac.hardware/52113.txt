@@ -200,7 +200,7 @@ ram
 k
 pr
 result
-us
+use
 mac
 classic
 a
@@ -220,7 +220,7 @@ rate
 pr
 benchmark
 result
-us
+use
 mac
 classic
 a
@@ -246,7 +246,7 @@ benchmark
 averag
 fpu
 test
-us
+use
 mac
 ii
 a
@@ -263,7 +263,7 @@ test
 averag
 color
 test
-us
+use
 mac
 ii
 a

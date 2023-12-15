@@ -3,7 +3,7 @@ lasal
 bank
 account
 alert
-pleas
+plea
 read
 dear
 lasal
@@ -191,7 +191,7 @@ ballanc
 and
 person
 inform
-pleas
+plea
 confirm
 your
 ident
@@ -292,7 +292,7 @@ inform
 to
 third
 parti
-pleas
+plea
 contact
 lasal
 bank
@@ -340,7 +340,7 @@ mail
 confirm
 within
 hr
-pleas
+plea
 contact
 u
 at
@@ -363,7 +363,7 @@ account
 regard
 lasal
 bank
-pleas
+plea
 do
 not
 respond

@@ -128,7 +128,7 @@ it
 and
 would
 unnecessarili
-expos
+expo
 the
 telescop
 to

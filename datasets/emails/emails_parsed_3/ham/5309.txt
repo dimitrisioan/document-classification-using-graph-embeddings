@@ -110,7 +110,7 @@ electron
 corp
 mec
 to
-discu
+discus
 the
 opportun
 for
@@ -150,7 +150,7 @@ ha
 approach
 enron
 to
-discu
+discus
 a
 possibl
 allianc
@@ -186,7 +186,7 @@ in
 a
 work
 lunch
-discuss
+discus
 of
 the
 opportun
@@ -238,7 +238,7 @@ jim
 tour
 will
 you
-pleas
+plea
 let
 vanessa
 groscrand
@@ -249,7 +249,7 @@ can
 attend
 at
 or
-pleas
+plea
 repli
 by
 e

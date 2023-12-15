@@ -3,7 +3,7 @@ re
 vacat
 vincent
 congratul
-pleas
+plea
 take
 whatev
 time
@@ -108,7 +108,7 @@ vacat
 sever
 more
 day
-pleas
+plea
 let
 me
 know

@@ -27,7 +27,7 @@ be
 appreci
 number
 in
-parenthesi
+parenthes
 are
 approxim
 that
@@ -593,7 +593,7 @@ atmospher
 scale
 height
 dri
-laps
+lap
 rate
 in
 km

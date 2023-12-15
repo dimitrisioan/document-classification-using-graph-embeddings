@@ -22,7 +22,7 @@ shankman
 for
 minut
 to
-discu
+discus
 the
 result
 of
@@ -83,7 +83,7 @@ our
 presenc
 on
 the
-campu
+campus
 mostli
 to
 the
@@ -135,7 +135,7 @@ our
 presenc
 on
 the
-campu
+campus
 and
 thi
 can
@@ -262,7 +262,7 @@ import
 that
 student
 get
-expos
+expo
 to
 enron
 earli

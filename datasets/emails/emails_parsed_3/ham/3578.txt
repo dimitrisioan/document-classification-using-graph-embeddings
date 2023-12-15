@@ -197,7 +197,7 @@ and
 power
 risk
 manag
-pleas
+plea
 see
 if
 you

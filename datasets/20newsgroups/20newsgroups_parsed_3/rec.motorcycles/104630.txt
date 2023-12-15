@@ -236,7 +236,7 @@ my
 wife
 put
 everyth
-els
+el
 into
 the
 left
@@ -428,7 +428,7 @@ limit
 access
 highway
 it
-go
+goe
 through
 heavili
 forest
@@ -465,7 +465,7 @@ on
 it
 way
 it
-go
+goe
 through
 mani
 thoroughli
@@ -541,7 +541,7 @@ nontrivi
 top
 gear
 car
-pass
+pas
 at
 mph
 wa
@@ -840,7 +840,7 @@ idea
 there
 were
 sever
-manholes
+manhole
 patch
 of
 sand

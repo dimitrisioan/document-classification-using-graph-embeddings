@@ -196,7 +196,7 @@ overdyk
 and
 or
 someon
-els
+el
 from
 hi
 group
@@ -366,7 +366,7 @@ s
 the
 attach
 we
-discuss
+discus
 i
 ll
 call

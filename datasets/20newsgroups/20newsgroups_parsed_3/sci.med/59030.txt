@@ -12,7 +12,7 @@ a
 mental
 disord
 call
-obsess
+ob
 compuls
 disord
 what
@@ -37,7 +37,7 @@ to
 be
 confus
 with
-obsess
+ob
 compuls
 person
 disord
@@ -49,7 +49,7 @@ disord
 character
 by
 either
-obsess
+ob
 persist
 intrus
 thought
@@ -83,7 +83,7 @@ of
 depress
 exampl
 of
-obsess
+ob
 thought
 are
 repeat
@@ -167,7 +167,7 @@ anxieti
 in
 ocd
 the
-obsess
+ob
 or
 compuls
 are
@@ -209,7 +209,7 @@ found
 effect
 in
 allevi
-obsess
+ob
 and
 compuls
 the

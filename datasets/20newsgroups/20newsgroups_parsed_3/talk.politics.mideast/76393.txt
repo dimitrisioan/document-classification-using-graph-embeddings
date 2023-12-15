@@ -91,7 +91,7 @@ a
 far
 a
 common
-sens
+sen
 ha
 it
 it
@@ -300,7 +300,7 @@ religion
 or
 ethnic
 origin
-pleas
+plea
 give
 an
 honest

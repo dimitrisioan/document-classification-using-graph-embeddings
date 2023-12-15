@@ -96,7 +96,7 @@ chemic
 test
 no
 one
-els
+el
 seem
 to
 know
@@ -125,7 +125,7 @@ done
 to
 some
 experiment
-mous
+mouse
 they
 show
 variou
@@ -421,7 +421,7 @@ victim
 urin
 is
 strang
-dens
+den
 is
 there
 ani

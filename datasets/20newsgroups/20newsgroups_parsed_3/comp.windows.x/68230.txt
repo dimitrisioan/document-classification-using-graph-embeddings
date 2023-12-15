@@ -113,7 +113,7 @@ bad
 i
 believ
 the
-discuss
+discus
 is
 valid
 for

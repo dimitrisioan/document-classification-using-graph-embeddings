@@ -4,7 +4,7 @@ schedul
 for
 aram
 sogomonian
-pleas
+plea
 find
 the
 interview
@@ -21,7 +21,7 @@ occur
 on
 wednesday
 octob
-pleas
+plea
 print
 both
 document
@@ -37,7 +37,7 @@ or
 conflict
 of
 schedul
-pleas
+plea
 do
 not
 hesit

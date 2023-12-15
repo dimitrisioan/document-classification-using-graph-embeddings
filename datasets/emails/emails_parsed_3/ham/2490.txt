@@ -532,7 +532,7 @@ find
 out
 what
 everyon
-els
+el
 is
 receiv
 if
@@ -733,7 +733,7 @@ you
 would
 like
 to
-discu
+discus
 tara
 x
 enron
@@ -789,7 +789,7 @@ second
 thought
 could
 you
-pleas
+plea
 give
 me
 an

@@ -21,7 +21,7 @@ call
 paul
 bristow
 today
-pleas
+plea
 give
 me
 some
@@ -50,7 +50,7 @@ chri
 strickland
 on
 am
-pleas
+plea
 respond
 to
 chri

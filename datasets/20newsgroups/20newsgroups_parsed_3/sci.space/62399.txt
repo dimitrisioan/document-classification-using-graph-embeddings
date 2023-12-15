@@ -287,7 +287,7 @@ dc
 usa
 telephon
 fax
-pleas
+plea
 note
 that
 i

@@ -31,7 +31,7 @@ st
 and
 a
 oldsmobil
-cutla
+cutlas
 i
 have
 been
@@ -1363,7 +1363,7 @@ space
 no
 smarta
 comment
-pleas
+plea
 the
 driver
 and
@@ -2530,7 +2530,7 @@ start
 a
 mail
 list
-pleas
+plea
 speak
 up
 i

@@ -2,7 +2,7 @@ subject
 window
 nt
 help
-pleas
+plea
 help
 window
 nt
@@ -55,7 +55,7 @@ other
 lan
 os
 anyth
-els
+el
 like
 spec
 speed

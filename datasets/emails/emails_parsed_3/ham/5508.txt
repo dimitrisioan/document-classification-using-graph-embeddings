@@ -62,7 +62,7 @@ forecast
 with
 a
 detail
-discuss
+discus
 of
 it
 proprieti

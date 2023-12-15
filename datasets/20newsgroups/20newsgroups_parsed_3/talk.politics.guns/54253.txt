@@ -43,7 +43,7 @@ person
 to
 transfer
 or
-poss
+posse
 a
 machinegun
 well
@@ -112,9 +112,9 @@ can
 or
 can
 not
-poss
+posse
 just
-pass
+pas
 a
 law
 doe
@@ -130,7 +130,7 @@ are
 constit
 until
 it
-go
+goe
 to
 court
 so
@@ -168,7 +168,7 @@ had
 a
 right
 to
-poss
+posse
 and
 wa
 told

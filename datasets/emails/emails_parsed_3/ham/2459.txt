@@ -67,7 +67,7 @@ graph
 which
 show
 a
-index
+indic
 market
 valu
 of

@@ -30,7 +30,7 @@ and
 web
 present
 to
-discu
+discus
 the
 rise
 crisi
@@ -143,7 +143,7 @@ to
 enrol
 to
 enrol
-pleas
+plea
 contact
 m
 donna
@@ -160,7 +160,7 @@ p
 m
 wednesday
 may
-pleas
+plea
 includ
 your
 name
@@ -282,7 +282,7 @@ the
 confer
 intern
 caller
-pleas
+plea
 re
 dial
 and
@@ -333,7 +333,7 @@ mail
 notif
 from
 cera
-pleas
+plea
 send
 a
 repli

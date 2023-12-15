@@ -144,7 +144,7 @@ an
 automat
 susppens
 that
-go
+goe
 along
 with
 a

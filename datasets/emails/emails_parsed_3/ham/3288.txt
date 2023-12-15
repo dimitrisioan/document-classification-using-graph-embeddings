@@ -6,7 +6,7 @@ in
 enron
 vinc
 below
-pleas
+plea
 find
 name
 of
@@ -46,7 +46,7 @@ donna
 i
 had
 also
-pass
+pas
 along
 the
 resum
@@ -107,7 +107,7 @@ resum
 and
 cover
 letter
-pleas
+plea
 let
 me
 know

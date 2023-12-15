@@ -1,7 +1,7 @@
 subject
 risk
 panel
-discuss
+discus
 dear
 all
 would
@@ -12,12 +12,12 @@ a
 confer
 call
 to
-discu
+discus
 content
 for
 the
 panel
-discuss
+discus
 at
 risk
 in
@@ -70,7 +70,7 @@ steven
 bramlet
 aquila
 the
-discuss
+discus
 topic
 is
 effect
@@ -91,7 +91,7 @@ around
 which
 to
 facilit
-discuss
+discus
 we
 current
 don

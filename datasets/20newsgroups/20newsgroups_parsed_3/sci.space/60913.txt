@@ -31,7 +31,7 @@ citi
 virginia
 under
 the
-auspex
+auspic
 of
 aiaa
 doe
@@ -178,7 +178,7 @@ feder
 of
 scientist
 a
-discuss
+discus
 of
 the
 prospect

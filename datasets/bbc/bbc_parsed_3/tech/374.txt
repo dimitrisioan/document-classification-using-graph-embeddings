@@ -1,7 +1,7 @@
 commodor
 find
 new
-leas
+lea
 of
 life
 the

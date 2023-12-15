@@ -79,7 +79,7 @@ buy
 new
 atr
 and
-leas
+lea
 anoth
 atr
 will

@@ -27,7 +27,7 @@ two
 bath
 one
 car
-overs
+over
 garag
 larg
 eatin

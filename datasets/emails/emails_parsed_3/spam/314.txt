@@ -38,7 +38,7 @@ hour
 a
 day
 requir
-pleas
+plea
 regist
 at
 our

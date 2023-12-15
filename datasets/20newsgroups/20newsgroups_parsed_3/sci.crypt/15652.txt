@@ -62,7 +62,7 @@ not
 heat
 restrict
 the
-discuss
+discus
 to
 appropri
 newsgroup
@@ -77,7 +77,7 @@ not
 appropri
 for
 thi
-discuss
+discus
 you
 have
 now
@@ -100,7 +100,7 @@ or
 particip
 in
 the
-discuss
+discus
 they
 can
 easili
@@ -110,7 +110,7 @@ compsecuritymisc
 altsecur
 or
 comporgefftalk
-ru
+rus
 schnapp
 email
 netcommetaflowrschnapp

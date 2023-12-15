@@ -1,7 +1,7 @@
 subject
 meet
 confirm
-discuss
+discus
 point
 fyi
 forward
@@ -46,7 +46,7 @@ ee
 subject
 meet
 confirm
-discuss
+discus
 point
 tariff
 var
@@ -140,7 +140,7 @@ agenda
 for
 our
 meet
-discu
+discus
 the
 relationship
 of
@@ -169,7 +169,7 @@ attach
 for
 your
 review
-discu
+discus
 approach
 methodolog
 and

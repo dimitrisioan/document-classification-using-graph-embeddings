@@ -54,7 +54,7 @@ forgotten
 all
 about
 adam
-graf
+grave
 besid
 the
 obviou
@@ -66,7 +66,7 @@ wa
 never
 endang
 by
-graf
+grave
 slash
 while
 neeli
@@ -84,7 +84,7 @@ import
 reason
 is
 adam
-graf
+grave
 ha
 play
 clean
@@ -263,7 +263,7 @@ about
 the
 whole
 adam
-graf
+grave
 ulf
 samuesson
 debat
@@ -278,7 +278,7 @@ wrong
 with
 that
 while
-graf
+grave
 doe
 what
 he

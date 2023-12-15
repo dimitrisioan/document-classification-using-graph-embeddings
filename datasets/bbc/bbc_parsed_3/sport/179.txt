@@ -72,7 +72,7 @@ a
 knee
 injuri
 blackburn
-bo
+bos
 mark
 hugh
 burnley
@@ -134,7 +134,7 @@ leagu
 club
 leicest
 burnley
-bo
+bos
 steve
 cotteril
 they

@@ -152,7 +152,7 @@ ticket
 a
 cop
 write
-go
+goe
 through
 if
 contest

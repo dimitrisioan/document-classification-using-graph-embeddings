@@ -152,7 +152,7 @@ a
 a
 year
 oper
-leas
+lea
 for
 the
 bammel

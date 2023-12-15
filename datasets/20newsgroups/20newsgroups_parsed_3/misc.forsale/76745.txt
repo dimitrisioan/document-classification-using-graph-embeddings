@@ -24,6 +24,6 @@ field
 and
 wing
 ask
-pleas
+plea
 repli
 to

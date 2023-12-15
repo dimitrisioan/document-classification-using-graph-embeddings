@@ -46,7 +46,7 @@ u
 know
 how
 it
-go
+goe
 daniel
 matejka
 write
@@ -317,7 +317,7 @@ thi
 a
 well
 a
-devis
+devi
 strategi
 to
 make
@@ -361,7 +361,7 @@ the
 cop
 and
 everyon
-els
+el
 in
 the
 room
@@ -416,7 +416,7 @@ watch
 motorcycl
 roadrac
 no
-pass
+pas
 on
 wave
 yellow

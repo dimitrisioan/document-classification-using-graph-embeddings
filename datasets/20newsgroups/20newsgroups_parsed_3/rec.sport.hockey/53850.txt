@@ -103,7 +103,7 @@ and
 fire
 a
 breakout
-pa
+pas
 that
 hit
 fuhr
@@ -207,7 +207,7 @@ to
 make
 a
 crossic
-pa
+pas
 in
 front
 of

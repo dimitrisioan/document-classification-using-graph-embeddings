@@ -132,7 +132,7 @@ note
 that
 do
 so
-expos
+expo
 you
 to
 intermitt
@@ -200,7 +200,7 @@ the
 hardwar
 port
 directli
-us
+use
 inpoutp
 for
 byte

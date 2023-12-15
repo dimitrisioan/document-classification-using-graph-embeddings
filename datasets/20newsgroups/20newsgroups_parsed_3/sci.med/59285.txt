@@ -797,7 +797,7 @@ record
 of
 those
 with
-diagnosi
+diagnos
 suggest
 of
 hiv
@@ -910,7 +910,7 @@ analysi
 show
 that
 the
-viru
+virus
 from
 the
 dentist
@@ -1011,7 +1011,7 @@ them
 if
 they
 are
-expos
+expo
 to
 the
 bacteria
@@ -2732,7 +2732,7 @@ april
 saint
 kitt
 and
-nevi
+nevus
 saintkittsetnevi
 saint
 lucia

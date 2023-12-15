@@ -79,11 +79,11 @@ are
 bit
 the
 system
-us
+use
 dma
 a
 soundblast
-us
+use
 dma
 i
 could
@@ -116,7 +116,7 @@ channel
 the
 xga
 card
-us
+use
 and
 then
 simpli

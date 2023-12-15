@@ -88,7 +88,7 @@ perform
 good
 morn
 everyon
-pleas
+plea
 let
 me
 know
@@ -220,7 +220,7 @@ prepar
 for
 the
 meet
-pleas
+plea
 submit
 recommend
 rank
@@ -234,7 +234,7 @@ employe
 feedback
 by
 novemb
-pleas
+plea
 includ
 analyst
 associ
@@ -243,7 +243,7 @@ you
 have
 ani
 question
-pleas
+plea
 feel
 free
 to
@@ -390,7 +390,7 @@ includ
 for
 pep
 and
-bonu
+bonus
 octob
 whomev
 is

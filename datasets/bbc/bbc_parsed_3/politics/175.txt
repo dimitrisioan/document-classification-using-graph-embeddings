@@ -71,7 +71,7 @@ conserv
 hand
 he
 said
-tori
+torus
 plan
 to
 cut
@@ -163,7 +163,7 @@ million
 unemploy
 never
 again
-tori
+torus
 boom
 and
 bust
@@ -339,7 +339,7 @@ of
 a
 network
 of
-children
+child
 centr
 and
 flexibl

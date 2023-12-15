@@ -176,13 +176,13 @@ use
 by
 xrsh
 to
-pa
+pas
 author
 my
 vampir
 program
 also
-us
+use
 a
 variat
 howev
@@ -228,7 +228,7 @@ is
 allow
 you
 to
-pa
+pas
 a
 secifi
 list
@@ -258,7 +258,7 @@ sun
 machin
 will
 also
-pa
+pas
 environ
 variabl
 a
@@ -281,7 +281,7 @@ such
 a
 variabl
 for
-pass
+pas
 unless
 you
 are
@@ -308,7 +308,7 @@ appropi
 flag
 a
 such
-pass
+pas
 author
 inform
 in
@@ -349,7 +349,7 @@ environ
 variabl
 thi
 method
-us
+use
 the
 fact
 that
@@ -358,7 +358,7 @@ remot
 command
 executor
 do
-pa
+pas
 the
 term
 environ
@@ -559,14 +559,14 @@ then
 author
 is
 automat
-pass
+pas
 hoever
 you
 will
 still
 have
 to
-pa
+pas
 your
 display
 environ

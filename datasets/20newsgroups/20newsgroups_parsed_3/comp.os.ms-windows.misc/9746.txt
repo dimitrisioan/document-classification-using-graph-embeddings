@@ -126,7 +126,7 @@ the
 font
 that
 help
-us
+use
 when
 print
 a

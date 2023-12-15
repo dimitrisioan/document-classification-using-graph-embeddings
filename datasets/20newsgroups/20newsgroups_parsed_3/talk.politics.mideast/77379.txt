@@ -498,7 +498,7 @@ the
 other
 and
 it
-go
+goe
 a
 if
 the

@@ -50,7 +50,7 @@ between
 labour
 invest
 and
-tori
+torus
 cut
 he
 told
@@ -59,7 +59,7 @@ parti
 spring
 confer
 the
-tori
+torus
 must
 not
 be
@@ -158,7 +158,7 @@ million
 unemploy
 never
 again
-tori
+torus
 boom
 and
 bust
@@ -355,7 +355,7 @@ of
 a
 network
 of
-children
+child
 centr
 and
 flexibl

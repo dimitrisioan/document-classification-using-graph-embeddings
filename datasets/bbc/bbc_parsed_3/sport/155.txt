@@ -5,7 +5,7 @@ red
 take
 control
 liverpool
-bo
+bos
 rafael
 benitez
 wa
@@ -219,7 +219,7 @@ differ
 and
 the
 liverpool
-bo
+bos
 is
 look
 forward
@@ -260,7 +260,7 @@ pitch
 he
 make
 everyon
-els
+el
 play
 better
 and

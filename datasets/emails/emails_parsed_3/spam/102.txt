@@ -37,7 +37,7 @@ packag
 and
 print
 manual
-pleas
+plea
 look
 at
 the
@@ -434,7 +434,7 @@ futur
 m
 ai
 ling
-pleas
+plea
 go
 here
 http

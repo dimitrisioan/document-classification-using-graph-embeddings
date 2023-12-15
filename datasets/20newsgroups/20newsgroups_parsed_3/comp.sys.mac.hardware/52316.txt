@@ -40,7 +40,7 @@ with
 standard
 keyboard
 packag
-pleas
+plea
 let
 me
 know

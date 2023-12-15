@@ -93,7 +93,7 @@ cd
 are
 postag
 paid
-pleas
+plea
 email
 me
 if

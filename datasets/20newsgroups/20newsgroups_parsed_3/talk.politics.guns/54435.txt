@@ -104,7 +104,7 @@ home
 intrud
 mugger
 rabid
-wolf
+wolv
 and
 other
 such

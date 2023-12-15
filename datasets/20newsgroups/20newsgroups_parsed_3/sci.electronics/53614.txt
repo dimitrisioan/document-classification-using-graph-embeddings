@@ -12,7 +12,7 @@ grade
 sci
 report
 dean
-annes
+anne
 wrote
 my
 yr
@@ -84,7 +84,7 @@ in
 advanc
 dean
 w
-annes
+anne
 pratt
 whitney
 aircraft
@@ -121,7 +121,7 @@ von
 braun
 dean
 w
-annes
+anne
 pratt
 whitney
 aircraft

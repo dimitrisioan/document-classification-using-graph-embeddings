@@ -82,7 +82,7 @@ get
 in
 touch
 person
-pleas
+plea
 let
 me
 know

@@ -451,7 +451,7 @@ but
 peter
 duesberg
 who
-belief
+believ
 that
 aid
 is
@@ -767,7 +767,7 @@ to
 an
 effort
 that
-us
+use
 unorthodox
 or
 holist
@@ -1656,7 +1656,7 @@ the
 same
 level
 of
-needl
+needle
 diseas
 and
 death
@@ -1973,7 +1973,7 @@ therapeut
 potenti
 will
 be
-assess
+ass
 in
 phase
 ii
@@ -2241,7 +2241,7 @@ of
 childbear
 age
 becom
-expos
+expo
 to
 hiv
 through
@@ -2492,7 +2492,7 @@ whether
 low
 or
 high
-do
+dose
 of
 the
 vaccin
@@ -2535,7 +2535,7 @@ trial
 will
 test
 two
-do
+dose
 each
 of
 three
@@ -2847,7 +2847,7 @@ for
 press
 inquiri
 onli
-pleas
+plea
 call
 lauri
 k
@@ -2922,7 +2922,7 @@ condit
 to
 develop
 in
-mous
+mouse
 carri
 the
 gene
@@ -2936,7 +2936,7 @@ were
 activ
 in
 the
-mous
+mouse
 they
 did
 not
@@ -3009,7 +3009,7 @@ aid
 research
 and
 human
-retroviru
+retrovirus
 develop
 anim
 model
@@ -3023,7 +3023,7 @@ sinc
 most
 anim
 includ
-mous
+mouse
 can
 not
 be
@@ -3039,7 +3039,7 @@ scientist
 have
 develop
 hivtransgen
-mous
+mouse
 which
 carri
 gene
@@ -3057,7 +3057,7 @@ scientist
 creat
 the
 transgen
-mous
+mouse
 by
 inject
 hiv
@@ -3072,7 +3072,7 @@ the
 egg
 into
 femal
-mous
+mouse
 the
 result
 litter
@@ -3086,7 +3086,7 @@ institut
 scientist
 had
 creat
-mous
+mouse
 that
 carri
 a
@@ -3099,7 +3099,7 @@ materi
 in
 l
 those
-mous
+mouse
 howev
 becam
 sick
@@ -3148,7 +3148,7 @@ and
 back
 other
 transgen
-mous
+mouse
 develop
 thicken
 crust
@@ -3218,7 +3218,7 @@ taken
 from
 the
 sick
-mous
+mouse
 throughout
 the
 studi
@@ -3271,7 +3271,7 @@ compromis
 immun
 in
 the
-mous
+mouse
 no
 increas
 in
@@ -3328,7 +3328,7 @@ in
 which
 the
 scientist
-expos
+expo
 the
 transgen
 anim
@@ -3375,15 +3375,15 @@ lesion
 appear
 on
 normal
-mous
-expos
+mouse
+expo
 to
 the
 uv
 light
 the
 transgen
-mous
+mouse
 use
 in
 thi

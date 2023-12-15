@@ -29,7 +29,7 @@ voic
 messag
 about
 it
-pleas
+plea
 call
 me
 s
@@ -44,7 +44,7 @@ m
 nesbitt
 on
 pm
-pleas
+plea
 respond
 to
 to
@@ -110,7 +110,7 @@ be
 sure
 to
 reconfirm
-pleas
+plea
 confirm
 if
 you

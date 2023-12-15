@@ -132,7 +132,7 @@ use
 the
 event
 structur
-pass
+pas
 in
 and
 queri
@@ -163,7 +163,7 @@ button
 do
 some
 action
-els
+el
 do
 noth
 and

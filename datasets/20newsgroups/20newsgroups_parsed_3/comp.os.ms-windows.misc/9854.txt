@@ -272,7 +272,7 @@ these
 then
 the
 environ
-pass
+pas
 by
 window
 to

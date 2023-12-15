@@ -120,7 +120,7 @@ dram
 nonvolat
 chip
 it
-us
+use
 the
 spi
 ic

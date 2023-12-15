@@ -32,7 +32,7 @@ trade
 locat
 in
 chicago
-pleas
+plea
 email
 to
 thi

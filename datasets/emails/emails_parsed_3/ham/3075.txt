@@ -4,7 +4,7 @@ inform
 about
 unit
 healthcar
-pleas
+plea
 read
 to
 houston
@@ -96,7 +96,7 @@ that
 would
 have
 been
-pass
+pas
 on
 to
 you
@@ -353,7 +353,7 @@ if
 thi
 should
 happen
-pleas
+plea
 obtain
 an
 item

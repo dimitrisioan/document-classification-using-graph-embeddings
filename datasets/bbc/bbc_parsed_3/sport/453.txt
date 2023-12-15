@@ -61,7 +61,7 @@ second
 set
 with
 more
-eas
+ea
 hi
 first
 tournament
@@ -139,7 +139,7 @@ more
 restrain
 in
 hi
-assess
+ass
 i
 have
 to

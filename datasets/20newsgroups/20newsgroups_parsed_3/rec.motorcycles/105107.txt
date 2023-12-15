@@ -118,7 +118,7 @@ throttl
 the
 engin
 speed
-go
+goe
 up
 and
 down

@@ -87,7 +87,7 @@ howard
 to
 save
 unit
-bo
+bos
 sir
 alex
 ferguson
@@ -154,7 +154,7 @@ schole
 play
 a
 love
-pa
+pas
 in
 to
 ronaldo
@@ -183,7 +183,7 @@ open
 the
 score
 unit
-sens
+sen
 a
 chanc
 to

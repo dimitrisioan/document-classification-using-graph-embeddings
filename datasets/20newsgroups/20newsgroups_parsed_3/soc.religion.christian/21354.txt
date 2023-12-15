@@ -34,7 +34,7 @@ art
 some
 topic
 for
-discuss
+discus
 your
 particular
 martial
@@ -192,7 +192,7 @@ or
 of
 cours
 ongo
-discuss
+discus
 then
 let
 me

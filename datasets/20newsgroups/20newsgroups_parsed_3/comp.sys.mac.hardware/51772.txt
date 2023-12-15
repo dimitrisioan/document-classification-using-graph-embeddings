@@ -19,7 +19,7 @@ either
 my
 display
 memori
-go
+goe
 wrong
 or
 monitor

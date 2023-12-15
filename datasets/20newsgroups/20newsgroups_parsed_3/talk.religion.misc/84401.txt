@@ -37,7 +37,7 @@ own
 which
 make
 more
-sens
+sen
 than
 forc
 those

@@ -4,7 +4,7 @@ window
 zipunzip
 in
 articl
-ru
+rus
 sharp
 write
 we
@@ -46,7 +46,7 @@ the
 do
 pkzippkunzip
 command
-ru
+rus
 sharp
 ph
 fax

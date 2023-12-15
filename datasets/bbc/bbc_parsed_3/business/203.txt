@@ -4,7 +4,7 @@ deutsch
 lse
 bid
 deutsch
-boers
+boer
 investor
 unhappi
 with
@@ -52,7 +52,7 @@ chief
 execut
 but
 deutsch
-boers
+boer
 told
 news
 agenc
@@ -111,7 +111,7 @@ sunday
 time
 howev
 deutsch
-boers
+boer
 told
 reuter
 tci

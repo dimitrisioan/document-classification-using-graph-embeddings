@@ -166,7 +166,7 @@ mcallist
 pick
 up
 a
-pa
+pas
 from
 stephen
 simmon
@@ -295,7 +295,7 @@ livi
 striker
 ignor
 the
-pa
+pas
 howev
 and
 dair

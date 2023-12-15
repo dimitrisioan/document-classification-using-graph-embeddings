@@ -59,7 +59,7 @@ did
 not
 come
 to
-pa
+pas
 i
 dont
 think
@@ -114,7 +114,7 @@ fail
 to
 come
 to
-pa
+pas
 i
 do
 not
@@ -581,7 +581,7 @@ the
 motiv
 love
 of
-eas
+ea
 or
 a
 desir

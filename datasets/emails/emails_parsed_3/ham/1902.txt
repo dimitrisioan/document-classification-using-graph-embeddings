@@ -104,7 +104,7 @@ need
 ani
 more
 inform
-pleas
+plea
 let
 me
 know

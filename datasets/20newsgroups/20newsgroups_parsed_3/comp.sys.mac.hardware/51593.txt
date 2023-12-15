@@ -115,7 +115,7 @@ is
 physic
 possibl
 same
-go
+goe
 for
 serial
 port

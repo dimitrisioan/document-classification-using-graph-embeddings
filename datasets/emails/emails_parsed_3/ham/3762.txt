@@ -4,7 +4,7 @@ mgmt
 pam
 thank
 ye
-pleas
+plea
 send
 me
 the

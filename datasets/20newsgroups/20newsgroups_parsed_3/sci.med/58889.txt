@@ -289,7 +289,7 @@ a
 lab
 where
 the
-bo
+bos
 is
 more
 concern

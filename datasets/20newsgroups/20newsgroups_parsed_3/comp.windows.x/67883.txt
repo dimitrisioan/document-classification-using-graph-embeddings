@@ -174,7 +174,7 @@ at
 runtim
 free
 wcl
-us
+use
 x
 resourc
 to
@@ -188,7 +188,7 @@ action
 to
 userdefin
 callback
-us
+use
 olit
 xt
 or
@@ -219,7 +219,7 @@ and
 even
 termin
 use
-curs
+cur
 you
 buy
 an
@@ -298,7 +298,7 @@ plot
 in
 variou
 style
-ax
+axe
 data
 manipul
 arithmet
@@ -398,7 +398,7 @@ subject
 applic
 util
 free
-bo
+bos
 descript
 an
 open
@@ -407,7 +407,7 @@ ui
 to
 the
 casio
-bo
+bos
 schedul
 free
 prop
@@ -856,7 +856,7 @@ request
 fullnam
 style
 mail
-alia
+alias
 from
 your
 local
@@ -969,7 +969,7 @@ suno
 unico
 and
 irix
-us
+use
 olit
 bug
 can
@@ -1202,7 +1202,7 @@ dpi
 note
 that
 pageview
-us
+use
 the
 xnew
 server
@@ -1945,7 +1945,7 @@ gener
 for
 devguid
 it
-us
+use
 the
 verdix
 xview
@@ -2119,7 +2119,7 @@ to
 work
 pretti
 well
-pleas
+plea
 let
 me
 know
@@ -2180,7 +2180,7 @@ be
 dave
 scott
 port
-pleas
+plea
 accept
 my
 apolog
@@ -2299,7 +2299,7 @@ work
 still
 most
 everyth
-els
+el
 work
 for
 those
@@ -2575,7 +2575,7 @@ price
 u
 requir
 openwindow
-us
+use
 news
 doesnt
 run

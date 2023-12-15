@@ -451,7 +451,7 @@ risetim
 of
 the
 control
-puls
+pul
 with
 the
 cut

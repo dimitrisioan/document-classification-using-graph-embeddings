@@ -32,7 +32,7 @@ god
 exist
 a
 time
-go
+goe
 on
 we
 have
@@ -220,7 +220,7 @@ the
 abil
 to
 end
-life
+live
 unnatur
 and
 soon
@@ -230,7 +230,7 @@ the
 abil
 to
 bring
-life
+live
 into
 the
 world

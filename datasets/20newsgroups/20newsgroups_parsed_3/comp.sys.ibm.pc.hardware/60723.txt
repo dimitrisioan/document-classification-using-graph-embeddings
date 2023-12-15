@@ -54,7 +54,7 @@ ani
 vleisaisa
 motherboard
 that
-us
+use
 the
 hint
 chipset
@@ -87,7 +87,7 @@ thi
 reason
 i
 would
-pa
+pas
 i
 own
 one
@@ -106,7 +106,7 @@ for
 exactli
 thi
 reason
-pleas
+plea
 doublecheck
 me
 on

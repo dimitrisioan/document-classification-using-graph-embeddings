@@ -59,7 +59,7 @@ a
 bike
 go
 mph
-go
+goe
 in
 second
 or
@@ -80,7 +80,7 @@ do
 i
 think
 youd
-loos
+loo
 sure
 your
 hand

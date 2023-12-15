@@ -28,7 +28,7 @@ in
 today
 s
 meet
-pleas
+plea
 send
 comment
 and

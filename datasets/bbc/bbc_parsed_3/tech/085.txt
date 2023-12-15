@@ -3,7 +3,7 @@ search
 let
 art
 fan
-brows
+brow
 if
 you
 dont
@@ -41,7 +41,7 @@ a
 new
 way
 of
-brows
+brow
 it
 onlin
 collect
@@ -85,7 +85,7 @@ similar
 work
 the
 technolog
-us
+use
 a
 system
 dub
@@ -298,7 +298,7 @@ shopper
 similarli
 with
 art
-brows
+brow
 is
 often
 more

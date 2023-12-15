@@ -342,7 +342,7 @@ like
 what
 i
 wa
-discuss
+discus
 with
 you
 on
@@ -354,7 +354,7 @@ feel
 the
 need
 to
-discu
+discus
 these
 further
 the
@@ -583,7 +583,7 @@ and
 a
 per
 our
-discuss
+discus
 at
 the
 elev

@@ -112,7 +112,7 @@ screw
 seem
 wrong
 anyon
-els
+el
 think
 so
 back
@@ -305,7 +305,7 @@ mail
 hub
 usenet
 newsgroup
-pleas
+plea
 rout
 all
 question

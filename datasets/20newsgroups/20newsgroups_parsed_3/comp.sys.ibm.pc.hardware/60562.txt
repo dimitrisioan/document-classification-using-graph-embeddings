@@ -82,7 +82,7 @@ file
 for
 telnet
 btw
-pleas
+plea
 repli
 via
 email

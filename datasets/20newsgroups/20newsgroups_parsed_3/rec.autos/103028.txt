@@ -20,7 +20,7 @@ activ
 carbon
 can
 adsorb
-ga
+gase
 evapor
 from
 the
@@ -44,7 +44,7 @@ will
 give
 off
 the
-ga
+gase
 which
 are
 then

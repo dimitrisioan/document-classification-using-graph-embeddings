@@ -23,7 +23,7 @@ electron
 mail
 act
 of
-pleas
+plea
 see
 the
 bottom
@@ -375,7 +375,7 @@ the
 list
 the
 letter
-go
+goe
 on
 to
 state
@@ -519,7 +519,7 @@ or
 someth
 laugh
 he
-go
+goe
 on
 i
 went
@@ -815,7 +815,7 @@ littl
 note
 that
 read
-pleas
+plea
 send
 me
 report
@@ -865,7 +865,7 @@ work
 and
 get
 your
-pleas
+plea
 continu
 read
 what
@@ -904,7 +904,7 @@ befor
 you
 say
 bull
-pleas
+plea
 read
 the
 follow
@@ -1131,7 +1131,7 @@ but
 each
 time
 i
-pass
+pas
 on
 it
 i
@@ -1479,7 +1479,7 @@ through
 or
 you
 will
-loos
+loo
 out
 on
 major
@@ -1664,7 +1664,7 @@ in
 the
 report
 posit
-pleas
+plea
 make
 sure
 you
@@ -1707,7 +1707,7 @@ in
 case
 if
 you
-loos
+loo
 ani
 data
 to
@@ -1781,7 +1781,7 @@ to
 see
 how
 it
-go
+goe
 and
 we
 will
@@ -2963,9 +2963,9 @@ mail
 again
 by
 someon
-els
+el
 month
-pass
+pas
 then
 it
 luckili
@@ -3078,7 +3078,7 @@ thi
 mail
 no
 one
-els
+el
 is
 receiv
 email

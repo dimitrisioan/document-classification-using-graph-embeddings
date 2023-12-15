@@ -278,7 +278,7 @@ a
 safeti
 anyon
 who
-go
+goe
 anyon
 say
 that
@@ -572,7 +572,7 @@ but
 thank
 to
 thi
-discuss
+discus
 i
 alreadi
 am

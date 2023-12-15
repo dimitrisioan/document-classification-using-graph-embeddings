@@ -617,7 +617,7 @@ wait
 on
 each
 task
-pleas
+plea
 explain
 the
 onli
@@ -687,7 +687,7 @@ here
 o
 see
 meg
-us
+use
 or
 six
 of
@@ -706,7 +706,7 @@ wino
 window
 see
 meg
-us
+use
 or
 more
 like

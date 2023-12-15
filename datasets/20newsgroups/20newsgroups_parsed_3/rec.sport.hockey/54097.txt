@@ -133,7 +133,7 @@ make
 the
 playoff
 what
-els
+el
 could
 be
 done
@@ -302,7 +302,7 @@ keenan
 all
 look
 like
-geniu
+genius
 a
 broken
 fax

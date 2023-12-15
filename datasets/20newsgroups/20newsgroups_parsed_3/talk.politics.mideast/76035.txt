@@ -718,7 +718,7 @@ for
 them
 and
 everyon
-els
+el
 id
 push
 for

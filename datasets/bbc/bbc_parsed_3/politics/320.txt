@@ -22,7 +22,7 @@ the
 regist
 show
 former
-tori
+torus
 leader
 william
 hagu
@@ -417,7 +417,7 @@ in
 egypt
 to
 offici
-discuss
+discus
 and
 for
 a
@@ -426,7 +426,7 @@ tour
 to
 wadi
 rum
-tori
+torus
 leader
 michael
 howard

@@ -264,7 +264,7 @@ a
 tbird
 mention
 the
-discuss
+discus
 wa
 about
 sho
@@ -362,7 +362,7 @@ to
 fit
 if
 memori
-serf
+serv
 right
 which
 it

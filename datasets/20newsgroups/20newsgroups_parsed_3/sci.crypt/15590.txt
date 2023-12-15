@@ -158,7 +158,7 @@ are
 miss
 mupad
 felix
-pleas
+plea
 send
 it
 to
@@ -336,7 +336,7 @@ comment
 gener
 purpos
 mani
-divers
+diver
 capabl
 one
 of
@@ -547,7 +547,7 @@ mit
 macsyma
 famili
 descend
-us
+use
 franz
 lisp
 paramac
@@ -1259,7 +1259,7 @@ pseudoprim
 test
 algorithm
 for
-chines
+chine
 remaind
 ellipt
 curv
@@ -1659,7 +1659,7 @@ symbol
 algebra
 and
 calculu
-matrix
+matric
 graphic
 etc
 and

@@ -14,7 +14,7 @@ return
 today
 could
 you
-pleas
+plea
 send
 me
 a
@@ -70,7 +70,7 @@ schedul
 is
 not
 ok
-pleas
+plea
 let
 me
 know

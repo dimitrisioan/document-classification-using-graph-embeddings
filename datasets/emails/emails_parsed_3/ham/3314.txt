@@ -278,13 +278,13 @@ and
 or
 met
 to
-discu
+discus
 possibl
 collabor
 effort
 will
 you
-pleas
+plea
 forward
 thi
 email
@@ -352,7 +352,7 @@ thi
 messag
 in
 error
-pleas
+plea
 advis
 the
 sender
@@ -419,7 +419,7 @@ thi
 messag
 in
 error
-pleas
+plea
 advis
 the
 sender

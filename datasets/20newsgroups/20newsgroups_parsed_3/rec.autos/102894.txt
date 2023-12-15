@@ -90,13 +90,13 @@ my
 check
 and
 left
-needl
+needle
 to
 say
 they
 were
 not
-pleas
+plea
 by
 the
 turn
@@ -129,7 +129,7 @@ token
 male
 so
 the
-salesperson
+salespeopl
 wouldnt
 give
 her
@@ -340,7 +340,7 @@ listen
 in
 on
 coupl
-discuss
+discus
 the
 sale
 offer
@@ -399,7 +399,7 @@ a
 salesman
 and
 began
-discuss
+discus
 what
 kind
 of

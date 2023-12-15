@@ -736,7 +736,7 @@ you
 are
 talk
 to
-belief
+believ
 that
 you
 are
@@ -892,7 +892,7 @@ mani
 evangel
 christian
 somebodi
-els
+el
 might
 like
 it

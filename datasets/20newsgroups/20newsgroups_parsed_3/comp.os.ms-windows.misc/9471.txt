@@ -124,7 +124,7 @@ font
 compat
 with
 gswin
-pleas
+plea
 email
 brian
 servi

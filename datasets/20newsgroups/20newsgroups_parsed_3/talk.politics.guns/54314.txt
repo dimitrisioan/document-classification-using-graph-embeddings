@@ -91,10 +91,10 @@ concern
 minor
 in
 crimin
-possess
+posse
 of
 firearm
-pass
+pas
 the
 hous
 is
@@ -120,11 +120,11 @@ the
 fortyfirst
 state
 to
-pa
+pas
 preemption
 preemption
 had
-pass
+pas
 twice
 in
 previou
@@ -225,7 +225,7 @@ of
 to
 own
 or
-poss
+posse
 semiautomat
 firearm
 with
@@ -250,7 +250,7 @@ bill
 no
 antigun
 legisl
-pass
+pas
 in
 florida
 thi
@@ -294,7 +294,7 @@ senat
 the
 same
 bill
-pass
+pas
 the
 upperhous
 in
@@ -303,10 +303,10 @@ hb
 prohibit
 the
 sale
-possess
+posse
 manufactur
 purchas
-possess
+posse
 or
 carri
 of
@@ -344,7 +344,7 @@ of
 sale
 check
 perman
-pass
+pas
 out
 of
 judiciari
@@ -413,7 +413,7 @@ sb
 statewid
 firearm
 preemption
-pass
+pas
 in
 the
 senat
@@ -748,9 +748,9 @@ loophol
 allow
 felon
 to
-poss
+posse
 firearm
-pass
+pas
 both
 hous
 and
@@ -794,7 +794,7 @@ for
 conceal
 carri
 licens
-pass
+pas
 hb
 increas
 the
@@ -806,7 +806,7 @@ to
 carri
 load
 handgun
-pass
+pas
 new
 mexico
 sb
@@ -911,7 +911,7 @@ licens
 throughout
 the
 state
-pass
+pas
 senat
 current
 await
@@ -1044,7 +1044,7 @@ state
 conceal
 carri
 statut
-pass
+pas
 out
 of
 hous
@@ -1089,7 +1089,7 @@ obtain
 virginia
 driver
 licens
-pass
+pas
 sb
 which
 increas
@@ -1108,10 +1108,10 @@ purchas
 of
 multipl
 firearm
-pass
+pas
 sb
 allow
-possess
+posse
 of
 sawedoff
 rifl
@@ -1122,7 +1122,7 @@ complianc
 with
 feder
 law
-pass
+pas
 sb
 make
 it
@@ -1170,7 +1170,7 @@ commit
 a
 feloni
 wa
-pass
+pas
 hb
 requir
 proof
@@ -1181,7 +1181,7 @@ obtain
 a
 driver
 licens
-pass
+pas
 hb
 provid
 for
@@ -1266,7 +1266,7 @@ nonbind
 referendum
 ban
 the
-possess
+posse
 of
 handgun
 in
@@ -1384,7 +1384,7 @@ nraila
 reli
 on
 neighborhood
-canvass
+canvas
 direct
 mail
 and

@@ -96,7 +96,7 @@ do
 kernal
 high
 or
-els
+el
 you
 couldnt
 do

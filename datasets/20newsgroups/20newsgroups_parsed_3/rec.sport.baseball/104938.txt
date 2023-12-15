@@ -279,7 +279,7 @@ of
 action
 and
 a
-sens
+sen
 of
 urgenc
 becaus
@@ -304,7 +304,7 @@ go
 quit
 often
 thi
-sens
+sen
 creat
 drama
 even

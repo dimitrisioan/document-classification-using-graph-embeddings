@@ -1,6 +1,6 @@
 subject
 re
-pleas
+plea
 show
 up
 in
@@ -12,7 +12,7 @@ may
 th
 subject
 re
-pleas
+plea
 show
 up
 in
@@ -66,7 +66,7 @@ been
 kill
 in
 bh
-pleas
+plea
 substanti
 thi
 utterli
@@ -263,7 +263,7 @@ or
 so
 muslim
 whose
-life
+live
 have
 not
 been

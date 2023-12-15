@@ -149,7 +149,7 @@ send
 me
 money
 or
-els
+el
 ill
 pick
 you

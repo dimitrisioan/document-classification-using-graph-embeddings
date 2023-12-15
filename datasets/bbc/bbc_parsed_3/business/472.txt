@@ -62,7 +62,7 @@ to
 do
 proper
 environment
-assess
+ass
 top
 the
 list
@@ -86,7 +86,7 @@ without
 approv
 of
 the
-assess
+ass
 of
 their
 environment
@@ -443,7 +443,7 @@ critic
 documentari
 made
 by
-chines
+chine
 journalist
 china
 energi

@@ -29,6 +29,6 @@ cocker
 live
 charl
 nevil
-divers
+diver
 thank
 rich

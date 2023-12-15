@@ -4,7 +4,7 @@ lsu
 seminar
 visit
 vinc
-pleas
+plea
 send
 a
 packag
@@ -43,7 +43,7 @@ la
 in
 your
 packag
-pleas
+plea
 indic
 which
 present
@@ -165,7 +165,7 @@ wrote
 or
 co
 author
-pleas
+plea
 let
 me
 know
@@ -311,7 +311,7 @@ seminar
 on
 friday
 morn
-pleas
+plea
 email
 these
 to

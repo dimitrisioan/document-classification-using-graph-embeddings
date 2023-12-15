@@ -129,7 +129,7 @@ programm
 gate
 array
 which
-us
+use
 a
 pd
 format
@@ -246,7 +246,7 @@ about
 selfmodifi
 code
 he
-us
+use
 order
 rather
 than

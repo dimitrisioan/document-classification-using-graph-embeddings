@@ -1,7 +1,7 @@
 subject
 re
 hb
-pass
+pas
 the
 texa
 hous
@@ -21,7 +21,7 @@ april
 report
 that
 hb
-pass
+pas
 in
 the
 texa

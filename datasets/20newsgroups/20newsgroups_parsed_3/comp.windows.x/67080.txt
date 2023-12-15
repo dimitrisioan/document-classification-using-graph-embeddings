@@ -5,7 +5,7 @@ question
 about
 xcopyarea
 and
-expos
+expo
 event
 in
 articl
@@ -84,13 +84,13 @@ and
 let
 the
 same
-expos
+expo
 event
 handler
 that
 handl
 regular
-expos
+expo
 event
 eg
 window
@@ -105,7 +105,7 @@ new
 imag
 use
 an
-expos
+expo
 event
 handler
 is
@@ -138,7 +138,7 @@ cours
 is
 that
 no
-expos
+expo
 event
 is
 gener
@@ -163,7 +163,7 @@ window
 so
 that
 the
-expos
+expo
 handler
 is
 hit
@@ -259,7 +259,7 @@ applic
 know
 that
 these
-expos
+expo
 event
 must
 be
@@ -277,7 +277,7 @@ may
 need
 to
 be
-eras
+era
 i
 encapsul
 the

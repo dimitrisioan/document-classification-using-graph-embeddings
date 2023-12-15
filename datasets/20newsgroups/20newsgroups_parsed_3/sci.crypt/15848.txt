@@ -13,7 +13,7 @@ scicrypt
 altprivacyclipp
 and
 comporgefftalk
-discuss
+discus
 about
 the
 clipper

@@ -64,7 +64,7 @@ day
 the
 histor
 evid
-prof
+prove
 that
 dure
 the
@@ -105,7 +105,7 @@ blew
 up
 bridg
 block
-pass
+pas
 set
 up
 ambush
@@ -159,11 +159,11 @@ death
 or
 massacr
 with
-ax
+axe
 and
 sword
 or
-els
+el
 shut
 up
 in
@@ -546,7 +546,7 @@ abl
 to
 save
 their
-life
+live
 by
 escap
 to
@@ -741,7 +741,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

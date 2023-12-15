@@ -142,7 +142,7 @@ luken
 s
 storag
 model
-pleas
+plea
 plan
 to
 attend
@@ -155,7 +155,7 @@ from
 p
 m
 to
-discu
+discus
 luken
 s
 storag

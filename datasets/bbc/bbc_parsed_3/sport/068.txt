@@ -50,7 +50,7 @@ athlet
 chief
 max
 jone
-belief
+believ
 it
 is
 like
@@ -128,7 +128,7 @@ jone
 ad
 she
 wa
-pleas
+plea
 with
 her
 run
@@ -153,7 +153,7 @@ depend
 on
 how
 train
-go
+goe
 and
 she
 will

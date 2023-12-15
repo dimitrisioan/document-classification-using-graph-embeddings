@@ -11,7 +11,7 @@ com
 client
 we
 are
-pleas
+plea
 to
 welcom
 you
@@ -46,7 +46,7 @@ access
 the
 new
 site
-pleas
+plea
 visit
 http
 www
@@ -60,7 +60,7 @@ your
 usernam
 and
 password
-pleas
+plea
 use
 our
 new
@@ -76,7 +76,7 @@ cera
 com
 client
 forgot
-pleas
+plea
 note
 bookmark
 you
@@ -133,7 +133,7 @@ the
 world
 oil
 servic
-pleas
+plea
 take
 time
 to

@@ -609,7 +609,7 @@ program
 call
 ccom
 that
-us
+use
 the
 algorithm
 and
@@ -648,7 +648,7 @@ support
 r
 speed
 and
-us
+use
 the
 softwar
 implement

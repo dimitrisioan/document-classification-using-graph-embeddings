@@ -22,7 +22,7 @@ call
 great
 canadian
 scientist
-pleas
+plea
 forward
 your
 nomin
@@ -115,14 +115,14 @@ great
 i
 would
 be
-pleas
+plea
 to
 hear
 them
 in
 ani
 event
-pleas
+plea
 nomin
 peopl
 even
@@ -143,7 +143,7 @@ a
 list
 a
 possibl
-pleas
+plea
 give
 me
 a
@@ -179,7 +179,7 @@ last
 known
 whereabout
 also
-pleas
+plea
 give
 your
 reason
@@ -423,7 +423,7 @@ lyon
 michael
 learn
 hebbian
-synapsi
+synaps
 gerhard
 herzberg
 me
@@ -597,7 +597,7 @@ strome
 murray
 plate
 tektonicsremot
-sens
+sen
 farley
 mowat
 abbott
@@ -791,7 +791,7 @@ american
 after
 graduat
 school
-pleas
+plea
 note
 a
 lot
@@ -823,7 +823,7 @@ thi
 is
 debat
 but
-pleas
+plea
 dont
 nomin
 him
@@ -841,7 +841,7 @@ mark
 on
 the
 list
-pleas
+plea
 drop
 me
 a
@@ -1092,7 +1092,7 @@ canadian
 scientist
 and
 to
-discu
+discus
 what
 is
 great
@@ -1103,7 +1103,7 @@ and
 what
 is
 scientist
-pleas
+plea
 respond
 to
 or

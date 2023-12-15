@@ -183,7 +183,7 @@ and
 regist
 them
 to
-eas
+ea
 me
 of
 the

@@ -90,7 +90,7 @@ own
 lan
 applic
 that
-us
+use
 ftp
 pctcp
 kernel

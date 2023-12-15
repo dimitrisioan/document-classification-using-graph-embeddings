@@ -29,7 +29,7 @@ a
 kb
 modem
 bti
-us
+use
 kb
 att
 model

@@ -134,7 +134,7 @@ space
 station
 the
 gun
-us
+use
 a
 methaneair
 mixtur
@@ -303,7 +303,7 @@ downward
 until
 the
 projectil
-leaf
+leav
 the
 barrel
 the

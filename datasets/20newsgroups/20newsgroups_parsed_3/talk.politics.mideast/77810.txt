@@ -90,7 +90,7 @@ either
 of
 u
 suggest
-needl
+needle
 to
 say
 nation
@@ -229,7 +229,7 @@ cypru
 to
 preserv
 the
-life
+live
 of
 the
 turkish
@@ -257,7 +257,7 @@ of
 the
 victim
 mass
-graf
+grave
 contain
 numer
 bodi
@@ -620,7 +620,7 @@ her
 friend
 neither
 turkish
-life
+live
 nor
 turkish
 honor
@@ -645,7 +645,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

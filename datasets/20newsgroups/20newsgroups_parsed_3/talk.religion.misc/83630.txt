@@ -208,7 +208,7 @@ knowledg
 wa
 never
 it
-possessorss
+possessor
 it
 wa
 record
@@ -289,7 +289,7 @@ are
 concern
 in
 the
-sens
+sen
 in
 which
 that

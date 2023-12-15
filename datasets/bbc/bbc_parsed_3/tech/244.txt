@@ -56,7 +56,7 @@ multiplay
 roleplay
 game
 solid
-divers
+diver
 access
 and
 visual
@@ -73,7 +73,7 @@ never
 befor
 if
 noth
-els
+el
 it
 will
 develop

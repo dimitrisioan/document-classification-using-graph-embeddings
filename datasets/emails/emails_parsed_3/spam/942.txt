@@ -120,7 +120,7 @@ the
 author
 account
 holder
-pleas
+plea
 be
 awar
 that
@@ -223,7 +223,7 @@ paypal
 an
 ebay
 compani
-pleas
+plea
 do
 not
 respond

@@ -6,7 +6,7 @@ power
 jaesoo
 a
 we
-discuss
+discus
 last
 week
 on
@@ -14,7 +14,7 @@ wednesday
 meet
 can
 you
-pleas
+plea
 implement
 cluster
 for

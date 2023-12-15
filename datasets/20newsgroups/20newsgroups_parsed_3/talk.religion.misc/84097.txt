@@ -253,7 +253,7 @@ car
 and
 the
 steer
-go
+goe
 out
 you
 are

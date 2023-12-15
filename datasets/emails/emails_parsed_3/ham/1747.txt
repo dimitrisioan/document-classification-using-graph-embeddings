@@ -3,7 +3,7 @@ re
 exotica
 second
 request
-pleas
+plea
 see
 attach
 enron
@@ -47,7 +47,7 @@ but
 with
 no
 success
-pleas
+plea
 make
 sure
 you

@@ -102,7 +102,7 @@ with
 a
 wrong
 configfil
-pleas
+plea
 help
 me
 thanx

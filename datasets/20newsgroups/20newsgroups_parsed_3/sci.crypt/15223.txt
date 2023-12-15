@@ -307,7 +307,7 @@ includ
 policeman
 bureacrat
 businessmen
-housewif
+housew
 thug
 and
 hoodlum
@@ -756,7 +756,7 @@ nsa
 employe
 a
 christma
-bonu
+bonus
 we
 can
 run
@@ -768,7 +768,7 @@ comput
 we
 damn
 well
-pleas
+plea
 and
 we
 will
@@ -776,7 +776,7 @@ make
 ani
 chip
 we
-pleas
+plea
 and
 we
 will
@@ -789,7 +789,7 @@ our
 data
 highway
 we
-pleas
+plea
 and
 if
 you
@@ -818,7 +818,7 @@ tension
 creat
 in
 the
-assess
+ass
 that
 thi
 issu

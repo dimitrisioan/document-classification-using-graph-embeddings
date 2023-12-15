@@ -87,7 +87,7 @@ wharton
 upenn
 edu
 pm
-pleas
+plea
 respond
 to
 sureshb
@@ -336,7 +336,7 @@ enron
 financ
 confer
 sponsorship
-pleas
+plea
 see
 attach
 for

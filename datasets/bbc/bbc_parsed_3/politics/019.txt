@@ -2,7 +2,7 @@ drink
 remark
 act
 a
-divers
+diver
 the
 first
 minist

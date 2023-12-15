@@ -250,7 +250,7 @@ by
 the
 adl
 wa
-pass
+pas
 on
 to
 isra

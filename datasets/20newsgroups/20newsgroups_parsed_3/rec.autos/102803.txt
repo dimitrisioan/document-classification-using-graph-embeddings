@@ -2,10 +2,10 @@ from
 maria
 alic
 ruth
-pleas
+plea
 satisfi
 my
-curios
+curio
 im
 interest
 in
@@ -17,7 +17,7 @@ use
 the
 email
 system
-pleas
+plea
 do
 not
 flood

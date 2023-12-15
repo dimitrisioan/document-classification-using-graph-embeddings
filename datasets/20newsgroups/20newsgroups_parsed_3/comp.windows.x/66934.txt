@@ -1,6 +1,6 @@
 subject
 keyboard
-focuss
+focus
 i
 have
 two

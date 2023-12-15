@@ -113,9 +113,9 @@ in
 the
 correct
 orient
-pleas
-pleas
-pleas
+plea
+plea
+plea
 do
 not
 post

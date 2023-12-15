@@ -50,7 +50,7 @@ when
 the
 network
 connect
-dy
+die
 in
 case
 it
@@ -111,7 +111,7 @@ number
 if
 you
 can
-pleas
+plea
 help
 me
 with

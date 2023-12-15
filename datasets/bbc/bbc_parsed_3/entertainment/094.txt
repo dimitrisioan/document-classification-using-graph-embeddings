@@ -330,7 +330,7 @@ appear
 in
 more
 subtl
-guis
+gui
 there
 are
 a

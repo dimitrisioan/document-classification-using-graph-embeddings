@@ -123,7 +123,7 @@ peol
 die
 no
 one
-els
+el
 thi
 is
 of

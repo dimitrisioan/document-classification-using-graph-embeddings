@@ -374,7 +374,7 @@ begin
 to
 get
 a
-sens
+sen
 of
 the
 capabl

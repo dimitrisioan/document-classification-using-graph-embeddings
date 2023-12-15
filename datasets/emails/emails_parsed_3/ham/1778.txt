@@ -63,7 +63,7 @@ power
 it
 make
 most
-sens
+sen
 to
 me
 to
@@ -73,7 +73,7 @@ where
 the
 inform
 resid
-pleas
+plea
 invit
 anjam
 or
@@ -196,7 +196,7 @@ is
 the
 spreadsheet
 also
-pleas
+plea
 let
 shirley
 know

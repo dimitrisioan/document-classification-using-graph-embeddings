@@ -61,7 +61,7 @@ x
 interlac
 or
 noninterlac
-us
+use
 ramdac
 to
 allow
@@ -187,7 +187,7 @@ for
 the
 whole
 packag
-pleas
+plea
 respond
 via
 email

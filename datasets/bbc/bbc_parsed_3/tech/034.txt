@@ -34,7 +34,7 @@ issu
 warn
 about
 damag
-viru
+virus
 softwar
 vulner
 and
@@ -471,7 +471,7 @@ a
 the
 number
 of
-viru
+virus
 and
 other
 malici

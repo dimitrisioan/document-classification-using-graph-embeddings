@@ -44,7 +44,7 @@ olymp
 game
 holm
 help
-eras
+era
 the
 gloom
 hang
@@ -444,7 +444,7 @@ javelin
 the
 battl
 yearold
-leaf
+leav
 the
 sport
 with

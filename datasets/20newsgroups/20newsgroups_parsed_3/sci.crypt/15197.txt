@@ -44,7 +44,7 @@ and
 follow
 the
 recent
-discuss
+discus
 on
 rubick
 cube
@@ -146,7 +146,7 @@ to
 know
 if
 someon
-els
+el
 ha
 alreadi
 done
@@ -179,7 +179,7 @@ place
 to
 continu
 thi
-discuss
+discus
 i
 will
 cross

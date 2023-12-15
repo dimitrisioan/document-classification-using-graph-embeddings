@@ -179,7 +179,7 @@ from
 our
 mail
 list
-pleas
+plea
 click
 on
 the
@@ -209,6 +209,6 @@ third
 parti
 thank
 you
-pleas
+plea
 remov
 me

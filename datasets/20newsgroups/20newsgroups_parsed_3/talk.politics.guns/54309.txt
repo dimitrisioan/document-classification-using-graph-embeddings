@@ -118,7 +118,7 @@ peol
 die
 no
 one
-els
+el
 paal
 ellingsen
 borgensvingen

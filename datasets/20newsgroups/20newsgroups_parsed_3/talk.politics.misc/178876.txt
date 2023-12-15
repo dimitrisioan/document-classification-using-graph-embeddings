@@ -230,7 +230,7 @@ ndp
 clean
 up
 a
-tori
+torus
 spend
 mess
 and
@@ -462,7 +462,7 @@ big
 govern
 mental
 often
-imago
+imagin
 govern
 where
 it

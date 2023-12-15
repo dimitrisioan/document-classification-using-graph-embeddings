@@ -42,7 +42,7 @@ say
 i
 wa
 overli
-pleas
+plea
 at
 the
 fixtur
@@ -95,7 +95,7 @@ fixtur
 against
 livingston
 oneil
-belief
+believ
 the
 extra
 game
@@ -177,7 +177,7 @@ benefit
 rather
 than
 anyon
-els
+el
 i
 have
 said

@@ -7,7 +7,7 @@ addit
 key
 the
 recent
-discuss
+discus
 in
 thi
 news
@@ -46,7 +46,7 @@ byte
 question
 make
 it
-sens
+sen
 to
 handl
 the

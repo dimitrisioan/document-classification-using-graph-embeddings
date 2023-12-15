@@ -61,7 +61,7 @@ spill
 water
 about
 a
-chines
+chine
 girl
 sold
 a
@@ -118,7 +118,7 @@ a
 the
 uk
 biggest
-children
+child
 book
 award
 fergu
@@ -167,7 +167,7 @@ adult
 judg
 panel
 said
-children
+child
 literatur
 had
 never
@@ -219,7 +219,7 @@ the
 veri
 best
 in
-children
+child
 book
 today
 previou

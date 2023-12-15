@@ -51,7 +51,7 @@ zach
 at
 vinc
 kaminski
-pleas
+plea
 call
 zach
 at
@@ -65,7 +65,7 @@ s
 time
 mark
 palmer
-pleas
+plea
 call
 zach
 at
@@ -79,7 +79,7 @@ s
 time
 jame
 scribner
-pleas
+plea
 call
 zach
 at
@@ -93,7 +93,7 @@ s
 time
 jim
 coffey
-pleas
+plea
 call
 zach
 at
@@ -170,7 +170,7 @@ you
 have
 ani
 question
-pleas
+plea
 feel
 free
 to
@@ -178,7 +178,7 @@ give
 me
 a
 call
-pleas
+plea
 interoffic
 the
 evalu

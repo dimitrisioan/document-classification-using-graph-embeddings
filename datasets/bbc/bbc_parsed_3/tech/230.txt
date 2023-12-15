@@ -23,7 +23,7 @@ mobil
 phone
 the
 poster
-pa
+pas
 on
 a
 number
@@ -220,7 +220,7 @@ make
 a
 poster
 that
-us
+use
 shortrang
 bluetooth
 radio
@@ -235,7 +235,7 @@ in
 the
 poster
 onli
-pa
+pas
 on
 a
 phone
@@ -245,7 +245,7 @@ harker
 said
 they
 can
-pa
+pas
 on
 almost
 ani

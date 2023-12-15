@@ -11,7 +11,7 @@ split
 thi
 expens
 intern
-pleas
+plea
 send
 it
 to
@@ -45,7 +45,7 @@ inform
 me
 that
 she
-pass
+pas
 it
 along
 to

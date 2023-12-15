@@ -133,7 +133,7 @@ i
 e
 a
 self
-assess
+ass
 if
 you
 are
@@ -143,14 +143,14 @@ in
 thi
 program
 manag
-assess
+ass
 direct
 report
-assess
+ass
 or
 colleagu
 peer
-assess
+ass
 will
 be
 combin
@@ -189,7 +189,7 @@ manag
 of
 the
 particip
-pleas
+plea
 note
 that
 your
@@ -208,7 +208,7 @@ that
 you
 complet
 thi
-assess
+ass
 no
 later
 than
@@ -266,7 +266,7 @@ or
 netscap
 navig
 and
-pleas
+plea
 type
 or
 copi
@@ -278,7 +278,7 @@ into
 your
 internet
 browser
-pleas
+plea
 do
 not
 go
@@ -299,7 +299,7 @@ you
 experi
 technic
 problem
-pleas
+plea
 call
 denni
 ward

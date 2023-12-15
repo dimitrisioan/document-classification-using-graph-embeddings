@@ -130,7 +130,7 @@ chanc
 of
 such
 legisl
-pass
+pas
 vari
 a
 great
@@ -285,7 +285,7 @@ a
 the
 target
 vehicl
-pass
+pas
 landmark
 no
 radar
@@ -460,7 +460,7 @@ they
 are
 use
 or
-els
+el
 dont
 speed
 q
@@ -1395,7 +1395,7 @@ a
 road
 which
 suddenli
-go
+goe
 offcamb
 when
 a
@@ -1616,7 +1616,7 @@ in
 the
 freshman
 physic
-sens
+sen
 of
 the
 term

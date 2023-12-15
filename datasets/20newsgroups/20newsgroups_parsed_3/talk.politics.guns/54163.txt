@@ -185,7 +185,7 @@ or
 state
 or
 impli
-possess
+posse
 of
 the
 right

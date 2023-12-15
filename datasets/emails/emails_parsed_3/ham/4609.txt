@@ -196,7 +196,7 @@ mail
 it
 to
 someon
-els
+el
 the
 copi
 will
@@ -281,7 +281,7 @@ like
 to
 identifi
 yourself
-pleas
+plea
 submit
 your
 name

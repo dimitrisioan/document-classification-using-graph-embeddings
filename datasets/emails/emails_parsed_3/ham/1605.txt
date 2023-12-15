@@ -203,7 +203,7 @@ occur
 i
 d
 g
-go
+goe
 out
 of
 busi
@@ -241,7 +241,7 @@ agreement
 we
 need
 to
-discu
+discus
 the
 escrow
 situat

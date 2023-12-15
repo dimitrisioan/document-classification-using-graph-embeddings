@@ -147,7 +147,7 @@ york
 time
 sunday
 april
-expos
+expo
 the
 dirti
 linen
@@ -171,7 +171,7 @@ with
 uneuropean
 antic
 greec
-us
+use
 the
 commun
 a
@@ -528,7 +528,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

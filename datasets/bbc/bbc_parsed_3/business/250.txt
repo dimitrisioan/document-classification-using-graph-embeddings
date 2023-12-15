@@ -5,7 +5,7 @@ china
 lenovo
 profit
 at
-chines
+chine
 comput
 firm
 lenovo
@@ -62,7 +62,7 @@ on
 the
 year
 befor
-chines
+chine
 pc
 sale
 have
@@ -141,7 +141,7 @@ with
 ibm
 on
 decemb
-go
+goe
 through
 it
 will

@@ -81,7 +81,7 @@ the
 term
 are
 use
-loos
+loo
 by
 most
 peopl
@@ -430,7 +430,7 @@ imped
 if
 the
 amplitud
-go
+goe
 up
 so
 mani

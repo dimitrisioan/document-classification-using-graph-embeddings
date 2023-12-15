@@ -354,7 +354,7 @@ black
 gadget
 the
 psp
-us
+use
 small
 disc
 for
@@ -377,7 +377,7 @@ wireless
 play
 when
 it
-go
+goe
 on
 sale
 the

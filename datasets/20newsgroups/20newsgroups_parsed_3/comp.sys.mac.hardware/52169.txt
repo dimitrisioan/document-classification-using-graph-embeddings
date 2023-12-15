@@ -102,7 +102,7 @@ when
 the
 ext
 monitor
-go
+goe
 black
 after
 have
@@ -177,7 +177,7 @@ lot
 for
 ani
 advic
-pleas
+plea
 answer
 by
 mail

@@ -213,7 +213,7 @@ in
 research
 or
 other
-us
+use
 of
 rocket
 there
@@ -643,7 +643,7 @@ on
 these
 rocket
 none
-pleas
+plea
 forgiv
 me
 for

@@ -62,7 +62,7 @@ journalist
 have
 request
 press
-pass
+pas
 for
 the
 test

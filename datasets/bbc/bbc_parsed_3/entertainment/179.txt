@@ -1,4 +1,4 @@
-housewif
+housew
 lift
 channel
 rate
@@ -9,7 +9,7 @@ u
 televis
 hit
 desper
-housewif
+housew
 ha
 help
 lift
@@ -75,7 +75,7 @@ seri
 comedi
 drama
 desper
-housewif
+housew
 manag
 to
 pull

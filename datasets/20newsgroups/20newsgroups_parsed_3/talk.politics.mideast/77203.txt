@@ -178,7 +178,7 @@ without
 put
 american
 soldier
-life
+live
 on
 the
 line

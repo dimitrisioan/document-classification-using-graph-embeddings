@@ -21,7 +21,7 @@ a
 seper
 newgroup
 for
-discuss
+discus
 of
 m
 test
@@ -57,7 +57,7 @@ help
 on
 such
 thank
-pleas
+plea
 email
 respons
 to

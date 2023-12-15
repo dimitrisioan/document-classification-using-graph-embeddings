@@ -123,7 +123,7 @@ tristat
 area
 plusit
 make
-sens
+sen
 in
 term
 of

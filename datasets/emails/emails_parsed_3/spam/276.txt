@@ -164,7 +164,7 @@ but
 power
 recruit
 system
-pleas
+plea
 click
 here
 and
@@ -193,6 +193,6 @@ remov
 from
 our
 databas
-pleas
+plea
 click
 here

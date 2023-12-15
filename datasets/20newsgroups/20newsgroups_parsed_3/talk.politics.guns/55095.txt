@@ -61,7 +61,7 @@ the
 paul
 blackman
 nra
-expos
+expo
 ani
 articl
 or
@@ -88,7 +88,7 @@ percentag
 would
 be
 welcom
-pleas
+plea
 send
 same
 to

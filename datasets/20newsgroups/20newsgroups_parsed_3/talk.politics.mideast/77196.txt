@@ -110,7 +110,7 @@ after
 i
 convert
 to
-loos
+loo
 my
 be
 part

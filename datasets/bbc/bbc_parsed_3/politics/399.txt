@@ -1,4 +1,4 @@
-tori
+torus
 reject
 rethink
 on
@@ -31,7 +31,7 @@ arundel
 and
 south
 down
-tori
+torus
 said
 mr
 flight
@@ -65,7 +65,7 @@ hold
 a
 meet
 to
-discu
+discus
 hi
 fate
 mr
@@ -76,7 +76,7 @@ troubl
 over
 remark
 on
-tori
+torus
 tax
 and
 spend
@@ -84,14 +84,14 @@ plan
 he
 quit
 a
-tori
+torus
 deputi
 chairman
 after
 appar
 suggest
 the
-tori
+torus
 plan
 extra
 spend
@@ -104,7 +104,7 @@ continu
 a
 an
 mp
-tori
+torus
 headquart
 say
 he
@@ -156,7 +156,7 @@ candid
 but
 the
 local
-tori
+torus
 chairman
 made
 similar
@@ -274,7 +274,7 @@ the
 parti
 rule
 the
-tori
+torus
 leader
 who
 argu
@@ -304,7 +304,7 @@ alan
 milburn
 said
 the
-tori
+torus
 were
 in
 turmoil
@@ -312,7 +312,7 @@ becaus
 mr
 flight
 had
-expos
+expo
 their
 hidden
 plan
@@ -330,9 +330,9 @@ howard
 and
 other
 senior
-tori
+torus
 were
-obsess
+ob
 commit
 to
 cut

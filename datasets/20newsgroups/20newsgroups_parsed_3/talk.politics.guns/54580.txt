@@ -63,7 +63,7 @@ a
 gun
 when
 it
-go
+goe
 off
 veri
 littl
@@ -214,7 +214,7 @@ in
 their
 kitchen
 here
-go
+goe
 more
 than
 a

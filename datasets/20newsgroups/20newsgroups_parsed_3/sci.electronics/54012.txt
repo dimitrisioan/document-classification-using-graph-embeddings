@@ -104,7 +104,7 @@ requir
 you
 send
 a
-puls
+pul
 to
 anoth
 station

@@ -5,7 +5,7 @@ spark
 new
 row
 the
-tori
+torus
 say
 minist
 must
@@ -321,7 +321,7 @@ march
 said
 mr
 sand
-tori
+torus
 leader
 michael
 howard

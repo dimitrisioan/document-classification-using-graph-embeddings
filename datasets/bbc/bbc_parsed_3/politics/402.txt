@@ -118,7 +118,7 @@ some
 comment
 say
 the
-tori
+torus
 have
 grasp
 the
@@ -145,7 +145,7 @@ poll
 which
 suggest
 the
-tori
+torus
 have
 been
 gain

@@ -77,7 +77,7 @@ a
 secret
 societi
 which
-serf
+serv
 the
 nation
 secuuh
@@ -130,7 +130,7 @@ import
 than
 open
 scientif
-discuss
+discus
 trust
 onli
 what
@@ -186,7 +186,7 @@ suggest
 comment
 or
 critic
-pleas
+plea
 let
 the
 current
@@ -229,7 +229,7 @@ u
 and
 canadian
 user
-pleas
+plea
 contact
 if
 you
@@ -287,7 +287,7 @@ i
 here
 do
 polit
-discuss
+discus
 belong
 in
 scicrypt

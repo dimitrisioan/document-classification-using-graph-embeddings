@@ -310,7 +310,7 @@ well
 i
 think
 someon
-els
+el
 in
 thi
 thread
@@ -394,7 +394,7 @@ even
 to
 previous
 reject
-hypothesi
+hypothes
 of
 some
 other

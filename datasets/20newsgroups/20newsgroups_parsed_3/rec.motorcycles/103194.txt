@@ -12,7 +12,7 @@ nation
 owner
 club
 address
-pleas
+plea
 email
 it
 to

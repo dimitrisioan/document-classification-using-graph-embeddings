@@ -227,7 +227,7 @@ could
 be
 disguis
 a
-pleas
+plea
 insert
 origin
 disk
@@ -774,7 +774,7 @@ not
 intrud
 upon
 the
-us
+use
 or
 to
 minim

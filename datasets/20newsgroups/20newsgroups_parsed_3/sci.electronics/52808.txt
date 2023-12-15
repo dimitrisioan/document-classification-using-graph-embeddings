@@ -270,7 +270,7 @@ to
 give
 you
 a
-puls
+pul
 onc
 everi
 sec
@@ -315,7 +315,7 @@ get
 output
 and
 reset
-puls
+pul
 back
 to
 the
@@ -334,7 +334,7 @@ the
 one
 shot
 then
-go
+goe
 to
 a
 mosfet

@@ -109,7 +109,7 @@ state
 make
 the
 bosnian
-crisi
+crise
 a
 nation
 interest

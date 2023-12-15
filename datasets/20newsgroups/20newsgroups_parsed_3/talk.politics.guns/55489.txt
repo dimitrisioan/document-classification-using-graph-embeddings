@@ -1,7 +1,7 @@
 subject
 re
 hb
-pass
+pas
 the
 texa
 hous
@@ -23,7 +23,7 @@ conceal
 firearm
 if
 they
-pa
+pas
 an
 instruct
 cours

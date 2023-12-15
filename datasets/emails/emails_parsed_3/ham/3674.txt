@@ -832,7 +832,7 @@ project
 we
 are
 veri
-pleas
+plea
 to
 have
 complet
@@ -895,7 +895,7 @@ asset
 with
 excel
 geograph
-divers
+diver
 to
 provid
 power
@@ -1202,7 +1202,7 @@ document
 can
 be
 redistribut
-pleas
+plea
 send
 question
 comment

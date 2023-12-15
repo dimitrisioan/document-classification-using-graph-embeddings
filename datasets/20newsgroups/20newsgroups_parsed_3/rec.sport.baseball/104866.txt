@@ -104,7 +104,7 @@ year
 herm
 winningham
 same
-go
+goe
 for
 herm
 lonni
@@ -352,7 +352,7 @@ to
 take
 a
 quick
-brows
+brow
 through
 the
 major

@@ -62,7 +62,7 @@ third
 out
 so
 buck
-go
+goe
 to
 the
 bullpen

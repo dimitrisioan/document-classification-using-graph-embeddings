@@ -18,7 +18,7 @@ of
 clipper
 chip
 key
-half
+halv
 i
 would
 not
@@ -121,7 +121,7 @@ mitr
 to
 releas
 key
-half
+halv
 on
 demand
 it

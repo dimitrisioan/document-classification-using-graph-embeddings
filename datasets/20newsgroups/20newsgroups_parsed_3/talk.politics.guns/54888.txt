@@ -52,7 +52,7 @@ the
 substanc
 make
 littl
-sens
+sen
 unless
 one
 read
@@ -67,7 +67,7 @@ to
 enter
 into
 thi
-discuss
+discus
 here
 a
 it
@@ -264,12 +264,12 @@ not
 the
 place
 to
-discu
+discus
 gun
 i
 note
 in
-pass
+pas
 that
 a
 number

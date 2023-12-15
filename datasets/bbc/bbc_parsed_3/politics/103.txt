@@ -195,7 +195,7 @@ the
 child
 bill
 which
-pass
+pas
 through
 the
 common

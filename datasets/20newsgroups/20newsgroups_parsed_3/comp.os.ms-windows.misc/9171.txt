@@ -47,7 +47,7 @@ beyond
 the
 equat
 ami
-go
+goe
 nut
 the
 line
@@ -113,7 +113,7 @@ the
 document
 ha
 anyon
-els
+el
 experienc
 thi
 doe

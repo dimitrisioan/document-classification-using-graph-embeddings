@@ -15,7 +15,7 @@ to
 access
 the
 schemat
-pleas
+plea
 open
 the
 jgsm
@@ -26,7 +26,7 @@ the
 embanet
 desktop
 next
-pleas
+plea
 open
 the
 announc
@@ -43,7 +43,7 @@ under
 the
 subject
 column
-pleas
+plea
 open
 the
 document

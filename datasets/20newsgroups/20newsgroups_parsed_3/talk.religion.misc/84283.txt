@@ -245,7 +245,7 @@ allow
 to
 inspect
 the
-offic
+officer
 badg
 just
 what

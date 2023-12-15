@@ -1,13 +1,13 @@
 subject
 re
-pleas
+plea
 find
 home
 for
 brain
 candid
 shirley
-pleas
+plea
 arrang
 a
 phone
@@ -42,7 +42,7 @@ ect
 ect
 cc
 subject
-pleas
+plea
 find
 home
 for
@@ -75,7 +75,7 @@ enron
 enron
 cc
 subject
-pleas
+plea
 find
 home
 for
@@ -121,7 +121,7 @@ enron
 enron
 cc
 subject
-pleas
+plea
 find
 home
 for
@@ -204,7 +204,7 @@ doc
 or
 txt
 attach
-pleas
+plea
 includ
 thi
 requisit
@@ -224,7 +224,7 @@ pipelin
 group
 manag
 contact
-pleas
+plea
 do
 not
 contact
@@ -233,7 +233,7 @@ hire
 manag
 no
 fax
-pleas
+plea
 send
 resum
 via
@@ -255,7 +255,7 @@ smith
 st
 houston
 tx
-pleas
+plea
 refer
 to
 job
@@ -275,7 +275,7 @@ compani
 corpor
 staff
 risk
-assess
+ass
 and
 control
 manag
@@ -285,7 +285,7 @@ submit
 resum
 for
 consider
-pleas
+plea
 e
 mail
 it
@@ -307,7 +307,7 @@ word
 doc
 are
 accept
-pleas
+plea
 use
 no
 column
@@ -358,7 +358,7 @@ trade
 support
 generalist
 contact
-pleas
+plea
 email
 resum
 to
@@ -418,7 +418,7 @@ consid
 for
 thi
 posit
-pleas
+plea
 e
 mail
 your
@@ -437,7 +437,7 @@ to
 enajob
 enron
 com
-pleas
+plea
 elimin
 ital
 underlin
@@ -448,7 +448,7 @@ side
 by
 side
 column
-pleas
+plea
 indic
 on
 the

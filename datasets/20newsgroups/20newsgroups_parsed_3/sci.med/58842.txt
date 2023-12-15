@@ -141,7 +141,7 @@ of
 feverresist
 bug
 that
-go
+goe
 wild
 when
 fever

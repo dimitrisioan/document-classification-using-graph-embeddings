@@ -92,7 +92,7 @@ test
 had
 to
 be
-pass
+pas
 at
 each
 stage

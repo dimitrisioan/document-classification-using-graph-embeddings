@@ -71,7 +71,7 @@ co
 and
 cost
 center
-pleas
+plea
 let
 me
 have
@@ -374,7 +374,7 @@ agre
 that
 it
 make
-sens
+sen
 to
 put
 the
@@ -433,7 +433,7 @@ if
 there
 is
 someon
-els
+el
 in
 your
 group
@@ -707,7 +707,7 @@ an
 updat
 on
 anshuman
-pleas
+plea
 see
 below
 it
@@ -928,7 +928,7 @@ i
 would
 like
 to
-discu
+discus
 with
 you
 so

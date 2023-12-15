@@ -150,7 +150,7 @@ the
 windshield
 clear
 noth
-els
+el
 clear
 thi
 seem

@@ -1,7 +1,7 @@
 from
 can
 someon
-pleas
+plea
 remind
 me
 who

@@ -140,7 +140,7 @@ root
 of
 the
 confus
-pleas
+plea
 consid
 the
 follow
@@ -706,6 +706,6 @@ a
 pattern
 and
 then
-rever
+revers
 cheer
 valentin

@@ -44,7 +44,7 @@ eb
 c
 open
 forum
-discuss
+discus
 with
 eb
 trader

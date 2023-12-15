@@ -335,7 +335,7 @@ master
 elementari
 statist
 and
-us
+use
 of
 statist
 infer

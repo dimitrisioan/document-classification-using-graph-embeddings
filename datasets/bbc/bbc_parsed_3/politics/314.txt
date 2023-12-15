@@ -130,7 +130,7 @@ peopl
 let
 have
 a
-discuss
+discus
 on
 the
 thing

@@ -53,7 +53,7 @@ all
 to
 make
 someon
-els
+el
 wealthi
 we
 have
@@ -131,7 +131,7 @@ incred
 life
 chang
 opportun
-pleas
+plea
 complet
 the
 form
@@ -242,7 +242,7 @@ subject
 or
 ani
 other
-pleas
+plea
 repli
 to
 thi

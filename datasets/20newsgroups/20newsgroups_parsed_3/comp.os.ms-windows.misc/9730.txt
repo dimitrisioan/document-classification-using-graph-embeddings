@@ -146,7 +146,7 @@ to
 mathsoft
 no
 mathcad
-us
+use
 the
 swap
 file
@@ -612,7 +612,7 @@ back
 i
 rememb
 a
-discuss
+discus
 about
 the
 issu

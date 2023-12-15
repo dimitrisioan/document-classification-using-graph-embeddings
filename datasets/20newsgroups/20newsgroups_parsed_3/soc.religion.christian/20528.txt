@@ -121,7 +121,7 @@ thing
 god
 way
 that
-curs
+cur
 will
 come
 on
@@ -132,7 +132,7 @@ although
 one
 definit
 of
-curs
+cur
 is
 retribut
 i
@@ -165,7 +165,7 @@ bibl
 god
 doesnt
 caus
-curs
+cur
 he
 warn
 u
@@ -379,7 +379,7 @@ of
 love
 for
 him
-pleas
+plea
 dont
 give
 in
@@ -675,7 +675,7 @@ discount
 your
 percept
 but
-pleas
+plea
 tri
 to
 be

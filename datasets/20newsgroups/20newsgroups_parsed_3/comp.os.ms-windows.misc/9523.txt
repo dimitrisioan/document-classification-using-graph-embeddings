@@ -1326,7 +1326,7 @@ with
 a
 vbi
 modem
-spars
+spar
 data
 and
 text
@@ -1684,7 +1684,7 @@ multipl
 of
 the
 rate
-pass
+pas
 through
 the
 window

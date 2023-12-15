@@ -65,7 +65,7 @@ make
 a
 differ
 in
-discuss
+discus
 these
 term
 ani

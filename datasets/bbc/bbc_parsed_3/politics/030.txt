@@ -70,7 +70,7 @@ skip
 school
 each
 day
-tori
+torus
 say
 labour
 previou

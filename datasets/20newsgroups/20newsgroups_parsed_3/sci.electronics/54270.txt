@@ -112,7 +112,7 @@ can
 be
 set
 to
-puls
+pul
 dial
 in
 sweden
@@ -215,7 +215,7 @@ telekom
 there
 wa
 some
-discuss
+discus
 about
 a
 new
@@ -267,7 +267,7 @@ still
 exclus
 set
 to
-puls
+pul
 dial
 last
 time
@@ -280,7 +280,7 @@ areacod
 wa
 still
 sole
-puls
+pul
 dial
 btw
 touch
@@ -336,5 +336,5 @@ advisori
 council
 millard
 fillmor
-life
+live
 wevegotwhatittakestotakewhatyouvegot

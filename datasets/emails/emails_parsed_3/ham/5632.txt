@@ -21,11 +21,11 @@ work
 on
 differ
 project
-pleas
+plea
 ignor
 thi
 messag
-pleas
+plea
 develop
 in
 a

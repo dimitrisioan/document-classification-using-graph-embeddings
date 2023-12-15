@@ -39,7 +39,7 @@ and
 then
 from
 whereev
-els
+el
 we
 could
 find
@@ -63,7 +63,7 @@ could
 help
 u
 out
-pleas
+plea
 let
 me
 know

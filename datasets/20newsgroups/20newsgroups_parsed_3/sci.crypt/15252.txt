@@ -238,7 +238,7 @@ sayal
 at
 onc
 then
-go
+goe
 on
 to
 the
@@ -302,7 +302,7 @@ then
 swap
 the
 ciphertext
-half
+halv
 after
 each
 round
@@ -417,7 +417,7 @@ a
 depend
 in
 thi
-sens
+sen
 a
 product
 cipher
@@ -947,7 +947,7 @@ are
 secur
 in
 thi
-sens
+sen
 when
 the
 round
@@ -1207,7 +1207,7 @@ form
 each
 of
 which
-us
+use
 the
 de
 cipher
@@ -1800,7 +1800,7 @@ the
 deep
 secret
 it
-us
+use
 to
 make
 it
@@ -1918,7 +1918,7 @@ paramet
 which
 in
 some
-sens
+sen
 resolv
 the
 appar
@@ -2169,7 +2169,7 @@ the
 data
 sheet
 handi
-pleas
+plea
 email
 me
 if

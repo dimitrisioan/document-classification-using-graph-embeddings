@@ -117,7 +117,7 @@ an
 incred
 stupid
 drop
-pa
+pas
 at
 hi
 own
@@ -269,7 +269,7 @@ it
 after
 a
 nice
-pa
+pas
 from
 naslund
 behind
@@ -570,7 +570,7 @@ then
 made
 a
 nice
-pa
+pas
 to
 corson
 who

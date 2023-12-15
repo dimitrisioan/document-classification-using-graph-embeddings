@@ -19,7 +19,7 @@ for
 vac
 control
 line
-sens
+sen
 onoff
 pwrfail
 highlow

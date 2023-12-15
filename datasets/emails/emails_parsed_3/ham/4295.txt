@@ -28,7 +28,7 @@ blvd
 t
 c
 jester
-pleas
+plea
 let
 mr
 m
@@ -45,7 +45,7 @@ if
 you
 need
 direct
-pleas
+plea
 let
 me
 know

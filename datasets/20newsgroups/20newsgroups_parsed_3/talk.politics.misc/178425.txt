@@ -62,7 +62,7 @@ it
 just
 make
 more
-sens
+sen
 to
 find
 some
@@ -1045,7 +1045,7 @@ insur
 but
 our
 govern
-leaf
+leav
 politician
 more
 open

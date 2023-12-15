@@ -103,9 +103,9 @@ in
 a
 tie
 breaker
-pleas
-pleas
-pleas
+plea
+plea
+plea
 tell
 me
 that
@@ -136,7 +136,7 @@ be
 cut
 off
 my
-alumnu
+alumnus
 contribut
 or
 increas

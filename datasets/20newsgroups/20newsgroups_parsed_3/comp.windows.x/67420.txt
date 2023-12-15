@@ -18,7 +18,7 @@ an
 x
 applic
 that
-us
+use
 xlib
 id
 like

@@ -78,7 +78,7 @@ the
 screen
 obscur
 anyth
-els
+el
 below
 them
 at
@@ -119,7 +119,7 @@ question
 is
 ha
 anyon
-els
+el
 seen
 thi
 and
@@ -134,7 +134,7 @@ rid
 of
 these
 messag
-pleas
+plea
 repli
 by
 email

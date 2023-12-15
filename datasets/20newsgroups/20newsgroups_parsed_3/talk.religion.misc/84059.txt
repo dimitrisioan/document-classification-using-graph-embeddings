@@ -162,7 +162,7 @@ is
 correct
 onli
 is
-pars
+par
 a
 the
 individu

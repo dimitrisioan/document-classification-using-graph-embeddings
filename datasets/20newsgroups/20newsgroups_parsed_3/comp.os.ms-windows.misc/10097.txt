@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 do
 not
 post
@@ -71,7 +71,7 @@ x
 display
 becaus
 it
-leaf
+leav
 a
 border
 at
@@ -103,7 +103,7 @@ not
 seen
 much
 better
-pleas
+plea
 do
 not
 do
@@ -291,11 +291,11 @@ file
 archiv
 rather
 than
-discuss
+discus
 group
 dont
 use
-discuss
+discus
 group
 like
 thi

@@ -163,7 +163,7 @@ to
 find
 a
 babysitt
-leaf
+leav
 her
 four
 young
@@ -235,7 +235,7 @@ explain
 sinc
 she
 present
-children
+child
 tv
 show
 number
@@ -431,7 +431,7 @@ the
 futur
 arnold
 firmli
-belief
+believ
 that
 you
 often

@@ -142,7 +142,7 @@ letterform
 author
 them
 to
-poss
+posse
 the
 high
 capac
@@ -164,7 +164,7 @@ will
 be
 allow
 to
-poss
+posse
 dealer
 will
 be
@@ -178,7 +178,7 @@ for
 those
 allow
 to
-poss
+posse
 them
 but
 will
@@ -239,7 +239,7 @@ most
 of
 what
 we
-discuss
+discus
 i
 have
 type

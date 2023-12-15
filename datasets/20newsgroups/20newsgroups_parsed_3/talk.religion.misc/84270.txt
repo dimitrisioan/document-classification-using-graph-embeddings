@@ -49,7 +49,7 @@ the
 wall
 brian
 kendig
-prof
+prove
 thi
 veri
 sad
@@ -99,7 +99,7 @@ exampl
 look
 at
 your
-discuss
+discus
 i
 would
 say
@@ -194,10 +194,10 @@ scriptur
 now
 in
 your
-sens
+sen
 kent
 of
-sens
+sen
 realitythat
 is
 a

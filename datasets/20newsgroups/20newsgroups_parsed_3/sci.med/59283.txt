@@ -92,7 +92,7 @@ you
 have
 an
 articl
-pleas
+plea
 contact
 the
 editor
@@ -113,7 +113,7 @@ the
 autom
 distribut
 system
-pleas
+plea
 contact
 the
 editor
@@ -1262,7 +1262,7 @@ of
 obstetr
 intervent
 jama
-graf
+grave
 ej
 nch
 summari
@@ -1428,7 +1428,7 @@ mcnelli
 d
 rhoad
 gg
-pears
+pear
 wh
 recent
 trend
@@ -2765,7 +2765,7 @@ age
 should
 receiv
 two
-do
+dose
 month
 apart
 previous
@@ -2821,7 +2821,7 @@ of
 acthib
 trademark
 consecut
-do
+dose
 at
 and
 month
@@ -3395,7 +3395,7 @@ the
 fourth
 and
 fifth
-do
+dose
 of
 the
 dtp
@@ -3612,7 +3612,7 @@ compani
 among
 the
 topic
-discuss
+discus
 were
 the
 epidemiolog
@@ -3863,7 +3863,7 @@ and
 prognosi
 socialpolit
 issu
-discuss
+discus
 on
 the
 social
@@ -4014,7 +4014,7 @@ target
 cell
 other
 topic
-discuss
+discus
 were
 the
 manifest

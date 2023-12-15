@@ -38,7 +38,7 @@ i
 use
 thi
 term
-loos
+loo
 on
 the
 conflict

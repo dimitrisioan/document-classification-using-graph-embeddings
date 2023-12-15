@@ -217,7 +217,7 @@ for
 exampl
 it
 can
-loos
+loo
 about
 of
 avail
@@ -309,7 +309,7 @@ rd
 program
 make
 good
-sens
+sen
 i
 am
 le

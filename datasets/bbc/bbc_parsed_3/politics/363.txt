@@ -125,7 +125,7 @@ the
 chancellor
 and
 the
-tori
+torus
 for
 fail
 to

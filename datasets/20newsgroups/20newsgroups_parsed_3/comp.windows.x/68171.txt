@@ -157,7 +157,7 @@ myeventhandl
 blank
 the
 screen
-els
+el
 unblank
 the
 screen

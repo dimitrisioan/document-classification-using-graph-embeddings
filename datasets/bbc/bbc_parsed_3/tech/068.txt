@@ -3,7 +3,7 @@ of
 first
 appl
 mac
-dy
+die
 jef
 raskin
 head
@@ -305,7 +305,7 @@ disput
 with
 appl
 mercuri
-bo
+bos
 steve
 job
 in

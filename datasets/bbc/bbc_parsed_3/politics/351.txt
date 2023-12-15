@@ -1,7 +1,7 @@
 fox
 attack
 blair
-tori
+torus
 lie
 toni
 blair
@@ -25,8 +25,8 @@ elect
 campaign
 say
 the
-tori
-tori
+torus
+torus
 cochairman
 liam
 fox
@@ -39,7 +39,7 @@ told
 labour
 member
 the
-tori
+torus
 offer
 a
 hard
@@ -77,7 +77,7 @@ all
 he
 would
 not
-discu
+discus
 report
 the
 parti
@@ -246,7 +246,7 @@ would
 result
 in
 a
-tori
+torus
 govern
 not
 a
@@ -256,7 +256,7 @@ and
 a
 countri
 that
-go
+goe
 back
 and
 doe
@@ -311,7 +311,7 @@ told
 bbc
 news
 the
-tori
+torus
 cochairman
 attack
 labour
@@ -340,7 +340,7 @@ dr
 fox
 refus
 to
-discu
+discus
 weekend
 newspap
 report
@@ -352,7 +352,7 @@ repaid
 â£
 to
 former
-tori
+torus
 treasur
 lord
 ashcroft

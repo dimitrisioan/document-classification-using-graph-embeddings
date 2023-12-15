@@ -159,7 +159,7 @@ so
 with
 reserv
 a
-discuss
+discus
 below
 commiss
 staff
@@ -249,7 +249,7 @@ in
 develop
 competit
 market
-analysi
+analys
 the
 rule
 continu
@@ -274,7 +274,7 @@ requir
 for
 vertic
 competit
-analysi
+analys
 streamlin
 file
 requir
@@ -343,7 +343,7 @@ commiss
 ftc
 market
 concentr
-analysi
+analys
 and
 that
 ferc
@@ -401,7 +401,7 @@ mention
 that
 he
 wa
-pleas
+plea
 that
 rto
 and
@@ -456,7 +456,7 @@ regulatori
 burden
 should
 be
-eas
+ea
 due
 to
 the
@@ -501,7 +501,7 @@ said
 that
 she
 wa
-pleas
+plea
 the
 final
 rule
@@ -560,7 +560,7 @@ commission
 breathitt
 massey
 wa
-pleas
+plea
 that
 the
 order
@@ -1368,7 +1368,7 @@ energi
 on
 behalf
 of
-y
+i
 util
 interst
 power

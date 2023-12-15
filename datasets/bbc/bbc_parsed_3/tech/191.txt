@@ -110,7 +110,7 @@ and
 help
 foster
 a
-sens
+sen
 of
 local
 ident
@@ -162,7 +162,7 @@ go
 to
 engag
 in
-divers
+diver
 and
 in
 a
@@ -176,7 +176,7 @@ implic
 like
 a
 prelegisl
-discuss
+discus
 the
 idea
 of

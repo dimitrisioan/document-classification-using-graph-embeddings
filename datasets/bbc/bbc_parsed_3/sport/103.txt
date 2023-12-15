@@ -71,7 +71,7 @@ start
 lineup
 the
 blue
-bo
+bos
 took
 the
 unusu

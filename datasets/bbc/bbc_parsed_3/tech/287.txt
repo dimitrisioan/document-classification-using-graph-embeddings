@@ -267,7 +267,7 @@ global
 mobil
 phone
 sale
-pass
+pas
 million
 in
 the

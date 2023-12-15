@@ -12,7 +12,7 @@ with
 you
 yesterday
 and
-discuss
+discus
 our
 ga
 power
@@ -92,7 +92,7 @@ comput
 than
 in
 print
-pleas
+plea
 rememb
 that
 enron
@@ -146,7 +146,7 @@ question
 regard
 the
 report
-pleas
+plea
 do
 not
 hesit

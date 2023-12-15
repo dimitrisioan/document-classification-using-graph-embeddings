@@ -29,7 +29,7 @@ citi
 virginia
 under
 the
-auspex
+auspic
 of
 aiaa
 doe
@@ -95,7 +95,7 @@ wa
 somewher
 reput
 anyon
-els
+el
 know
 anyth
 on

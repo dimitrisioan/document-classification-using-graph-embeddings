@@ -1016,7 +1016,7 @@ onli
 inform
 current
 under
-discuss
+discus
 or
 of
 continu
@@ -1382,7 +1382,7 @@ said
 the
 edmonton
 oiler
-leas
+lea
 with
 northland
 coliseum
@@ -1422,7 +1422,7 @@ peter
 pocklington
 call
 hi
-leas
+lea
 with
 northland
 horrend
@@ -2403,7 +2403,7 @@ two
 investor
 group
 are
-pois
+poi
 to
 build
 a
@@ -2419,7 +2419,7 @@ compani
 that
 hold
 a
-leas
+lea
 from
 the
 tampa
@@ -2432,7 +2432,7 @@ coliseum
 inc
 ha
 a
-leas
+lea
 with
 the
 nation
@@ -2719,7 +2719,7 @@ bay
 which
 is
 present
-discuss
+discus
 plan
 to
 build
@@ -4880,7 +4880,7 @@ for
 player
 coverag
 for
-wife
+wive
 pension
 improv
 pension
@@ -5606,7 +5606,7 @@ but
 is
 expect
 to
-pa
+pas
 easili
 at
 the
@@ -5726,7 +5726,7 @@ game
 to
 the
 homeic
-curs
+cur
 held
 true
 a
@@ -6081,7 +6081,7 @@ maintain
 list
 one
 for
-discuss
+discus
 hockeyl
 and
 one
@@ -6735,7 +6735,7 @@ olympuck
 the
 olymp
 hockey
-discuss
+discus
 list
 send
 email
@@ -7563,7 +7563,7 @@ an
 intern
 flair
 and
-discuss
+discus
 implement
 some
 rule
@@ -7842,7 +7842,7 @@ request
 item
 via
 email
-pleas
+plea
 includ
 your
 prefer
@@ -9084,7 +9084,7 @@ miscellan
 for
 field
 hockey
-discuss
+discus
 go
 to
 the
@@ -9092,7 +9092,7 @@ newsgroup
 recsporthockeyfield
 for
 skate
-discuss
+discus
 go
 to
 the
@@ -9190,7 +9190,7 @@ mcgowan
 for
 the
 season
-pleas
+plea
 make
 correct
 via
@@ -9207,7 +9207,7 @@ free
 to
 start
 a
-discuss
+discus
 on
 ani
 previous

@@ -10,7 +10,7 @@ eric
 richard
 noel
 write
-discuss
+discus
 on
 piraci
 delet
@@ -135,7 +135,7 @@ instal
 floppi
 sometim
 softwar
-go
+goe
 out
 on
 floppi

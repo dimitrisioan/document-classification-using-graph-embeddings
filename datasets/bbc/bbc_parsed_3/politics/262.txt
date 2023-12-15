@@ -17,7 +17,7 @@ the
 uk
 is
 govern
-tori
+torus
 leader
 michael
 howard
@@ -53,7 +53,7 @@ the
 headlin
 for
 new
-tori
+torus
 campaign
 poster
 but
@@ -269,7 +269,7 @@ offer
 to
 quit
 the
-tori
+torus
 leader
 counter
 that
@@ -370,7 +370,7 @@ at
 their
 poster
 launch
-tori
+torus
 cochairman
 liam
 fox

@@ -190,7 +190,7 @@ lut
 lutindex
 red
 startr
-els
+el
 lut
 lutindex
 red
@@ -203,7 +203,7 @@ lut
 lutindex
 green
 startgreen
-els
+el
 lut
 lutindex
 green
@@ -216,7 +216,7 @@ lut
 lutindex
 blue
 startblu
-els
+el
 lut
 lutindex
 blue

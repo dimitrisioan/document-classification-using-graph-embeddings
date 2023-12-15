@@ -9,7 +9,7 @@ to
 cost
 center
 attach
-pleas
+plea
 find
 the
 secur
@@ -52,7 +52,7 @@ you
 have
 ani
 question
-pleas
+plea
 let
 me
 know

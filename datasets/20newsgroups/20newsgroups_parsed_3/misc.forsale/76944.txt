@@ -379,7 +379,7 @@ bikini
 etern
 metropol
 miami
-mous
+mouse
 mark
 bode
 midnit
@@ -405,7 +405,7 @@ quarterli
 dc
 mummi
 mummi
-curs
+cur
 aricel
 myth
 concept
@@ -794,7 +794,7 @@ of
 other
 comic
 so
-pleas
+plea
 let
 me
 know

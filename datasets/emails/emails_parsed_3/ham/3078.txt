@@ -69,7 +69,7 @@ commun
 program
 let
 s
-discu
+discus
 that
 further
 so
@@ -87,7 +87,7 @@ had
 the
 chanc
 to
-discu
+discus
 all
 of
 thi

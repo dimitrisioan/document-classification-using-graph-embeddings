@@ -209,7 +209,7 @@ is
 far
 a
 style
-go
+goe
 from
 what
 i

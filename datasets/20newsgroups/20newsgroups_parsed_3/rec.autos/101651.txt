@@ -36,7 +36,7 @@ excel
 condit
 ask
 obo
-pleas
+plea
 call
 him
 at

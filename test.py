@@ -23,6 +23,7 @@ from fastnode2vec import Node2Vec, Graph
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
+import seaborn as sns
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import accuracy_score, precision_score, confusion_matrix, classification_report
 from sklearn.neural_network import MLPClassifier

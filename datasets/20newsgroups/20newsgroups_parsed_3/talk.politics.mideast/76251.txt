@@ -5,7 +5,7 @@ in
 usa
 mr
 freeman
-pleas
+plea
 find
 someth
 more

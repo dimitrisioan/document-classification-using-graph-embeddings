@@ -132,7 +132,7 @@ all
 machin
 run
 xr
-pleas
+plea
 help
 lar
 lar

@@ -186,7 +186,7 @@ i
 assum
 that
 everyon
-els
+el
 in
 thi
 group
@@ -215,7 +215,7 @@ paul
 speak
 about
 everyth
-els
+el
 that
 is
 immor
@@ -321,7 +321,7 @@ to
 get
 into
 a
-discuss
+discus
 on
 slaveri
 anyway
@@ -349,7 +349,7 @@ absenc
 of
 specif
 condemen
-prof
+prove
 someth
 is
 not
@@ -476,7 +476,7 @@ the
 bibl
 then
 that
-prof
+prove
 it
 is
 ok

@@ -2157,7 +2157,7 @@ late
 no
 beg
 letter
-pleas
+plea
 and
 so
 ive
@@ -2254,7 +2254,7 @@ bitmap
 and
 i
 wa
-pleas
+plea
 with
 the
 result

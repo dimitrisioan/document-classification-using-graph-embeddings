@@ -725,7 +725,7 @@ be
 taken
 to
 the
-graf
+grave
 a
 long
 line
@@ -819,7 +819,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

@@ -1,6 +1,6 @@
 u
 bank
-bo
+bos
 hail
 geniu
 smith

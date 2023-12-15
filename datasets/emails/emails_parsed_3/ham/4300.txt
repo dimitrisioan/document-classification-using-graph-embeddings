@@ -20,7 +20,7 @@ few
 model
 paper
 review
-pleas
+plea
 make
 sure
 that
@@ -44,7 +44,7 @@ darrel
 duffi
 on
 pm
-pleas
+plea
 respond
 to
 darrel

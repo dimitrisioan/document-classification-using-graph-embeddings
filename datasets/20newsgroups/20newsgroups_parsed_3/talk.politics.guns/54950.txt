@@ -362,7 +362,7 @@ truth
 of
 defens
 gun
-us
+use
 result
 in
 the
@@ -900,7 +900,7 @@ matter
 what
 law
 they
-pa
+pas
 i
 intend
 to

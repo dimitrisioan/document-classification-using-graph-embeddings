@@ -34,7 +34,7 @@ food
 from
 the
 local
-chines
+chine
 take
 out
 same
@@ -192,7 +192,7 @@ the
 synthes
 msg
 addit
-chines
+chine
 and
 mani
 other

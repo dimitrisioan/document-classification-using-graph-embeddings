@@ -402,7 +402,7 @@ littl
 and
 max
 you
-pass
+pas
 all
 of
 thi
@@ -560,7 +560,7 @@ thi
 more
 than
 anyth
-els
+el
 signal
 our
 commit
@@ -877,7 +877,7 @@ technolog
 great
 is
 be
-pass
+pas
 we
 are
 american

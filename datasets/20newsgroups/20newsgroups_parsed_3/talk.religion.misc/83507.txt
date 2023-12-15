@@ -650,7 +650,7 @@ from
 say
 god
 did
-pleas
+plea
 attempt
 to
 understand
@@ -789,7 +789,7 @@ i
 am
 most
 interest
-pleas
+plea
 email
 or
 post

@@ -4,7 +4,7 @@ scsi
 hd
 for
 sale
-pleas
+plea
 repli
 to
 the
@@ -89,7 +89,7 @@ within
 the
 continent
 u
-pleas
+plea
 email
 respons
 to

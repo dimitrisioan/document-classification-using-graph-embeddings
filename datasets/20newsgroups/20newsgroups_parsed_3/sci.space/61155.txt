@@ -51,7 +51,7 @@ thi
 line
 and
 also
-us
+use
 a
 radar
 design
@@ -183,7 +183,7 @@ optic
 ground
 station
 are
-discuss
+discus
 a
 star
 track
@@ -219,7 +219,7 @@ of
 nasda
 is
 also
-discuss
+discus
 in
 addit
 it
@@ -710,7 +710,7 @@ measur
 and
 result
 are
-discuss
+discus
 equatori
 radar
 system

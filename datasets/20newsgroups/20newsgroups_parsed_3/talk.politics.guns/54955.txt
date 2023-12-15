@@ -15,7 +15,7 @@ denouement
 i
 had
 email
-discuss
+discus
 with
 peopl
 from
@@ -24,7 +24,7 @@ group
 in
 particular
 we
-discuss
+discus
 how
 cult
 oper
@@ -76,7 +76,7 @@ have
 i
 hope
 been
-eras
+era
 the
 edit
 process
@@ -94,7 +94,7 @@ retain
 the
 inform
 content
-ellipsi
+ellips
 indic
 where
 text
@@ -106,7 +106,7 @@ of
 the
 comment
 in
-parenthesi
+parenthes
 are
 new
 intend
@@ -508,7 +508,7 @@ believ
 they
 had
 no
-life
+live
 outsid
 hi
 influenc

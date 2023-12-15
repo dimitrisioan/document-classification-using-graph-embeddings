@@ -133,7 +133,7 @@ should
 be
 look
 for
-pleas
+plea
 send
 email
 either

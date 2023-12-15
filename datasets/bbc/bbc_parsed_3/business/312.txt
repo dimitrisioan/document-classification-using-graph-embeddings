@@ -39,7 +39,7 @@ bn
 â£bn
 and
 new
-bo
+bos
 enrico
 bondi
 ha

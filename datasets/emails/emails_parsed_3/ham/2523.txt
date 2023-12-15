@@ -39,7 +39,7 @@ enron
 brand
 recognit
 on
-campu
+campus
 leverag
 research
 exchang
@@ -106,7 +106,7 @@ the
 univers
 affair
 team
-pleas
+plea
 join
 me
 in

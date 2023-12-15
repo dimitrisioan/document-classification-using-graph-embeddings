@@ -52,7 +52,7 @@ gameboy
 game
 gear
 game
-pleas
+plea
 leav
 email
 if
@@ -77,7 +77,7 @@ volleybal
 for
 missil
 command
-pleas
+plea
 get
 in
 touch

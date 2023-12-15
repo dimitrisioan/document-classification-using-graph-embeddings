@@ -68,7 +68,7 @@ subject
 term
 paper
 felix
-pleas
+plea
 resend
 me
 the
@@ -82,7 +82,7 @@ a
 a
 separ
 file
-pleas
+plea
 send
 it
 to

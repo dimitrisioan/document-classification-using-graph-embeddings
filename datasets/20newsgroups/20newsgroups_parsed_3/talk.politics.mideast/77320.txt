@@ -272,7 +272,7 @@ great
 deal
 of
 tactic
-sens
+sen
 give
 me
 sourc
@@ -520,7 +520,7 @@ i
 am
 from
 somewher
-els
+el
 except
 in
 your

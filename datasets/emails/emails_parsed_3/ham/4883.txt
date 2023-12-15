@@ -15,7 +15,7 @@ you
 monday
 to
 further
-discu
+discus
 thi
 i
 ll
@@ -91,7 +91,7 @@ let
 s
 meet
 to
-discu
+discus
 thi
 project
 i
@@ -113,7 +113,7 @@ westbrook
 on
 wednesday
 to
-discu
+discus
 unrel
 issu
 vinc
@@ -187,7 +187,7 @@ mr
 westbrook
 a
 we
-discuss
+discus
 i
 have
 submit
@@ -226,7 +226,7 @@ week
 also
 i
 ve
-discuss
+discus
 with
 our
 univers
@@ -407,7 +407,7 @@ of
 the
 program
 in
-pleas
+plea
 let
 me
 know

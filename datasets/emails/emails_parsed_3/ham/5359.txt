@@ -117,7 +117,7 @@ mine
 heavi
 manufactur
 industri
-ga
+gase
 fertil
 transport
 textil
@@ -458,7 +458,7 @@ mine
 heavi
 manufactur
 industri
-ga
+gase
 fertil
 transport
 textil
@@ -933,7 +933,7 @@ mccormick
 erin
 norri
 and
-ru
+rus
 porter
 billi
 lemmon
@@ -955,7 +955,7 @@ risk
 manag
 for
 ee
-ru
+rus
 porter
 join
 u
@@ -1289,7 +1289,7 @@ and
 the
 ctg
 group
-pleas
+plea
 help
 u
 in

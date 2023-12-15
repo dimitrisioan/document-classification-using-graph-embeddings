@@ -91,7 +91,7 @@ d
 amp
 are
 pwm
-puls
+pul
 width
 modul
 amp

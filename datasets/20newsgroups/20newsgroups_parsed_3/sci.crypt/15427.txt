@@ -270,7 +270,7 @@ control
 anytim
 a
 leader
-belief
+believ
 in
 that
 the

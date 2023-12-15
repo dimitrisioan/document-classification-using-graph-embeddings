@@ -31,7 +31,7 @@ pm
 juli
 on
 pm
-pleas
+plea
 respond
 to
 juli
@@ -160,7 +160,7 @@ enron
 locat
 make
 more
-sens
+sen
 no
 reason
 to
@@ -176,7 +176,7 @@ one
 day
 make
 more
-sens
+sen
 i
 contact
 the
@@ -207,7 +207,7 @@ vinc
 juli
 on
 am
-pleas
+plea
 respond
 to
 juli
@@ -354,7 +354,7 @@ vinc
 juli
 on
 am
-pleas
+plea
 respond
 to
 juli
@@ -409,7 +409,7 @@ decis
 if
 no
 one
-els
+el
 sign
 up
 chri

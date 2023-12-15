@@ -376,7 +376,7 @@ the
 gazetta
 a
 page
-tabloids
+tabloid
 book
 which
 contain
@@ -464,7 +464,7 @@ mine
 the
 icrc
 also
-us
+use
 the
 medium
 where

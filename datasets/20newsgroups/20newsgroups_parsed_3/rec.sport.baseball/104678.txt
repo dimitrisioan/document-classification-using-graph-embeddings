@@ -25,7 +25,7 @@ the
 follow
 schedul
 of
-bonu
+bonus
 to
 player
 on
@@ -154,7 +154,7 @@ go
 toward
 fast
 game
-bonu
+bonus
 domain
 usmail
 tom

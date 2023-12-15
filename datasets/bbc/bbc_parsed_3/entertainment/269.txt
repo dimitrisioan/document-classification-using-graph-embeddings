@@ -205,7 +205,7 @@ of
 tri
 to
 make
-sens
+sen
 of
 the
 last

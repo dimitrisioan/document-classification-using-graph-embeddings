@@ -27,7 +27,7 @@ catalog
 i
 am
 veri
-pleas
+plea
 with
 the
 result
@@ -272,7 +272,7 @@ the
 problem
 never
 realli
-go
+goe
 away
 if
 for
@@ -378,7 +378,7 @@ skull
 the
 headach
 usual
-eas
+ea
 within
 a
 day
@@ -967,7 +967,7 @@ for
 me
 it
 also
-eas
+ea
 some
 pain
 knot
@@ -1036,7 +1036,7 @@ it
 not
 onli
 to
-eas
+ea
 tension
 but
 also

@@ -24,7 +24,7 @@ cc
 kkx
 chmo
 uv
-eras
+era
 prom
 cl
 low
@@ -122,7 +122,7 @@ ee
 student
 anyon
 interest
-pleas
+plea
 make
 me
 an

@@ -30,7 +30,7 @@ sinc
 if
 a
 ship
-go
+goe
 down
 it
 doesnt
@@ -55,7 +55,7 @@ a
 plane
 or
 spacecraft
-go
+goe
 down
 it
 can

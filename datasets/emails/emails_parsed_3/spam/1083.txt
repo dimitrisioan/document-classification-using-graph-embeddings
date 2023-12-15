@@ -1038,7 +1038,7 @@ few
 of
 the
 addit
-bonu
+bonus
 includ
 with
 our
@@ -1747,7 +1747,7 @@ have
 ani
 addit
 question
-pleas
+plea
 call
 our
 sale
@@ -1810,7 +1810,7 @@ with
 a
 credit
 card
-pleas
+plea
 print
 out
 the
@@ -1872,7 +1872,7 @@ draft
 by
 postal
 mail
-pleas
+plea
 print
 out
 the
@@ -1986,7 +1986,7 @@ purchas
 by
 credit
 card
-pleas
+plea
 complet
 the
 follow

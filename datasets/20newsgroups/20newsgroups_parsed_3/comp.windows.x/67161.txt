@@ -155,7 +155,7 @@ like
 to
 gener
 an
-expos
+expo
 event
 for
 the

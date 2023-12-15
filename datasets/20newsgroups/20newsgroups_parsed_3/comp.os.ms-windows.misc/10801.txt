@@ -94,7 +94,7 @@ prompt
 i
 can
 make
-alia
+alias
 so
 someon
 like
@@ -370,7 +370,7 @@ and
 other
 more
 advanc
-os
+ose
 at
 least
 right

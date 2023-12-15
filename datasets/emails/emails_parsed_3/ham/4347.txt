@@ -261,7 +261,7 @@ yaron
 s
 resum
 charlen
-pleas
+plea
 help
 thi
 is
@@ -283,7 +283,7 @@ recruit
 process
 hi
 son
-go
+goe
 to
 cornel
 can

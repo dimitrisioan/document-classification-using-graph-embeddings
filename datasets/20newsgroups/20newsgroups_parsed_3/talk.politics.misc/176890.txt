@@ -267,7 +267,7 @@ by
 think
 that
 someon
-els
+el
 made
 him
 that
@@ -350,7 +350,7 @@ get
 him
 he
 actual
-belief
+believ
 despit
 all
 evid
@@ -538,7 +538,7 @@ in
 at
 least
 some
-sens
+sen
 these
 same
 situat
@@ -671,7 +671,7 @@ childish
 and
 it
 onli
-serf
+serv
 to
 weaken
 ani

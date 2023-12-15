@@ -22,7 +22,7 @@ at
 scrub
 the
 web
-pleas
+plea
 read
 thi
 entir
@@ -93,7 +93,7 @@ to
 scrub
 the
 web
-pleas
+plea
 point
 your
 browser
@@ -147,7 +147,7 @@ than
 thi
 confirm
 email
-pleas
+plea
 do
 not
 repli

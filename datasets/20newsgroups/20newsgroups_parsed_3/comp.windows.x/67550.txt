@@ -11,7 +11,7 @@ to
 compil
 xftp
 which
-us
+use
 the
 xw
 widget

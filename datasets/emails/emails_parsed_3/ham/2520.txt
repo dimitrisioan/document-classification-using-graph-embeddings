@@ -9,7 +9,7 @@ and
 weather
 inform
 we
-discuss
+discus
 at
 monday
 s
@@ -88,7 +88,7 @@ receiv
 thi
 in
 error
-pleas
+plea
 contact
 the
 sender

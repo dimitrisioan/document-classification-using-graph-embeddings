@@ -2,7 +2,7 @@ subject
 henwood
 licens
 karla
-pleas
+plea
 inform
 henwood
 that
@@ -59,7 +59,7 @@ modul
 is
 requir
 nevertheless
-pleas
+plea
 begin
 the
 agreement

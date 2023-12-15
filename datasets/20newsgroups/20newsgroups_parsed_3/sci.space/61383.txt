@@ -30,7 +30,7 @@ similar
 newsgroup
 fro
 the
-discuss
+discus
 of
 long
 term
@@ -55,11 +55,11 @@ if
 you
 want
 to
-discu
+discus
 the
 subject
 start
-discuss
+discus
 it
 if
 there
@@ -89,7 +89,7 @@ new
 newsgroup
 well
 here
-go
+goe
 the
 first
 item
@@ -215,7 +215,7 @@ onli
 through
 the
 care
-analysi
+analys
 of
 engin
 chemic
@@ -323,7 +323,7 @@ the
 basi
 of
 detail
-discuss
+discus
 involv
 peopl
 from

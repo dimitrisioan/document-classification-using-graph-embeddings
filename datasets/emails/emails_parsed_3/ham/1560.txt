@@ -513,7 +513,7 @@ eb
 eb
 eb
 eb
-pleas
+plea
 let
 me
 know
@@ -610,7 +610,7 @@ are
 they
 move
 later
-pleas
+plea
 advis
 eb
 a

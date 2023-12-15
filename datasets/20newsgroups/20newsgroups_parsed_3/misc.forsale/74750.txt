@@ -66,7 +66,7 @@ lot
 firm
 contact
 david
-pleas
+plea
 do
 not
 email

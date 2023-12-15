@@ -54,7 +54,7 @@ finish
 in
 minut
 attach
-pleas
+plea
 find
 some
 possibl
@@ -63,8 +63,8 @@ topic
 for
 u
 to
-discu
-pleas
+discus
+plea
 call
 me
 if

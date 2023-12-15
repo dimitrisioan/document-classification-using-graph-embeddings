@@ -20,7 +20,7 @@ first
 day
 of
 vote
-pleas
+plea
 check
 the
 vote
@@ -38,7 +38,7 @@ nameaddress
 is
 not
 there
-pleas
+plea
 send
 your
 vote
@@ -370,7 +370,7 @@ for
 free
 free
 from
-bb
+bbs
 and
 ftp
 site
@@ -480,7 +480,7 @@ for
 o
 programm
 to
-discu
+discus
 program
 issu
 and
@@ -531,7 +531,7 @@ provid
 a
 forum
 for
-discuss
+discus
 of
 multimedia
 issu
@@ -568,7 +568,7 @@ so
 forth
 note
 that
-discuss
+discus
 of
 bug
 in
@@ -578,7 +578,7 @@ in
 other
 newsgroup
 and
-discuss
+discus
 of
 bug
 in
@@ -696,7 +696,7 @@ cut
 out
 the
 ballot
-pleas
+plea
 do
 not
 delet
@@ -990,7 +990,7 @@ schedul
 below
 a
 propos
-pass
+pas
 if
 both
 of
@@ -1045,7 +1045,7 @@ other
 word
 a
 propos
-pass
+pas
 if
 ye
 no

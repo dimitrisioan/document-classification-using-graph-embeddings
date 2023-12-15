@@ -121,7 +121,7 @@ bu
 troubl
 is
 most
-bu
+buse
 requir
 a
 host
@@ -177,11 +177,11 @@ ani
 newsgroup
 today
 so
-pleas
+plea
 feel
 free
 to
-pa
+pas
 thi
 inform
 on

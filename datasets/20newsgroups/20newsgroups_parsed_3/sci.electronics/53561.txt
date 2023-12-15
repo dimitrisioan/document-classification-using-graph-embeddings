@@ -25,7 +25,7 @@ the
 devic
 if
 all
-els
+el
 fail
 you
 can

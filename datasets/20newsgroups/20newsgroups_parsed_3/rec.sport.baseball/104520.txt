@@ -12,7 +12,7 @@ daisi
 not
 rose
 help
-cleans
+clean
 rsb
 of
 all

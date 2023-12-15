@@ -652,7 +652,7 @@ caus
 of
 thi
 transfer
-needl
+needle
 to
 say
 the
@@ -771,7 +771,7 @@ from
 the
 total
 amount
-pleas
+plea
 note
 that
 thi
@@ -938,7 +938,7 @@ have
 heard
 from
 you
-pleas
+plea
 acknowledg
 the
 receipt
@@ -1047,7 +1047,7 @@ tom
 eke
 n
 b
-pleas
+plea
 be
 inform
 that

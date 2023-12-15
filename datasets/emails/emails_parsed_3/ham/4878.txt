@@ -8,7 +8,7 @@ more
 profit
 trade
 strategi
-pleas
+plea
 ignor
 my
 previou
@@ -217,7 +217,7 @@ amount
 chang
 in
 million
-pleas
+plea
 let
 stinson
 or

@@ -185,7 +185,7 @@ fbi
 agent
 have
 to
-pa
+pas
 rigor
 psycholog
 examin
@@ -302,7 +302,7 @@ so
 far
 no
 one
-els
+el
 ha
 been
 abl
@@ -339,7 +339,7 @@ and
 neither
 will
 anyon
-els
+el
 who
 doesnt
 know

@@ -3,7 +3,7 @@ color
 copier
 inform
 kevin
-pleas
+plea
 see
 the
 follow
@@ -82,7 +82,7 @@ the
 vendor
 and
 the
-leas
+lea
 would
 be
 between
@@ -267,7 +267,7 @@ instal
 acl
 aco
 price
-pleas
+plea
 see
 attach
 winzip

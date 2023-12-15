@@ -190,12 +190,12 @@ a
 hypothesi
 but
 rare
-prof
+prove
 anyth
 in
 a
 posit
-sens
+sen
 and
 unlik
 mathemat
@@ -276,7 +276,7 @@ other
 in
 which
 case
-pleas
+plea
 there
 is
 no
@@ -358,11 +358,11 @@ studi
 of
 antifung
 or
-els
+el
 forget
 convinc
 anybodi
-els
+el
 to
 carri
 out

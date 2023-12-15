@@ -31,7 +31,7 @@ for
 a
 reason
 here
-go
+goe
 i
 am
 get
@@ -61,7 +61,7 @@ a
 subject
 of
 mani
-discuss
+discus
 between
 u
 and
@@ -216,7 +216,7 @@ just
 a
 thot
 in
-pass
+pas
 anyway
 i
 guess
@@ -286,7 +286,7 @@ be
 greatli
 appreci
 also
-pleas
+plea
 email
 respons
 sinc

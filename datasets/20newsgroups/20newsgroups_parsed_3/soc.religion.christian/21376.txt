@@ -264,7 +264,7 @@ copt
 armenian
 etc
 recent
-discuss
+discus
 suggest
 that
 their
@@ -345,7 +345,7 @@ monophysit
 inherit
 none
 of
-nestoriu
+nestorius
 version
 they
 were
@@ -429,7 +429,7 @@ long
 befor
 mari
 anyway
-nestoriu
+nestorius
 oppon
 claim
 that
@@ -518,7 +518,7 @@ believ
 that
 preincarn
 that
-jesu
+jesus
 human
 natur
 wa
@@ -1064,7 +1064,7 @@ believ
 that
 preincarn
 that
-jesu
+jesus
 human
 natur
 wa

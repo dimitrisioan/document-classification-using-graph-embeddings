@@ -99,7 +99,7 @@ telecom
 infrastructur
 the
 telecentr
-us
+use
 onli
 free
 open
@@ -453,7 +453,7 @@ first
 time
 in
 their
-life
+live
 so
 far
 the

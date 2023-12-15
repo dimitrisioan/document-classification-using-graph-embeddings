@@ -43,8 +43,8 @@ work
 on
 yellowcak
 or
-els
-devis
+el
+devi
 a
 system
 to
@@ -61,7 +61,7 @@ reactor
 fuel
 and
 mere
-leas
+lea
 it
 to
 reactor

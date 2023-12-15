@@ -237,7 +237,7 @@ secur
 which
 mean
 fewer
-viru
+virus
 the
 packag
 of
@@ -811,7 +811,7 @@ window
 xp
 home
 anyth
-els
+el
 your
 build
 it

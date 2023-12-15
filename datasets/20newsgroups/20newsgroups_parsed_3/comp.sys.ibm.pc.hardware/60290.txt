@@ -6,7 +6,7 @@ interrupt
 woop
 help
 aaahhhh
-pleas
+plea
 someon
 tell
 me
@@ -78,7 +78,7 @@ it
 wont
 spin
 up
-pleas
+plea
 help
 thank
 paul

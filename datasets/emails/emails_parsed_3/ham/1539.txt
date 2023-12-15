@@ -34,7 +34,7 @@ cc
 subject
 memo
 attach
-pleas
+plea
 find
 a
 summari

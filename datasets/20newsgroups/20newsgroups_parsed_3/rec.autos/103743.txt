@@ -89,7 +89,7 @@ detector
 and
 imho
 noth
-els
+el
 even
 come
 close
@@ -299,7 +299,7 @@ detector
 doe
 it
 make
-sens
+sen
 to
 upgrad
 just

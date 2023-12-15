@@ -93,7 +93,7 @@ of
 access
 to
 itc
-leaf
+leav
 import
 issu
 unresolv
@@ -122,7 +122,7 @@ stand
 these
 issu
 cera
-belief
+believ
 are
 like
 to
@@ -939,7 +939,7 @@ inform
 and
 to
 regist
-pleas
+plea
 visit
 http
 www

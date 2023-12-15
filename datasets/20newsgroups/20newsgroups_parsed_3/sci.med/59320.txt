@@ -1,6 +1,6 @@
 subject
 re
-discuss
+discus
 on
 altpsychoact
 in
@@ -13,7 +13,7 @@ from
 hanan
 herzog
 subject
-discuss
+discus
 on
 altpsychoact
 date
@@ -22,7 +22,7 @@ gmt
 could
 the
 peopl
-discuss
+discus
 recreat
 drug
 such
@@ -33,11 +33,11 @@ mdma
 etc
 take
 their
-discuss
+discus
 to
 altdrug
 their
-discuss
+discus
 will
 receiv
 greatest
@@ -178,7 +178,7 @@ biolog
 who
 want
 to
-discu
+discus
 central
 activ
 substabc
@@ -220,7 +220,7 @@ leav
 altpsychoact
 to
 the
-discuss
+discus
 of
 psychoact
 includ
@@ -257,7 +257,7 @@ for
 a
 more
 formal
-discuss
+discus
 about
 pharmacolog
 issu

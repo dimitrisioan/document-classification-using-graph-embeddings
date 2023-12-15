@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 in
 articl
@@ -152,7 +152,7 @@ individu
 freedom
 in
 the
-guis
+gui
 of
 public
 safeti

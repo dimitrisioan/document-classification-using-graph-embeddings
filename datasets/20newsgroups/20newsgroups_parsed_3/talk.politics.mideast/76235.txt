@@ -152,7 +152,7 @@ now
 in
 the
 decept
-guis
+gui
 of
 dg
 toler
@@ -258,7 +258,7 @@ not
 receiv
 thi
 email
-pleas
+plea
 let
 me
 employ

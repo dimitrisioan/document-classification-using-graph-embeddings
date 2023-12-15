@@ -238,7 +238,7 @@ eu
 enron
 enron
 betsi
-bassi
+basso
 enron
 commun
 enron

@@ -14,7 +14,7 @@ write
 the
 hart
 trophi
-go
+goe
 to
 the
 player

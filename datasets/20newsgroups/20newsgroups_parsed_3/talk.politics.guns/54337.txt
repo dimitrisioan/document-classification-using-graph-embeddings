@@ -347,7 +347,7 @@ god
 help
 u
 all
-pleas
+plea
 crosspost
 dont
 let

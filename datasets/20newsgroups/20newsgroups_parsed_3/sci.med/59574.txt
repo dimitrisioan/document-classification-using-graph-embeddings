@@ -1,7 +1,7 @@
 subject
 result
 mischealthdiabet
-pass
+pas
 vote
 for
 creation
@@ -43,7 +43,7 @@ thi
 respons
 constitut
 a
-pass
+pas
 vote
 there
 will
@@ -69,7 +69,7 @@ mischealthdiabet
 should
 be
 creat
-pleas
+plea
 check
 the
 vote
@@ -105,7 +105,7 @@ who
 particip
 in
 the
-discuss
+discus
 and
 vote
 for
@@ -504,7 +504,7 @@ a
 forum
 for
 the
-discuss
+discus
 of
 issu
 pertain
@@ -544,11 +544,11 @@ depend
 diabet
 both
 technic
-discuss
+discus
 and
 gener
 support
-discuss
+discus
 relev
 to
 diabet
@@ -562,7 +562,7 @@ intend
 to
 be
 for
-discuss
+discus
 purpos
 onli
 and

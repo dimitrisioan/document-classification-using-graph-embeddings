@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 help
 identifi
 video
@@ -87,7 +87,7 @@ need
 it
 for
 rgb
-pleas
+plea
 email
 and
 or

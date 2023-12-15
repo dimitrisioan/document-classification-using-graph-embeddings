@@ -270,7 +270,7 @@ the
 govern
 and
 the
-tori
+torus
 there
 wa
 a

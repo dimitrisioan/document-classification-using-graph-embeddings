@@ -50,7 +50,7 @@ and
 say
 that
 thi
-prof
+prove
 that
 everi
 object

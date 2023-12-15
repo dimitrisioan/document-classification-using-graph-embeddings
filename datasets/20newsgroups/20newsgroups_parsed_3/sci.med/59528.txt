@@ -159,7 +159,7 @@ a
 few
 minut
 ha
-pass
+pas
 for
 the
 tracer
@@ -294,7 +294,7 @@ bone
 scan
 or
 anyth
-els
+el
 relat
 to
 your

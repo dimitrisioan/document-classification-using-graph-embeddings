@@ -31,7 +31,7 @@ there
 would
 be
 no
-assess
+ass
 of
 the
 five
@@ -442,7 +442,7 @@ rigid
 rule
 but
 fellow
-tori
+torus
 david
 heathcoatamori
 said

@@ -72,7 +72,7 @@ arab
 citizen
 could
 you
-pleas
+plea
 tell
 me
 what
@@ -108,7 +108,7 @@ buy
 land
 and
 someon
-els
+el
 is
 will
 to
@@ -361,7 +361,7 @@ mean
 live
 with
 someon
-els
+el
 a
 equal
 for
@@ -646,7 +646,7 @@ few
 option
 after
 ethnic
-cleans
+clean
 serbian
 style
 and

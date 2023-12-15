@@ -265,7 +265,7 @@ gener
 that
 could
 be
-pass
+pas
 through
 to
 the
@@ -420,7 +420,7 @@ bad
 news
 in
 the
-tens
+ten
 negoti
 sourc
 confirm
@@ -536,7 +536,7 @@ the
 videoconfer
 that
 he
-belief
+believ
 the
 billion
 in

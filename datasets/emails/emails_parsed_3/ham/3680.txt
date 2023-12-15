@@ -62,7 +62,7 @@ an
 escrow
 account
 that
-go
+goe
 directli
 toward
 payment

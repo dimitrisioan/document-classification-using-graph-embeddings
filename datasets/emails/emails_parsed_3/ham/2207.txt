@@ -36,7 +36,7 @@ randl
 chri
 hyde
 harvey
-frees
+free
 facliti
 iain
 russel
@@ -68,7 +68,7 @@ richard
 week
 ani
 question
-pleas
+plea
 contact
 kevin
 moor
@@ -82,7 +82,7 @@ inform
 contact
 kevin
 moor
-pleas
+plea
 also
 if
 you

@@ -39,7 +39,7 @@ support
 extend
 video
 especi
-radiu
+radius
 twopag
 monitor
 ha
@@ -73,7 +73,7 @@ fpu
 and
 one
 without
-pleas
+plea
 send
 mail
 directli

@@ -30,7 +30,7 @@ mhz
 and
 some
 local
-bu
+buse
 on
 the
 motherboard

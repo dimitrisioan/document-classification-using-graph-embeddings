@@ -28,7 +28,7 @@ subject
 re
 resum
 elizabeth
-pleas
+plea
 includ
 jim
 fallon
@@ -211,7 +211,7 @@ thi
 email
 in
 error
-pleas
+plea
 notifi
 the
 system
@@ -234,7 +234,7 @@ the
 presenc
 of
 comput
-viru
+virus
 yu
 hai
 doc

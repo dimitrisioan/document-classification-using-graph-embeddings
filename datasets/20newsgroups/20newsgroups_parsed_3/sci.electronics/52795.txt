@@ -194,7 +194,7 @@ local
 exchang
 to
 the
-leas
+lea
 client
 are
 usual

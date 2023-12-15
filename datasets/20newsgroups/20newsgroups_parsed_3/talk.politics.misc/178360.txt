@@ -68,7 +68,7 @@ more
 import
 than
 anyth
-els
+el
 is
 to
 have

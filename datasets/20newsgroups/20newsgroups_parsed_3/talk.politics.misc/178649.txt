@@ -205,7 +205,7 @@ fact
 logic
 or
 even
-sens
+sen
 it
 kind
 of

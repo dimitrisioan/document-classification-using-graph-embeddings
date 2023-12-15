@@ -551,7 +551,7 @@ orthodox
 astronom
 he
 then
-go
+goe
 on
 to
 describ
@@ -885,7 +885,7 @@ to
 your
 question
 etc
-pleas
+plea
 consult
 my
 cite

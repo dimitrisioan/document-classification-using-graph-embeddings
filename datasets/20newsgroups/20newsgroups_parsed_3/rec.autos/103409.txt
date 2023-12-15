@@ -10,7 +10,7 @@ fx
 amfm
 radio
 noth
-els
+el
 low
 mileag
 i

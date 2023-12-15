@@ -350,7 +350,7 @@ that
 drill
 under
 feder
-leas
+lea
 the
 outlin
 propos
@@ -504,7 +504,7 @@ by
 return
 to
 the
-surplu
+surplus
 seen
 in
 the
@@ -531,7 +531,7 @@ promis
 when
 they
 were
-pass
+pas
 that
 they
 would

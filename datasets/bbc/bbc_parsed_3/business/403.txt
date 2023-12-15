@@ -1,5 +1,5 @@
 worldcom
-boss
+bos
 m
 payout
 ten
@@ -107,7 +107,7 @@ for
 the
 account
 of
-boss
+bos
 when
 the
 firm

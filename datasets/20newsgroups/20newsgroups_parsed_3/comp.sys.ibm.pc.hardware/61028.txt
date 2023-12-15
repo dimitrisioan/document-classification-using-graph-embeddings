@@ -2,7 +2,7 @@ subject
 micron
 comput
 owner
-pleas
+plea
 read
 i
 have
@@ -123,7 +123,7 @@ intent
 benchmark
 cheat
 on
-cirru
+cirrus
 part
 but
 i

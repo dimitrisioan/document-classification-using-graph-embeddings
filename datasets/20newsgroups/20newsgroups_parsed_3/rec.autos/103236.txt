@@ -82,7 +82,7 @@ your
 eye
 kill
 your
-bo
+bos
 burn
 down
 your
@@ -102,7 +102,7 @@ lead
 holder
 use
 xacto
-knife
+knive
 for
 dental
 work

@@ -5,7 +5,7 @@ should
 be
 watch
 sport
-alumnu
+alumnus
 inc
 investor
 alert
@@ -47,7 +47,7 @@ introduc
 a
 new
 footbal
-alumnu
+alumnus
 associ
 that
 will
@@ -224,7 +224,7 @@ should
 be
 watch
 sport
-alumnu
+alumnus
 inc
 spni
 it
@@ -278,7 +278,7 @@ again
 thi
 season
 sport
-alumnu
+alumnus
 inc
 is
 about
@@ -315,10 +315,10 @@ coupl
 of
 year
 sport
-alumnu
+alumnus
 inc
 sport
-alumnu
+alumnus
 inc
 mayb
 you
@@ -377,7 +377,7 @@ is
 what
 american
 footbal
-alumnu
+alumnus
 seek
 to
 bring
@@ -412,7 +412,7 @@ in
 join
 a
 nation
-alumnu
+alumnus
 associ
 whose
 makeup
@@ -500,7 +500,7 @@ compani
 recent
 news
 sport
-alumnu
+alumnus
 inc
 spni
 pk
@@ -513,7 +513,7 @@ of
 their
 first
 sport
-alumnu
+alumnus
 micro
 site
 www
@@ -532,7 +532,7 @@ first
 of
 mani
 sport
-alumnu
+alumnus
 site
 the
 compani
@@ -562,7 +562,7 @@ fall
 we
 are
 veri
-pleas
+plea
 to
 have
 ai
@@ -610,12 +610,12 @@ a
 snap
 state
 sport
-alumni
+alumnus
 presid
 matthew
 totti
 sport
-alumnu
+alumnus
 will
 also
 be
@@ -894,7 +894,7 @@ herein
 while
 the
 publish
-belief
+believ
 all
 sourc
 of
@@ -968,7 +968,7 @@ concern
 risk
 and
 uncertainti
-pleas
+plea
 request
 addit
 inform

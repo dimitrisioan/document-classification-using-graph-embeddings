@@ -139,6 +139,6 @@ key
 latest
 gdp
 forecast
-pleas
+plea
 run
 alan

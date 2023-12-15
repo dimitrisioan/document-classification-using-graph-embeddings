@@ -82,7 +82,7 @@ english
 name
 erik
 wang
-chines
+chine
 name
 wang
 jyhshyang

@@ -165,7 +165,7 @@ am
 talk
 about
 differ
-us
+use
 of
 the
 same
@@ -1029,7 +1029,7 @@ tri
 to
 tell
 you
-pleas
+plea
 read
 the
 argument

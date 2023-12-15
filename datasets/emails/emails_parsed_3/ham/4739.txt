@@ -113,7 +113,7 @@ not
 current
 avail
 pp
-pleas
+plea
 rememb
 to
 use
@@ -121,7 +121,7 @@ your
 local
 browser
 to
-brows
+brow
 the
 sa
 onlin

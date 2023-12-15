@@ -47,7 +47,7 @@ and
 say
 that
 thi
-prof
+prove
 that
 everi
 object
@@ -610,7 +610,7 @@ in
 isol
 from
 everyon
-els
+el
 in
 hi
 field

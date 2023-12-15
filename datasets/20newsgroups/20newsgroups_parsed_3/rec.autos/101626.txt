@@ -21,7 +21,7 @@ and
 lord
 know
 wherev
-els
+el
 use
 to
 drive
@@ -98,7 +98,7 @@ trafic
 wa
 forbidden
 exept
-bu
+bus
 and
 taxi
 dure
@@ -226,7 +226,7 @@ side
 more
 contri
 that
-us
+use
 the
 left
 side

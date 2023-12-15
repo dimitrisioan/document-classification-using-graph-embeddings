@@ -49,7 +49,7 @@ manag
 plot
 scale
 of
-ax
+axe
 label
 etc
 can
@@ -60,7 +60,7 @@ librari
 to
 do
 thi
-pleas
+plea
 respond
 via
 email

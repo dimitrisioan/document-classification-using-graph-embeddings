@@ -35,7 +35,7 @@ doc
 or
 driver
 g
-pleas
+plea
 email
 me
 directli

@@ -326,7 +326,7 @@ spree
 plan
 by
 the
-tori
+torus
 he
 said
 instead

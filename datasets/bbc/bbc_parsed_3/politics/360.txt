@@ -6,7 +6,7 @@ out
 smile
 voter
 a
-tori
+torus
 spokesman
 oliv
 letwin
@@ -166,7 +166,7 @@ the
 third
 poll
 and
-needl
+needle
 to
 say
 there
@@ -229,7 +229,7 @@ financi
 black
 hole
 the
-tori
+torus
 back
 by
 some
@@ -289,7 +289,7 @@ immedi
 deni
 but
 the
-tori
+torus
 remain
 suspici
 claim

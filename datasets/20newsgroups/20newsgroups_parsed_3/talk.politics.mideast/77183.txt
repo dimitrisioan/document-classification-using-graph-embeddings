@@ -412,7 +412,7 @@ and
 culvert
 whilst
 we
-pass
+pas
 over
 them
 under
@@ -425,7 +425,7 @@ imagin
 that
 our
 prog
-re
+res
 wa
 by
 no

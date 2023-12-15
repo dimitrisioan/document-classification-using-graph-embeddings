@@ -84,7 +84,7 @@ area
 onli
 and
 anyth
-els
+el
 that
 you
 think
@@ -137,7 +137,7 @@ pm
 eastern
 standard
 time
-pleas
+plea
 send
 all
 submiss
@@ -162,7 +162,7 @@ the
 subject
 line
 to
-pleas
+plea
 includ
 full
 name

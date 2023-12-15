@@ -343,7 +343,7 @@ ladi
 seem
 to
 be
-discuss
+discus
 if
 good
 empir
@@ -422,7 +422,7 @@ i
 suspect
 that
 tradit
-chines
+chine
 medicin
 ha
 mani
@@ -457,7 +457,7 @@ theoret
 structur
 that
 make
-sens
+sen
 not
 a
 mere
@@ -466,14 +466,14 @@ of
 empir
 valid
 random
-hypothesi
+hypothes
 certainli
 a
 theoret
 structur
 that
 make
-sens
+sen
 is
 the
 goal
@@ -495,7 +495,7 @@ form
 and
 test
 smaller
-hypothesi
+hypothes
 let
 face
 it

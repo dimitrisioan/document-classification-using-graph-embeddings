@@ -13,7 +13,7 @@ of
 itv
 saturday
 morn
-children
+child
 music
 show
 cduk
@@ -132,7 +132,7 @@ formerli
 cohost
 smtv
 the
-children
+child
 show
 which
 air
@@ -151,7 +151,7 @@ dec
 she
 won
 a
-children
+child
 bafta
 award
 for

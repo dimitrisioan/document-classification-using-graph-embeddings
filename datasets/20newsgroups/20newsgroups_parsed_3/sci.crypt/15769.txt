@@ -37,7 +37,7 @@ end
 thi
 onli
 make
-sens
+sen
 if
 the
 govern

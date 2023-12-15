@@ -45,7 +45,7 @@ and
 wa
 given
 larg
-do
+dose
 of
 haldol
 for

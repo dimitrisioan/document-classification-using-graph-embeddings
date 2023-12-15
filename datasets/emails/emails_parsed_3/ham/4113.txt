@@ -437,7 +437,7 @@ one
 should
 use
 common
-sens
+sen
 to
 examin
 the
@@ -559,7 +559,7 @@ a
 bullet
 list
 of
-discuss
+discus
 topic
 if
 you

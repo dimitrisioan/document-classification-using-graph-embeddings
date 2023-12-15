@@ -34,7 +34,7 @@ enron
 europ
 gener
 announc
-pleas
+plea
 respond
 to
 european
@@ -120,7 +120,7 @@ you
 have
 ani
 question
-pleas
+plea
 contact
 european
 t

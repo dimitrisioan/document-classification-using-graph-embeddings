@@ -13,7 +13,7 @@ lotu
 ami
 pro
 v
-pleas
+plea
 repli
 if
 interest
@@ -57,7 +57,7 @@ good
 a
 deal
 to
-pa
+pas
 up
 btw
 i

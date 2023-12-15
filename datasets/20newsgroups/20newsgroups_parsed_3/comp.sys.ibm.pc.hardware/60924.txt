@@ -33,7 +33,7 @@ bureaucrat
 slowdown
 thank
 the
-loos
+loo
 cog
 and
 sprocket

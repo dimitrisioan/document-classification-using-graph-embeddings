@@ -49,7 +49,7 @@ a
 it
 wa
 written
-pleas
+plea
 accept
 thi
 a
@@ -262,7 +262,7 @@ biolog
 at
 the
 apex
-needl
+needle
 to
 say
 i
@@ -378,7 +378,7 @@ infecti
 in
 a
 derrogatori
-sens
+sen
 it
 may
 be
@@ -474,7 +474,7 @@ or
 is
 it
 someth
-els
+el
 final
 one
 doe
@@ -709,7 +709,7 @@ christian
 to
 ask
 whi
-needl
+needle
 to
 say
 such
@@ -1119,7 +1119,7 @@ how
 mani
 million
 of
-life
+live
 have
 been
 lost

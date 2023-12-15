@@ -232,7 +232,7 @@ speak
 louder
 than
 anyth
-els
+el
 you
 keep
 say
@@ -420,6 +420,6 @@ work
 to
 do
 so
-pleas
+plea
 get
 lost

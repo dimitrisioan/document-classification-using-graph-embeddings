@@ -59,7 +59,7 @@ some
 custom
 to
 throw
-octopu
+octopus
 on
 the
 ice

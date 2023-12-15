@@ -272,7 +272,7 @@ reserv
 slot
 to
 someon
-els
+el
 if
 you
 do
@@ -1027,7 +1027,7 @@ the
 rest
 of
 their
-life
+live
 that
 my
 newest

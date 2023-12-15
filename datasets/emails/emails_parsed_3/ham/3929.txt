@@ -161,7 +161,7 @@ subject
 resum
 m
 word
-pleas
+plea
 look
 over
 the
@@ -229,7 +229,7 @@ resum
 m
 word
 a
-discuss
+discus
 forward
 by
 stephen

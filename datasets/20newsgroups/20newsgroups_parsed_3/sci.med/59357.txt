@@ -35,12 +35,12 @@ groin
 the
 bullet
 after
-pass
+pas
 through
 one
 of
 hi
-testi
+test
 then
 enter
 the
@@ -150,7 +150,7 @@ there
 without
 an
 anesthet
-needl
+needle
 to
 say
 thi
@@ -173,7 +173,7 @@ in
 life
 a
 i
-perus
+peru
 medic
 instrument
 catelog

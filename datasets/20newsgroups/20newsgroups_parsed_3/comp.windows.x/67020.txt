@@ -5,7 +5,7 @@ question
 about
 xcopyarea
 and
-expos
+expo
 event
 in
 articl
@@ -42,7 +42,7 @@ cours
 is
 that
 no
-expos
+expo
 event
 is
 gener
@@ -67,7 +67,7 @@ window
 so
 that
 the
-expos
+expo
 handler
 is
 hit
@@ -105,14 +105,14 @@ thi
 behavior
 if
 your
-expos
+expo
 event
 handler
 is
 truli
 intellig
 about
-expos
+expo
 rectangl
 inform
 then
@@ -123,7 +123,7 @@ xcleararea
 to
 gener
 an
-expos
+expo
 event
 assum
 that
@@ -161,7 +161,7 @@ unnecessarili
 redrawn
 if
 your
-expos
+expo
 event
 handler
 simpli

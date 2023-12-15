@@ -68,7 +68,7 @@ left
 rest
 delet
 anyon
-els
+el
 had
 thi
 sort
@@ -111,13 +111,13 @@ will
 end
 in
 minut
-pleas
+plea
 log
 out
 earth
 is
 full
-pleas
+plea
 delet
 anyon
 you

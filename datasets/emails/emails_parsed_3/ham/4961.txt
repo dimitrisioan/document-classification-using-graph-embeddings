@@ -9,7 +9,7 @@ are
 one
 enron
 com
-pleas
+plea
 be
 awar
 of
@@ -70,7 +70,7 @@ be
 deactiv
 soon
 so
-pleas
+plea
 make
 sure
 these
@@ -89,7 +89,7 @@ subscrib
 to
 mail
 list
-pleas
+plea
 make
 sure
 to
@@ -129,7 +129,7 @@ john
 smith
 enron
 com
-pleas
+plea
 do
 not
 repli

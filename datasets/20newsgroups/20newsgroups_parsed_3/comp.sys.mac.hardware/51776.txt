@@ -38,7 +38,7 @@ mac
 sound
 hardwar
 is
-divers
+diver
 some
 mac
 play

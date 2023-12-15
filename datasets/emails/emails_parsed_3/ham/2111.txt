@@ -16,7 +16,7 @@ with
 john
 bloomer
 to
-discu
+discus
 the
 other
 product
@@ -226,7 +226,7 @@ directli
 to
 you
 to
-discu
+discus
 the
 detail
 eb

@@ -102,7 +102,7 @@ type
 of
 chip
 it
-us
+use
 assum
 that
 the
@@ -120,7 +120,7 @@ configur
 the
 chip
 simm
-us
+use
 two
 bit
 wide
@@ -145,7 +145,7 @@ mbyte
 the
 bit
 simm
-us
+use
 nine
 bit
 wide

@@ -73,7 +73,7 @@ control
 anytim
 a
 leader
-belief
+believ
 in
 that
 the
@@ -412,7 +412,7 @@ seattl
 wa
 if
 all
-els
+el
 fail
 tri
 uunetpilchuckrwingpat

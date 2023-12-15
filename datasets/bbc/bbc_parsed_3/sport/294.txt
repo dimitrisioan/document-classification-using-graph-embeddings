@@ -224,7 +224,7 @@ gold
 felt
 the
 result
-expos
+expo
 hi
 side
 lack

@@ -29,7 +29,7 @@ payabl
 center
 if
 ye
-pleas
+plea
 read
 and
 respond
@@ -113,7 +113,7 @@ payabl
 coder
 or
 approv
-pleas
+plea
 respond
 to
 thi

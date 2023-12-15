@@ -4,7 +4,7 @@ more
 energi
 amend
 fiona
-pleas
+plea
 find
 attach
 a
@@ -34,8 +34,8 @@ need
 the
 same
 modif
-pleas
-pa
+plea
+pas
 along
 all
 the
@@ -60,7 +60,7 @@ print
 of
 the
 book
-pleas
+plea
 let
 u
 know

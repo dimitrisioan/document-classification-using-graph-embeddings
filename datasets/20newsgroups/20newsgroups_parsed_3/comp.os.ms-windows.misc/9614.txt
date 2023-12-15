@@ -37,7 +37,7 @@ video
 tape
 ani
 idea
-pleas
+plea
 prescrib
 addit
 hardwar

@@ -42,7 +42,7 @@ the
 presid
 good
 afternoon
-pleas
+plea
 be
 seat
 i
@@ -163,7 +163,7 @@ the
 bill
 have
 been
-pass
+pas
 and
 the
 fund
@@ -386,7 +386,7 @@ whi
 i
 am
 so
-pleas
+plea
 and
 proud
 to
@@ -485,7 +485,7 @@ the
 qualiti
 of
 our
-children
+child
 educ
 will
 directli
@@ -517,7 +517,7 @@ and
 commit
 to
 our
-children
+child
 educ
 thank
 you
@@ -612,7 +612,7 @@ countri
 who
 give
 their
-life
+live
 to
 our
 child

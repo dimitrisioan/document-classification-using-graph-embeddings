@@ -114,7 +114,7 @@ connect
 must
 have
 come
-loos
+loo
 in
 ship
 no

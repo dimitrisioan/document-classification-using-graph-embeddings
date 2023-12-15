@@ -25,7 +25,7 @@ ga
 transmiss
 typic
 pipelin
-leas
+lea
 capac
 bill
 on

@@ -17,7 +17,7 @@ road
 design
 speed
 rate
-discuss
+discus
 delet
 actual
 the
@@ -58,7 +58,7 @@ and
 just
 about
 everyth
-els
+el
 ha
 imprivov
 a

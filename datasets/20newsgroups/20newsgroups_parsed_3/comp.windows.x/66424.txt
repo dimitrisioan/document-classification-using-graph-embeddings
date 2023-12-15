@@ -122,7 +122,7 @@ chardr
 chardr
 appdestroycountsizeofdestroyrec
 xtphasedestroyw
-els
+el
 i
 dr
 int
@@ -165,7 +165,7 @@ appdestroycount
 i
 sizeofdestroyrec
 xtphasedestroyw
-els
+el
 i
 from
 donna
@@ -306,7 +306,7 @@ xtdestroywidget
 oper
 in
 two
-pass
+pas
 in
 order
 to
@@ -908,7 +908,7 @@ also
 wait
 for
 an
-expos
+expo
 event
 on
 the
@@ -937,7 +937,7 @@ if
 the
 specifi
 rectangl
-go
+goe
 off
 the
 edg
@@ -1123,12 +1123,12 @@ display
 do
 x
 stuff
-els
+el
 do
-curs
+cur
 or
 someth
-els
+el
 where
 displaynam
 is
@@ -1151,7 +1151,7 @@ in
 which
 case
 xopendisplay
-us
+use
 the
 valu
 of
@@ -2307,7 +2307,7 @@ your
 applic
 receiv
 an
-expos
+expo
 event
 draw
 done
@@ -2341,9 +2341,9 @@ xnexteventthedisplaytheev
 switch
 theeventtyp
 case
-expos
+expo
 on
-expos
+expo
 event
 redraw
 xdrawlinethedisplaythewindowthegc
@@ -2388,7 +2388,7 @@ gcforegroundgcbackgroundthegcvalu
 note
 the
 code
-us
+use
 blackpixel
 and
 whitepixel
@@ -2628,7 +2628,7 @@ is
 run
 if
 it
-us
+use
 a
 singl
 screen
@@ -2772,7 +2772,7 @@ ftp
 from
 interviewsstanfordedu
 interview
-us
+use
 a
 boxglu
 model
@@ -3153,7 +3153,7 @@ stage
 and
 document
 is
-spars
+spar
 outsid
 the
 smalltalk
@@ -3799,7 +3799,7 @@ valu
 but
 on
 colormap
-index
+indic
 the
 color
 that
@@ -3938,7 +3938,7 @@ xor
 of
 the
 colormap
-index
+indic
 of
 red
 and
@@ -4030,7 +4030,7 @@ an
 imageprocess
 program
 which
-us
+use
 xgetrgbcolormap
 to
 get
@@ -5198,7 +5198,7 @@ by
 hand
 with
 whatev
-matrix
+matric
 you
 want
 and

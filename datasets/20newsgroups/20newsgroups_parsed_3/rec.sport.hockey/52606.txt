@@ -139,7 +139,7 @@ not
 throw
 money
 around
-loos
+loo
 to
 buy
 a

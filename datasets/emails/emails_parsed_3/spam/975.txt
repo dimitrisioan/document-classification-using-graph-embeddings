@@ -62,7 +62,7 @@ exclud
 from
 futur
 contact
-pleas
+plea
 visit
 http
 php

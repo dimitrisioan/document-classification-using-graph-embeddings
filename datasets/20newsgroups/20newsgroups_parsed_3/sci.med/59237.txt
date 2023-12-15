@@ -28,7 +28,7 @@ exist
 how
 about
 quack
-diagnosi
+diagnos
 is
 be
 a
@@ -148,7 +148,7 @@ term
 quack
 when
 i
-discu
+discus
 system
 yeast
 syndrom

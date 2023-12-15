@@ -166,7 +166,7 @@ remain
 unalt
 all
 other
-us
+use
 must
 receiv
 prior
@@ -471,7 +471,7 @@ x
 user
 anonym
 x
-pa
+pas
 x
 dir
 pubioccc
@@ -494,7 +494,7 @@ to
 the
 abov
 address
-pleas
+plea
 use
 the
 subject
@@ -934,7 +934,7 @@ x
 x
 x
 x
-pars
+par
 the
 command
 line
@@ -1175,7 +1175,7 @@ x
 x
 x
 parsearg
-pars
+par
 the
 command
 line
@@ -1291,7 +1291,7 @@ getopt
 so
 we
 must
-pars
+par
 arg
 by
 hand
@@ -1335,7 +1335,7 @@ x
 optarg
 argvi
 x
-els
+el
 x
 if
 i
@@ -1345,7 +1345,7 @@ usag
 x
 notreach
 x
-els
+el
 x
 optarg
 argvi
@@ -2617,7 +2617,7 @@ you
 are
 replacingn
 x
-els
+el
 x
 fprintfoutput
 fixtnn
@@ -2708,7 +2708,7 @@ printfntitl
 is
 too
 long
-pleas
+plea
 reenter
 x
 continu
@@ -2748,7 +2748,7 @@ titl
 x
 oklin
 x
-els
+el
 x
 for
 ptitl
@@ -3286,7 +3286,7 @@ x
 printfnnam
 too
 long
-pleas
+plea
 reenter
 x
 x
@@ -3325,7 +3325,7 @@ x
 printfnlin
 too
 long
-pleas
+plea
 reenter
 x
 x
@@ -3492,7 +3492,7 @@ x
 moreauth
 true
 x
-els
+el
 x
 moreauth
 fals
@@ -3694,7 +3694,7 @@ printfninfo
 filenam
 too
 long
-pleas
+plea
 reenter
 x
 x
@@ -4459,7 +4459,7 @@ x
 printfnlin
 too
 long
-pleas
+plea
 reenternt
 x
 continu
@@ -4705,7 +4705,7 @@ test
 for
 eof
 x
-els
+el
 if
 eofok
 eofnotok
@@ -5155,7 +5155,7 @@ remain
 unalt
 all
 other
-us
+use
 must
 receiv
 prior
@@ -5377,7 +5377,7 @@ and
 print
 by
 permiss
-pleas
+plea
 contact
 the
 x
@@ -5729,7 +5729,7 @@ x
 user
 anonym
 x
-pa
+pas
 x
 dir
 pubioccc
@@ -5752,7 +5752,7 @@ to
 the
 abov
 address
-pleas
+plea
 use
 the
 subject
@@ -5936,7 +5936,7 @@ fame
 and
 attent
 that
-go
+goe
 with
 have
 their

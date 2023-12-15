@@ -68,7 +68,7 @@ is
 almost
 done
 attach
-pleas
+plea
 find
 the
 updat
@@ -131,7 +131,7 @@ in
 the
 previou
 spec
-pleas
+plea
 take
 a
 look
@@ -155,7 +155,7 @@ chang
 remov
 etc
 moreov
-pleas
+plea
 do
 not
 forget

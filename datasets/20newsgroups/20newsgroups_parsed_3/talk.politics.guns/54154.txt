@@ -109,7 +109,7 @@ rule
 understand
 how
 deadli
-knife
+knive
 can
 be
 or
@@ -152,7 +152,7 @@ rate
 from
 handgun
 and
-knife
+knive
 are
 within
 a
@@ -168,7 +168,7 @@ not
 realiz
 how
 deadli
-knife
+knive
 are
 tri
 their
@@ -179,7 +179,7 @@ more
 get
 injur
 by
-knife
+knive
 a
 gun
 is
@@ -374,7 +374,7 @@ and
 equip
 practic
 with
-knife
+knive
 requir
 onli
 a
@@ -406,7 +406,7 @@ have
 not
 train
 against
-knife
+knive
 with
 a
 firearm

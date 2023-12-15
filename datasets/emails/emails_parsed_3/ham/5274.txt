@@ -32,7 +32,7 @@ common
 sap
 timesheet
 site
-pleas
+plea
 let
 me
 know

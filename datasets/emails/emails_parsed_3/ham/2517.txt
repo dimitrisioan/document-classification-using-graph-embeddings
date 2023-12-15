@@ -1,7 +1,7 @@
 subject
 hello
 all
-pleas
+plea
 send
 an
 email
@@ -202,7 +202,7 @@ exercis
 in
 the
 system
-pleas
+plea
 contact
 the
 isc
@@ -280,7 +280,7 @@ identifi
 futur
 ibuyit
 approv
-pleas
+plea
 encourag
 the
 peopl

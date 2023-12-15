@@ -3,7 +3,7 @@ swap
 monitor
 research
 elena
-pleas
+plea
 review
 the
 energi
@@ -150,7 +150,7 @@ the
 e
 mail
 list
-pleas
+plea
 use
 the
 repli

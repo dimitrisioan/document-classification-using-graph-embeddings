@@ -44,7 +44,7 @@ suprafaxmodem
 vbi
 if
 interest
-pleas
+plea
 email
 thank
 p
@@ -67,7 +67,7 @@ all
 are
 still
 interest
-pleas
+plea
 email
 me
 again

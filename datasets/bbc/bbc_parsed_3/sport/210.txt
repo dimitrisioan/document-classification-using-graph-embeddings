@@ -551,7 +551,7 @@ and
 go
 left
 to
-pa
+pas
 when
 he
 wa

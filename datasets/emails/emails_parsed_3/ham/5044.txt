@@ -177,7 +177,7 @@ year
 in
 houston
 to
-discu
+discus
 thi
 wit
 you
@@ -246,7 +246,7 @@ phase
 i
 issu
 team
-pleas
+plea
 find
 my
 comment
@@ -255,7 +255,7 @@ the
 word
 document
 attach
-pleas
+plea
 go
 through
 thi
@@ -323,7 +323,7 @@ thi
 to
 the
 next
-pa
+pas
 let
 see
 where
@@ -367,8 +367,8 @@ phase
 i
 issu
 a
-discuss
-pleas
+discus
+plea
 find
 enclos
 a
@@ -376,7 +376,7 @@ word
 document
 which
 essenti
-discu
+discus
 most
 of
 the
@@ -423,7 +423,7 @@ further
 refin
 befor
 we
-discu
+discus
 it
 with
 mseb

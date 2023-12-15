@@ -16,7 +16,7 @@ articl
 joseph
 askew
 write
-pleas
+plea
 cite
 specif
 exampl
@@ -342,7 +342,7 @@ a
 far
 a
 secur
-go
+goe
 i
 think
 that
@@ -805,7 +805,7 @@ do
 you
 hear
 that
-pleas
+plea
 contact
 thi
 levi
@@ -820,7 +820,7 @@ he
 know
 about
 israel
-pleas
+plea
 yigal
 except
 that
@@ -1092,7 +1092,7 @@ continu
 occupi
 in
 the
-discuss
+discus
 of
 topsecret
 matter

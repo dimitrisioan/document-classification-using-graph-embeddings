@@ -59,7 +59,7 @@ in
 context
 if
 not
-pleas
+plea
 do
 so
 befor
@@ -371,7 +371,7 @@ the
 whole
 nasti
 mess
-pleas
+plea
 tell
 u
 how
@@ -383,7 +383,7 @@ error
 wont
 you
 and
-pleas
+plea
 back
 it
 up
@@ -1025,7 +1025,7 @@ call
 in
 which
 we
-discuss
+discus
 term
 for
 hi
@@ -1038,7 +1038,7 @@ in
 which
 we
 never
-discuss
+discus
 either
 of
 our
@@ -1189,7 +1189,7 @@ it
 state
 or
 impli
-possess
+posse
 of
 the
 right
@@ -1831,7 +1831,7 @@ letter
 with
 wellknown
 human
-curios
+curio
 i
 made
 some
@@ -2076,11 +2076,11 @@ that
 right
 no
 one
-els
+el
 will
 no
 one
-els
+el
 can
 will
 we
@@ -2166,7 +2166,7 @@ that
 promis
 with
 our
-life
+live
 our
 fortun
 and
@@ -2338,7 +2338,7 @@ seattl
 wa
 if
 all
-els
+el
 fail
 tri
 uunetpilchuckrwingpat

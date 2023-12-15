@@ -34,7 +34,7 @@ by
 no
 mean
 infal
-pleas
+plea
 assum
 that
 all
@@ -325,7 +325,7 @@ wa
 offici
 form
 in
-nevi
+nevus
 a
 a
 tax
@@ -996,7 +996,7 @@ to
 see
 what
 realli
-go
+goe
 on
 in
 russia

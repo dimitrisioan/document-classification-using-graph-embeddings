@@ -182,7 +182,7 @@ time
 after
 sever
 apparit
-pass
+pas
 the
 ladi
 final

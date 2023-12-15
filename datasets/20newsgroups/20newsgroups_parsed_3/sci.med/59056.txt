@@ -34,7 +34,7 @@ the
 practition
 whether
 he
-us
+use
 the
 presteril
 dispos
@@ -111,7 +111,7 @@ the
 system
 where
 it
-leaf
+leav
 no
 trace
 hudson

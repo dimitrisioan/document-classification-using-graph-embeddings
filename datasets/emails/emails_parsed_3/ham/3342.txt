@@ -19,7 +19,7 @@ contribut
 it
 make
 also
-sens
+sen
 to
 ask
 paulo
@@ -102,7 +102,7 @@ think
 will
 provid
 a
-sens
+sen
 of
 accomplish
 when

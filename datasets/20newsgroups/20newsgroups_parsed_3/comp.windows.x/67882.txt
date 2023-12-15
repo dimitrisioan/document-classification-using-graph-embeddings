@@ -19,7 +19,7 @@ your
 question
 isnt
 here
-pleas
+plea
 tri
 at
 least
@@ -486,7 +486,7 @@ or
 appli
 to
 someth
-els
+el
 a
 commer
 openwindow
@@ -655,7 +655,7 @@ wa
 olit
 olit
 support
-pass
+pas
 to
 usl
 then
@@ -699,9 +699,9 @@ larg
 applic
 or
 anyth
-els
+el
 that
-us
+use
 subclass
 see
 the
@@ -1923,7 +1923,7 @@ file
 if
 your
 site
-us
+use
 xdm
 you
 should
@@ -2442,7 +2442,7 @@ the
 background
 wont
 be
-eras
+era
 when
 you
 move
@@ -2586,7 +2586,7 @@ xmodmap
 e
 pointer
 inputfromdefault
-els
+el
 xmodmap
 e
 pointer
@@ -2828,7 +2828,7 @@ the
 jed
 demo
 it
-go
+goe
 grey
 let
 go
@@ -3891,7 +3891,7 @@ window
 base
 frame
 not
-pass
+pas
 parent
 window
 in
@@ -4531,7 +4531,7 @@ start
 it
 if
 it
-dy
+die
 check
 that
 there
@@ -5377,7 +5377,7 @@ leav
 openwindow
 my
 screen
-go
+goe
 blank
 or
 my
@@ -5832,10 +5832,10 @@ termin
 or
 on
 anyth
-els
+el
 becaus
 it
-us
+use
 news
 to
 draw
@@ -5886,7 +5886,7 @@ first
 to
 satisfi
 your
-sens
+sen
 of
 paranoia
 the
@@ -6244,7 +6244,7 @@ olwm
 manual
 page
 pageiew
-us
+use
 the
 wrong
 color
@@ -6390,7 +6390,7 @@ and
 sunxkf
 code
 which
-us
+use
 them
 should
 be
@@ -6663,7 +6663,7 @@ openwinhom
 then
 argsduseinstal
 openwinhomelibconfig
-els
+el
 elif
 n
 openwinhom
@@ -6671,7 +6671,7 @@ then
 argsiopenwinhomelibconfig
 duseinstal
 dxcomm
-els
+el
 libconfigsitedeforig
 wed
 sep
@@ -6938,7 +6938,7 @@ program
 openwinhom
 where
 openwindow
-life
+live
 usropenwin
 keyboard
 mous

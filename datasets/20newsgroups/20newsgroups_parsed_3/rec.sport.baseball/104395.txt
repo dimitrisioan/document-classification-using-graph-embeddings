@@ -140,7 +140,7 @@ wa
 onli
 avail
 through
-bb
+bbs
 or
 some
 pay
@@ -251,7 +251,7 @@ on
 a
 daili
 basi
-pleas
+plea
 just
 let
 me

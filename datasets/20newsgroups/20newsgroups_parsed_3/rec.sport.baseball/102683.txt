@@ -46,7 +46,7 @@ peek
 out
 from
 under
-overs
+over
 aqua
 helmet
 scream

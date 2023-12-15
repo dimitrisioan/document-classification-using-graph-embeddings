@@ -97,7 +97,7 @@ univers
 almanac
 version
 inform
-pleas
+plea
 almanac
 version
 graphic

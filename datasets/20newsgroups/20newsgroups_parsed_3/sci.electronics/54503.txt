@@ -339,7 +339,7 @@ place
 both
 on
 wooden
-shelf
+shelv
 but
 put
 one

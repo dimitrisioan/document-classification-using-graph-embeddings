@@ -92,7 +92,7 @@ few
 stop
 sign
 after
-pass
+pas
 a
 golf
 cours

@@ -212,7 +212,7 @@ compos
 of
 a
 panel
-discuss
+discus
 between
 guest
 speaker
@@ -362,7 +362,7 @@ with
 a
 credit
 card
-pleas
+plea
 let
 me
 know
@@ -388,7 +388,7 @@ room
 rate
 of
 night
-pleas
+plea
 rsvp
 your
 interest
@@ -413,7 +413,7 @@ seat
 avail
 is
 limit
-pleas
+plea
 feel
 free
 to

@@ -68,7 +68,7 @@ send
 email
 to
 josh
-pleas
+plea
 respond
 directli
 to

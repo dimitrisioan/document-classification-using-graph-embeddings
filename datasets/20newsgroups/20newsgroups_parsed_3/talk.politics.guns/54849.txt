@@ -25,12 +25,12 @@ not
 the
 place
 to
-discu
+discus
 gun
 i
 note
 in
-pass
+pas
 that
 a
 number
@@ -70,7 +70,7 @@ not
 the
 place
 to
-discu
+discus
 gun
 or
 the
@@ -103,7 +103,7 @@ the
 current
 activ
 thread
-discuss
+discus
 exactli
 thi
 topic

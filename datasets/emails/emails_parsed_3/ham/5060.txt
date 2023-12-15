@@ -133,7 +133,7 @@ account
 financ
 professor
 to
-discu
+discus
 the
 intent
 of
@@ -220,7 +220,7 @@ of
 these
 next
 step
-pleas
+plea
 schedul
 time
 on
@@ -250,7 +250,7 @@ will
 be
 eb
 c
-pleas
+plea
 notifi
 me
 if
@@ -309,7 +309,7 @@ meet
 book
 or
 other
-pleas
+plea
 feel
 free
 to

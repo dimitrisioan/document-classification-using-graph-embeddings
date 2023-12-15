@@ -132,7 +132,7 @@ opposit
 to
 de
 which
-go
+goe
 back
 befor
 some
@@ -167,7 +167,7 @@ think
 someth
 doesnt
 make
-sens
+sen
 it
 almost
 certainli
@@ -245,7 +245,7 @@ of
 oper
 the
 algorithm
-us
+use
 round
 of
 scrambl
@@ -643,8 +643,8 @@ ask
 me
 for
 suggest
-pleas
-pa
+plea
+pas
 them
 to
 me
@@ -786,7 +786,7 @@ the
 commun
 stream
 and
-pa
+pas
 it
 to
 the
@@ -794,7 +794,7 @@ fbi
 where
 it
 will
-pa
+pas
 through
 the
 decod

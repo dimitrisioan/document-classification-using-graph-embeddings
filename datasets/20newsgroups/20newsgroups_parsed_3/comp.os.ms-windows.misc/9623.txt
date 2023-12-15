@@ -24,7 +24,7 @@ baud
 faxmodem
 or
 k
-pleas
+plea
 respond
 with
 info

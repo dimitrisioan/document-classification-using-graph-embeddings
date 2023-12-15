@@ -211,7 +211,7 @@ you
 wrote
 ami
 attach
-pleas
+plea
 find
 a
 short
@@ -219,7 +219,7 @@ bio
 for
 dr
 kaminski
-pleas
+plea
 let
 me
 know

@@ -286,7 +286,7 @@ on
 tom
 princ
 twobas
-pass
+pas
 ball
 the
 pirat
@@ -460,7 +460,7 @@ a
 red
 mail
 list
-pleas
+plea
 forward
 it
 to

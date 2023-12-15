@@ -4,7 +4,7 @@ failur
 to
 cut
 gap
-bo
+bos
 sir
 alex
 ferguson
@@ -160,7 +160,7 @@ fulham
 player
 the
 result
-leaf
+leav
 ferguson
 side
 fourth

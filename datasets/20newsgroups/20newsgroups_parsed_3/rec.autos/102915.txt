@@ -47,7 +47,7 @@ u
 speccdn
 spec
 for
-maxima
+maximum
 the
 car
 ha
@@ -446,7 +446,7 @@ your
 input
 in
 thi
-pleas
+plea
 repli
 by
 email

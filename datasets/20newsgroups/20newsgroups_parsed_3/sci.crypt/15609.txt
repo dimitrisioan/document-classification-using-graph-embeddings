@@ -32,7 +32,7 @@ thousand
 do
 some
 arithmet
-pleas
+plea
 skipjack
 ha
 possibl
@@ -148,7 +148,7 @@ than
 other
 in
 the
-sens
+sen
 that
 they
 onli
@@ -311,7 +311,7 @@ the
 code
 in
 two
-half
+halv
 which
 you
 have

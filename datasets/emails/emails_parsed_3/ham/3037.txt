@@ -62,7 +62,7 @@ the
 discount
 intrins
 valu
-pleas
+plea
 incorpor
 thi
 chang
@@ -91,7 +91,7 @@ you
 have
 ani
 question
-pleas
+plea
 let
 me
 know
@@ -161,7 +161,7 @@ disc
 gauherint
 ffuncoc
 sqrtpi
-els
+el
 retval
 s
 disc

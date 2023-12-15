@@ -293,7 +293,7 @@ sig
 close
 for
 inventori
-pleas
+plea
 leav
 your
 pickax

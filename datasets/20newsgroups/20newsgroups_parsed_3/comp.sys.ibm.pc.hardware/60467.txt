@@ -103,7 +103,7 @@ befor
 the
 fdd
 control
-us
+use
 dma
 channel
 and

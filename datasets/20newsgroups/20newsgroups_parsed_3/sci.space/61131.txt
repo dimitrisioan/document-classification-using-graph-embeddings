@@ -39,7 +39,7 @@ it
 would
 cook
 the
-focu
+focus
 element
 question
 whi

@@ -59,7 +59,7 @@ deal
 but
 it
 will
-pa
+pas
 muster
 if
 the

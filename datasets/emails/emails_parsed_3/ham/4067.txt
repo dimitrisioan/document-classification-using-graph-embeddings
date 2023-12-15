@@ -6,7 +6,7 @@ extens
 hello
 may
 i
-pleas
+plea
 have
 sever
 line
@@ -30,13 +30,13 @@ and
 also
 will
 you
-pleas
+plea
 add
 and
 will
 you
 add
-pleas
+plea
 jose
 marquez
 extens
@@ -57,7 +57,7 @@ kevin
 moor
 ani
 question
-pleas
+plea
 feel
 free
 to

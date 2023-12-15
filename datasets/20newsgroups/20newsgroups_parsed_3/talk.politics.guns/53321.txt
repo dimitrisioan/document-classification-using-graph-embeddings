@@ -68,7 +68,7 @@ weapon
 and
 if
 someon
-us
+use
 hi
 nuclear
 weapon

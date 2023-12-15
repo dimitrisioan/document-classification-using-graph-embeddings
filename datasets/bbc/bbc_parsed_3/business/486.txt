@@ -86,7 +86,7 @@ who
 is
 also
 the
-bo
+bos
 of
 ipcl
 the
@@ -96,7 +96,7 @@ met
 in
 mumbai
 to
-discu
+discus
 the
 compani
 result

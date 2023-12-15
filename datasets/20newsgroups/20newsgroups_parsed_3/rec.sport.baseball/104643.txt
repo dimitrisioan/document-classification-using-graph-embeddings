@@ -178,7 +178,7 @@ to
 take
 a
 quick
-brows
+brow
 through
 the
 major
@@ -276,5 +276,5 @@ live
 in
 interest
 time
-chines
-curs
+chine
+cur

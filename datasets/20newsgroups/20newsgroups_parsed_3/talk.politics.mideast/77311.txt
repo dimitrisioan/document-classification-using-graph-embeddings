@@ -121,7 +121,7 @@ belief
 in
 serbian
 ethnic
-cleans
+clean
 but
 give
 it
@@ -310,7 +310,7 @@ classic
 exampl
 of
 ethnic
-cleans
+clean
 there
 is
 no
@@ -344,7 +344,7 @@ at
 it
 could
 you
-pleas
+plea
 pontif
 a
 littl

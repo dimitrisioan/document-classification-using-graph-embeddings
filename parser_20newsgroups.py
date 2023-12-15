@@ -28,7 +28,7 @@ if __name__ == '__main__':
     print('0 - Apply file splitting on original dataset')
     print('1 - Apply basic preprocessing on dataset')
     print('2 - Apply basic preprocessing & stopwords removal on dataset')
-    print('3 - Apply basic preprocessing & stemming/lemmatizationon dataset')
+    print('3 - Apply basic preprocessing & stemming/lemmatization dataset')
     X = int(input("Enter a value for X: "))
 
     if X == 0:

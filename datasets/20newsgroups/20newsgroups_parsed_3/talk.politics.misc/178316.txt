@@ -283,7 +283,7 @@ first
 one
 make
 ani
-sens
+sen
 there
 is
 noth
@@ -352,7 +352,7 @@ take
 autonomi
 over
 their
-life
+live
 regardless
 of
 what

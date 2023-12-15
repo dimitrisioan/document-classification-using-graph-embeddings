@@ -58,7 +58,7 @@ at
 pm
 eastern
 time
-pleas
+plea
 let
 me
 know
@@ -103,7 +103,7 @@ standard
 time
 eastern
 time
-pleas
+plea
 let
 me
 know
@@ -156,7 +156,7 @@ you
 have
 ani
 question
-pleas
+plea
 let
 me
 know

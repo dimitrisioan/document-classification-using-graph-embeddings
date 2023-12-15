@@ -191,7 +191,7 @@ the
 relationship
 between
 risk
-assess
+ass
 valid
 of
 risk
@@ -1154,7 +1154,7 @@ to
 improv
 their
 valuat
-analysi
+analys
 by
 move
 from
@@ -1296,7 +1296,7 @@ the
 black
 schole
 option
-analysi
+analys
 that
 the
 bank
@@ -1342,7 +1342,7 @@ hand
 is
 in
 a
-sens
+sen
 a
 way
 of
@@ -1471,7 +1471,7 @@ help
 the
 bank
 make
-sens
+sen
 of
 what
 could
@@ -1970,7 +1970,7 @@ on
 thi
 in
 the
-sens
+sen
 that
 exercis
 mani

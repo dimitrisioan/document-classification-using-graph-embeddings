@@ -55,7 +55,7 @@ diagnost
 inform
 etc
 etc
-pleas
+plea
 repli
 directli
 to

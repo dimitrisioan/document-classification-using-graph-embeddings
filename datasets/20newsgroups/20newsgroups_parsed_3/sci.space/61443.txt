@@ -39,7 +39,7 @@ to
 make
 it
 to
-bats
+bat
 press
 releas
 the
@@ -318,7 +318,7 @@ and
 form
 a
 veri
-dens
+den
 neutron
 toru
 that

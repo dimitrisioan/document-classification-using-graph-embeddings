@@ -211,13 +211,13 @@ com
 conflict
 with
 someth
-els
+el
 on
 the
 motherboard
 ha
 anybodi
-els
+el
 had
 thi
 problem

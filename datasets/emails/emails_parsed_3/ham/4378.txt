@@ -40,7 +40,7 @@ featur
 present
 and
 interact
-discuss
+discus
 with
 cera
 expert
@@ -50,7 +50,7 @@ detail
 on
 the
 event
-pleas
+plea
 visit
 http
 www
@@ -103,7 +103,7 @@ houston
 tx
 tel
 fax
-pleas
+plea
 contact
 the
 hotel
@@ -113,7 +113,7 @@ room
 reserv
 to
 enrol
-pleas
+plea
 complet
 the
 form
@@ -153,7 +153,7 @@ sincer
 cera
 event
 registr
-pleas
+plea
 note
 date
 and
@@ -184,7 +184,7 @@ more
 inform
 about
 elig
-pleas
+plea
 contact
 cera
 registr
@@ -208,7 +208,7 @@ futur
 e
 mail
 notif
-pleas
+plea
 send
 a
 repli

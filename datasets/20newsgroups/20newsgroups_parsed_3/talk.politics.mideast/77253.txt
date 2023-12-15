@@ -21,13 +21,13 @@ religion
 i
 do
 not
-loos
+loo
 my
 cultur
 ident
 i
 just
-loos
+loo
 my
 religi
 identif
@@ -69,7 +69,7 @@ cultur
 ident
 if
 i
-loos
+loo
 a
 leg
 it
@@ -371,7 +371,7 @@ have
 and
 a
 anybodi
-els
+el
 have
 i
 can

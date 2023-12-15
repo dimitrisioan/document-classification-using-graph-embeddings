@@ -46,7 +46,7 @@ be
 quiet
 enough
 to
-pa
+pas
 some
 european
 standard

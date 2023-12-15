@@ -19,7 +19,7 @@ it
 doe
 not
 make
-sens
+sen
 to
 write
 one
@@ -238,7 +238,7 @@ in
 exotica
 help
 file
-pleas
+plea
 suppli
 that
 to
@@ -325,7 +325,7 @@ doc
 describ
 thi
 model
-pleas
+plea
 tell
 me
 what

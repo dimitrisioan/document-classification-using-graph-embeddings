@@ -119,7 +119,7 @@ room
 her
 hall
 present
-discuss
+discus
 topic
 trade
 tactic
@@ -463,7 +463,7 @@ system
 mr
 senft
 also
-serf
+serv
 on
 the
 bond

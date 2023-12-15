@@ -33,7 +33,7 @@ in
 an
 isa
 slot
-pleas
+plea
 email
 if
 possibl

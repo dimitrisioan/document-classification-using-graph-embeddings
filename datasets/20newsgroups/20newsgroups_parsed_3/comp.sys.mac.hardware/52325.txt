@@ -32,7 +32,7 @@ of
 memori
 architectur
 appl
-us
+use
 in
 the
 powerbook

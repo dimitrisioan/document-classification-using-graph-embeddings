@@ -85,5 +85,5 @@ rev
 action
 just
 a
-pass
+pas
 comment

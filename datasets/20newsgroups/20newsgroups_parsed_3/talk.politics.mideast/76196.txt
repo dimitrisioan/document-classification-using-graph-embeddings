@@ -22,7 +22,7 @@ allow
 to
 have
 four
-wife
+wive
 are
 you
 impli
@@ -92,7 +92,7 @@ have
 within
 their
 lifetim
-wife
+wive
 in
 the
 doubl
@@ -129,7 +129,7 @@ netanyahu
 thought
 he
 could
-cleans
+clean
 himself
 by
 make

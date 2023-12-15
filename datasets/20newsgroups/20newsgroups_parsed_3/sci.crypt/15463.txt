@@ -57,7 +57,7 @@ in
 context
 if
 not
-pleas
+plea
 do
 so
 befor
@@ -189,7 +189,7 @@ onli
 permit
 prosecut
 for
-possess
+posse
 of
 a
 sawedoff
@@ -227,7 +227,7 @@ the
 individu
 right
 to
-poss
+posse
 militari
 weapon
 unfortun
@@ -711,7 +711,7 @@ it
 be
 repeal
 but
-pleas
+plea
 do
 not
 pretend
@@ -779,9 +779,9 @@ if
 you
 insist
 on
-discuss
+discus
 thi
-pleas
+plea
 do
 it
 in
@@ -790,7 +790,7 @@ where
 peopl
 will
 gladli
-discu
+discus
 thi
 matter
 with

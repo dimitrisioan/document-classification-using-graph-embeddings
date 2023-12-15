@@ -284,7 +284,7 @@ brand
 of
 zipper
 hg
-us
+use
 but
 part
 are

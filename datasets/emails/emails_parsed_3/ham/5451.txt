@@ -14,7 +14,7 @@ the
 ena
 expens
 budget
-pleas
+plea
 review
 and
 make
@@ -54,7 +54,7 @@ group
 a
 we
 had
-discuss
+discus
 earlier
 these
 cost
@@ -154,7 +154,7 @@ risk
 we
 can
 you
-pleas
+plea
 final
 the
 one

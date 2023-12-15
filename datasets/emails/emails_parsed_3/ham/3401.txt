@@ -394,7 +394,7 @@ other
 fifteen
 chapter
 three
-appendix
+appendic
 and
 fourteen
 annex
@@ -1191,7 +1191,7 @@ resolut
 firm
 in
 it
-assess
+ass
 of
 the
 total

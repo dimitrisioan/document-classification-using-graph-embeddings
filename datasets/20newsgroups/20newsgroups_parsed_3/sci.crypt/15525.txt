@@ -382,7 +382,7 @@ mani
 request
 for
 key
-half
+halv
 are
 legit
 is

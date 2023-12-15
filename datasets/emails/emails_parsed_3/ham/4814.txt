@@ -49,7 +49,7 @@ repres
 on
 campu
 to
-discu
+discus
 the
 analyst
 program
@@ -90,7 +90,7 @@ help
 with
 thi
 event
-pleas
+plea
 click
 on
 the
@@ -98,7 +98,7 @@ button
 below
 we
 will
-discu
+discus
 thi
 and
 other
@@ -179,7 +179,7 @@ you
 have
 ani
 question
-pleas
+plea
 feel
 free
 to

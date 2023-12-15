@@ -80,7 +80,7 @@ vinc
 p
 s
 shirley
-pleas
+plea
 set
 up
 a
@@ -203,7 +203,7 @@ for
 ani
 summer
 intern
-pleas
+plea
 take
 a
 look
@@ -270,7 +270,7 @@ you
 know
 of
 anyon
-els
+el
 who
 may
 be

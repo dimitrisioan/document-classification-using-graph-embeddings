@@ -31,7 +31,7 @@ code
 we
 and
 anybodi
-els
+el
 involv
 in
 the
@@ -48,7 +48,7 @@ the
 next
 stage
 tiger
-bo
+bos
 john
 well
 told
@@ -146,7 +146,7 @@ across
 to
 union
 well
-belief
+believ
 he
 would
 better

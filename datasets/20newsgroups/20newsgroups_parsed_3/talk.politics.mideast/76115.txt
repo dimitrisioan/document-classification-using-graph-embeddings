@@ -498,7 +498,7 @@ same
 way
 which
 anyon
-els
+el
 function
 all
 throughout

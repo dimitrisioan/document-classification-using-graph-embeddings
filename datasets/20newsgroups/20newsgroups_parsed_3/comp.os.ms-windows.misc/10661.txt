@@ -267,7 +267,7 @@ me
 confus
 with
 someon
-els
+el
 i
 dont
 pretend
@@ -281,7 +281,7 @@ need
 or
 that
 other
-os
+ose
 includ
 unix
 o
@@ -424,7 +424,7 @@ doesnt
 mean
 that
 everyon
-els
+el
 doe
 serious
 speak

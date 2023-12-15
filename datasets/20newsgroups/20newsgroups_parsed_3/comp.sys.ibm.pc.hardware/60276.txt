@@ -34,7 +34,7 @@ pin
 connector
 there
 are
-bu
+bus
 from
 my
 harddisk
@@ -114,5 +114,5 @@ more
 info
 mail
 me
-pleas
+plea
 ba

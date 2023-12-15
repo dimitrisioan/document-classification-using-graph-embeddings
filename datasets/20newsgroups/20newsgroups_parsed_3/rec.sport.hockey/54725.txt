@@ -306,7 +306,7 @@ in
 a
 windstorm
 own
-curios
+curio
 i
 thought
 id

@@ -3,7 +3,7 @@ attack
 pay
 later
 budget
-tori
+torus
 leader
 michael
 howard
@@ -100,7 +100,7 @@ the
 labour
 parti
 the
-tori
+torus
 leader
 said
 after
@@ -246,7 +246,7 @@ the
 nation
 financ
 the
-tori
+torus
 leader
 said
 thi
@@ -293,7 +293,7 @@ the
 chancellor
 forecast
 of
-surplu
+surplus
 are
 no
 better
@@ -320,7 +320,7 @@ le
 than
 what
 the
-tori
+torus
 were
 offer
 mr
@@ -411,5 +411,5 @@ he
 conclud
 to
 loud
-tori
+torus
 cheer

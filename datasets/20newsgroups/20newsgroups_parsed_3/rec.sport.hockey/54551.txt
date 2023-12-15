@@ -97,7 +97,7 @@ except
 for
 two
 bad
-pass
+pas
 in
 game
 one

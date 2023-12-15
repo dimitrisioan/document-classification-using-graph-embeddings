@@ -111,7 +111,7 @@ cairn
 share
 close
 up
-penni
+penc
 or
 at
 p

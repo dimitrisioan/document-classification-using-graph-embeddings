@@ -37,7 +37,7 @@ agenda
 is
 a
 follow
-discuss
+discus
 of
 prc
 immedi
@@ -99,7 +99,7 @@ you
 can
 t
 attend
-pleas
+plea
 send
 someon
 to

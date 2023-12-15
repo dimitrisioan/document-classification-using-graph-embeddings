@@ -174,7 +174,7 @@ each
 end
 current
 technolog
-us
+use
 polar
 reflector
 dual
@@ -186,7 +186,7 @@ code
 of
 a
 radar
-puls
+pul
 about
 the
 same

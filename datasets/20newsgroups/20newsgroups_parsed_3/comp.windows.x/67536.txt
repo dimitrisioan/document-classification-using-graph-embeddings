@@ -121,7 +121,7 @@ oreilli
 vol
 iv
 ch
-discu
+discus
 ad
 a
 filewatch

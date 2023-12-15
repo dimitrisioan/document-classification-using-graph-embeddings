@@ -350,7 +350,7 @@ creatur
 start
 with
 an
-amoebas
+amoeba
 organ
 the
 player
@@ -420,7 +420,7 @@ that
 enabl
 player
 to
-devis
+devi
 and
 share
 their
@@ -511,7 +511,7 @@ creatur
 accord
 to
 rule
-devis
+devi
 by
 the
 programm

@@ -16,7 +16,7 @@ icon
 librari
 for
 network
-discuss
+discus
 color
 coordin
 i
@@ -24,7 +24,7 @@ tri
 to
 start
 a
-discuss
+discus
 in
 compwindowsx
 at

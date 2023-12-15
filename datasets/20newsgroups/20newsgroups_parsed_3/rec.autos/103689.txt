@@ -180,7 +180,7 @@ or
 haggl
 time
 ha
-pass
+pas
 by
 and
 it

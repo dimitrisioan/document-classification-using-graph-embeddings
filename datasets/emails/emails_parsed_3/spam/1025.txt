@@ -2,7 +2,7 @@ subject
 present
 fund
 with
-eas
+ea
 the
 mort
 gage
@@ -75,7 +75,7 @@ who
 need
 your
 busi
-pleas
+plea
 fill
 the
 applic

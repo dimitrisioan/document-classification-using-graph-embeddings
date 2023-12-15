@@ -303,7 +303,7 @@ latin
 countri
 are
 someth
-els
+el
 the
 road
 compris
@@ -369,7 +369,7 @@ have
 differ
 name
 for
-loos
+loo
 equival
 autostrada
 autorout
@@ -415,7 +415,7 @@ kmh
 limit
 it
 hasnt
-pass
+pas
 a
 far
 a
@@ -562,7 +562,7 @@ respect
 for
 their
 own
-life
+live
 if
 someth
 happen
@@ -572,7 +572,7 @@ dead
 but
 the
 same
-go
+goe
 for
 much
 over

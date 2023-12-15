@@ -76,7 +76,7 @@ face
 appar
 scratch
 with
-knife
+knive
 or
 their
 eye
@@ -136,7 +136,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

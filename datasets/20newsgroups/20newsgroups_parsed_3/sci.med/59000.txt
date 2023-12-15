@@ -101,7 +101,7 @@ beyond
 we
 are
 constantli
-expos
+expo
 to
 new
 thing
@@ -185,7 +185,7 @@ in
 a
 pathogen
 lab
-expos
+expo
 to
 whoknowswhat
 all

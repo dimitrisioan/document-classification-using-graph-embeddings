@@ -103,7 +103,7 @@ even
 the
 imperi
 system
-us
+use
 a
 basic
 metric
@@ -141,7 +141,7 @@ or
 chain
 what
 everyon
-els
+el
 is
 say
 is

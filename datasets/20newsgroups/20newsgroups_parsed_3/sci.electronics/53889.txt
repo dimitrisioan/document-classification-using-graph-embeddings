@@ -5,7 +5,7 @@ reader
 info
 can
 somebodi
-pleas
+plea
 help
 me
 with

@@ -161,7 +161,7 @@ when
 contin
 drift
 togeth
-expos
+expo
 them
 to
 new
@@ -400,7 +400,7 @@ other
 much
 the
 list
-go
+goe
 on
 alway
 with
@@ -476,7 +476,7 @@ panicmong
 have
 fail
 to
-eras
+era
 the
 fact
 that
@@ -821,7 +821,7 @@ scientif
 issu
 a
 peopl
-life
+live
 are
 ruin
 through

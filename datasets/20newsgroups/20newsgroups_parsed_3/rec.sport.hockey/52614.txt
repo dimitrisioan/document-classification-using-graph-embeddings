@@ -287,7 +287,7 @@ other
 side
 a
 perfect
-pa
+pas
 and
 a
 good
@@ -640,7 +640,7 @@ lindro
 tri
 a
 backhand
-pa
+pas
 to
 recchi
 through
@@ -807,7 +807,7 @@ found
 galley
 with
 a
-pa
+pas
 across
 the
 goal
@@ -830,7 +830,7 @@ recchi
 pick
 it
 up
-pass
+pas
 it
 out
 to
@@ -922,7 +922,7 @@ had
 most
 of
 the
-possess
+posse
 the
 flyer
 smother
@@ -1030,7 +1030,7 @@ and
 just
 trickl
 a
-pa
+pas
 down
 the
 slot

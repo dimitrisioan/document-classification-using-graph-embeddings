@@ -7,7 +7,7 @@ hamilton
 and
 damian
 like
-pleas
+plea
 find
 the
 interview
@@ -24,7 +24,7 @@ occur
 on
 friday
 januari
-pleas
+plea
 print
 all
 document
@@ -49,7 +49,7 @@ or
 conflict
 of
 schedul
-pleas
+plea
 do
 not
 hesit

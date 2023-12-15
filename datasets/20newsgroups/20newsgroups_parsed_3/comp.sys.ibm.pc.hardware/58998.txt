@@ -165,7 +165,7 @@ card
 until
 the
 next
-bu
+bus
 spec
 regard
 jv

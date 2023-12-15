@@ -43,7 +43,7 @@ welcom
 to
 design
 someon
-els
+el
 there
 is
 no
@@ -67,7 +67,7 @@ can
 not
 attend
 someon
-els
+el
 from
 our
 organ
@@ -249,7 +249,7 @@ emertech
 wharton
 upenn
 edu
-pleas
+plea
 call
 or
 email
@@ -431,7 +431,7 @@ you
 will
 see
 a
-lifes
+life
 statu
 of
 ben

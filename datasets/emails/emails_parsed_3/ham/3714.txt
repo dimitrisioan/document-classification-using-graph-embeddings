@@ -171,7 +171,7 @@ question
 concern
 thi
 order
-pleas
+plea
 e
 mail
 u
@@ -393,7 +393,7 @@ method
 non
 shippabl
 pdf
-pleas
+plea
 note
 that
 there

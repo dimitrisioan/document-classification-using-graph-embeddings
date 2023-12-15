@@ -237,7 +237,7 @@ in
 a
 way
 to
-eas
+ea
 window
 manag
 but

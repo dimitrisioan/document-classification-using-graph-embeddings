@@ -142,7 +142,7 @@ undef
 intr
 c
 quit
-eras
+era
 h
 kill
 k

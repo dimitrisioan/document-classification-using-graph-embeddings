@@ -107,7 +107,7 @@ presid
 clinton
 alreadi
 start
-pass
+pas
 the
 buck
 by
@@ -290,7 +290,7 @@ a
 group
 suspect
 of
-possess
+posse
 illeg
 weapon
 the
@@ -437,7 +437,7 @@ wa
 not
 success
 unfortun
-life
+live
 were
 lost
 on
@@ -574,7 +574,7 @@ justifi
 noknock
 assault
 make
-sens
+sen
 when
 look
 for

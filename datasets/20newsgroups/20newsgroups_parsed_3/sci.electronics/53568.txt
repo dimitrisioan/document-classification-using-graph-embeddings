@@ -8,7 +8,7 @@ outlet
 wire
 in
 articl
-ru
+rus
 crisp
 write
 im
@@ -242,7 +242,7 @@ but
 nowher
 repeat
 nowher
-els
+el
 well
 almost
 there
@@ -309,7 +309,7 @@ recwoodwork
 and
 newsansw
 it
-go
+goe
 into
 great
 detail

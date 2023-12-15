@@ -96,7 +96,7 @@ restrict
 subset
 of
 file
-pleas
+plea
 read
 readm
 for

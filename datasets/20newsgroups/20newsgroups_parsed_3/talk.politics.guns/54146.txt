@@ -194,7 +194,7 @@ run
 legitim
 gun
 ad
-pleas
+plea
 send
 a
 letter

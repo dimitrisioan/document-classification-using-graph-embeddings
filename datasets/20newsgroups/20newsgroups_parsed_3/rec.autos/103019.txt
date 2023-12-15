@@ -202,7 +202,7 @@ up
 when
 that
 light
-go
+goe
 on
 i
 just

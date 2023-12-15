@@ -485,7 +485,7 @@ the
 noticeshel
 xtvasetvaluesntext
 xtnstring
-pleas
+plea
 confirm
 exit
 from

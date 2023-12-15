@@ -385,7 +385,7 @@ a
 far
 a
 that
-go
+goe
 and
 just
 in
@@ -697,7 +697,7 @@ direct
 the
 highspe
 channel
-go
+goe
 in
 the
 direct

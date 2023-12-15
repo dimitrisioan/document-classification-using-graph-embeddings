@@ -112,7 +112,7 @@ can
 be
 set
 to
-puls
+pul
 dial
 in
 sweden
@@ -180,7 +180,7 @@ illeg
 a
 the
 phone
-us
+use
 dtmf
 dial
 which
@@ -220,7 +220,7 @@ are
 now
 digit
 and
-tho
+those
 that
 arent
 have
@@ -234,7 +234,7 @@ convert
 from
 dtmf
 to
-puls
+pul
 dial
 thoma
 real

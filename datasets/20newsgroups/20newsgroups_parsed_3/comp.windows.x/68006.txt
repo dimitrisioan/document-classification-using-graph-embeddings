@@ -33,7 +33,7 @@ the
 make
 world
 process
-go
+goe
 to
 cc
 o

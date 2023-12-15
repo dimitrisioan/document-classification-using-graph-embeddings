@@ -88,7 +88,7 @@ put
 him
 on
 someth
-els
+el
 a
 well
 with
@@ -243,7 +243,7 @@ grandmoth
 is
 get
 and
-discu
+discus
 it
 with
 an

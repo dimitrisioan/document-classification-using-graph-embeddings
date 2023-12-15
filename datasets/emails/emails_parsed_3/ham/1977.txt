@@ -21,7 +21,7 @@ credit
 model
 with
 ee
-pleas
+plea
 call
 in
 or
@@ -153,7 +153,7 @@ to
 contact
 me
 urgent
-pleas
+plea
 leav
 a
 phone

@@ -11,7 +11,7 @@ casper
 c
 kni
 write
-pleas
+plea
 allow
 me
 to

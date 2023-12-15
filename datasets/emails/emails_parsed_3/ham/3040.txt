@@ -1,6 +1,6 @@
 subject
 energycast
-pleas
+plea
 could
 you
 sort
@@ -80,7 +80,7 @@ edward
 krapel
 on
 am
-pleas
+plea
 respond
 to
 ekrapel

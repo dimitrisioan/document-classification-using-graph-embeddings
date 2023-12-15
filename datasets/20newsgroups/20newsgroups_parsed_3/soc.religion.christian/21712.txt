@@ -303,7 +303,7 @@ beget
 and
 support
 their
-children
+child
 mother
 thi
 is
@@ -398,11 +398,11 @@ of
 cours
 it
 sometim
-go
+goe
 wrong
 like
 all
-els
+el
 we
 do
 it
@@ -910,7 +910,7 @@ a
 particular
 gift
 or
-els
+el
 what
 is
 fraught

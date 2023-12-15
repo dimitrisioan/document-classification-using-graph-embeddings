@@ -8,7 +8,7 @@ robson
 ha
 offer
 chelsea
-bo
+bos
 jose
 mourinho
 some
@@ -68,7 +68,7 @@ it
 is
 when
 it
-go
+goe
 against
 you
 and

@@ -120,7 +120,7 @@ group
 is
 current
 undertak
-pleas
+plea
 propos
 the
 top
@@ -150,7 +150,7 @@ a
 confer
 call
 to
-discu
+discus
 your
 thought
 and

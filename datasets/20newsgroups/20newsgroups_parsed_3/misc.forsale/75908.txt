@@ -25,7 +25,7 @@ and
 will
 have
 to
-pa
+pas
 the
 bar
 charact

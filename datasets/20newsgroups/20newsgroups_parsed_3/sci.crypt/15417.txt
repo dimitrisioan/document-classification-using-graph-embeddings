@@ -138,7 +138,7 @@ opposit
 to
 de
 which
-go
+goe
 back
 befor
 some
@@ -173,7 +173,7 @@ think
 someth
 doesnt
 make
-sens
+sen
 it
 almost
 certainli
@@ -232,7 +232,7 @@ the
 featur
 of
 clipper
-pleas
+plea
 feel
 free
 to
@@ -634,9 +634,9 @@ be
 known
 when
 time
-go
+goe
 by
-pleas
+plea
 remark
 that
 in
@@ -670,7 +670,7 @@ the
 le
 than
 technic
-discuss
+discus
 that
 is
 rise

@@ -13,7 +13,7 @@ matrix
 doe
 it
 make
-sens
+sen
 p
 thi
 is

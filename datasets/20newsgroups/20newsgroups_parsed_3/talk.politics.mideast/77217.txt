@@ -238,7 +238,7 @@ john
 willett
 hi
 former
-bo
+bos
 and
 one
 of

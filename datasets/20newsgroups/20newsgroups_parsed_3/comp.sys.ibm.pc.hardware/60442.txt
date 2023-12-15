@@ -338,7 +338,7 @@ whether
 it
 monitor
 or
-mous
+mouse
 is
 to
 read

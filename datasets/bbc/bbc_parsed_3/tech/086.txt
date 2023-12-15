@@ -33,7 +33,7 @@ firm
 would
 not
 want
-expos
+expo
 a
 survey
 by
@@ -103,7 +103,7 @@ said
 andrew
 pearson
 european
-bo
+bos
 of
 workshar
 which
@@ -158,7 +158,7 @@ chang
 a
 document
 get
-pass
+pas
 around
 work
 on

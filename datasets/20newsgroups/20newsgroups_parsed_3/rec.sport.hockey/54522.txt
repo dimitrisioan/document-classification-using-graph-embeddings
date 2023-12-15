@@ -39,7 +39,7 @@ far
 a
 player
 develop
-go
+goe
 rememb
 the
 shark
@@ -170,7 +170,7 @@ to
 make
 the
 nifti
-pass
+pas
 i
 think
 makarov

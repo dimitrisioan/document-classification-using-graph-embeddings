@@ -1,11 +1,11 @@
 subject
 wfworkgroup
 server
-go
+goe
 deaf
 ha
 anyon
-els
+el
 observ
 thi
 behaviour
@@ -25,7 +25,7 @@ in
 a
 wfw
 network
-go
+goe
 deaf
 to
 ani
@@ -37,7 +37,7 @@ other
 workstat
 until
 it
-go
+goe
 out
 on
 the
@@ -58,7 +58,7 @@ time
 later
 when
 it
-go
+goe
 deaf
 again
 the

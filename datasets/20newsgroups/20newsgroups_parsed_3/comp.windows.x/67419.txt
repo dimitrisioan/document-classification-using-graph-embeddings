@@ -70,7 +70,7 @@ legal
 sell
 xv
 xv
-us
+use
 tiff
 and
 jpeg

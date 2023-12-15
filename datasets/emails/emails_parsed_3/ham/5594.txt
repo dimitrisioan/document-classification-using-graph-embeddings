@@ -86,7 +86,7 @@ mike
 sign
 for
 anyth
-els
+el
 other
 than
 a
@@ -94,7 +94,7 @@ expens
 report
 i
 will
-pa
+pas
 it
 by
 your
@@ -110,5 +110,5 @@ is
 thank
 kevin
 moor
-pleas
+plea
 inform

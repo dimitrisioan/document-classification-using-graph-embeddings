@@ -249,7 +249,7 @@ the
 right
 track
 windu
-us
+use
 xlibxtxm
 to
 give

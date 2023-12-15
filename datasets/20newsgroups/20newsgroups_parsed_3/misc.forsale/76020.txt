@@ -62,7 +62,7 @@ bracket
 for
 macii
 or
-macs
+mac
 it
 also
 includ
@@ -74,7 +74,7 @@ cabl
 with
 the
 hd
-pleas
+plea
 repli
 with
 email

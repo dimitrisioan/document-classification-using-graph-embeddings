@@ -218,12 +218,12 @@ corpor
 partner
 will
 you
-pleas
+plea
 provid
 me
 contact
 inform
-pleas
+plea
 let
 me
 know
@@ -384,7 +384,7 @@ and
 i
 want
 to
-discu
+discus
 with
 him
 build
@@ -1016,7 +1016,7 @@ broadband
 and
 metal
 enron
-belief
+believ
 it
 need
 network

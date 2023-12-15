@@ -43,7 +43,7 @@ for
 trademark
 infring
 easymobil
-us
+use
 easygroup
 orang
 brand
@@ -98,7 +98,7 @@ confus
 custom
 known
 a
-pass
+pas
 off
 our
 brand
@@ -143,7 +143,7 @@ for
 trademark
 infring
 and
-pass
+pas
 off
 howev
 mr

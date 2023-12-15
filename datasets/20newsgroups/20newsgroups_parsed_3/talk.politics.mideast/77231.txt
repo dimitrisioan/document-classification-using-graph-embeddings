@@ -32,7 +32,7 @@ not
 provid
 with
 someth
-els
+el
 in
 fact
 thi
@@ -75,7 +75,7 @@ by
 forc
 with
 ethnic
-cleans
+clean
 of
 ani
 remain

@@ -298,7 +298,7 @@ you
 appear
 by
 the
-corps
+corp
 of
 a
 fresh
@@ -424,7 +424,7 @@ state
 u
 buyer
 onli
-pleas
+plea
 all
 game
 will

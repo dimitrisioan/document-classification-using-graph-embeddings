@@ -55,7 +55,7 @@ seem
 to
 onli
 support
-mous
+mouse
 on
 com
 or
@@ -264,7 +264,7 @@ becaus
 my
 soundblast
 board
-us
+use
 irq
 right
 now

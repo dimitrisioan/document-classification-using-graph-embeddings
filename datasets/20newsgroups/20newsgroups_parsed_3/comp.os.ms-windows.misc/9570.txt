@@ -67,7 +67,7 @@ go
 email
 prefer
 who
-els
+el
 is
 still
 wait

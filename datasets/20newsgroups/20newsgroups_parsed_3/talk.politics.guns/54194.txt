@@ -61,7 +61,7 @@ big
 gun
 but
 everyth
-els
+el
 is
 allright
 tank
@@ -650,7 +650,7 @@ seattl
 wa
 if
 all
-els
+el
 fail
 tri
 uunetpilchuckrwingpat

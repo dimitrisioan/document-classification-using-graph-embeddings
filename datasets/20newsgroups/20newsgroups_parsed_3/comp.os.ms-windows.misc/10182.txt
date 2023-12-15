@@ -68,7 +68,7 @@ type
 of
 catastroph
 failur
-discuss
+discus
 if
 it
 doesnt

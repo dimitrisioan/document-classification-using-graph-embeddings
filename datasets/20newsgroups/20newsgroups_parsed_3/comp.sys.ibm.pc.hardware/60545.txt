@@ -77,7 +77,7 @@ term
 synonym
 thank
 p
-pleas
+plea
 repli
 by
 email

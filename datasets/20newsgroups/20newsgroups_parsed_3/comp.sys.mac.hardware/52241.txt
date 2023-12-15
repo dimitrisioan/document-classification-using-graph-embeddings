@@ -56,7 +56,7 @@ an
 app
 that
 onli
-us
+use
 gx
 if
 you
@@ -69,7 +69,7 @@ a
 hybrid
 app
 that
-us
+use
 both
 suptayoo
 thi

@@ -468,7 +468,7 @@ with
 their
 bayonet
 and
-knife
+knive
 a
 yearold
 man
@@ -510,7 +510,7 @@ sunday
 time
 armenian
 raid
-leaf
+leav
 azeri
 dead
 or
@@ -610,7 +610,7 @@ face
 appar
 scratch
 with
-knife
+knive
 or
 their
 eye
@@ -1083,7 +1083,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

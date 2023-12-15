@@ -70,7 +70,7 @@ and
 other
 argument
 are
-discuss
+discus
 in
 john
 lesli
@@ -104,7 +104,7 @@ to
 both
 side
 brief
-discuss
+discus
 can
 be
 found

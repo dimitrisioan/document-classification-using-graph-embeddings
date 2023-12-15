@@ -68,7 +68,7 @@ he
 knowingli
 carri
 or
-poss
+posse
 in
 ani
 vehicl
@@ -301,7 +301,7 @@ speak
 a
 someon
 who
-life
+live
 in
 illinoi
 the
@@ -394,7 +394,7 @@ dont
 alway
 replac
 common
-sens
+sen
 i
 am
 not
@@ -464,7 +464,7 @@ my
 use
 of
 common
-sens
+sen
 in
 some
 of
@@ -492,7 +492,7 @@ and
 use
 your
 common
-sens
+sen
 it
 realli
 doe

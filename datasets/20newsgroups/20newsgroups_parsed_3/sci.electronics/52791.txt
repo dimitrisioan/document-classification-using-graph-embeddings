@@ -10,7 +10,7 @@ a
 friend
 of
 mine
-pleas
+plea
 send
 answer
 directli
@@ -70,7 +70,7 @@ rate
 than
 the
 adconvert
-us
+use
 in
 non
 interleav
@@ -106,7 +106,7 @@ thi
 specif
 or
 better
-pleas
+plea
 send
 me
 an

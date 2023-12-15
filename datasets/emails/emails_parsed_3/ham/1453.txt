@@ -195,7 +195,7 @@ thi
 email
 in
 error
-pleas
+plea
 notifi
 the
 system
@@ -218,7 +218,7 @@ the
 presenc
 of
 comput
-viru
+virus
 see
 attach
 file

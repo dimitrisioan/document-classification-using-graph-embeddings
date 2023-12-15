@@ -18,7 +18,7 @@ write
 inde
 ld
 doctrin
-go
+goe
 one
 step
 further
@@ -31,7 +31,7 @@ parent
 respons
 for
 their
-children
+child
 sin
 if
 they
@@ -270,7 +270,7 @@ respons
 not
 for
 their
-children
+child
 sin
 but
 for

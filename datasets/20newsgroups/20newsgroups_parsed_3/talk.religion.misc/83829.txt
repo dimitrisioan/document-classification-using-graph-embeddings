@@ -1132,7 +1132,7 @@ allah
 zeu
 odin
 ra
-pleas
+plea
 give
 me
 a
@@ -1194,13 +1194,13 @@ life
 doesnt
 do
 anybodi
-els
+el
 ani
 good
 either
 becaus
 everyon
-dy
+die
 anyway
 so
 you
@@ -1454,7 +1454,7 @@ you
 say
 is
 true
-pleas
+plea
 give
 me
 some

@@ -50,7 +50,7 @@ with
 rival
 bidder
 deutsch
-boers
+boer
 will
 continu
 the
@@ -68,7 +68,7 @@ takeov
 offer
 from
 deutsch
-boers
+boer
 claim
 that
 it
@@ -170,7 +170,7 @@ a
 deal
 with
 deutsch
-boers
+boer
 a
 weekend
 report
@@ -220,7 +220,7 @@ greater
 than
 for
 deutsch
-boers
+boer
 the
 newspap
 quot
@@ -242,11 +242,11 @@ held
 privat
 talk
 with
-l
+lse
 chief
 execut
 clara
-furs
+fur
 further
 report
 had
@@ -261,7 +261,7 @@ in
 excess
 of
 the
-l
+lse
 p
 a
 share
@@ -306,6 +306,6 @@ attempt
 merger
 with
 deutsch
-boers
+boer
 fail
 in

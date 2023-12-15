@@ -208,7 +208,7 @@ me
 say
 abov
 all
-els
+el
 i
 don
 t
@@ -1437,7 +1437,7 @@ in
 the
 commun
 commentari
-pleas
+plea
 respond
 onli
 one
@@ -1793,7 +1793,7 @@ below
 for
 unsubscrib
 instruct
-pleas
+plea
 send
 suggest
 and
@@ -2107,7 +2107,7 @@ in
 the
 commun
 commentari
-pleas
+plea
 respond
 onli
 one
@@ -2463,7 +2463,7 @@ below
 for
 unsubscrib
 instruct
-pleas
+plea
 send
 suggest
 and

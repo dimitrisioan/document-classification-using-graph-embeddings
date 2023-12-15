@@ -42,7 +42,7 @@ brand
 if
 one
 exist
-pleas
+plea
 let
 me
 know

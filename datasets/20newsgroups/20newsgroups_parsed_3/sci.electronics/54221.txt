@@ -37,7 +37,7 @@ if
 so
 what
 hertz
-puls
+pul
 rate
 are
 they

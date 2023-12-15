@@ -778,7 +778,7 @@ london
 and
 held
 exhaust
-discuss
+discus
 the
 multin
 s
@@ -4382,7 +4382,7 @@ contract
 in
 case
 situat
-go
+goe
 beyond
 it
 control
@@ -4589,7 +4589,7 @@ day
 after
 it
 lender
-discuss
+discus
 payment
 problem
 and
@@ -4634,7 +4634,7 @@ from
 the
 day
 it
-serf
+serv
 the
 notic
 befor
@@ -6045,7 +6045,7 @@ here
 yesterday
 appar
 to
-discu
+discus
 fate
 of
 it
@@ -6085,7 +6085,7 @@ meet
 say
 the
 issu
-discuss
+discus
 at
 the
 meet
@@ -6447,7 +6447,7 @@ to
 inform
 law
 recent
-pass
+pas
 by
 the
 state

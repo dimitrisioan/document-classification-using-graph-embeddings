@@ -258,7 +258,7 @@ hill
 s
 manag
 is
-pleas
+plea
 and
 encourag
 with
@@ -644,7 +644,7 @@ may
 the
 compani
 is
-pleas
+plea
 to
 report
 that
@@ -716,7 +716,7 @@ the
 project
 area
 a
-chines
+chine
 news
 web
 site

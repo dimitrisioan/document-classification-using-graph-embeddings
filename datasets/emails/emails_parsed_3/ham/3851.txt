@@ -54,7 +54,7 @@ train
 sound
 good
 georg
-pleas
+plea
 coordin
 our
 attend

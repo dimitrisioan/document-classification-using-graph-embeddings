@@ -7,7 +7,7 @@ flight
 test
 write
 excel
-discuss
+discus
 of
 dcx
 land

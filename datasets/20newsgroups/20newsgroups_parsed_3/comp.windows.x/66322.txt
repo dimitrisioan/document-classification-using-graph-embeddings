@@ -210,7 +210,7 @@ there
 how
 do
 i
-pa
+pas
 a
 float
 valu
@@ -414,7 +414,7 @@ class
 it
 is
 use
-loos
+loo
 to
 refer
 to
@@ -458,7 +458,7 @@ intrins
 typic
 a
 widget
-us
+use
 rel
 few
 xlib
@@ -1587,7 +1587,7 @@ a
 truecolor
 the
 sgi
-iri
+iris
 offer
 all
 the
@@ -1627,7 +1627,7 @@ that
 the
 visual
 it
-us
+use
 can
 be
 found
@@ -1769,7 +1769,7 @@ from
 it
 parent
 and
-us
+use
 copyfrompar
 a
 the
@@ -2652,7 +2652,7 @@ thi
 other
 process
 and
-pa
+pas
 the
 file
 descriptor
@@ -2906,7 +2906,7 @@ reason
 introduct
 but
 also
-go
+goe
 into
 the
 full
@@ -3047,7 +3047,7 @@ is
 extens
 overhaul
 and
-go
+goe
 far
 beyond
 the
@@ -3648,7 +3648,7 @@ the
 next
 year
 that
-us
+use
 an
 object
 orient
@@ -3676,7 +3676,7 @@ accept
 how
 do
 i
-pa
+pas
 a
 float
 valu
@@ -3795,7 +3795,7 @@ sizeofxtargv
 xtsetargarg
 n
 d
-els
+el
 xtargval
 ld
 xtargval
@@ -3816,7 +3816,7 @@ rich
 thomson
 the
 follow
-discuss
+discus
 of
 resourc
 convert
@@ -4336,7 +4336,7 @@ extra
 inform
 to
 be
-pass
+pas
 to
 the
 convert
@@ -4352,7 +4352,7 @@ to
 rgb
 structur
 convert
-discuss
+discus
 abov
 would
 need
@@ -4575,11 +4575,11 @@ tovals
 sizeoftyp
 return
 fals
-els
+el
 type
 tovaladdr
 var
-els
+el
 tovaladdr
 caddrt
 var
@@ -4597,7 +4597,7 @@ tovals
 sizeofstr
 return
 fals
-els
+el
 tovaladdr
 caddrt
 str
@@ -4910,13 +4910,13 @@ toaddr
 the
 destructor
 is
-pass
+pas
 the
 extra
 argument
 that
 were
-pass
+pas
 to
 the
 convert
@@ -4956,7 +4956,7 @@ a
 the
 privat
 data
-pass
+pas
 in
 when
 the
@@ -5022,7 +5022,7 @@ in
 a
 nutshel
 one
-us
+use
 xtopendisplay
 to
 add
@@ -5439,7 +5439,7 @@ display
 there
 wa
 much
-discuss
+discus
 in
 compwindowsx
 about
@@ -5613,7 +5613,7 @@ obsolet
 a
 info
 is
-pass
+pas
 to
 coreiniti
 shellrootgeometrymanag
@@ -5626,7 +5626,7 @@ obsolet
 a
 info
 is
-pass
+pas
 to
 coresetvalu
 call
@@ -5784,7 +5784,7 @@ window
 to
 widget
 translat
-us
+use
 le
 space
 and
@@ -6233,7 +6233,7 @@ to
 lowest
 prioriti
 arg
-pass
+pas
 at
 creation
 time
@@ -6359,7 +6359,7 @@ set
 the
 resourcemanag
 properti
-pleas
+plea
 note
 that
 thi
@@ -6787,7 +6787,7 @@ it
 read
 it
 and
-us
+use
 it
 and
 stop
@@ -7321,7 +7321,7 @@ the
 core
 visibl
 flag
-go
+goe
 fals
 howev
 if
@@ -7414,7 +7414,7 @@ receiv
 when
 the
 window
-go
+goe
 from
 viewabl
 to
@@ -7472,7 +7472,7 @@ or
 is
 there
 someth
-els
+el
 which
 need
 to
@@ -7666,7 +7666,7 @@ a
 null
 pointer
 it
-us
+use
 xtmalloc
 to
 get
@@ -7684,7 +7684,7 @@ type
 malloc
 sizeof
 type
-els
+el
 ptr
 type
 realloc
@@ -8309,7 +8309,7 @@ ha
 said
 no
 one
-els
+el
 can
 have
 access

@@ -90,7 +90,7 @@ but
 the
 rest
 make
-sens
+sen
 a
 one
 wave
@@ -145,7 +145,7 @@ the
 usual
 rubber
 duck
-us
+use
 a
 coil
 to

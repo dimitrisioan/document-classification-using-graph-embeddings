@@ -218,7 +218,7 @@ to
 enrol
 to
 enrol
-pleas
+plea
 contact
 m
 kari
@@ -248,7 +248,7 @@ portion
 of
 the
 call
-pleas
+plea
 call
 in
 on
@@ -308,7 +308,7 @@ telephon
 keypad
 intern
 caller
-pleas
+plea
 re
 dial
 and
@@ -338,7 +338,7 @@ to
 access
 thi
 record
-pleas
+plea
 call
 within
 the
@@ -349,7 +349,7 @@ outsid
 the
 u
 s
-pleas
+plea
 use
 confirm
 number
@@ -360,7 +360,7 @@ call
 for
 more
 inform
-pleas
+plea
 contact
 kari
 paakaula

@@ -350,8 +350,8 @@ sentenc
 doe
 not
 make
-sens
-pleas
+sen
+plea
 rephras
 it
 i
@@ -363,7 +363,7 @@ but
 it
 make
 full
-sens
+sen
 to
 me
 isra
@@ -402,7 +402,7 @@ israel
 which
 occupi
 and
-expos
+expo
 the
 life
 of

@@ -72,7 +72,7 @@ busi
 if
 thi
 thing
-go
+goe
 throughnsa
 and
 those
@@ -165,7 +165,7 @@ a
 particular
 batch
 will
-us
+use
 seed
 base
 on

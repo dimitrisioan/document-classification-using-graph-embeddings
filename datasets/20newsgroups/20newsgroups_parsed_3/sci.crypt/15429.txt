@@ -67,7 +67,7 @@ place
 to
 provid
 context
-pleas
+plea
 note
 that
 an
@@ -1885,7 +1885,7 @@ bit
 number
 could
 someon
-pleas
+plea
 explain
 how
 the
@@ -2000,7 +2000,7 @@ a
 we
 have
 ongo
-discuss
+discus
 with
 congress
 and
@@ -2011,7 +2011,7 @@ issu
 and
 expect
 those
-discuss
+discus
 to
 intensifi
 a
@@ -2375,7 +2375,7 @@ anyth
 that
 make
 much
-sens
+sen
 and
 thi
 propos
@@ -2429,7 +2429,7 @@ tension
 creat
 in
 the
-assess
+ass
 that
 thi
 issu
@@ -2491,7 +2491,7 @@ it
 behind
 the
 fals
-assess
+ass
 it
 is
 assum

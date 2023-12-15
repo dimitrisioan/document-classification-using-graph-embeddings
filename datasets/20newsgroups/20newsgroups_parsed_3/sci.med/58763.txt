@@ -7,7 +7,7 @@ superstit
 in
 articl
 write
-chines
+chine
 and
 mani
 other
@@ -97,7 +97,7 @@ or
 whatev
 that
 caus
-chines
+chine
 restaur
 syndrom
 i
@@ -109,7 +109,7 @@ to
 believ
 ha
 anyon
-els
+el
 heard
 it
 andrew

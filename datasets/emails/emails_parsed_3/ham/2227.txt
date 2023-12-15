@@ -179,7 +179,7 @@ default
 rate
 per
 our
-discuss
+discus
 see
 attach
 for
@@ -219,7 +219,7 @@ cc
 subject
 default
 rate
-pleas
+plea
 see
 below
 for
@@ -425,7 +425,7 @@ they
 are
 stale
 but
-loos
+loo
 some
 inform
 content
@@ -439,7 +439,7 @@ up
 a
 meet
 to
-discu
+discus
 further
 forward
 by

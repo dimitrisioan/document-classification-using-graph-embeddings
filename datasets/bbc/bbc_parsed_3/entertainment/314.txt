@@ -219,7 +219,7 @@ with
 the
 famou
 grauman
-chines
+chine
 theatr
 the
 first
@@ -685,7 +685,7 @@ in
 the
 show
 alway
-go
+goe
 on
 not
 even
@@ -920,7 +920,7 @@ a
 well
 a
 everyth
-els
+el
 the
 tv
 network

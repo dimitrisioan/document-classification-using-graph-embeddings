@@ -80,7 +80,7 @@ light
 on
 the
 ensc
-go
+goe
 out
 and
 the
@@ -273,5 +273,5 @@ univers
 mathemat
 depart
 or
-pleas
+plea
 avoid

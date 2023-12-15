@@ -373,7 +373,7 @@ my
 experi
 with
 both
-mous
+mouse
 and
 trackbal
 ha

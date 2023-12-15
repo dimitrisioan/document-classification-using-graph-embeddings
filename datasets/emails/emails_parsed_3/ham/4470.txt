@@ -164,7 +164,7 @@ transport
 that
 you
 need
-pleas
+plea
 let
 me
 know
@@ -266,7 +266,7 @@ shall
 need
 about
 minut
-pleas
+plea
 let
 me
 know
@@ -499,7 +499,7 @@ end
 for
 a
 gener
-discuss
+discus
 of
 issu
 relat
@@ -771,7 +771,7 @@ for
 a
 minut
 panel
-discuss
+discus
 with
 the
 student

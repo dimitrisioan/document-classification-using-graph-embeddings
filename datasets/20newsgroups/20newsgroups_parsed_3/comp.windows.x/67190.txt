@@ -79,7 +79,7 @@ add
 news
 and
 everyth
-els
+el
 you
 have
 a
@@ -116,7 +116,7 @@ like
 ghostview
 mayb
 someon
-els
+el
 can
 elabor
 on

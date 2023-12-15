@@ -10,7 +10,7 @@ sprecher
 write
 can
 someon
-pleas
+plea
 help
 me
 understand

@@ -666,7 +666,7 @@ which
 is
 to
 hold
-discuss
+discus
 with
 enron
 offici
@@ -764,7 +764,7 @@ the
 first
 session
 of
-discuss
+discus
 with
 enron
 offici
@@ -909,7 +909,7 @@ which
 is
 to
 hold
-discuss
+discus
 with
 enron
 offici
@@ -1011,7 +1011,7 @@ the
 first
 session
 of
-discuss
+discus
 with
 enron
 offici
@@ -1149,7 +1149,7 @@ minist
 suresh
 prabhu
 s
-discuss
+discus
 with
 chief
 minist
@@ -2261,7 +2261,7 @@ power
 would
 be
 mere
-paisa
+pais
 le
 than
 that
@@ -2500,7 +2500,7 @@ three
 week
 repriev
 have
-pass
+pas
 at
 the
 dpc
@@ -2835,7 +2835,7 @@ letter
 ten
 day
 have
-pass
+pas
 sinc
 the
 lender
@@ -3598,7 +3598,7 @@ for
 almost
 four
 hour
-discuss
+discus
 a
 strategi
 to
@@ -3793,7 +3793,7 @@ minist
 yashwant
 sinha
 to
-discu
+discus
 the
 enron
 crisi

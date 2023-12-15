@@ -1,7 +1,7 @@
 subject
 mov
 advic
-pleas
+plea
 hello
 can
 somebodi
@@ -94,7 +94,7 @@ in
 the
 power
 line
-pleas
+plea
 email
 to
 me

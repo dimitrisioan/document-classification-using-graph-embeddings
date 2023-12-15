@@ -143,7 +143,7 @@ claim
 and
 defend
 someth
-els
+el
 that
 nobodi
 is
@@ -341,7 +341,7 @@ and
 claim
 that
 nobodi
-els
+el
 doe
 that
 mean
@@ -412,7 +412,7 @@ in
 happen
 in
 awesley
-go
+goe
 on
 you
 can

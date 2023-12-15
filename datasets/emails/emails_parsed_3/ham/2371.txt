@@ -4,7 +4,7 @@ real
 option
 confer
 shirley
-pleas
+plea
 forward
 my
 bio
@@ -71,7 +71,7 @@ a
 guest
 to
 attend
-pleas
+plea
 can
 you
 let
@@ -118,7 +118,7 @@ can
 do
 for
 you
-pleas
+plea
 do
 not
 hesit

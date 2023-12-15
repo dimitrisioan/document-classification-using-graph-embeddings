@@ -305,7 +305,7 @@ may
 be
 use
 to
-pa
+pas
 the
 inform
 to

@@ -1,6 +1,6 @@
 subject
 somebodi
-pleas
+plea
 help
 me
 hello
@@ -53,7 +53,7 @@ strang
 respons
 my
 monitor
-go
+goe
 into
 graphic
 mode
@@ -70,7 +70,7 @@ screen
 that
 all
 noth
-els
+el
 now
 ive
 collect

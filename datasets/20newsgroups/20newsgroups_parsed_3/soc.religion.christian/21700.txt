@@ -28,7 +28,7 @@ the
 bibl
 then
 that
-prof
+prove
 it
 is
 ok

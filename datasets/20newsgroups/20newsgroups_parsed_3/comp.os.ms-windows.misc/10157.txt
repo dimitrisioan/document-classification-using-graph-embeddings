@@ -35,12 +35,12 @@ address
 phone
 book
 diari
-pleas
+plea
 ani
 suggest
 sharewarepublicor
 copyright
-pleas
+plea
 email
 steven
 hong

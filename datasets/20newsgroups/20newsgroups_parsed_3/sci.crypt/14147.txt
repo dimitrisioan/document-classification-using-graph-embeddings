@@ -60,7 +60,7 @@ a
 monthli
 basi
 followup
-discuss
+discus
 specif
 to
 ripem
@@ -268,7 +268,7 @@ from
 the
 readm
 file
-pleas
+plea
 do
 not
 export
@@ -575,7 +575,7 @@ includ
 with
 the
 distribut
-discu
+discus
 way
 to
 use
@@ -844,7 +844,7 @@ system
 unlik
 rsa
 de
-us
+use
 the
 same
 key
@@ -861,7 +861,7 @@ faster
 than
 rsa
 ripem
-us
+use
 both
 de
 and
@@ -917,7 +917,7 @@ is
 somewhat
 old
 and
-us
+use
 a
 key
 length
@@ -1440,7 +1440,7 @@ compat
 with
 pgp
 ripem
-us
+use
 rsaref
 a
 librari
@@ -1462,7 +1462,7 @@ allow
 noncommerci
 use
 pgp
-us
+use
 it
 own
 implement
@@ -1635,7 +1635,7 @@ variou
 document
 differ
 unfortun
-discuss
+discus
 of
 it
 on
@@ -1868,7 +1868,7 @@ companion
 post
 ripemattack
 which
-discu
+discus
 some
 of
 the

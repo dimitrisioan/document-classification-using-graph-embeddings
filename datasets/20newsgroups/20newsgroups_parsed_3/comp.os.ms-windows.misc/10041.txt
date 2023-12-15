@@ -59,7 +59,7 @@ the
 number
 at
 someth
-els
+el
 than
 or
 of
@@ -81,7 +81,7 @@ chapter
 are
 number
 a
-pleas
+plea
 if
 you
 have
@@ -117,7 +117,7 @@ to
 read
 news
 so
-pleas
+plea
 email
 me
 all

@@ -6,7 +6,7 @@ s
 fun
 and
 easi
-pleas
+plea
 read
 thi
 email
@@ -158,7 +158,7 @@ befor
 you
 say
 bull
-pleas
+plea
 read
 the
 follow
@@ -285,7 +285,7 @@ month
 easili
 and
 comfort
-pleas
+plea
 read
 the
 follow
@@ -501,7 +501,7 @@ through
 or
 you
 will
-loos
+loo
 out
 on
 the
@@ -720,7 +720,7 @@ in
 the
 report
 posit
-pleas
+plea
 make
 sure
 you
@@ -769,7 +769,7 @@ in
 case
 if
 you
-loos
+loo
 ani
 data
 to
@@ -843,7 +843,7 @@ to
 see
 how
 it
-go
+goe
 and
 we
 will
@@ -2100,9 +2100,9 @@ mail
 again
 by
 someon
-els
+el
 month
-pass
+pas
 then
 it
 luckili
@@ -2308,7 +2308,7 @@ remov
 from
 thi
 list
-pleas
+plea
 send
 an
 email

@@ -2,7 +2,7 @@ subject
 just
 fyi
 vinc
-pleas
+plea
 see
 below
 some
@@ -12,7 +12,7 @@ idea
 be
 bounc
 fyi
-pleas
+plea
 keep
 thi
 confidenti
@@ -356,7 +356,7 @@ have
 an
 sil
 the
-discuss
+discus
 be
 held
 with

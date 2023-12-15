@@ -121,7 +121,7 @@ should
 one
 trust
 anyth
-els
+el
 they
 have
 to
@@ -245,7 +245,7 @@ in
 a
 world
 that
-us
+use
 the
 term
 window
@@ -292,7 +292,7 @@ face
 it
 almost
 everyon
-us
+use
 it
 ultim
 we

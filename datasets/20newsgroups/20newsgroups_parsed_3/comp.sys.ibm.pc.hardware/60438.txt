@@ -228,7 +228,7 @@ whether
 farmalloc
 new
 actual
-us
+use
 it
 anyway
 but

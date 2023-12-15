@@ -140,7 +140,7 @@ paper
 includ
 a
 detail
-discuss
+discus
 of
 the
 physic

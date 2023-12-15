@@ -48,7 +48,7 @@ far
 a
 the
 dx
-go
+goe
 specint
 specfp
 but

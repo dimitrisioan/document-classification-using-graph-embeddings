@@ -190,7 +190,7 @@ gener
 if
 a
 seminari
-belief
+believ
 student
 should
 know

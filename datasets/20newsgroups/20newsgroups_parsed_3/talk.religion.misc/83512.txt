@@ -55,7 +55,7 @@ work
 in
 ani
 import
-sens
+sen
 if
 noon
 care
@@ -80,7 +80,7 @@ work
 in
 ani
 import
-sens
+sen
 if
 noon
 valu
@@ -97,7 +97,7 @@ a
 valu
 vacuum
 noth
-els
+el
 doe
 either
 thi
@@ -111,7 +111,7 @@ your
 in
 ani
 import
-sens
+sen
 seem
 to
 be
@@ -128,7 +128,7 @@ which
 accept
 byte
 and
-us
+use
 the
 first
 to
@@ -172,7 +172,7 @@ correct
 in
 what
 meaning
-sens
+sen
 can
 the
 chip

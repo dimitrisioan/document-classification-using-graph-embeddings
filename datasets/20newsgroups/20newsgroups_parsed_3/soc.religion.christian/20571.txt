@@ -61,7 +61,7 @@ metal
 bone
 and
 anyth
-els
+el
 that
 they
 could
@@ -227,7 +227,7 @@ non
 issu
 for
 everyon
-els
+el
 the
 real
 problem

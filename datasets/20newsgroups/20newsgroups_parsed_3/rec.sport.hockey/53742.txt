@@ -29,7 +29,7 @@ realli
 mundan
 statist
 i
-pass
+pas
 the
 final
 individu
@@ -103,7 +103,7 @@ pt
 pim
 then
 i
-pass
+pas
 the
 list
 through
@@ -161,7 +161,7 @@ off
 in
 pim
 thi
-leaf
+leav
 a
 the
 most
@@ -183,7 +183,7 @@ an
 honor
 i
 also
-pass
+pas
 the
 list
 through

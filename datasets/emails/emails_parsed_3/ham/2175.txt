@@ -68,7 +68,7 @@ potenti
 payoff
 it
 make
-sens
+sen
 to
 stay
 close

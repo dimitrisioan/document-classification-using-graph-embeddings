@@ -226,7 +226,7 @@ often
 weak
 and
 can
-expos
+expo
 the
 method
 of

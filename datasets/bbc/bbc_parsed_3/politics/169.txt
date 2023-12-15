@@ -307,7 +307,7 @@ or
 simpli
 chase
 away
-tori
+torus
 mp
 peter
 luff
@@ -377,7 +377,7 @@ matter
 of
 simpl
 common
-sens
+sen
 if
 mr
 bradshaw

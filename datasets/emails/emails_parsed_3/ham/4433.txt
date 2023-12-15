@@ -42,7 +42,7 @@ is
 await
 your
 approv
-pleas
+plea
 advis
 u
 a

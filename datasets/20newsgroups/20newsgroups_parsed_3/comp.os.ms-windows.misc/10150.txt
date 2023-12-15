@@ -150,7 +150,7 @@ be
 a
 way
 of
-pass
+pas
 the
 postscript
 file

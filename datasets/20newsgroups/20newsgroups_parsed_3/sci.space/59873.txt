@@ -227,7 +227,7 @@ the
 usenet
 group
 altbinariespictur
-discu
+discus
 imag
 format
 and
@@ -303,7 +303,7 @@ and
 mission
 statu
 report
-pleas
+plea
 note
 that
 these
@@ -371,7 +371,7 @@ space
 index
 send
 space
-shuttl
+shuttle
 the
 capit
 of
@@ -1149,7 +1149,7 @@ explor
 data
 request
 czc
-brows
+brow
 and
 order
 util
@@ -1566,7 +1566,7 @@ on
 the
 ame
 server
-pleas
+plea
 restrict
 access
 to
@@ -1950,7 +1950,7 @@ access
 content
 are
 rel
-spars
+spar
 at
 present
 due
@@ -2469,7 +2469,7 @@ specif
 orbit
 and
 calcul
-ephemeri
+ephemerid
 is
 avail
 on

@@ -79,7 +79,7 @@ thing
 in
 the
 econom
-sens
+sen
 india
 bombay
 stock
@@ -481,7 +481,7 @@ begin
 to
 have
 a
-sens
+sen
 of
 the
 financi

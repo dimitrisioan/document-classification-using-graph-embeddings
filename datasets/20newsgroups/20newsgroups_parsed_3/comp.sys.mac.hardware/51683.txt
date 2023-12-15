@@ -73,7 +73,7 @@ comput
 version
 p
 at
-eas
+ea
 macintosh
 pc
 exchang

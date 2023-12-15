@@ -20,7 +20,7 @@ mark
 palmer
 first
 and
-discu
+discus
 the
 book
 with
@@ -148,7 +148,7 @@ ani
 way
 not
 ok
-pleas
+plea
 just
 say
 so
@@ -325,7 +325,7 @@ on
 the
 other
 hand
-pleas
+plea
 know
 that
 mari

@@ -123,7 +123,7 @@ inform
 about
 thi
 effort
-pleas
+plea
 contact
 richard
 mcmahon
@@ -318,7 +318,7 @@ do
 not
 includ
 the
-pa
+pas
 through
 of
 hold
@@ -944,7 +944,7 @@ can
 not
 be
 easili
-pars
+par
 between
 wholesal
 and
@@ -1391,7 +1391,7 @@ document
 can
 be
 redistribut
-pleas
+plea
 send
 question
 comment

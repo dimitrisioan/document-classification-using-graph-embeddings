@@ -279,7 +279,7 @@ univers
 provo
 ut
 signoff
-ru
+rus
 lister
 or
 well

@@ -57,7 +57,7 @@ great
 and
 if
 my
-bo
+bos
 would
 doubl
 my
@@ -237,7 +237,7 @@ will
 interoper
 with
 everyon
-els
+el
 inde
 were
 it
@@ -469,7 +469,7 @@ sabotag
 the
 market
 someon
-pleas
+plea
 tell
 me
 what

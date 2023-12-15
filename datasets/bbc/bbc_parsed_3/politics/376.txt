@@ -28,7 +28,7 @@ made
 hi
 speech
 the
-tori
+torus
 said
 a
 larg
@@ -87,7 +87,7 @@ attent
 in
 the
 common
-tori
+torus
 frontbench
 andrew
 tyri

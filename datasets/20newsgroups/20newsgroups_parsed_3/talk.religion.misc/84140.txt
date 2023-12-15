@@ -78,7 +78,7 @@ they
 do
 doe
 anybodi
-els
+el
 besid
 me
 see
@@ -258,7 +258,7 @@ with
 tefillim
 and
 whatev
-els
+el
 they
 requir
 at

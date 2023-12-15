@@ -2,7 +2,7 @@ subject
 christma
 basket
 kevin
-pleas
+plea
 add
 the
 copi
@@ -127,7 +127,7 @@ ani
 comment
 or
 question
-pleas
+plea
 call
 x
 thank

@@ -51,7 +51,7 @@ to
 the
 other
 hd
-us
+use
 differ
 font
 format
@@ -97,7 +97,7 @@ have
 found
 a
 solut
-pleas
+plea
 let
 me
 know

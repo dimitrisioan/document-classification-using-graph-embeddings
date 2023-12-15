@@ -45,7 +45,7 @@ and
 from
 pm
 pm
-pleas
+plea
 let
 me
 know

@@ -4,7 +4,7 @@ nyu
 itinerari
 hi
 attach
-pleas
+plea
 find
 the
 itinerari
@@ -13,7 +13,7 @@ the
 harvard
 nyu
 trip
-pleas
+plea
 disregard
 ani
 part
@@ -75,7 +75,7 @@ s
 a
 quick
 read
-pleas
+plea
 call
 me
 if

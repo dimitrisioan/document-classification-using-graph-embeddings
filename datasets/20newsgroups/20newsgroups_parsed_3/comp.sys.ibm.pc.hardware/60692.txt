@@ -182,7 +182,7 @@ be
 overkil
 for
 my
-us
+use
 howev
 i
 do
@@ -213,7 +213,7 @@ around
 to
 get
 someth
-els
+el
 use
 like
 a

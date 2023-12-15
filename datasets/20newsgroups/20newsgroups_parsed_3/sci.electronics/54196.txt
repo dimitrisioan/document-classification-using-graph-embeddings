@@ -94,7 +94,7 @@ the
 seam
 of
 the
-half
+halv
 of
 the
 tape
@@ -170,7 +170,7 @@ the
 averag
 consum
 tm
-belief
+believ
 it
 heck
 my

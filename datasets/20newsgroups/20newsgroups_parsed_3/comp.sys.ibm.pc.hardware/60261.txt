@@ -82,7 +82,7 @@ i
 notic
 that
 lpt
-us
+use
 irq
 and
 so
@@ -131,7 +131,7 @@ can
 share
 an
 irq
-pleas
+plea
 do
 so
 thank

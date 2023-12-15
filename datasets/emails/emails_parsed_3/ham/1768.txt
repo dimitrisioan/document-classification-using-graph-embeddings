@@ -65,7 +65,7 @@ prager
 charli
 noti
 harvey
-frees
+free
 jon
 davi
 maryam
@@ -127,7 +127,7 @@ we
 must
 start
 prepar
-pleas
+plea
 note
 that
 i
@@ -165,7 +165,7 @@ time
 thank
 kevin
 moor
-pleas
+plea
 ani
 comment
 question

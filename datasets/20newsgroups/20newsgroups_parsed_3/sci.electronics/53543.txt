@@ -230,7 +230,7 @@ are
 unlabel
 ha
 anyon
-els
+el
 had
 better
 luck

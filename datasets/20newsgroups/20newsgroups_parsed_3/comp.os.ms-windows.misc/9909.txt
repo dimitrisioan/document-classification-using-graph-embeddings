@@ -46,7 +46,7 @@ help
 me
 impress
 me
-bo
+bos
 under
 toolsoptionsgrammar
 select
@@ -78,7 +78,7 @@ passiv
 sentenc
 flesch
 read
-eas
+ea
 flesch
 grade
 level
@@ -93,4 +93,4 @@ malcolm
 bacchu
 some
 beer
-pleas
+plea

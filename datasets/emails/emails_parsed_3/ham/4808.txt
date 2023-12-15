@@ -48,7 +48,7 @@ visit
 the
 enrol
 site
-pleas
+plea
 consid
 take
 a
@@ -127,7 +127,7 @@ thi
 is
 your
 case
-pleas
+plea
 copi
 and
 past
@@ -241,7 +241,7 @@ are
 not
 a
 member
-pleas
+plea
 join
 if
 you
@@ -496,7 +496,7 @@ up
 today
 
 and
-pleas
+plea
 consid
 the
 follow

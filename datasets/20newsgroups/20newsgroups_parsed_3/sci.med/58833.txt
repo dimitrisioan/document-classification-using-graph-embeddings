@@ -37,7 +37,7 @@ in
 other
 peopl
 similarli
-chines
+chine
 food
 isnt
 just
@@ -205,11 +205,11 @@ i
 eat
 lot
 of
-chines
+chine
 food
 i
 love
-chines
+chine
 food
 ive
 just
@@ -301,7 +301,7 @@ have
 troubl
 understand
 thi
-pleas
+plea
 tell
 me
 which

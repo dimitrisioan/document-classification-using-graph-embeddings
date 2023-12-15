@@ -24,7 +24,7 @@ mca
 control
 thank
 email
-pleas
+plea
 mark
 ashley
 disclaim

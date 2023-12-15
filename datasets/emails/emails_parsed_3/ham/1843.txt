@@ -3,7 +3,7 @@ re
 research
 dept
 contact
-pleas
+plea
 contact
 stinson
 gibner
@@ -96,7 +96,7 @@ of
 the
 team
 dan
-pleas
+plea
 correct
 me
 if

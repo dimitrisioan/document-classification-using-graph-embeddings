@@ -51,7 +51,7 @@ is
 absurd
 mayb
 common
-sens
+sen
 and
 logic
 are

@@ -14,7 +14,7 @@ parti
 campaign
 poster
 amid
-tori
+torus
 claim
 the
 ad
@@ -52,7 +52,7 @@ he
 wa
 respond
 to
-tori
+torus
 spokesman
 julian
 lewi
@@ -193,7 +193,7 @@ strategi
 of
 target
 the
-tori
+torus
 leader
 person
 with
@@ -233,7 +233,7 @@ elect
 in
 the
 common
-tori
+torus
 spokesman
 mr
 lewi

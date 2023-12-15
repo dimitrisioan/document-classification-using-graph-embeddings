@@ -204,7 +204,7 @@ news
 comphumanfactor
 occasion
 ha
-discuss
+discus
 about
 altern
 input
@@ -237,7 +237,7 @@ scimedoccup
 charter
 specif
 to
-discu
+discus
 these
 thing
 thi
@@ -1231,14 +1231,14 @@ blood
 through
 capillari
 which
-pa
+pas
 among
 the
 muscl
 fiber
 when
 you
-tens
+ten
 a
 muscl
 you
@@ -1298,7 +1298,7 @@ hurt
 all
 it
 neighbor
-tens
+ten
 up
 perhap
 to
@@ -1307,7 +1307,7 @@ the
 load
 thi
 make
-sens
+sen
 for
 your
 normal
@@ -1487,7 +1487,7 @@ of
 a
 tendon
 repeat
-tens
+ten
 of
 a
 tendon
@@ -2347,7 +2347,7 @@ you
 should
 get
 somebodi
-els
+el
 to
 come
 and
@@ -2371,7 +2371,7 @@ often
 easier
 for
 somebodi
-els
+el
 to
 notic
 your
@@ -2437,7 +2437,7 @@ like
 to
 submit
 someth
-pleas
+plea
 send
 me
 mail

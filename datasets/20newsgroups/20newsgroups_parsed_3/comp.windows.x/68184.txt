@@ -92,7 +92,7 @@ zero
 in
 the
 xevent
-pass
+pas
 to
 the
 event

@@ -62,7 +62,7 @@ exist
 how
 about
 quack
-diagnosi
+diagnos
 is
 be
 a
@@ -555,7 +555,7 @@ are
 unlucki
 you
 can
-loos
+loo
 a
 lot
 of

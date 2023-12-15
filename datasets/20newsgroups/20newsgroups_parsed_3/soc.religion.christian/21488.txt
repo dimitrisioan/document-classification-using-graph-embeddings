@@ -149,7 +149,7 @@ i
 assum
 that
 everyon
-els
+el
 in
 thi
 group
@@ -178,7 +178,7 @@ paul
 speak
 about
 everyth
-els
+el
 that
 is
 immor

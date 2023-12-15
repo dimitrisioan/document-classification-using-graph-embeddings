@@ -130,7 +130,7 @@ abl
 to
 instal
 supplementari
-len
+lens
 that
 can
 record
@@ -208,7 +208,7 @@ to
 phonem
 and
 then
-pa
+pas
 them
 to
 a

@@ -248,7 +248,7 @@ save
 credit
 reserv
 result
-pleas
+plea
 grant
 winston
 and
@@ -313,7 +313,7 @@ and
 may
 also
 incomplet
-pleas
+plea
 let
 me
 know
@@ -326,7 +326,7 @@ ani
 delet
 and
 addit
-pleas
+plea
 let
 me
 know

@@ -42,10 +42,10 @@ run
 prevent
 thi
 certainli
-pass
+pas
 the
 common
-sens
+sen
 test
 for
 me

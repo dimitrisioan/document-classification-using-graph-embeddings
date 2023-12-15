@@ -58,7 +58,7 @@ kuehl
 baylor
 edu
 terri
-mane
+manes
 baylor
 edu
 dpalumbo
@@ -109,7 +109,7 @@ on
 thi
 end
 also
-pleas
+plea
 get
 me
 your
@@ -258,7 +258,7 @@ the
 follow
 week
 so
-pleas
+plea
 respond
 to
 both

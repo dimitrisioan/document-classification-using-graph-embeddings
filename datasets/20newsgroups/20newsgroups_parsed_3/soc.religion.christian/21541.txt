@@ -63,7 +63,7 @@ understand
 thi
 in
 one
-sens
+sen
 no
 statement
 by
@@ -117,7 +117,7 @@ be
 otherwis
 in
 anoth
-sens
+sen
 everi
 statement
 is

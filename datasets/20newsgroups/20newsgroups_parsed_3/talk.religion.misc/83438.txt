@@ -8,7 +8,7 @@ meritt
 write
 mr
 meritt
-pleas
+plea
 state
 explicitli
 the
@@ -37,7 +37,7 @@ other
 trm
 articl
 also
-pleas
+plea
 explain
 whi
 you
@@ -64,7 +64,7 @@ avail
 for
 question
 final
-pleas
+plea
 indic
 whether
 you

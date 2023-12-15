@@ -210,7 +210,7 @@ conjunct
 with
 arthur
 andersen
-pleas
+plea
 join
 me
 in

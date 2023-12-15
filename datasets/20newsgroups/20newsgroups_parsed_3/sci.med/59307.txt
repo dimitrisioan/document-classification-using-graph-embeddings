@@ -38,7 +38,7 @@ coars
 ground
 dri
 sassafra
-leaf
+leav
 thi
 is
 not
@@ -84,7 +84,7 @@ is
 made
 with
 sassafra
-leaf
+leav
 while
 root
 beer
@@ -97,7 +97,7 @@ or
 root
 bark
 the
-leaf
+leav
 contain
 either
 no

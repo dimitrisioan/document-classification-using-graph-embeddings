@@ -134,7 +134,7 @@ it
 with
 de
 then
-rever
+revers
 the
 process
 and

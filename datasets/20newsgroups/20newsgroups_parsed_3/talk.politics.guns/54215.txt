@@ -94,7 +94,7 @@ of
 the
 prohibit
 against
-possess
+posse
 of
 danger
 ordnanc
@@ -212,7 +212,7 @@ a
 a
 weapon
 or
-possess
+posse
 carri
 or
 use
@@ -509,7 +509,7 @@ such
 a
 firearm
 when
-possess
+posse
 carri
 or
 use
@@ -989,7 +989,7 @@ quill
 and
 percuss
 cap
-possess
+posse
 and
 law
 use
@@ -1026,7 +1026,7 @@ primer
 and
 percuss
 cap
-poss
+po
 and
 law
 use
@@ -1719,7 +1719,7 @@ explos
 devic
 law
 acquir
-possess
+posse
 carri
 or
 use
@@ -1779,7 +1779,7 @@ danger
 ordnanc
 law
 acquir
-possess
+posse
 carri
 or
 use
@@ -1834,7 +1834,7 @@ danger
 ordnanc
 when
 law
-possess
+posse
 and
 use
 for
@@ -1950,7 +1950,7 @@ danger
 ordnanc
 law
 acquir
-possess
+posse
 carri
 or
 use
@@ -2154,7 +2154,7 @@ is
 quilti
 of
 unlaw
-possess
+posse
 of
 danger
 ordnanc
@@ -2366,7 +2366,7 @@ it
 is
 to
 be
-possess
+posse
 carri
 or
 use
@@ -2509,7 +2509,7 @@ that
 the
 applic
 will
-poss
+posse
 and
 carri
 the
@@ -2989,7 +2989,7 @@ militari
 weapon
 will
 be
-possess
+posse
 and
 carri
 state
@@ -3313,7 +3313,7 @@ the
 follow
 import
 manufactur
-poss
+posse
 for
 sale
 sell
@@ -3378,7 +3378,7 @@ use
 ani
 danger
 ordnanc
-poss
+posse
 ani
 firearm
 or
@@ -3399,7 +3399,7 @@ of
 thi
 section
 manufactur
-poss
+posse
 for
 sale
 sell
@@ -3533,7 +3533,7 @@ ordnanc
 in
 such
 person
-possess
+posse
 or
 under
 hi
@@ -3660,7 +3660,7 @@ prohibit
 the
 continu
 purchas
-possess
+posse
 and
 use
 of

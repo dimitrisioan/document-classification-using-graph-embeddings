@@ -1,6 +1,6 @@
 subject
 remot
-sens
+sen
 data
 i
 am
@@ -8,15 +8,15 @@ post
 thi
 for
 someon
-els
-pleas
+el
+plea
 respond
 to
 the
 address
 list
 below
-pleas
+plea
 also
 excus
 the
@@ -35,7 +35,7 @@ for
 applic
 of
 remot
-sens
+sen
 databas
 via
 the
@@ -134,7 +134,7 @@ and
 util
 of
 remot
-sens
+sen
 imag
 in
 cooper
@@ -152,7 +152,7 @@ usda
 o
 support
 remot
-sens
+sen
 imag
 and
 data
@@ -216,7 +216,7 @@ potenti
 applic
 of
 remot
-sens
+sen
 imag
 and
 data
@@ -237,7 +237,7 @@ of
 the
 implement
 plan
-pleas
+plea
 note
 thi
 is
@@ -259,7 +259,7 @@ commerci
 use
 of
 remot
-sens
+sen
 data
 and
 imag
@@ -268,7 +268,7 @@ noncommerci
 use
 of
 remot
-sens
+sen
 data
 and
 imag
@@ -343,7 +343,7 @@ ascii
 no
 binari
 attach
-pleas
+plea
 fax
 erni
 lucier
@@ -369,7 +369,7 @@ directori
 ftppubrsdwg
 on
 orionnasagov
-pleas
+plea
 indic
 the
 format
@@ -396,7 +396,7 @@ for
 applic
 of
 remot
-sens
+sen
 databas
 via
 the
@@ -406,7 +406,7 @@ commerci
 use
 of
 remot
-sens
+sen
 data
 and
 imag
@@ -425,10 +425,10 @@ user
 tool
 and
 standard
-us
+use
 of
 remot
-sens
+sen
 data
 and
 imag
@@ -496,7 +496,7 @@ idea
 on
 applic
 area
-pleas
+plea
 includ
 name
 organ
@@ -523,7 +523,7 @@ be
 sent
 when
 develop
-pleas
+plea
 includ
 name
 organ
@@ -543,7 +543,7 @@ know
 about
 nasa
 remot
-sens
+sen
 data
 do
 not
@@ -585,7 +585,7 @@ case
 we
 have
 question
-pleas
+plea
 send
 u
 your

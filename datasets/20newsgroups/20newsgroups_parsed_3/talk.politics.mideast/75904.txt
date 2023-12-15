@@ -20,7 +20,7 @@ govern
 agent
 under
 the
-guis
+gui
 of
 serdar
 argic

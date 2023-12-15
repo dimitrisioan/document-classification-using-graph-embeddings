@@ -192,7 +192,7 @@ my
 car
 if
 someon
-els
+el
 had
 an
 accid
@@ -208,7 +208,7 @@ obvious
 doesnt
 alway
 work
-els
+el
 whi
 would
 they
@@ -426,7 +426,7 @@ how
 we
 arent
 nail
-dui
+duo
 hard
 enough
 compar

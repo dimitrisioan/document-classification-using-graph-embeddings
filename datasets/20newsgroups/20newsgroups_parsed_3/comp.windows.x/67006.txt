@@ -22,7 +22,7 @@ pc
 softwar
 emul
 base
-pleas
+plea
 tell
 me
 manufactur

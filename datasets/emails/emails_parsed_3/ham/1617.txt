@@ -3,7 +3,7 @@ re
 enl
 dailyupd
 txt
-pleas
+plea
 respond
 to
 lyri

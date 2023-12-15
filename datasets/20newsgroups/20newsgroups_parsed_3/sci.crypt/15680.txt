@@ -148,7 +148,7 @@ of
 a
 strategi
 that
-leaf
+leav
 their
 method
 open
@@ -182,7 +182,7 @@ to
 mistak
 a
 everyon
-els
+el
 third
 sinc
 most
@@ -333,7 +333,7 @@ of
 encrypt
 if
 noth
-els
+el
 were
 aval
 none
@@ -373,7 +373,7 @@ or
 pgp
 or
 anyth
-els
+el
 if
 it
 work

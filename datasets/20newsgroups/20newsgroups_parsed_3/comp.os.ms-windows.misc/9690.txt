@@ -51,7 +51,7 @@ the
 print
 doe
 anybodi
-us
+use
 thi
 two
 program

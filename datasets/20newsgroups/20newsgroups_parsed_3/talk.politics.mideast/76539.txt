@@ -632,7 +632,7 @@ no
 doubt
 that
 law
-pass
+pas
 provid
 a
 framework
@@ -1603,7 +1603,7 @@ a
 case
 in
 point
-pleas
+plea
 provid
 factual
 evid

@@ -354,7 +354,7 @@ run
 give
 stage
 patterson
-go
+goe
 through
 for
 a
@@ -543,7 +543,7 @@ seem
 more
 concern
 about
-pleas
+plea
 that
 idiot
 danforth
@@ -695,7 +695,7 @@ sauer
 are
 idiot
 noth
-els
+el
 will
 on
 a

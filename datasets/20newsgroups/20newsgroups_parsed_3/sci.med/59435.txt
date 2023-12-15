@@ -172,7 +172,7 @@ appli
 give
 doctor
 confirmatori
-diagnosi
+diagnos
 in
 le
 than
@@ -197,7 +197,7 @@ yet
 further
 provid
 confirmatori
-diagnosi
+diagnos
 in
 le
 than
@@ -411,7 +411,7 @@ is
 attribut
 dr
 ross
-belief
+believ
 to
 the
 theori
@@ -593,7 +593,7 @@ issu
 and
 other
 inform
-pleas
+plea
 contact
 john
 lockhart
@@ -692,7 +692,7 @@ of
 death
 take
 approxim
-life
+live
 each
 year
 while

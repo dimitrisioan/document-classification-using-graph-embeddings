@@ -63,7 +63,7 @@ ve
 done
 it
 scott
-pleas
+plea
 take
 a
 look

@@ -182,7 +182,7 @@ me
 an
 oper
 that
-belief
+believ
 their
 voic
 busi
@@ -444,7 +444,7 @@ a
 hybrid
 devic
 that
-us
+use
 the
 mobil
 network

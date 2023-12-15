@@ -2,7 +2,7 @@ howard
 reject
 bnp
 claim
-tori
+torus
 leader
 michael
 howard
@@ -40,7 +40,7 @@ to
 switch
 to
 the
-tori
+torus
 over
 the
 issu
@@ -54,7 +54,7 @@ the
 idea
 that
 the
-tori
+torus
 and
 bnp
 appeal
@@ -110,7 +110,7 @@ fair
 immigr
 control
 the
-tori
+torus
 have
 promis
 an
@@ -199,7 +199,7 @@ told
 the
 independ
 the
-tori
+torus
 plan
 were
 a
@@ -220,7 +220,7 @@ a
 nationwid
 basi
 the
-tori
+torus
 will
 con
 enough
@@ -311,7 +311,7 @@ there
 which
 we
 can
-discu
+discus
 in
 a
 calm

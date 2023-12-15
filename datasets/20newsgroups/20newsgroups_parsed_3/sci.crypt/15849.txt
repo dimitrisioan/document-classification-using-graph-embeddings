@@ -690,7 +690,7 @@ secret
 key
 through
 public
-discuss
+discus
 g
 brassard
 and

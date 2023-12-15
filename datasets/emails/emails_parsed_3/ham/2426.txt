@@ -41,7 +41,7 @@ vinc
 p
 s
 shirley
-pleas
+plea
 call
 shane
 to
@@ -242,7 +242,7 @@ you
 mention
 in
 your
-discuss
+discus
 academ
 research
 know

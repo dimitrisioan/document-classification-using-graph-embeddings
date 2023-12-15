@@ -106,7 +106,7 @@ basic
 averag
 when
 everyon
-els
+el
 in
 the
 medium
@@ -402,7 +402,7 @@ to
 way
 too
 mani
-bia
+bias
 a
 for
 them

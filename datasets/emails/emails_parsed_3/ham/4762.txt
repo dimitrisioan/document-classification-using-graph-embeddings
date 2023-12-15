@@ -47,7 +47,7 @@ financi
 model
 that
 hsb
-us
+use
 for
 new
 product
@@ -167,7 +167,7 @@ setup
 an
 hour
 to
-discu
+discus
 thank
 rick
 jone

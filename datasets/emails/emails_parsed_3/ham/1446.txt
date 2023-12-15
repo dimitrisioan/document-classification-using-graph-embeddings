@@ -52,7 +52,7 @@ frank
 speight
 nelson
 to
-discu
+discus
 data
 sourc
 data
@@ -129,7 +129,7 @@ model
 moreov
 per
 our
-discuss
+discus
 thi
 afternoon
 addit

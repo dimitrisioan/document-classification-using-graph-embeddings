@@ -1243,7 +1243,7 @@ in
 a
 much
 more
-dens
+den
 area
 so
 he
@@ -1587,7 +1587,7 @@ ndp
 clean
 up
 a
-tori
+torus
 spend
 mess
 and
@@ -1606,7 +1606,7 @@ sad
 stori
 and
 saskatchewan
-tori
+torus
 leader
 grant
 devin
@@ -1706,7 +1706,7 @@ a
 lower
 catastroph
 threshold
-els
+el
 there
 still
 be
@@ -2168,7 +2168,7 @@ big
 govern
 mental
 often
-imago
+imagin
 govern
 where
 it

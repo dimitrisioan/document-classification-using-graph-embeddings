@@ -61,7 +61,7 @@ listen
 in
 on
 galileo
-pleas
+plea
 be
 more
 specif

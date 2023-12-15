@@ -48,7 +48,7 @@ implement
 of
 the
 toolkit
-us
+use
 xsi
 our
 toolkit
@@ -354,7 +354,7 @@ charset
 xcharset
 xcharsetcsnam
 null
-els
+el
 charset
 null
 return

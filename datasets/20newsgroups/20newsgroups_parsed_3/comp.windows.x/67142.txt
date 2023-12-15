@@ -31,7 +31,7 @@ wether
 i
 have
 to
-pars
+par
 it
 manual
 or
@@ -55,7 +55,7 @@ the
 intrins
 it
 is
-pars
+par
 for
 you
 if
@@ -68,7 +68,7 @@ xlib
 level
 you
 can
-pars
+par
 it
 yourself
 or
@@ -104,7 +104,7 @@ retriev
 the
 valu
 and
-pars
+par
 it
 use
 xparsegeometri
@@ -113,7 +113,7 @@ is
 probabl
 quicker
 to
-pars
+par
 it
 yourself
 from

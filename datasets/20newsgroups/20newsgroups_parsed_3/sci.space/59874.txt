@@ -605,7 +605,7 @@ not
 use
 by
 anyon
-els
+el
 it
 also
 like
@@ -702,7 +702,7 @@ refer
 cite
 dure
 net
-discuss
+discus
 were
 avat
 week
@@ -716,7 +716,7 @@ overal
 great
 explor
 nasa
-assess
+ass
 of
 the
 llnl
@@ -908,7 +908,7 @@ more
 besid
 includ
 consider
-discuss
+discus
 of
 past
 lunar
@@ -1562,7 +1562,7 @@ than
 detail
 design
 chapter
-appendix
+appendic
 about
 page
 it
@@ -1789,7 +1789,7 @@ summar
 the
 previou
 paper
-go
+goe
 into
 detail
 on
@@ -2767,7 +2767,7 @@ forward
 avon
 isbn
 nontechn
-discuss
+discus
 of
 tether
 antimatt
@@ -2868,7 +2868,7 @@ told
 so
 flaw
 in
-discuss
+discus
 of
 dsp
 rhyolit

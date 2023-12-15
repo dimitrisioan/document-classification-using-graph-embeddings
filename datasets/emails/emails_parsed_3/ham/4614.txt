@@ -1,6 +1,6 @@
 subject
 risk
-assess
+ass
 thi
 is
 to
@@ -21,7 +21,7 @@ shawn
 kilchrist
 regard
 risk
-assess
+ass
 for
 locat
 is
@@ -31,7 +31,7 @@ you
 have
 ani
 question
-pleas
+plea
 call
 me
 at

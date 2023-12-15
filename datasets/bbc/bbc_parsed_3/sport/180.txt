@@ -72,7 +72,7 @@ henri
 camara
 rest
 brentford
-bo
+bos
 martin
 allen
 after
@@ -127,7 +127,7 @@ it
 wa
 alreadi
 southampton
-bo
+bos
 harri
 redknapp
 we

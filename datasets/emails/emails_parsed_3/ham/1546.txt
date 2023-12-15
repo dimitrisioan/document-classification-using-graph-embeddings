@@ -11,7 +11,7 @@ posit
 data
 dear
 all
-pleas
+plea
 see
 attach
 spreadsheet

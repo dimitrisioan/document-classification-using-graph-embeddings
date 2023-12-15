@@ -65,7 +65,7 @@ british
 object
 he
 ad
-tori
+torus
 leader
 michael
 howard
@@ -104,7 +104,7 @@ howard
 ad
 but
 the
-tori
+torus
 leader
 argu
 that

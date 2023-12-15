@@ -9,7 +9,7 @@ churn
 list
 ani
 question
-pleas
+plea
 call
 kevin
 moor

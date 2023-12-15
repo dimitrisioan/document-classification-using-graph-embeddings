@@ -62,10 +62,10 @@ on
 make
 some
 exampl
-discuss
+discus
 purpos
 to
-discu
+discus
 with
 them
 on
@@ -89,7 +89,7 @@ let
 me
 know
 what
-els
+el
 you
 will
 need

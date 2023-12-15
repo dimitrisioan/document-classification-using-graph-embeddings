@@ -50,7 +50,7 @@ stat
 canadian
 american
 european
-pleas
+plea
 note
 that
 these

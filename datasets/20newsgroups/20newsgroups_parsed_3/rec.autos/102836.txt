@@ -192,7 +192,7 @@ with
 a
 stick
 all
-els
+el
 be
 equal
 rememb

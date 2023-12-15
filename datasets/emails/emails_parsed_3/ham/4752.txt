@@ -553,7 +553,7 @@ se
 server
 edit
 varwork
-s
+se
 dynam
 risk
 analysi
@@ -583,7 +583,7 @@ www
 fea
 com
 p
-vars
+var
 htm
 did
 you
@@ -681,7 +681,7 @@ it
 becom
 avail
 or
-brows
+brow
 the
 octob
 seminar
@@ -751,7 +751,7 @@ idea
 for
 futur
 topic
-pleas
+plea
 send
 an
 email

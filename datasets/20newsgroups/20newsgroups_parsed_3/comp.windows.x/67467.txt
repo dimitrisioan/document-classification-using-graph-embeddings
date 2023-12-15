@@ -117,7 +117,7 @@ the
 default
 for
 xmncolumn
-pleas
+plea
 note
 that
 hardcod

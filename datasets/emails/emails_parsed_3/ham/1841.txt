@@ -210,7 +210,7 @@ make
 in
 their
 present
-pleas
+plea
 provid
 thi
 inform
@@ -294,7 +294,7 @@ approach
 are
 survey
 and
-discuss
+discus
 panelist
 lanc
 cunningham

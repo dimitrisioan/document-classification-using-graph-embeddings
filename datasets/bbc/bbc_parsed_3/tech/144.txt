@@ -368,7 +368,7 @@ ac
 milan
 the
 list
-go
+goe
 on
 a
 veri
@@ -417,7 +417,7 @@ case
 of
 champion
 or
-els
+el
 obvious
 the
 expect
@@ -507,7 +507,7 @@ the
 surfac
 not
 much
-els
+el
 seem
 to
 have
@@ -540,7 +540,7 @@ medium
 about
 the
 opposit
-boss
+bos
 the
 match
 engin
@@ -740,7 +740,7 @@ forget
 there
 wa
 anyth
-els
+el
 befor
 it
 if

@@ -154,7 +154,7 @@ the
 sun
 a
 a
-go
+goe
 from
 to
 degre

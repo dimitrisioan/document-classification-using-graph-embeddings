@@ -156,7 +156,7 @@ to
 phil
 veri
 infom
-discuss
+discus
 the
 follow
 caveat
@@ -327,7 +327,7 @@ crime
 in
 the
 technic
-sens
+sen
 the
 realli
 tricki

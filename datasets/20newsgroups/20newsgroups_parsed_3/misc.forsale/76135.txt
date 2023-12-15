@@ -71,7 +71,7 @@ max
 version
 now
 ask
-pleas
+plea
 email
 or
 use

@@ -75,7 +75,7 @@ of
 v
 alloc
 alloc
-pleas
+plea
 alloc
 the
 rest
@@ -133,7 +133,7 @@ can
 we
 meet
 to
-discu
+discus
 the
 alloc
 to

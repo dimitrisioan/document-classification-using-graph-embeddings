@@ -42,7 +42,7 @@ botch
 your
 favorit
 acronym
-pleas
+plea
 let
 me
 know
@@ -528,7 +528,7 @@ advanc
 xray
 astrophys
 facil
-bats
+bat
 burst
 and
 transient
@@ -616,7 +616,7 @@ high
 angular
 resolut
 astronomi
-cirri
+cirrus
 cryogen
 infrar
 radianc
@@ -953,7 +953,7 @@ time
 also
 call
 ut
-go
+goe
 geostationari
 orbit
 environment
@@ -1577,7 +1577,7 @@ space
 scienc
 and
 applic
-oss
+os
 orient
 scintil
 spectromet
@@ -2305,7 +2305,7 @@ prefix
 eq
 oldword
 prefix
-els
+el
 prefix
 letter
 if
@@ -2347,7 +2347,7 @@ if
 word
 trazaz
 word
-els
+el
 localw
 substroldword
 do

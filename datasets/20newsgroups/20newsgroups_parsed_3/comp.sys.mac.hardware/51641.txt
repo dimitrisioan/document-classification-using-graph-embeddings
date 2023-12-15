@@ -69,7 +69,7 @@ littl
 problem
 the
 plu
-us
+use
 an
 rj
 jack
@@ -168,7 +168,7 @@ have
 done
 thi
 befor
-pleas
+plea
 email
 your
 experi

@@ -71,7 +71,7 @@ it
 would
 never
 have
-pass
+pas
 compil
 thi
 is
@@ -191,7 +191,7 @@ not
 receiv
 thi
 email
-pleas
+plea
 let
 me
 employ

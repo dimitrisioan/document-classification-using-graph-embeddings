@@ -370,7 +370,7 @@ de
 zeeuw
 taylor
 stone
-ciss
+cis
 quashi
 berkov
 fay

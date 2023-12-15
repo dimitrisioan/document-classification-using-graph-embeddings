@@ -221,7 +221,7 @@ palestinian
 export
 and
 import
-pass
+pas
 through
 neighbour
 port

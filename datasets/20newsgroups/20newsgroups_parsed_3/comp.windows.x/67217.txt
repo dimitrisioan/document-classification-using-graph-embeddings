@@ -43,7 +43,7 @@ start
 of
 line
 to
-pa
+pas
 makefil
 comment
 thru

@@ -179,7 +179,7 @@ is
 expect
 to
 be
-pass
+pas
 by
 california
 voter
@@ -237,7 +237,7 @@ profit
 and
 is
 now
-pois
+poi
 for
 explos
 growth
@@ -460,7 +460,7 @@ allow
 school
 district
 to
-canva
+canvas
 propos
 from
 modular
@@ -513,7 +513,7 @@ a
 modular
 vendor
 who
-poss
+posse
 a
 piggyback
 contract
@@ -698,7 +698,7 @@ bond
 propos
 proposit
 wa
-pass
+pas
 by
 california
 voter
@@ -717,7 +717,7 @@ of
 local
 bond
 measur
-pass
+pas
 by
 variou
 school

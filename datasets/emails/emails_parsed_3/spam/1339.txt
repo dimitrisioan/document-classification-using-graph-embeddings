@@ -76,7 +76,7 @@ jul
 receiv
 from
 catv
-media
+medium
 ne
 jp
 helo

@@ -15,7 +15,7 @@ jason
 smith
 wrote
 the
-discuss
+discus
 begin
 whi
 doe
@@ -222,7 +222,7 @@ easi
 to
 doubt
 everyth
-els
+el
 i
 can
 not
@@ -322,7 +322,7 @@ not
 sure
 whether
 anyth
-els
+el
 exist
 but
 hi
@@ -652,7 +652,7 @@ are
 more
 appropri
 for
-discuss
+discus
 like
 thi
 a

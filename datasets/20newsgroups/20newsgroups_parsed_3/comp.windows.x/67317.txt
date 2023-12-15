@@ -45,7 +45,7 @@ and
 send
 the
 first
-expos
+expo
 event
 to
 itself

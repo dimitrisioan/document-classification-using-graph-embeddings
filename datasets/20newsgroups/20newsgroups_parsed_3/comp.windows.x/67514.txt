@@ -104,7 +104,7 @@ dsysv
 dsysv
 dsco
 dsvid
-curs
+cur
 lcurs
 ldoption
 s

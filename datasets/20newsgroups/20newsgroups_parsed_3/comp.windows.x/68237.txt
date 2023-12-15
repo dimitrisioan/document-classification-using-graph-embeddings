@@ -74,7 +74,7 @@ where
 each
 text
 string
-go
+goe
 on
 the
 page
@@ -188,7 +188,7 @@ if
 line
 p
 printffn
-els
+el
 if
 line
 s

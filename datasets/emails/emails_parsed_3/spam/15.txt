@@ -73,7 +73,7 @@ at
 a
 promot
 fee
-pleas
+plea
 contact
 u
 promptli
@@ -140,7 +140,7 @@ remov
 from
 thi
 list
-pleas
+plea
 respond
 to
 the

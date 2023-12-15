@@ -5,7 +5,7 @@ option
 open
 shirley
 austin
-pleas
+plea
 set
 up
 an
@@ -236,7 +236,7 @@ oper
 research
 could
 you
-pa
+pas
 my
 resum
 on

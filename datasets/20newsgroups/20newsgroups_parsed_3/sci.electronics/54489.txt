@@ -30,7 +30,7 @@ have
 a
 circuit
 that
-us
+use
 an
 opamp
 power

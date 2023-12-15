@@ -2,7 +2,7 @@ subject
 re
 lanc
 cunningham
-discuss
+discus
 with
 lanc
 dure
@@ -64,7 +64,7 @@ inc
 indic
 in
 gc
-pleas
+plea
 give
 more
 detail

@@ -62,7 +62,7 @@ skill
 of
 speech
 writer
-canvass
+canvas
 and
 polit
 candid
@@ -188,7 +188,7 @@ candid
 speech
 writer
 and
-canvass
+canvas
 michael
 rafteri
 project

@@ -332,7 +332,7 @@ and
 our
 peopl
 to
-discu
+discus
 the
 model
 input
@@ -488,7 +488,7 @@ we
 stuck
 around
 to
-discu
+discus
 thing
 a
 littl

@@ -31,7 +31,7 @@ m
 enron
 it
 purchas
-pleas
+plea
 send
 all
 statu

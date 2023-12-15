@@ -32,7 +32,7 @@ have
 the
 relev
 number
-pleas
+plea
 note
 thi
 is
@@ -352,7 +352,7 @@ object
 is
 that
 your
-discuss
+discus
 two
 differ
 thing
@@ -507,7 +507,7 @@ the
 crime
 use
 of
-knife
+knive
 it
 is
 allow
@@ -592,7 +592,7 @@ of
 both
 gun
 and
-knife
+knive
 some
 allow
 conceal
@@ -729,7 +729,7 @@ but
 essenti
 what
 were
-discuss
+discus
 is
 that
 becuas
@@ -1019,7 +1019,7 @@ get
 yourself
 or
 somebodi
-els
+el
 kill
 or
 a

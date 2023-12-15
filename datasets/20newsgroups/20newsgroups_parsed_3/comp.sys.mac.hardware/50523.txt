@@ -572,7 +572,7 @@ is
 just
 a
 common
-chines
+chine
 name
 especi
 in
@@ -581,7 +581,7 @@ california
 with
 the
 enorm
-chines
+chine
 commun
 besid
 one
@@ -605,7 +605,7 @@ to
 my
 school
 and
-life
+live
 in
 the
 next

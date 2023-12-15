@@ -136,7 +136,7 @@ the
 allparti
 group
 includ
-tori
+torus
 ken
 clark
 and
@@ -314,7 +314,7 @@ our
 parliament
 the
 group
-belief
+believ
 pressur
 is
 grow

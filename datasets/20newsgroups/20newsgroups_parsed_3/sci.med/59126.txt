@@ -680,7 +680,7 @@ the
 role
 of
 dysplast
-nevu
+nevus
 and
 their
 signific
@@ -704,7 +704,7 @@ present
 by
 expert
 and
-discuss
+discus
 by
 the
 audienc
@@ -1087,7 +1087,7 @@ center
 an
 institut
 must
-pa
+pas
 rigor
 peer
 review
@@ -1955,7 +1955,7 @@ rhode
 island
 st
 jude
-children
+child
 research
 hospit
 north
@@ -2215,7 +2215,7 @@ l
 or
 dir
 command
-pleas
+plea
 compress
 your
 file
@@ -2240,7 +2240,7 @@ disk
 space
 after
 upload
-pleas
+plea
 send
 email
 to
@@ -2292,7 +2292,7 @@ otherwis
 be
 distribut
 freeli
-pleas
+plea
 do
 not
 upload
@@ -2318,7 +2318,7 @@ for
 other
 oper
 system
-pleas
+plea
 contact
 either
 steve

@@ -369,7 +369,7 @@ when
 fortyeight
 hour
 have
-laps
+lap
 sinc
 the
 instal

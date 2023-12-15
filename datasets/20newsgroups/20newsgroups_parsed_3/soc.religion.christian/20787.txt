@@ -178,7 +178,7 @@ our
 head
 and
 our
-children
+child
 head
 a
 vers

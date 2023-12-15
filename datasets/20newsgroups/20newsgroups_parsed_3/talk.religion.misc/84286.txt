@@ -1083,7 +1083,7 @@ god
 or
 of
 someon
-els
+el
 is
 he
 to
@@ -1393,7 +1393,7 @@ not
 the
 father
 or
-els
+el
 the
 father
 is
@@ -1658,7 +1658,7 @@ who
 is
 speak
 or
-els
+el
 the
 father
 is
@@ -1791,7 +1791,7 @@ son
 of
 god
 the
-thief
+thiev
 also
 which
 were
@@ -1930,7 +1930,7 @@ togeth
 against
 me
 they
-devis
+devi
 to
 take
 away
@@ -2035,7 +2035,7 @@ togeth
 against
 me
 they
-devis
+devi
 to
 take
 away
@@ -2065,7 +2065,7 @@ to
 jesu
 christ
 vers
-go
+goe
 on
 to
 tell
@@ -2433,7 +2433,7 @@ of
 u
 all
 it
-pleas
+plea
 the
 lord
 to
@@ -2511,7 +2511,7 @@ vers
 read
 yet
 it
-pleas
+plea
 the
 lord
 jehovah
@@ -2916,7 +2916,7 @@ the
 earth
 for
 thi
-possess
+posse
 mcconki
 said
 these
@@ -3458,7 +3458,7 @@ should
 be
 enough
 to
-expos
+expo
 their
 error
 now
@@ -3613,7 +3613,7 @@ it
 shall
 come
 to
-pa
+pas
 that
 whosoev
 shall
@@ -4322,7 +4322,7 @@ and
 there
 is
 none
-els
+el
 there
 is
 no
@@ -4708,7 +4708,7 @@ that
 dwelleth
 between
 the
-cherubim
+cherub
 sam
 the
 great
@@ -5358,7 +5358,7 @@ elohim
 there
 is
 none
-els
+el
 besid
 him
 deut

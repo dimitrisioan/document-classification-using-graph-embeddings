@@ -93,7 +93,7 @@ not
 true
 ide
 bu
-us
+use
 signal
 which
 ha
@@ -230,7 +230,7 @@ they
 are
 not
 intend
-pleas
+plea
 consid
 that
 english

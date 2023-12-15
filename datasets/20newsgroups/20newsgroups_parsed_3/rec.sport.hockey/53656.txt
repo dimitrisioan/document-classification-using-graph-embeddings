@@ -69,7 +69,7 @@ peopl
 start
 sneak
 octopu
-octopu
+octopus
 into
 the
 joe

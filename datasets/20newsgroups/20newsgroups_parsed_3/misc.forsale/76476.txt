@@ -5,7 +5,7 @@ aircraft
 for
 sale
 or
-leas
+lea
 in
 articl
 write
@@ -19,7 +19,7 @@ to
 either
 sell
 or
-leas
+lea
 the
 server
 of
@@ -47,7 +47,7 @@ is
 the
 price
 of
-leas
+lea
 is
 per
 month
@@ -82,7 +82,7 @@ pilot
 the
 price
 of
-leas
+lea
 doe
 not
 includ
@@ -130,7 +130,7 @@ if
 you
 are
 interest
-pleas
+plea
 contact
 at
 your

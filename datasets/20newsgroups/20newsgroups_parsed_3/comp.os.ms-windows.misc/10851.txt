@@ -55,7 +55,7 @@ doe
 read
 k
 disk
-pleas
+plea
 let
 me
 know

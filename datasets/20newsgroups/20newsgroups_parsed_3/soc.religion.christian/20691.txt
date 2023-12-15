@@ -10,7 +10,7 @@ write
 question
 for
 further
-discuss
+discus
 a
 they
 say
@@ -35,7 +35,7 @@ how
 come
 we
 dont
-pa
+pas
 out
 bulletproof
 vest

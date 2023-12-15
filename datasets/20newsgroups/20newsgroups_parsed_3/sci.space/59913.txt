@@ -237,13 +237,13 @@ correct
 taff
 also
 briefli
-discu
+discus
 stellar
 dynam
 includ
 a
 short
-discuss
+discus
 of
 nbodi
 problem
@@ -1235,7 +1235,7 @@ compuserv
 geni
 and
 mani
-bb
+bbs
 some
 refer
 for
@@ -1512,7 +1512,7 @@ att
 and
 to
 site
-possess
+posse
 a
 unix
 sourc

@@ -84,7 +84,7 @@ of
 a
 highspe
 comput
-pleas
+plea
 send
 refer
 or
@@ -169,7 +169,7 @@ a
 issu
 b
 is
-discuss
+discus
 in
 compsecuritymisc
 longer

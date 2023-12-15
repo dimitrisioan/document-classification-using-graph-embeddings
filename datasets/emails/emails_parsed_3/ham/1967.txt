@@ -23,7 +23,7 @@ in
 tomorrow
 feb
 call
-pleas
+plea
 let
 me
 know
@@ -79,7 +79,7 @@ team
 melinda
 would
 you
-pleas
+plea
 coordin
 john
 henderson
@@ -254,7 +254,7 @@ both
 think
 is
 best
-pleas
+plea
 let
 me
 know
@@ -285,7 +285,7 @@ piazz
 at
 wharton
 melinda
-pleas
+plea
 includ
 john
 in

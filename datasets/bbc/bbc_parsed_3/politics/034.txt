@@ -1,8 +1,8 @@
-tori
+torus
 attack
 burglar
 uturn
-tori
+torus
 leader
 michael
 howard
@@ -79,7 +79,7 @@ last
 month
 back
 a
-tori
+torus
 attempt
 to
 chang
@@ -408,7 +408,7 @@ him
 alight
 he
 said
-tori
+torus
 mp
 patrick
 mercer
@@ -428,7 +428,7 @@ parliament
 on
 wednesday
 and
-go
+goe
 to
 a
 full

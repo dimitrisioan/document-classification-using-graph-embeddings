@@ -59,7 +59,7 @@ number
 anjam
 a
 request
-pleas
+plea
 find
 enclos
 detail
@@ -194,7 +194,7 @@ would
 like
 further
 detail
-pleas
+plea
 forward
 thi
 messag

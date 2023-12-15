@@ -92,7 +92,7 @@ a
 thing
 scienc
 never
-prof
+prove
 or
 disprov
 ani
@@ -141,7 +141,7 @@ get
 embroil
 in
 a
-discuss
+discus
 over
 word
 here

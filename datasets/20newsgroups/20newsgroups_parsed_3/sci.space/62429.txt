@@ -138,7 +138,7 @@ bright
 point
 of
 light
-pass
+pas
 through
 the
 field
@@ -374,7 +374,7 @@ is
 absurd
 mayb
 common
-sens
+sen
 and
 logic
 are

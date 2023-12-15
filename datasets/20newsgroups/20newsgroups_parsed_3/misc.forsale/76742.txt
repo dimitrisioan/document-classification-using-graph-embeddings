@@ -22,7 +22,7 @@ and
 ship
 is
 includ
-pleas
+plea
 repli
 by
 email

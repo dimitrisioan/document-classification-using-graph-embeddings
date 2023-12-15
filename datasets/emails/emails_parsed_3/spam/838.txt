@@ -21,7 +21,7 @@ imag
 do
 not
 appear
-pleas
+plea
 click
 the
 follow
@@ -62,7 +62,7 @@ unsubscrib
 from
 thi
 list
-pleas
+plea
 click
 here
 and

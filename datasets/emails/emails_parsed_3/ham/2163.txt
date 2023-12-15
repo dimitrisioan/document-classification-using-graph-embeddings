@@ -6,7 +6,7 @@ jeff
 lei
 he
 attach
-pleas
+plea
 find
 the
 interview
@@ -22,7 +22,7 @@ will
 happen
 friday
 juli
-pleas
+plea
 print
 all
 three
@@ -40,7 +40,7 @@ or
 conflict
 of
 schedul
-pleas
+plea
 do
 not
 hesit

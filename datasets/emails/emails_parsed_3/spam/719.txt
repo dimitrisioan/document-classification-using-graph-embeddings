@@ -197,7 +197,7 @@ ago
 not
 reprint
 hurri
-pleas
+plea
 respond
 now
 befor
@@ -234,7 +234,7 @@ is
 not
 the
 case
-pleas
+plea
 click
 on
 the
@@ -247,7 +247,7 @@ remov
 from
 our
 databas
-pleas
+plea
 take
 me
 off

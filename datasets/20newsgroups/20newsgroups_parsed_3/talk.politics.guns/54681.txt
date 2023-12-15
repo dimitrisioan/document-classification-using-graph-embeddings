@@ -56,7 +56,7 @@ a
 collector
 ffl
 to
-poss
+posse
 collect
 handgun
 what

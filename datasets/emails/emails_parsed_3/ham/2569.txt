@@ -335,7 +335,7 @@ lead
 to
 servic
 interrupt
-pleas
+plea
 take
 a
 minut
@@ -382,7 +382,7 @@ updat
 your
 bill
 inform
-pleas
+plea
 ignor
 thi
 addit
@@ -399,7 +399,7 @@ question
 concern
 thi
 messag
-pleas
+plea
 call
 member
 servic
@@ -441,7 +441,7 @@ have
 ani
 further
 question
-pleas
+plea
 do
 not
 hesit
@@ -496,7 +496,7 @@ field
 field
 field
 other
-pleas
+plea
 give
 detail
 below
@@ -539,7 +539,7 @@ i
 did
 not
 move
-pleas
+plea
 let
 me
 know

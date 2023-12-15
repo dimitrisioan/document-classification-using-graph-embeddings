@@ -40,7 +40,7 @@ im
 sure
 onc
 demand
-go
+goe
 up
 the
 price
@@ -188,7 +188,7 @@ play
 with
 it
 anyon
-els
+el
 out
 there
 got

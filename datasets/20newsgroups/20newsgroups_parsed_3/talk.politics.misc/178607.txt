@@ -45,7 +45,7 @@ clayton
 mr
 logicnot
 cramer
-pleas
+plea
 give
 evid
 of

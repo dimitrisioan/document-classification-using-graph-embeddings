@@ -93,7 +93,7 @@ for
 do
 comput
 that
-us
+use
 a
 standard
 xr

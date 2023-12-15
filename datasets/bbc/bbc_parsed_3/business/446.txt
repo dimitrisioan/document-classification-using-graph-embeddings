@@ -101,7 +101,7 @@ from
 confront
 in
 a
-tens
+ten
 disput
 over
 aircraft

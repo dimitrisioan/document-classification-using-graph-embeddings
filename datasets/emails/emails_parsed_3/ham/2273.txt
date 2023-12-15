@@ -101,7 +101,7 @@ thi
 make
 an
 intuit
-sens
+sen
 for
 exampl
 in
@@ -150,7 +150,7 @@ ll
 be
 happi
 to
-discu
+discus
 the
 model
 in

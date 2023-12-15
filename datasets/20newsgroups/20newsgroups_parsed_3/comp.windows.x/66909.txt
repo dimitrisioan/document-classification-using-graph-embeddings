@@ -32,7 +32,7 @@ i
 need
 basic
 capabl
-ax
+axe
 label
 log
 and
@@ -375,7 +375,7 @@ in
 ani
 publish
 paper
-pleas
+plea
 includ
 an
 acknowledg
@@ -393,7 +393,7 @@ continu
 improv
 plplot
 also
-pleas
+plea
 rememb
 that
 a
@@ -525,7 +525,7 @@ of
 sever
 tex
 file
-pleas
+plea
 consult
 thi
 for
@@ -602,7 +602,7 @@ on
 your
 system
 see
-appendix
+appendic
 to
 the
 plplot
@@ -663,7 +663,7 @@ form
 includ
 mauric
 lebrun
-pleas
+plea
 send
 all
 comment
@@ -714,7 +714,7 @@ austin
 tx
 geoff
 furnish
-pleas
+plea
 send
 question
 regard
@@ -744,7 +744,7 @@ creator
 of
 plplot
 b
-pleas
+plea
 send
 question
 regard

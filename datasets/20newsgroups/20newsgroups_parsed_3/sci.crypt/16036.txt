@@ -116,7 +116,7 @@ but
 that
 each
 chip
-us
+use
 it
 own
 key

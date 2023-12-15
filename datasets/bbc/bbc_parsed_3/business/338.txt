@@ -1,9 +1,9 @@
 polic
 detain
-chines
+chine
 milk
-boss
-chines
+bos
+chine
 polic
 have
 detain
@@ -164,7 +164,7 @@ bright
 dairi
 domin
 a
-chines
+chine
 milk
 market
 that
@@ -188,7 +188,7 @@ the
 latest
 to
 befal
-chines
+chine
 compani
 thi
 year

@@ -155,7 +155,7 @@ last
 day
 s
 everyth
-els
+el
 last
 day
 s
@@ -179,7 +179,7 @@ last
 day
 s
 everyth
-els
+el
 last
 day
 s
@@ -215,7 +215,7 @@ last
 day
 s
 everyth
-els
+el
 drift
 last
 day

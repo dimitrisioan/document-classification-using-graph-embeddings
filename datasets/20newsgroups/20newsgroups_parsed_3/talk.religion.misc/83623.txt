@@ -151,7 +151,7 @@ the
 gentl
 word
 paul
-us
+use
 of
 it
 in
@@ -355,7 +355,7 @@ god
 in
 near
 success
-pleas
+plea
 go
 back
 to
@@ -616,7 +616,7 @@ to
 do
 with
 the
-discuss
+discus
 of
 sin
 in
@@ -969,7 +969,7 @@ is
 more
 than
 anyth
-els
+el
 a
 call
 to

@@ -35,7 +35,7 @@ child
 from
 other
 countri
-children
+child
 chariti
 have
 react
@@ -67,7 +67,7 @@ may
 be
 in
 the
-children
+child
 best
 interest
 if
@@ -271,7 +271,7 @@ there
 should
 be
 proper
-assess
+ass
 and
 decis
 on
@@ -448,7 +448,7 @@ or
 in
 keep
 with
-children
+child
 legisl
 that
 child
@@ -573,7 +573,7 @@ seriou
 concern
 includ
 the
-assess
+ass
 process
 for
 suitabl

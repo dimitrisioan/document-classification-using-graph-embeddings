@@ -1,7 +1,7 @@
 subject
 nhl
 summari
-pars
+par
 result
 for
 game

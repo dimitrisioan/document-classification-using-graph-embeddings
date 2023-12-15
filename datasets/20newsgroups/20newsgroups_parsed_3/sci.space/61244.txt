@@ -817,7 +817,7 @@ in
 texa
 or
 anywher
-els
+el
 it
 would
 be
@@ -959,7 +959,7 @@ have
 much
 more
 import
-us
+use
 for
 thi
 wast
@@ -1855,7 +1855,7 @@ the
 antimatt
 and
 materi
-half
+halv
 of
 the
 physic
@@ -3035,7 +3035,7 @@ materi
 aggreg
 are
 thu
-expos
+expo
 to
 a
 flux
@@ -3057,7 +3057,7 @@ other
 process
 to
 be
-discuss
+discus
 later
 wherebi
 electron
@@ -3372,7 +3372,7 @@ be
 honestli
 and
 openli
-discuss
+discus
 in
 the
 physic
@@ -3437,7 +3437,7 @@ to
 your
 question
 etc
-pleas
+plea
 consult
 my
 cite

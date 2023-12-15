@@ -350,7 +350,7 @@ the
 deriv
 of
 hi
-possess
+posse
 of
 a
 human
@@ -464,7 +464,7 @@ person
 due
 to
 the
-possess
+posse
 of
 the
 doubl
@@ -530,7 +530,7 @@ in
 essenc
 the
 substanc
-possess
+posse
 in
 common
 in
@@ -767,7 +767,7 @@ a
 somewhat
 more
 abstract
-sens
+sen
 that
 is
 they
@@ -781,7 +781,7 @@ in
 the
 usual
 english
-sens
+sen
 of
 person
 in

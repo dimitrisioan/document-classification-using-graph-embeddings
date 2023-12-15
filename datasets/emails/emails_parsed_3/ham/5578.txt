@@ -13,7 +13,7 @@ hello
 professor
 fitzgibbon
 attach
-pleas
+plea
 find
 a
 bio
@@ -33,8 +33,8 @@ if
 you
 need
 anyth
-els
-pleas
+el
+plea
 let
 me
 know
@@ -164,13 +164,13 @@ minut
 or
 so
 for
-discuss
+discus
 the
 workshop
 fund
 under
 the
-auspex
+auspic
 of
 a
 nation
@@ -297,7 +297,7 @@ thi
 is
 the
 case
-pleas
+plea
 furnish
 u
 with

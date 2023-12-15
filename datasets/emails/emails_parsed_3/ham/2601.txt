@@ -115,7 +115,7 @@ some
 instruct
 from
 you
-pleas
+plea
 let
 me
 know
@@ -127,7 +127,7 @@ me
 to
 do
 anyth
-els
+el
 or
 find
 out

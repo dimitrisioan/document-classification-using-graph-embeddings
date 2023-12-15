@@ -13,7 +13,7 @@ is
 fairli
 secur
 but
-leaf
+leav
 a
 distinct
 clipper
@@ -192,7 +192,7 @@ hawaii
 physic
 oceanographysatellit
 remot
-sens
+sen
 ripem
 public
 key

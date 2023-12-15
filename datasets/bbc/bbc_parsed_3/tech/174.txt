@@ -841,7 +841,7 @@ month
 ago
 the
 devic
-emphasi
+emphasis
 larg
 storag
 a

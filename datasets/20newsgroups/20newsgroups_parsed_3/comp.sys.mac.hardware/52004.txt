@@ -193,7 +193,7 @@ me
 file
 check
 for
-viru
+virus
 reinstal
 the
 applic
@@ -426,7 +426,7 @@ question
 c
 compsysmacmisc
 i
-viru
+virus
 help
 i
 have
@@ -434,7 +434,7 @@ a
 viru
 report
 new
-viru
+virus
 ii
 print
 and
@@ -971,7 +971,7 @@ piec
 are
 includ
 abov
-pleas
+plea
 familiar
 yourself
 with
@@ -1274,7 +1274,7 @@ ask
 that
 you
 first
-perus
+peru
 thi
 faq
 list
@@ -1370,7 +1370,7 @@ newsgroup
 macintosh
 or
 otherwis
-pleas
+plea
 familiar
 yourself
 with
@@ -1583,7 +1583,7 @@ question
 is
 answer
 anywher
-els
+el
 in
 the
 faq
@@ -1613,7 +1613,7 @@ comment
 should
 be
 post
-pleas
+plea
 familiar
 yourself
 with
@@ -1660,7 +1660,7 @@ for
 sectionnumberquestionnumb
 enclos
 in
-parenthesi
+parenthes
 for
 exampl
 to
@@ -2045,7 +2045,7 @@ few
 network
 softwar
 design
-pleas
+plea
 post
 to
 exactli
@@ -2444,7 +2444,7 @@ are
 much
 more
 thoroughli
-discuss
+discus
 in
 compdcommodem
 question
@@ -2635,7 +2635,7 @@ of
 a
 button
 so
-pleas
+plea
 dont
 feel
 oblig
@@ -2883,7 +2883,7 @@ distribut
 appl
 system
 softwar
-pleas
+plea
 read
 the
 variou
@@ -3209,7 +3209,7 @@ or
 pc
 softwar
 doe
-pleas
+plea
 check
 the
 abov
@@ -3278,7 +3278,7 @@ miss
 at
 your
 site
-pleas
+plea
 refer
 to
 the
@@ -3318,7 +3318,7 @@ them
 to
 more
 easili
-pa
+pas
 through
 foreign
 comput
@@ -3352,7 +3352,7 @@ can
 digest
 the
 macintosh
-us
+use
 a
 special
 twofork
@@ -3647,7 +3647,7 @@ to
 keep
 netbandwidth
 down
-pleas
+plea
 compress
 all
 file
@@ -4522,7 +4522,7 @@ terrifi
 world
 of
 daylight
-pleas
+plea
 dont
 bother
 the
@@ -4838,7 +4838,7 @@ sound
 familiar
 check
 for
-viru
+virus
 run
 disinfect
 or
@@ -5198,7 +5198,7 @@ use
 a
 littl
 common
-sens
+sen
 when
 choos
 the
@@ -5781,7 +5781,7 @@ rebuild
 the
 desktop
 will
-eras
+era
 all
 comment
 youv
@@ -6049,7 +6049,7 @@ paramet
 ram
 sinc
 youv
-eras
+era
 almost
 all
 the
@@ -6077,7 +6077,7 @@ the
 pram
 doe
 not
-eras
+era
 is
 the
 date
@@ -6793,7 +6793,7 @@ street
 so
 featur
 and
-eas
+ea
 of
 use
 be
@@ -7099,7 +7099,7 @@ backup
 all
 your
 file
-eras
+era
 the
 hard
 disk
@@ -7143,7 +7143,7 @@ in
 place
 ie
 without
-eras
+era
 it
 although
 the
@@ -7192,7 +7192,7 @@ sharewar
 disk
 defragment
 so
-pleas
+plea
 dont
 annoy
 the

@@ -99,7 +99,7 @@ color
 dure
 initi
 then
-pa
+pas
 the
 gc
 id

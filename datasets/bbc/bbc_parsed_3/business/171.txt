@@ -1,9 +1,9 @@
 deutsch
-boers
+boer
 boost
 dividend
 deutsch
-boers
+boer
 the
 german
 stock
@@ -64,7 +64,7 @@ cash
 to
 sharehold
 deutsch
-boers
+boer
 also
 said
 profit
@@ -96,7 +96,7 @@ bn
 euro
 frankfurtbas
 deutsch
-boers
+boer
 ha
 offer
 â£bn
@@ -122,7 +122,7 @@ late
 on
 monday
 deutsch
-boers
+boer
 said
 it
 would
@@ -168,7 +168,7 @@ disgruntl
 sharehold
 of
 deutsch
-boers
+boer
 are
 complain
 that
@@ -196,7 +196,7 @@ mr
 faraj
 continu
 deutsch
-boers
+boer
 is
 tri
 to
@@ -205,6 +205,6 @@ them
 off
 in
 a
-sens
+sen
 he
 said

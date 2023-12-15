@@ -117,7 +117,7 @@ is
 psuedostat
 ram
 and
-go
+goe
 into
 the
 pd

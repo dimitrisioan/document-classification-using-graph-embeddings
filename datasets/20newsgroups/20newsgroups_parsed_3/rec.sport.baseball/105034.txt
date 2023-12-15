@@ -374,7 +374,7 @@ indic
 of
 futur
 perform
-pleas
+plea
 let
 u
 in
@@ -393,7 +393,7 @@ alway
 ha
 and
 mark
-belief
+believ
 that
 it
 might
@@ -794,7 +794,7 @@ it
 to
 exist
 run
-prof
+prove
 noth
 can
 you

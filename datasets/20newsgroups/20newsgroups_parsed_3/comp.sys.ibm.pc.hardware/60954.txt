@@ -36,7 +36,7 @@ awar
 there
 are
 variou
-bb
+bbs
 and
 other
 similar
@@ -220,8 +220,8 @@ care
 where
 it
 is
-pleas
-pleas
+plea
+plea
 email
 me
 and

@@ -27,7 +27,7 @@ them
 shuttl
 oper
 are
-discuss
+discus
 in
 the
 usenet
@@ -76,7 +76,7 @@ faq
 ha
 been
 remov
-pleas
+plea
 refer
 to
 hi
@@ -725,7 +725,7 @@ maneuv
 in
 all
 three
-ax
+axe
 roll
 pitch
 and
@@ -788,7 +788,7 @@ combin
 all
 three
 rotat
-matrix
+matric
 in
 one
 fourel

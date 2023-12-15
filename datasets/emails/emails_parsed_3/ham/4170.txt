@@ -12,7 +12,7 @@ new
 busi
 are
 creat
-eas
+ea
 of
 movement
 and
@@ -411,7 +411,7 @@ question
 about
 the
 process
-pleas
+plea
 direct
 them
 to

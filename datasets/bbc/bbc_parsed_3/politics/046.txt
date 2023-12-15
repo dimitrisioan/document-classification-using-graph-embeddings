@@ -88,7 +88,7 @@ dure
 prime
 minist
 question
-tori
+torus
 leader
 michael
 howard
@@ -156,7 +156,7 @@ now
 foreign
 secretari
 the
-tori
+torus
 leader
 went
 on

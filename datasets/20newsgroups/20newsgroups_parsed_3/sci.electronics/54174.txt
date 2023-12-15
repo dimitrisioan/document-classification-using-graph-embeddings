@@ -128,7 +128,7 @@ differ
 whether
 the
 output
-go
+goe
 to
 a
 second
@@ -202,7 +202,7 @@ have
 to
 have
 an
-eras
+era
 head
 to
 actual

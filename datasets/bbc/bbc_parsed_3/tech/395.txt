@@ -360,7 +360,7 @@ and
 fun
 he
 firmli
-belief
+believ
 that
 entertain
 pc
@@ -774,12 +774,12 @@ which
 accord
 to
 susann
-riss
+ri
 from
 the
 compani
 can
-sens
+sen
 understand
 and
 adapt

@@ -30,7 +30,7 @@ cd
 singl
 by
 cd
-pleas
+plea
 includ
 extra
 per

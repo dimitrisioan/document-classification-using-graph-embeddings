@@ -5,7 +5,7 @@ for
 shen
 charl
 yingquan
-pleas
+plea
 find
 the
 interview
@@ -22,7 +22,7 @@ occur
 on
 friday
 octob
-pleas
+plea
 print
 all
 three
@@ -39,7 +39,7 @@ or
 conflict
 of
 schedul
-pleas
+plea
 do
 not
 hesit

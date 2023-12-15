@@ -1,7 +1,7 @@
 subject
-pleas
+plea
 thi
-discuss
+discus
 on
 view
 p
@@ -62,7 +62,7 @@ other
 newsgroup
 could
 you
-pleas
+plea
 remov
 the
 comptextinterleaf

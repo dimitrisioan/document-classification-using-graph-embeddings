@@ -93,7 +93,7 @@ said
 time
 could
 someon
-pleas
+plea
 tell
 me
 whether
@@ -304,7 +304,7 @@ care
 the
 filter
 method
-us
+use
 an
 fir
 finit

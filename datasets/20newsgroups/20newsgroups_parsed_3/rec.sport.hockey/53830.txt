@@ -2,7 +2,7 @@ subject
 re
 matt
 militzok
-pleas
+plea
 read
 in
 articl
@@ -35,7 +35,7 @@ i
 lost
 your
 address
-pleas
+plea
 put
 me
 on

@@ -352,7 +352,7 @@ when
 the
 queri
 is
-pass
+pas
 on
 to
 a
@@ -501,7 +501,7 @@ money
 but
 not
 everybodi
-belief
+believ
 that
 outsourc
 and

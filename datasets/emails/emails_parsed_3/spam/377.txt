@@ -60,7 +60,7 @@ energi
 drink
 your
 bodi
-us
+use
 it
 own
 buffer
@@ -116,7 +116,7 @@ stop
 receiv
 our
 offer
-pleas
+plea
 repli
 with
 subject

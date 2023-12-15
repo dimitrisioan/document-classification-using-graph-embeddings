@@ -13,7 +13,7 @@ in
 articl
 toni
 s
-annes
+anne
 write
 you
 have
@@ -129,5 +129,5 @@ take
 but
 second
 toni
-annes
+anne
 or

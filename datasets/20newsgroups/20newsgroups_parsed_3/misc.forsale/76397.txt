@@ -1,7 +1,7 @@
 subject
 cd
 sale
-pleas
+plea
 repli
 to
 the
@@ -82,7 +82,7 @@ johnphysicalc
 steel
 pulseregga
 greatsc
-pleas
+plea
 repli
 to
 the

@@ -182,7 +182,7 @@ recommend
 all
 remov
 honor
-pleas
+plea
 allow
 day
 to

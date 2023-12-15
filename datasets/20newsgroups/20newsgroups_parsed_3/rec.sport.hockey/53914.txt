@@ -34,7 +34,7 @@ mike
 gartner
 greg
 johnsonadam
-graf
+grave
 can
 rod
 brindamour
@@ -159,7 +159,7 @@ a
 backhand
 cross
 ice
-pa
+pas
 to
 lindro
 eric
@@ -289,7 +289,7 @@ by
 the
 far
 post
-pass
+pas
 the
 puck
 and
@@ -788,7 +788,7 @@ in
 the
 second
 period
-go
+goe
 the
 finn
 seem
@@ -848,7 +848,7 @@ gagner
 thoma
 rundqvist
 adam
-graf
+grave
 mikael
 andersson
 mike

@@ -28,7 +28,7 @@ home
 waiver
 issu
 age
-pleas
+plea
 fill
 out
 the
@@ -112,7 +112,7 @@ to
 alter
 or
 end
-bonu
+bonus
 at
 ani
 time

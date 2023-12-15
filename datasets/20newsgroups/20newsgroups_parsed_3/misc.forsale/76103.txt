@@ -21,7 +21,7 @@ but
 i
 dont
 have
-len
+lens
 or
 remot
 to
@@ -44,7 +44,7 @@ anoth
 news
 ask
 for
-len
+lens
 to
 fit
 those
@@ -81,7 +81,7 @@ trade
 for
 kodak
 projector
-len
+lens
 each
 projector
 viewer
@@ -92,7 +92,7 @@ for
 or
 kodak
 projector
-len
+lens
 depend
 on
 the

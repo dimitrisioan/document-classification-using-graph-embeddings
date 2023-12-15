@@ -224,13 +224,13 @@ my
 check
 and
 left
-needl
+needle
 to
 say
 they
 were
 not
-pleas
+plea
 by
 the
 turn
@@ -355,7 +355,7 @@ thank
 id
 go
 somewher
-els
+el
 a
 coupl
 hour
@@ -429,7 +429,7 @@ a
 few
 hour
 and
-discuss
+discus
 it
 with
 my

@@ -100,7 +100,7 @@ of
 well
 i
 wa
-pass
+pas
 a
 veri
 slow

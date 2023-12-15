@@ -143,7 +143,7 @@ wow
 pretti
 conserv
 church
-pleas
+plea
 excus
 me
 if
@@ -416,7 +416,7 @@ real
 wonder
 doe
 anyon
-els
+el
 have
 opinion
 to
@@ -558,7 +558,7 @@ assum
 that
 everyon
 who
-go
+goe
 through
 pain
 experi

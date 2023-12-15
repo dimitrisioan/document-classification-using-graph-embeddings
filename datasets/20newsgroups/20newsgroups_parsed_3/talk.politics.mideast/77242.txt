@@ -62,7 +62,7 @@ thi
 strife
 in
 yugoslavia
-go
+goe
 back
 a
 long
@@ -97,7 +97,7 @@ fresh
 case
 of
 ethnic
-cleans
+clean
 but
 just
 anoth

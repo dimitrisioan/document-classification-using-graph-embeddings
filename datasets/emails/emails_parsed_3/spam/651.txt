@@ -82,7 +82,7 @@ if
 you
 wait
 you
-loos
+loo
 peopl
 thi
 is
@@ -128,6 +128,6 @@ remov
 from
 our
 databas
-pleas
+plea
 click
 below

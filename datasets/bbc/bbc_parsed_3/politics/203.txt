@@ -6,7 +6,7 @@ action
 urg
 a
 senior
-tori
+torus
 mp
 ha
 criticis
@@ -272,7 +272,7 @@ three
 time
 the
 commiss
-assess
+ass
 of
 their
 like

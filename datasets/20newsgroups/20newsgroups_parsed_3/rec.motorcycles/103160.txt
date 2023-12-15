@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 in
 articl
@@ -13,7 +13,7 @@ cbrrr
 write
 would
 someon
-pleas
+plea
 post
 the
 counterst
@@ -178,4 +178,4 @@ to
 do
 with
 anyon
-els
+el

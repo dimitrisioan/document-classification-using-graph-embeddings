@@ -72,7 +72,7 @@ and
 inform
 system
 secur
-nti
+ntis
 advisori
 memorandum
 on

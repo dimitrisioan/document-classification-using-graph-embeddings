@@ -30,7 +30,7 @@ a
 yugo
 that
 will
-loos
+loo
 ani
 race
 on
@@ -249,7 +249,7 @@ which
 from
 all
 report
-us
+use
 the
 same
 run

@@ -82,7 +82,7 @@ pinout
 power
 requir
 function
-pleas
+plea
 send
 me
 email
@@ -234,7 +234,7 @@ blank
 input
 may
 be
-puls
+pul
 for
 intens
 modul

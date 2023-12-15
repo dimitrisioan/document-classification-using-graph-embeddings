@@ -23,7 +23,7 @@ onli
 one
 languag
 eg
-chines
+chine
 russian
 german
 english

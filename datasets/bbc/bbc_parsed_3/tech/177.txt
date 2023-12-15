@@ -11,7 +11,7 @@ clean
 up
 pc
 harbour
-viru
+virus
 and
 spywar
 the
@@ -100,7 +100,7 @@ peopl
 who
 write
 comput
-viru
+virus
 becaus
 it
 is
@@ -130,7 +130,7 @@ to
 be
 more
 than
-viru
+virus
 and
 other
 malici
@@ -144,7 +144,7 @@ that
 new
 variant
 of
-viru
+virus
 are
 be
 crank

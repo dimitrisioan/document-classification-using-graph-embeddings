@@ -156,7 +156,7 @@ your
 inform
 will
 be
-pass
+pas
 through
 a
 secur
@@ -306,7 +306,7 @@ work
 guy
 to
 order
-pleas
+plea
 open
 warezcd
 html

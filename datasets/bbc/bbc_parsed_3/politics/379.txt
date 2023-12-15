@@ -333,7 +333,7 @@ a
 labour
 rebel
 join
-tori
+torus
 and
 lib
 dem
@@ -355,7 +355,7 @@ free
 from
 terrorist
 attack
-tori
+torus
 leader
 michael
 howard
@@ -396,7 +396,7 @@ labour
 authoritarian
 respons
 to
-crisi
+crise
 the
 prevent
 of
@@ -470,7 +470,7 @@ scrutini
 on
 monday
 befor
-pass
+pas
 to
 the
 lord

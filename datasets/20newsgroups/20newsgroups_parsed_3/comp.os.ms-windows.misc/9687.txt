@@ -76,7 +76,7 @@ of
 virtual
 memori
 common
-sens
+sen
 suggest
 that
 you
@@ -103,7 +103,7 @@ the
 law
 of
 common
-sens
+sen
 dan
 daniel
 matthew

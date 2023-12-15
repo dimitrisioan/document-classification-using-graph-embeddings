@@ -13,7 +13,7 @@ which
 echo
 our
 own
-discuss
+discus
 yesterday
 i
 want
@@ -137,7 +137,7 @@ meet
 we
 had
 a
-discuss
+discus
 of
 issu
 relat
@@ -298,7 +298,7 @@ other
 locat
 it
 make
-sens
+sen
 to
 monitor
 the

@@ -28,7 +28,7 @@ both
 labour
 and
 the
-tori
+torus
 have
 signal
 their
@@ -136,7 +136,7 @@ out
 tough
 polici
 the
-tori
+torus
 are
 alreadi
 commit
@@ -172,7 +172,7 @@ strategist
 have
 seen
 the
-tori
+torus
 seiz
 a
 poll
@@ -222,7 +222,7 @@ been
 attack
 by
 the
-tori
+torus
 a
 too
 littl

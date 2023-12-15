@@ -14,7 +14,7 @@ write
 just
 a
 random
-pass
+pas
 thought
 but
 can
@@ -93,7 +93,7 @@ sig
 close
 for
 inventori
-pleas
+plea
 leav
 your
 pickax

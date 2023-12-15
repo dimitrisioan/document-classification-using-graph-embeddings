@@ -142,7 +142,7 @@ i
 let
 go
 it
-go
+goe
 behild
 it
 sibl
@@ -153,7 +153,7 @@ be
 greatli
 appreci
 manu
-pleas
+plea
 mail
 me
 at

@@ -46,7 +46,7 @@ some
 suggest
 guidelin
 for
-discuss
+discus
 the
 keyword
 monthli
@@ -106,7 +106,7 @@ newus
 document
 fail
 that
-pleas
+plea
 subscrib
 to
 the
@@ -129,7 +129,7 @@ is
 intend
 for
 technic
-discuss
+discus
 of
 automobil
 their
@@ -139,7 +139,7 @@ diagnosi
 and
 servic
 other
-discuss
+discus
 are
 larg
 inappropri
@@ -151,7 +151,7 @@ recautossport
 is
 intend
 for
-discuss
+discus
 of
 legal
 organ
@@ -159,7 +159,7 @@ competit
 involv
 automobil
 technic
-discuss
+discus
 are
 appropri
 insofar
@@ -169,7 +169,7 @@ appli
 to
 competit
 vehicl
-discuss
+discus
 from
 either
 of
@@ -191,7 +191,7 @@ a
 are
 most
 other
-discuss
+discus
 for
 sale
 ad
@@ -205,7 +205,7 @@ competit
 vehicl
 andor
 equip
-discuss
+discus
 of
 illeg
 event
@@ -228,7 +228,7 @@ recautosdriv
 is
 intend
 for
-discuss
+discus
 relat
 to
 the
@@ -239,7 +239,7 @@ also
 if
 you
 must
-discu
+discus
 v
 or
 radar
@@ -258,7 +258,7 @@ recautosvw
 is
 intend
 for
-discuss
+discus
 of
 issu
 relat
@@ -354,7 +354,7 @@ the
 correct
 place
 for
-discuss
+discus
 of
 automot
 audio
@@ -369,7 +369,7 @@ is
 intend
 for
 the
-discuss
+discus
 of
 older
 car
@@ -414,7 +414,7 @@ and
 is
 for
 seriou
-discuss
+discus
 of
 modifi
 and
@@ -442,7 +442,7 @@ car
 altautoskart
 for
 the
-discuss
+discus
 of
 the
 popular
@@ -455,7 +455,7 @@ is
 intend
 to
 captur
-discuss
+discus
 on
 all
 other
@@ -742,7 +742,7 @@ control
 where
 the
 articl
-go
+goe
 it
 is
 call
@@ -825,7 +825,7 @@ and
 on
 articl
 content
-pleas
+plea
 take
 care
 not
@@ -875,7 +875,7 @@ when
 post
 technic
 question
-pleas
+plea
 includ
 the
 market
@@ -1030,7 +1030,7 @@ limit
 where
 your
 articl
-go
+goe
 when
 possibl
 within
@@ -1187,7 +1187,7 @@ you
 ask
 a
 question
-pleas
+plea
 give
 a
 reason
@@ -1203,7 +1203,7 @@ question
 about
 your
 honda
-pleas
+plea
 specifi
 year
 model
@@ -1241,7 +1241,7 @@ honda
 admit
 to
 thi
-pleas
+plea
 dont
 wast
 everyon
@@ -1436,7 +1436,7 @@ with
 a
 phrase
 like
-pleas
+plea
 send
 email
 i
@@ -1455,7 +1455,7 @@ end
 the
 question
 with
-pleas
+plea
 send
 email
 if
@@ -1574,7 +1574,7 @@ by
 old
 timer
 while
-discuss
+discus
 of
 them
 is
@@ -1616,7 +1616,7 @@ imposs
 to
 have
 meaning
-discuss
+discus
 of
 them
 some
@@ -1636,7 +1636,7 @@ u
 pro
 and
 con
-discuss
+discus
 about
 the
 moral
@@ -1650,14 +1650,14 @@ usag
 of
 radar
 detector
-discuss
+discus
 over
 which
 radar
 detector
 is
 best
-discuss
+discus
 over
 what
 is
@@ -1706,7 +1706,7 @@ radar
 detector
 buy
 american
-discuss
+discus
 clever
 bumper
 sticker
@@ -1751,7 +1751,7 @@ post
 monthli
 until
 then
-pleas
+plea
 dont
 wast
 bandwidth
@@ -1759,7 +1759,7 @@ on
 thi
 topic
 rpw
-pleas
+plea
 direct
 comment
 and

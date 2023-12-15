@@ -353,7 +353,7 @@ it
 is
 that
 it
-us
+use
 the
 same
 technolog
@@ -694,7 +694,7 @@ he
 said
 we
 are
-focuss
+focus
 on
 the
 owner

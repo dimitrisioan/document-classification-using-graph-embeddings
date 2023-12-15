@@ -213,7 +213,7 @@ voic
 pattern
 if
 noth
-els
+el
 that
 would
 hurt

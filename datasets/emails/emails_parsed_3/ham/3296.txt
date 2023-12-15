@@ -5,7 +5,7 @@ sophi
 thank
 i
 shall
-discu
+discus
 thi
 with
 steve
@@ -72,7 +72,7 @@ thi
 you
 guy
 can
-discu
+discus
 the
 figur
 with
@@ -290,7 +290,7 @@ vest
 a
 befor
 which
-leaf
+leav
 a
 hang
 out

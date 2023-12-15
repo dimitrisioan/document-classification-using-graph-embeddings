@@ -27,7 +27,7 @@ dual
 trigger
 option
 portfolio
-pleas
+plea
 let
 u
 know

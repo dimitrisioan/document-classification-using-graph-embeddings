@@ -50,7 +50,7 @@ use
 deskjet
 on
 system
-pleas
+plea
 tell
 me
 how
@@ -141,7 +141,7 @@ wa
 u
 so
 i
-pass
+pas
 hope
 thi
 help

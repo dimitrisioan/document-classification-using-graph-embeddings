@@ -709,7 +709,7 @@ at
 all
 time
 life
-go
+goe
 on
 in
 iraq
@@ -722,4 +722,4 @@ want
 to
 live
 normal
-life
+live

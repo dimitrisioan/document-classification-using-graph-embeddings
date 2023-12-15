@@ -93,7 +93,7 @@ nation
 s
 lead
 stock
-index
+indic
 annuiti
 can
 also
@@ -113,7 +113,7 @@ e
 mail
 u
 today
-pleas
+plea
 fill
 out
 the

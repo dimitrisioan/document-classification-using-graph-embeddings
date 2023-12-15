@@ -164,7 +164,7 @@ buy
 land
 and
 someon
-els
+el
 is
 will
 to
@@ -233,7 +233,7 @@ mean
 live
 with
 someon
-els
+el
 a
 equal
 for

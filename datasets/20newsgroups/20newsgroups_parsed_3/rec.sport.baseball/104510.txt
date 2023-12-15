@@ -527,7 +527,7 @@ is
 temper
 by
 someon
-els
+el
 in
 the
 earli
@@ -678,7 +678,7 @@ a
 far
 a
 garvey
-go
+goe
 your
 right
 garvey
@@ -1116,7 +1116,7 @@ possibl
 milwauke
 robin
 yount
-discuss
+discus
 earlier
 new
 york

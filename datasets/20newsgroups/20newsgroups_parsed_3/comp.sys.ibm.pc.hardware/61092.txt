@@ -29,7 +29,7 @@ a
 philip
 dt
 which
-us
+use
 a
 soni
 trinitron
@@ -119,7 +119,7 @@ which
 tube
 the
 viewson
-us
+use
 but
 it
 ha
@@ -308,7 +308,7 @@ mean
 they
 use
 two
-len
+lens
 advanc
 invar
 shadow

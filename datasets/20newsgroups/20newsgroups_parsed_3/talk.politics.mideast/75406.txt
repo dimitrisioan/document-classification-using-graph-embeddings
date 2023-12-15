@@ -70,7 +70,7 @@ are
 refer
 to
 someon
-els
+el
 you
 have
 in
@@ -471,8 +471,8 @@ sentenc
 doe
 not
 make
-sens
-pleas
+sen
+plea
 rephras
 it
 if

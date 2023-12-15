@@ -32,7 +32,7 @@ beta
 program
 thank
 p
-pleas
+plea
 repli
 by
 email

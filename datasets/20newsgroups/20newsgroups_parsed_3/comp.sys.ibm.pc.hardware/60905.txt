@@ -242,7 +242,7 @@ host
 ha
 usenet
 news
-pleas
+plea
 do
 not
 subscrib
@@ -302,7 +302,7 @@ subscrib
 localmsdosann
 subscrib
 msdosann
-pleas
+plea
 do
 not
 includ

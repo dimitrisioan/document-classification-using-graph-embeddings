@@ -14,7 +14,7 @@ respons
 if
 a
 murder
-go
+goe
 on
 the
 rampag

@@ -2,7 +2,7 @@ subject
 tape
 drive
 problem
-pleas
+plea
 repli
 via
 email

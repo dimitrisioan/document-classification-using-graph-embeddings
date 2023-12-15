@@ -179,7 +179,7 @@ piper
 while
 they
 throw
-mous
+mouse
 at
 their
 new

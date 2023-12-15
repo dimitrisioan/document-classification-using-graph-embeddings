@@ -278,7 +278,7 @@ and
 see
 what
 traffic
-go
+goe
 through
 it
 sinc
@@ -372,7 +372,7 @@ link
 useless
 for
 anyon
-els
+el
 on
 the
 other

@@ -9,14 +9,14 @@ have
 an
 applicationshel
 which
-us
+use
 a
 colormap
 creat
 with
 xcreatecolormap
 and
-us
+use
 all
 of
 the

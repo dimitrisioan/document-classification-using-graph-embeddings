@@ -24,7 +24,7 @@ print
 with
 your
 favourit
-curs
+cur
 are
 good
 even
@@ -54,7 +54,7 @@ your
 local
 hospit
 favorit
-curs
+cur
 blain
 gardner
 evan

@@ -118,7 +118,7 @@ sen
 the
 gamma
 radiat
-puls
+pul
 from
 a
 nuclear

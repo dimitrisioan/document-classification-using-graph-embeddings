@@ -49,7 +49,7 @@ drive
 trident
 meg
 svga
-pleas
+plea
 help
 it
 ok

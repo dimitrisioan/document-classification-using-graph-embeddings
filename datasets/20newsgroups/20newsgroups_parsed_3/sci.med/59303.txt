@@ -69,7 +69,7 @@ it
 msg
 or
 someth
-els
+el
 for
 that
 matter
@@ -192,7 +192,7 @@ not
 worri
 over
 what
-go
+goe
 in
 my
 mouth
@@ -333,4 +333,4 @@ cat
 and
 no
 one
-els
+el

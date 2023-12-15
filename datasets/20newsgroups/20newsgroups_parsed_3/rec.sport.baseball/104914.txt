@@ -16,7 +16,7 @@ for
 kansa
 citi
 royal
-pleas
+plea
 email
 detail
 regard
@@ -31,13 +31,13 @@ and
 know
 the
 info
-pleas
+plea
 send
 me
 info
 a
 well
-pleas
+plea
 email
 a
 i

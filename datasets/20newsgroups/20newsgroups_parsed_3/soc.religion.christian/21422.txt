@@ -35,7 +35,7 @@ other
 group
 ive
 often
-sens
+sen
 anger
 or
 hostil
@@ -368,7 +368,7 @@ anoth
 part
 of
 me
-belief
+believ
 that
 what
 i
@@ -595,7 +595,7 @@ known
 for
 live
 exemplari
-life
+live
 even
 if
 they

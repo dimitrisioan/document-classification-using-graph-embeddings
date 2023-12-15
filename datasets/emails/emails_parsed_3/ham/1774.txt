@@ -7,7 +7,7 @@ regress
 brad
 a
 we
-discuss
+discus
 it
 s
 veri
@@ -28,12 +28,12 @@ compar
 stock
 capit
 market
-index
+indic
 and
 three
 energi
 commod
-index
+indic
 regular
 regress
 a

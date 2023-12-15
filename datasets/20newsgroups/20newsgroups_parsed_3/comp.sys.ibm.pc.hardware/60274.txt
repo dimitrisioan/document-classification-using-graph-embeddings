@@ -81,7 +81,7 @@ and
 interupt
 scsi
 make
-sens
+sen
 is
 you
 are
@@ -103,14 +103,14 @@ window
 then
 ide
 make
-sens
+sen
 i
 have
 one
 load
 box
 that
-us
+use
 scsi
 and
 run
@@ -123,7 +123,7 @@ that
 run
 doswindow
 that
-us
+use
 ide
 by
 standard

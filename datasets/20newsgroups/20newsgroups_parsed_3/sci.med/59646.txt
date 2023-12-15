@@ -184,7 +184,7 @@ my
 drawer
 if
 noth
-els
+el
 it
 minim
 the
@@ -200,7 +200,7 @@ self
 consciou
 ill
 at
-eas
+ea
 and
 vulner
 condit

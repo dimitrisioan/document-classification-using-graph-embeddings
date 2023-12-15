@@ -99,7 +99,7 @@ line
 everi
 second
 thi
-us
+use
 under
 k
 bytessecond
@@ -133,7 +133,7 @@ grant
 it
 noth
 to
-loos
+loo
 sleep
 over
 but

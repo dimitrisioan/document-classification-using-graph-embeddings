@@ -61,7 +61,7 @@ thanx
 in
 adlibv
 common
-sens
+sen
 state
 univers
 of

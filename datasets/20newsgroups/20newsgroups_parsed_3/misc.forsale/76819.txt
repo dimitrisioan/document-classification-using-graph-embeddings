@@ -96,7 +96,7 @@ of
 power
 failur
 ask
-pleas
+plea
 email
 all
 repli

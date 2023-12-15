@@ -7,7 +7,7 @@ begin
 pgp
 sign
 messag
-pleas
+plea
 note
 that
 the
@@ -189,7 +189,7 @@ lipread
 though
 govern
 certainli
-us
+use
 technolog
 to
 oppress
@@ -481,7 +481,7 @@ tive
 for
 it
 unlaw
-possess
+posse
 look
 at
 later
@@ -535,7 +535,7 @@ with
 one
 in
 her
-possess
+posse
 wa
 now
 fulli
@@ -641,7 +641,7 @@ data
 in
 one
 own
-possess
+posse
 but
 it
 can
@@ -810,7 +810,7 @@ ex
 treme
 in
 the
-sens
+sen
 that
 if
 prime
@@ -1241,7 +1241,7 @@ you
 sinc
 no
 one
-els
+el
 know
 my
 secret
@@ -1356,7 +1356,7 @@ the
 other
 hand
 whatev
-els
+el
 a
 person
 comput
@@ -1722,7 +1722,7 @@ at
 tack
 freedom
 they
-possess
+posse
 a
 reason
 stabl
@@ -2427,7 +2427,7 @@ are
 dead
 mayb
 your
-children
+child
 child
 will
 actu
@@ -2827,7 +2827,7 @@ know
 how
 to
 hunt
-walru
+walrus
 you
 on
 the
@@ -3254,7 +3254,7 @@ be
 altruist
 in
 the
-sens
+sen
 of
 want
 to
@@ -3265,7 +3265,7 @@ or
 egoist
 in
 the
-sens
+sen
 of
 prove
 you
@@ -3284,7 +3284,7 @@ per
 hap
 even
 other
-motif
+motiv
 but
 sinc
 you
@@ -3382,7 +3382,7 @@ at
 least
 permit
 open
-discuss
+discus
 of
 topic
 whose
@@ -3600,7 +3600,7 @@ beseech
 the
 state
 to
-pleas
+plea
 not
 en
 slave
@@ -3719,7 +3719,7 @@ my
 knowledg
 ha
 not
-pass
+pas
 yet
 but
 it

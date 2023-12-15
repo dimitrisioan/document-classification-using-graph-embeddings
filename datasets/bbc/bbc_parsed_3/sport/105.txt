@@ -50,7 +50,7 @@ who
 end
 a
 fluid
-pass
+pas
 move
 with
 a
@@ -71,7 +71,7 @@ chanc
 pounc
 on
 a
-loos
+loo
 ball
 after
 alan
@@ -253,7 +253,7 @@ a
 neat
 exchang
 of
-pass
+pas
 involv
 kevin
 davi
@@ -404,7 +404,7 @@ from
 six
 yard
 bolton
-bo
+bos
 sam
 allardyc
 i
@@ -492,7 +492,7 @@ end
 we
 crack
 newcastl
-bo
+bos
 graem
 souness
 we

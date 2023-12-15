@@ -79,7 +79,7 @@ of
 damag
 will
 be
-assess
+ass
 in
 the
 new

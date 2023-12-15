@@ -141,7 +141,7 @@ to
 get
 involv
 and
-pa
+pas
 db
 restrict
 it
@@ -184,7 +184,7 @@ a
 bike
 go
 mph
-go
+goe
 in
 second
 or

@@ -204,7 +204,7 @@ properli
 even
 if
 all
-els
+el
 were
 equal
 there
@@ -224,7 +224,7 @@ in
 thi
 case
 everyth
-els
+el
 point
 to
 sabo
@@ -472,7 +472,7 @@ indic
 of
 futur
 perform
-pleas
+plea
 let
 u
 in
@@ -498,7 +498,7 @@ could
 have
 some
 preconceiv
-bia
+bias
 most
 certainli
 a
@@ -895,7 +895,7 @@ expect
 consist
 a
 run
-prof
+prove
 noth
 can
 you

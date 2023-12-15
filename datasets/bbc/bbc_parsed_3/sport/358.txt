@@ -94,7 +94,7 @@ to
 make
 chang
 saintandr
-belief
+believ
 england
 nation
 team
@@ -434,7 +434,7 @@ that
 mean
 if
 everyth
-go
+goe
 well
 thi
 week

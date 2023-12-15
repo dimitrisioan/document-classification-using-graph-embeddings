@@ -54,7 +54,7 @@ make
 them
 appear
 somewher
-els
+el
 that
 are
 the

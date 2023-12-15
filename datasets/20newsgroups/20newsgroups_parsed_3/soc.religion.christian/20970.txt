@@ -245,7 +245,7 @@ current
 scholarship
 scholar
 from
-divers
+diver
 academ
 background
 and
@@ -259,7 +259,7 @@ view
 ensur
 a
 live
-discuss
+discus
 the
 symposium
 schedul
@@ -311,7 +311,7 @@ librari
 of
 congress
 geza
-vermi
+verm
 professor
 emeritu
 of
@@ -682,7 +682,7 @@ admiss
 to
 the
 symposium
-pleas
+plea
 contact
 in
 write

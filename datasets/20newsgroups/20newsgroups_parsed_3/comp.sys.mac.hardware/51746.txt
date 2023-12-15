@@ -12,7 +12,7 @@ write
 i
 believ
 it
-go
+goe
 or
 will
 go
@@ -44,7 +44,7 @@ far
 a
 the
 dx
-go
+goe
 specint
 specfp
 in

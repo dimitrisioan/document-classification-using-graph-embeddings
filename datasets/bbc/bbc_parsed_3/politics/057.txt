@@ -1,10 +1,10 @@
 england
-children
+child
 tsar
 appoint
 the
 first
-children
+child
 commission
 for
 england
@@ -79,7 +79,7 @@ to
 make
 sure
 that
-children
+child
 opinion
 count
 i
@@ -106,8 +106,8 @@ the
 power
 to
 improv
-children
-life
+child
+live
 do
 live
 up
@@ -129,7 +129,7 @@ can
 approach
 me
 to
-discu
+discus
 ani
 matter
 that
@@ -197,5 +197,5 @@ northern
 ireland
 alreadi
 have
-children
+child
 commission

@@ -224,7 +224,7 @@ relationship
 he
 ad
 earlier
-tori
+torus
 leader
 michael
 howard
@@ -285,7 +285,7 @@ wa
 to
 rebuild
 a
-sens
+sen
 of
 domest
 purpos

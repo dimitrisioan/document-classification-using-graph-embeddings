@@ -4,7 +4,7 @@ european
 clash
 former
 blackburn
-bo
+bos
 roy
 hodgson
 say
@@ -100,7 +100,7 @@ sport
 that
 while
 he
-belief
+believ
 the
 premiership
 should
@@ -201,7 +201,7 @@ a
 disadvantag
 the
 bigger
-discuss
+discus
 around
 the
 winter
@@ -241,7 +241,7 @@ leagu
 in
 februari
 hodgson
-belief
+believ
 a
 winter
 break
@@ -445,7 +445,7 @@ with
 them
 and
 hodgson
-belief
+believ
 a
 winter
 break

@@ -80,7 +80,7 @@ some
 input
 a
 phone
-us
+use
 ohm
 to
 loop

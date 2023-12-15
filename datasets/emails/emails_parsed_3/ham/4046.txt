@@ -6,7 +6,7 @@ for
 vinc
 hi
 vinc
-pleas
+plea
 examin
 i
 think
@@ -79,7 +79,7 @@ jeff
 wesley
 hi
 howard
-pleas
+plea
 find
 follow
 confirm

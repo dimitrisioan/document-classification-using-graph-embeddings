@@ -78,7 +78,7 @@ other
 consider
 but
 it
-go
+goe
 to
 show
 you
@@ -150,7 +150,7 @@ could
 have
 done
 everth
-els
+el
 better
 but
 appl

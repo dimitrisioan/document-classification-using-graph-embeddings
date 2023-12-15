@@ -384,7 +384,7 @@ turkish
 subject
 all
 be
-expos
+expo
 alik
 to
 the
@@ -2233,7 +2233,7 @@ visa
 so
 they
 could
-pa
+pas
 out
 of
 nazi
@@ -3055,7 +3055,7 @@ eastern
 european
 jew
 to
-pa
+pas
 through
 turkish
 territori
@@ -3098,7 +3098,7 @@ of
 these
 jew
 who
-pass
+pas
 through
 turkey
 may
@@ -3147,7 +3147,7 @@ eastern
 european
 jew
 who
-pass
+pas
 through
 turkey
 en
@@ -4086,7 +4086,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

@@ -73,7 +73,7 @@ one
 of
 the
 partner
-poss
+posse
 or
 is
 entitl
@@ -159,7 +159,7 @@ thi
 propos
 for
 meaning
-discuss
+discus
 and
 enrich
 elia

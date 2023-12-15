@@ -45,10 +45,10 @@ displaycellsdpi
 scrnum
 scrmonochrom
 monochrom
-els
+el
 scrmonochrom
 color
-els
+el
 xvisualinfo
 templat
 xvisualinfo
@@ -86,7 +86,7 @@ default
 scrmonochrom
 monochrom
 break
-els
+el
 void
 fprintfstderr
 d

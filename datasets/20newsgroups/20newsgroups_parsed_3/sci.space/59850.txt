@@ -287,7 +287,7 @@ unknown
 if
 you
 can
-pa
+pas
 a
 jetpilot
 physic
@@ -1033,7 +1033,7 @@ is
 import
 abil
 to
-pa
+pas
 a
 nasa
 class
@@ -1136,7 +1136,7 @@ highli
 desir
 abil
 to
-pa
+pas
 a
 nasa
 class

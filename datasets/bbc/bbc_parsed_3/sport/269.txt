@@ -52,7 +52,7 @@ halftim
 from
 milan
 baro
-pa
+pas
 befor
 the
 czech
@@ -127,7 +127,7 @@ when
 he
 took
 a
-pa
+pas
 from
 baro
 but
@@ -231,7 +231,7 @@ baro
 slid
 a
 perfect
-pa
+pas
 into
 mellor
 path
@@ -289,7 +289,7 @@ a
 brilliant
 turn
 and
-pa
+pas
 by
 harri
 kewel

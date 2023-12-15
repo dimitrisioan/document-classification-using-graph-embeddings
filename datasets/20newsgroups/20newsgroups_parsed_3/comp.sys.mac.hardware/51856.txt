@@ -201,7 +201,7 @@ control
 color
 and
 grayscal
-s
+se
 can
 print
 some
@@ -267,10 +267,10 @@ are
 lot
 of
 mac
-plu
+pluse
 classic
 and
-s
+se
 that
 have
 been

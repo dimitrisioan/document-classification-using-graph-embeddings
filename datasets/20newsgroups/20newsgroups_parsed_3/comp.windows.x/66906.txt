@@ -1,6 +1,6 @@
 subject
 delay
-expos
+expo
 event
 i
 post
@@ -38,7 +38,7 @@ not
 receiv
 it
 initi
-expos
+expo
 event
 until
 mainwinwin
@@ -155,7 +155,7 @@ idea
 whi
 the
 initi
-expos
+expo
 event
 of
 detailwinwin
@@ -201,7 +201,7 @@ accident
 append
 to
 the
-expos
+expo
 event
 thread
 sorri

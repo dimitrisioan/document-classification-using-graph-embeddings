@@ -1,5 +1,5 @@
 subject
-frees
+free
 noti
 mike
 we
@@ -8,7 +8,7 @@ current
 be
 bill
 for
-frees
+free
 noti
 weather
 i
@@ -51,12 +51,12 @@ you
 know
 of
 anyon
-els
+el
 who
-us
+use
 thi
 applic
-pleas
+plea
 let
 me
 know

@@ -697,7 +697,7 @@ what
 money
 we
 spend
-go
+goe
 primarli
 to
 administr
@@ -1262,7 +1262,7 @@ impos
 feder
 power
 on
-divers
+diver
 peopl
 whi
 should

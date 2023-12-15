@@ -127,7 +127,7 @@ short
 time
 a
 it
-go
+goe
 zip
 across
 the
@@ -161,7 +161,7 @@ thi
 remark
 conduct
 of
-ga
+gase
 includ
 the
 air
@@ -416,7 +416,7 @@ still
 impress
 and
 the
-sens
+sen
 of
 size
 one

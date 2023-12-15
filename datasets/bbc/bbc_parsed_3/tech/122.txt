@@ -12,7 +12,7 @@ more
 suscept
 to
 comput
-viru
+virus
 a
 secur
 firm
@@ -45,7 +45,7 @@ incid
 in
 which
 window
-viru
+virus
 have
 disrupt
 network
@@ -266,7 +266,7 @@ for
 hour
 due
 to
-viru
+virus
 affect
 the
 network
@@ -388,7 +388,7 @@ caught
 up
 in
 the
-viru
+virus
 that
 are
 go
@@ -583,7 +583,7 @@ overwhelm
 by
 worm
 and
-viru
+virus
 and
 custom
 not
@@ -618,7 +618,7 @@ said
 the
 risk
 from
-viru
+virus
 wa
 minim
 there
@@ -673,6 +673,6 @@ in
 the
 u
 where
-viru
+virus
 have
 struck

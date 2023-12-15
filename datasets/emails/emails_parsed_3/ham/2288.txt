@@ -161,7 +161,7 @@ address
 in
 the
 uc
-alumnu
+alumnus
 gateway
 i
 am
@@ -190,7 +190,7 @@ me
 in
 thi
 respect
-pleas
+plea
 find
 my
 resum
@@ -233,7 +233,7 @@ you
 are
 the
 first
-alumnu
+alumnus
 that
 i
 sought
@@ -241,7 +241,7 @@ for
 inform
 help
 so
-pleas
+plea
 excus
 me
 for
@@ -249,7 +249,7 @@ ani
 mistak
 in
 protocol
-pleas
+plea
 repli
 me
 at

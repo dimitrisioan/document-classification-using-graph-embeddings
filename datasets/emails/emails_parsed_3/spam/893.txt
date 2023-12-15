@@ -62,7 +62,7 @@ new
 peopl
 view
 photo
-brows
+brow
 profil
 and
 chat

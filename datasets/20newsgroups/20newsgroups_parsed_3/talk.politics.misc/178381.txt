@@ -294,7 +294,7 @@ more
 restrict
 on
 legal
-possess
+posse
 doe
 seem
 to
@@ -374,14 +374,14 @@ isnt
 it
 certainli
 make
-sens
+sen
 that
 it
 would
 well
 it
 make
-sens
+sen
 to
 some
 of

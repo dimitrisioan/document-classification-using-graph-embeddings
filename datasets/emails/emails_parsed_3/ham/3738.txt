@@ -3,7 +3,7 @@ re
 garp
 credit
 deriv
-discuss
+discus
 group
 vinc
 first
@@ -57,7 +57,7 @@ re
 garp
 credit
 deriv
-discuss
+discus
 group
 philip
 thank
@@ -76,7 +76,7 @@ philip
 merril
 on
 pm
-pleas
+plea
 respond
 to
 to
@@ -85,7 +85,7 @@ subject
 garp
 credit
 deriv
-discuss
+discus
 group
 vinc
 we
@@ -94,7 +94,7 @@ start
 a
 credit
 deriv
-discuss
+discus
 group
 in
 new

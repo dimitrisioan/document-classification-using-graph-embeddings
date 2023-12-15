@@ -59,7 +59,7 @@ still
 in
 shrink
 wrap
-pleas
+plea
 email
 to
 kgc

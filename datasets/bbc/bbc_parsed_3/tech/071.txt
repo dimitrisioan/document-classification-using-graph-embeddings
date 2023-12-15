@@ -88,7 +88,7 @@ help
 child
 make
 quick
-assess
+ass
 of
 situat
 and
@@ -155,7 +155,7 @@ we
 didnt
 see
 anyon
-els
+el
 do
 what
 we
@@ -461,7 +461,7 @@ learn
 outcom
 and
 the
-children
+child
 desir
 to
 rise

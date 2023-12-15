@@ -28,7 +28,7 @@ mr
 kaminski
 i
 am
-pleas
+plea
 to
 invit
 you
@@ -198,7 +198,7 @@ p
 c
 to
 regist
-pleas
+plea
 go
 directli
 to
@@ -251,7 +251,7 @@ use
 the
 link
 abov
-pleas
+plea
 go
 to
 http
@@ -278,7 +278,7 @@ futur
 e
 mail
 notif
-pleas
+plea
 send
 a
 repli
@@ -299,7 +299,7 @@ cera
 com
 subject
 donotemail
-pleas
+plea
 indic
 whether
 you

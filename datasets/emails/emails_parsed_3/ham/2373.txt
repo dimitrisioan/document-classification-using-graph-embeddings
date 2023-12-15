@@ -28,7 +28,7 @@ know
 if
 it
 make
-sens
+sen
 for
 enron
 to

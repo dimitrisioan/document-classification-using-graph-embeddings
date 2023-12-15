@@ -39,7 +39,7 @@ prove
 wrong
 then
 it
-prof
+prove
 that
 heterosexu
 are

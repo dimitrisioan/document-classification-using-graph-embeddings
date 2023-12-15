@@ -30,7 +30,7 @@ wether
 i
 have
 to
-pars
+par
 it
 manual
 or

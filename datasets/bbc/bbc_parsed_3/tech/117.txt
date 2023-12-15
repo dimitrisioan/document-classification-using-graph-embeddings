@@ -52,7 +52,7 @@ from
 microsoft
 outlook
 and
-us
+use
 it
 own
 mail

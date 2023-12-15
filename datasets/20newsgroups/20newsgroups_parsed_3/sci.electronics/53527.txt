@@ -206,7 +206,7 @@ and
 when
 the
 power
-go
+goe
 out
 voila
 the

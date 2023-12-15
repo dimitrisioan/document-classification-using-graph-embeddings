@@ -10,7 +10,7 @@ make
 a
 lot
 of
-sens
+sen
 we
 can
 start
@@ -38,7 +38,7 @@ agreement
 it
 probabl
 make
-sens
+sen
 to
 get
 a

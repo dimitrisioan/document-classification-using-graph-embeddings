@@ -341,7 +341,7 @@ truck
 wa
 allow
 to
-pa
+pas
 through
 to
 bosnia

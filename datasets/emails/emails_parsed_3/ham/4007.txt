@@ -5,7 +5,7 @@ energi
 price
 data
 elena
-pleas
+plea
 prepar
 for
 mulong
@@ -123,7 +123,7 @@ deriv
 could
 you
 kindli
-pleas
+plea
 offer
 me
 some
@@ -165,7 +165,7 @@ or
 electr
 could
 you
-pleas
+plea
 offer
 me
 some

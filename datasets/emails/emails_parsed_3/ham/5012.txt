@@ -242,7 +242,7 @@ go
 to
 london
 to
-discu
+discus
 with
 the
 user

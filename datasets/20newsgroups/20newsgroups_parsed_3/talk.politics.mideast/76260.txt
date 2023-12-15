@@ -74,7 +74,7 @@ make
 the
 negev
 bedouinenrein
-cleans
+clean
 the
 negev
 of

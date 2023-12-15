@@ -39,7 +39,7 @@ mous
 driver
 dont
 accept
-mous
+mouse
 at
 ani
 but

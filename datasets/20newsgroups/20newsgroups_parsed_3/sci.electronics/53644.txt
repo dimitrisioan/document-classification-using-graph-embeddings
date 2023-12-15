@@ -21,7 +21,7 @@ switch
 mode
 power
 suppli
-go
+goe
 south
 the
 suppli
@@ -45,7 +45,7 @@ switch
 mode
 power
 suppli
-go
+goe
 south
 the
 suppli

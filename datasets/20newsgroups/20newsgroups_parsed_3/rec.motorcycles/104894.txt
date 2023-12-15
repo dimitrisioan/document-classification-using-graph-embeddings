@@ -58,7 +58,7 @@ glide
 in
 blue
 where
-els
+el
 do
 you
 get

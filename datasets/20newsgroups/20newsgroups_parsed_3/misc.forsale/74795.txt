@@ -47,7 +47,7 @@ with
 host
 unknow
 error
-pleas
+plea
 repli
 to
 subject

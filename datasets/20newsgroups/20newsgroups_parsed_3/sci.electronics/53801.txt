@@ -4,7 +4,7 @@ fujitsu
 hdd
 the
 fujitsu
-us
+use
 what
 is
 known
@@ -91,7 +91,7 @@ readili
 avail
 for
 vme
-bu
+buse
 though
 rumor
 ha

@@ -108,7 +108,7 @@ can
 score
 give
 nice
-pass
+pas
 doe
 even
 bodycheck

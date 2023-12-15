@@ -101,7 +101,7 @@ get
 drawn
 into
 everyth
-els
+el
 is
 a
 greyth

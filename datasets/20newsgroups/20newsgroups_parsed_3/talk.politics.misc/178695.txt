@@ -180,7 +180,7 @@ human
 decenc
 and
 common
-sens
+sen
 a
 real
 grassroot
@@ -232,7 +232,7 @@ tri
 to
 drag
 thi
-discuss
+discus
 back
 to
 the
@@ -342,7 +342,7 @@ not
 call
 for
 thi
-assess
+ass
 it
 assum
 that

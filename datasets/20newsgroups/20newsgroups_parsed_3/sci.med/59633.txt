@@ -131,7 +131,7 @@ vest
 interest
 whether
 one
-belief
+believ
 that
 these
 vest
@@ -204,7 +204,7 @@ effect
 doesnt
 make
 much
-sens
+sen
 here
 of
 cours

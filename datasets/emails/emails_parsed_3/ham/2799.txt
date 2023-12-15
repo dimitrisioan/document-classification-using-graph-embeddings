@@ -2,7 +2,7 @@ subject
 california
 updat
 urgent
-pleas
+plea
 read
 sourc
 report
@@ -64,7 +64,7 @@ that
 the
 bill
 would
-pa
+pas
 with
 a
 simpl

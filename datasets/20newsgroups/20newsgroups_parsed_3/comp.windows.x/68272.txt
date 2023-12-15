@@ -25,7 +25,7 @@ ad
 a
 grammar
 for
-pars
+par
 the
 if
 express

@@ -254,7 +254,7 @@ success
 self
 defens
 prevent
-life
+live
 from
 be
 lost
@@ -276,7 +276,7 @@ manslaught
 number
 while
 the
-life
+live
 save
 is
 some
@@ -312,7 +312,7 @@ blank
 i
 believ
 it
-go
+goe
 into
 some
 relat

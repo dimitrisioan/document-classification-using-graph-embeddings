@@ -46,7 +46,7 @@ the
 way
 the
 industri
-us
+use
 and
 talk
 about
@@ -157,7 +157,7 @@ fast
 scsi
 becaus
 it
-us
+use
 scsi
 port
 and
@@ -248,7 +248,7 @@ and
 that
 the
 reciev
-devis
+devi
 support
 bit
 fast

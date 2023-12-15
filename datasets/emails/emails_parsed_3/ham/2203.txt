@@ -56,7 +56,7 @@ eb
 f
 y
 i
-pleas
+plea
 read
 below
 dolor
@@ -256,7 +256,7 @@ have
 a
 switch
 instal
-pleas
+plea
 let
 me
 know

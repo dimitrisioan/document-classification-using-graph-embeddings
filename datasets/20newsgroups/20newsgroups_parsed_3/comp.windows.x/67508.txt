@@ -17,7 +17,7 @@ have
 a
 program
 that
-us
+use
 xlib
 to
 creat

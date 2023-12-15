@@ -2,7 +2,7 @@ subject
 riddl
 me
 someth
-els
+el
 on
 the
 other

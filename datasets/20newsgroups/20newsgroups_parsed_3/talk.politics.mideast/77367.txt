@@ -703,7 +703,7 @@ land
 home
 and
 ar
-possess
+posse
 the
 azeri
 govern
@@ -723,7 +723,7 @@ of
 land
 home
 and
-possess
+posse
 ar
 such
 simpl

@@ -474,7 +474,7 @@ asset
 will
 have
 infinit
-life
+live
 in
 the
 light

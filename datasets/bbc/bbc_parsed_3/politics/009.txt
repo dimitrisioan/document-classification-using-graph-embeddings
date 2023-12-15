@@ -144,7 +144,7 @@ what
 critic
 claim
 depict
-tori
+torus
 leader
 michael
 howard
@@ -176,7 +176,7 @@ get
 trevor
 beatti
 tbwa
-bo
+bos
 to
 issu
 a
@@ -330,7 +330,7 @@ in
 the
 circ
 of
-tori
+torus
 promis
 tax
 cut
@@ -371,7 +371,7 @@ you
 share
 the
 same
-sens
+sen
 of
 humour
 a
@@ -508,7 +508,7 @@ of
 journalist
 liam
 fox
-tori
+torus
 cochairman
 said
 the

@@ -48,7 +48,7 @@ thi
 afternoon
 a
 promis
-pleas
+plea
 find
 allan
 s
@@ -76,7 +76,7 @@ you
 have
 ani
 question
-pleas
+plea
 feel
 free
 to
@@ -168,7 +168,7 @@ sender
 by
 repli
 email
-pleas
+plea
 advis
 immedi
 if

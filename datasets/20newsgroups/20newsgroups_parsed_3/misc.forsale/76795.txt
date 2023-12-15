@@ -53,7 +53,7 @@ in
 all
 price
 interest
-pleas
+plea
 respond
 by
 email

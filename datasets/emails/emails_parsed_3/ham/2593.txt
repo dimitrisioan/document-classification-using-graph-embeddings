@@ -389,7 +389,7 @@ respond
 to
 thi
 memo
-pleas
+plea
 re
 read
 the
@@ -519,7 +519,7 @@ in
 your
 area
 are
-pass
+pas
 through
 you
 to
@@ -606,7 +606,7 @@ from
 your
 team
 befor
-pass
+pas
 them
 onto
 u
@@ -630,7 +630,7 @@ bi
 monthli
 meet
 to
-discu
+discus
 ena
 a
 a
@@ -663,7 +663,7 @@ to
 assum
 thi
 repons
-pleas
+plea
 suppli
 their
 name
@@ -671,7 +671,7 @@ a
 soon
 a
 possibl
-pleas
+plea
 call
 with
 ani

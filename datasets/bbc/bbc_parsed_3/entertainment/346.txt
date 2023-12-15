@@ -116,7 +116,7 @@ is
 former
 record
 label
-bo
+bos
 clive
 calder
 whose

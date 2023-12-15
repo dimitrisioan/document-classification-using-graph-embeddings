@@ -28,7 +28,7 @@ adb
 mous
 ii
 mine
-life
+live
 near
 a
 cat
@@ -137,7 +137,7 @@ sometim
 unscrew
 the
 two
-half
+halv
 allow
 for
 easier
@@ -166,7 +166,7 @@ mean
 split
 the
 two
-half
+halv
 to
 get
 at

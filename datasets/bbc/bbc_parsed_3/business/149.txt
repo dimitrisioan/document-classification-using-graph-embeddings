@@ -19,7 +19,7 @@ will
 build
 a
 new
-mediums
+medium
 cadillac
 bl
 at
@@ -43,7 +43,7 @@ to
 compet
 in
 the
-mediums
+medium
 luxuri
 car
 market

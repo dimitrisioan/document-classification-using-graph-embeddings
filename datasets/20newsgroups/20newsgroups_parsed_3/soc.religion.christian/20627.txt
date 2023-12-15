@@ -18,7 +18,7 @@ mcintyr
 write
 write
 the
-discuss
+discus
 begin
 whi
 doe
@@ -472,7 +472,7 @@ that
 you
 have
 been
-expos
+expo
 to
 certain
 type

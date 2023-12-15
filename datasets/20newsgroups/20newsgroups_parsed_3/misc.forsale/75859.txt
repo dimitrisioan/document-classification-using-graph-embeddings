@@ -3,7 +3,7 @@ for
 sale
 toyota
 pickup
-pleas
+plea
 do
 not
 respond
@@ -67,11 +67,11 @@ mile
 ask
 if
 interest
-pleas
+plea
 contact
 ursula
 fritsch
-pleas
+plea
 do
 not
 respond

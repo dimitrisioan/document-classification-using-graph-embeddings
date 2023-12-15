@@ -111,7 +111,7 @@ i
 here
 do
 polit
-discuss
+discus
 belong
 in
 scicrypt
@@ -185,7 +185,7 @@ have
 a
 much
 better
-sens
+sen
 of
 what
 the
@@ -195,7 +195,7 @@ to
 see
 do
 polit
-discuss
+discus
 belong
 in
 scicrypt
@@ -225,7 +225,7 @@ the
 way
 of
 technic
-discuss
+discus
 mani
 scicrypt
 reader
@@ -642,7 +642,7 @@ at
 it
 a
 full
-discuss
+discus
 of
 thi
 procedur

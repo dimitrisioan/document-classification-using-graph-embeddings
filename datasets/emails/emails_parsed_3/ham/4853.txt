@@ -134,7 +134,7 @@ him
 yesterday
 and
 then
-pass
+pas
 my
 comment
 to
@@ -179,7 +179,7 @@ for
 interview
 in
 houston
-pleas
+plea
 give
 me
 a
@@ -334,7 +334,7 @@ transfer
 my
 experi
 in
-assess
+ass
 credit
 risk
 model
@@ -553,7 +553,7 @@ with
 thi
 e
 mail
-pleas
+plea
 e
 mail
 me
@@ -568,7 +568,7 @@ so
 that
 we
 can
-discu
+discus
 thi
 opportun
 further
@@ -636,7 +636,7 @@ sender
 by
 repli
 email
-pleas
+plea
 advis
 immedi
 if

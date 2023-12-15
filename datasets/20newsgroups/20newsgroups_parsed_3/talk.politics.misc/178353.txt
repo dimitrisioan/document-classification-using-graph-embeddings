@@ -50,7 +50,7 @@ cost
 that
 are
 just
-pass
+pas
 on
 to
 consum
@@ -143,7 +143,7 @@ state
 intent
 of
 the
-tori
+torus
 wa
 to
 use
@@ -194,7 +194,7 @@ dilemna
 is
 that
 the
-tori
+torus
 are
 not
 fiscal
@@ -257,7 +257,7 @@ a
 in
 eurouk
 the
-tori
+torus
 heirappar
 for
 the

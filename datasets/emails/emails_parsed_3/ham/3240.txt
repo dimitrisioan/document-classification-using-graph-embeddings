@@ -32,7 +32,7 @@ research
 assist
 meg
 wozni
-pleas
+plea
 scroll
 down
 to
@@ -55,7 +55,7 @@ with
 most
 of
 you
-pleas
+plea
 review
 the
 case
@@ -174,7 +174,7 @@ the
 student
 studi
 it
-pleas
+plea
 forward
 ani
 edit
@@ -189,7 +189,7 @@ or
 via
 hard
 copi
-pleas
+plea
 deliv
 to
 eb

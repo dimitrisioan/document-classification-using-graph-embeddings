@@ -48,7 +48,7 @@ unit
 pat
 will
 you
-pleas
+plea
 notifi
 me
 when
@@ -131,14 +131,14 @@ co
 is
 rc
 is
-pleas
+plea
 deliv
 them
 to
 eb
 c
 also
-pleas
+plea
 let
 me
 know

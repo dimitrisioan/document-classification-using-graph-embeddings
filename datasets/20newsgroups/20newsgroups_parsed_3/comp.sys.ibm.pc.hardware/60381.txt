@@ -68,7 +68,7 @@ driver
 sinc
 the
 mac
-us
+use
 onli
 scsi
 for
@@ -155,7 +155,7 @@ speed
 the
 mac
 quadra
-us
+use
 thi
 version
 of

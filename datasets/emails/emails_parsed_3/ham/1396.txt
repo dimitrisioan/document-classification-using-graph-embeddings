@@ -59,7 +59,7 @@ research
 weather
 hi
 mike
-pleas
+plea
 find
 a
 list
@@ -113,7 +113,7 @@ for
 monday
 afternoon
 to
-discu
+discus
 weather
 input
 for
@@ -133,7 +133,7 @@ auri
 coal
 trade
 to
-discu
+discus
 weather
 input
 at
@@ -181,7 +181,7 @@ return
 from
 houston
 to
-discu
+discus
 the
 way
 forward
@@ -357,7 +357,7 @@ anderson
 at
 ecmwf
 to
-discu
+discus
 data
 product
 and

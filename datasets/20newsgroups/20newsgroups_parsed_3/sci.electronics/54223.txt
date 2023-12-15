@@ -18,7 +18,7 @@ wa
 hilari
 so
 here
-go
+goe
 anoth
 post
 some
@@ -770,7 +770,7 @@ for
 dirt
 diatomac
 earth
-go
+goe
 down
 with
 temperatur
@@ -869,7 +869,7 @@ for
 the
 trickl
 that
-pass
+pas
 through
 ani
 condens

@@ -87,7 +87,7 @@ check
 out
 hyperlook
 it
-us
+use
 postscript
 a
 a

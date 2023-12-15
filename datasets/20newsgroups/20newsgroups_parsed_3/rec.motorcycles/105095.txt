@@ -306,7 +306,7 @@ in
 the
 meantim
 life
-go
+goe
 on
 without
 a

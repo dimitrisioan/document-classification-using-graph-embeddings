@@ -1,7 +1,7 @@
 subject
 holiday
 invit
-pleas
+plea
 click
 on
 the
@@ -17,7 +17,7 @@ http
 invit
 enron
 com
-pleas
+plea
 direct
 ani
 question

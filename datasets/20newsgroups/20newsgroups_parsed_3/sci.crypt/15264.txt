@@ -106,7 +106,7 @@ onc
 may
 actual
 make
-sens
+sen
 or
 a
 medium
@@ -124,7 +124,7 @@ access
 time
 or
 which
-leaf
+leav
 a
 destruct
 trail
@@ -179,7 +179,7 @@ access
 that
 cant
 be
-eras
+era
 by
 the
 human

@@ -3,7 +3,7 @@ on
 star
 patsi
 rowland
-dy
+die
 actress
 patsi
 rowland
@@ -298,7 +298,7 @@ theatr
 previous
 marri
 she
-leaf
+leav
 one
 son
 alan

@@ -11,7 +11,7 @@ switch
 to
 gasperm
 hard
-len
+lens
 and
 no
 longer
@@ -41,7 +41,7 @@ with
 solut
 and
 the
-len
+lens
 press
 the
 light

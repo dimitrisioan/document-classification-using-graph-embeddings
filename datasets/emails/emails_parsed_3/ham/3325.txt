@@ -2,7 +2,7 @@ subject
 re
 test
 shirley
-pleas
+plea
 remind
 me
 about
@@ -58,7 +58,7 @@ s
 plan
 for
 it
-pleas
+plea
 forward
 to
 me

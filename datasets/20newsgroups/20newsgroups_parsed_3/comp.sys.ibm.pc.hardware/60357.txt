@@ -207,7 +207,7 @@ read
 to
 care
 vlbide
-us
+use
 the
 same
 connect
@@ -759,7 +759,7 @@ in
 and
 away
 it
-go
+goe
 i
 have
 a

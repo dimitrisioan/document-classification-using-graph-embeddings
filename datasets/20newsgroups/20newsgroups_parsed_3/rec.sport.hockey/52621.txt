@@ -48,7 +48,7 @@ stat
 canadian
 american
 european
-pleas
+plea
 note
 that
 these
@@ -195,7 +195,7 @@ crosscheck
 bure
 into
 the
-plexigla
+plexiglas
 so
 hard
 they

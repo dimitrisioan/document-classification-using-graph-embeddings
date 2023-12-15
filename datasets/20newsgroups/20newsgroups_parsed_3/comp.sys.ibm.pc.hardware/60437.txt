@@ -72,7 +72,7 @@ take
 x
 simm
 and
-us
+use
 a
 pentium
 processor

@@ -118,7 +118,7 @@ need
 ani
 other
 inform
-pleas
+plea
 let
 me
 know

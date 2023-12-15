@@ -51,7 +51,7 @@ consid
 other
 reason
 offer
-pleas
+plea
 email
 me
 dave

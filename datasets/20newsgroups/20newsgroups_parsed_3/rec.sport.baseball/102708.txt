@@ -1,5 +1,5 @@
 from
-ru
+rus
 smith
 i
 wa
@@ -49,7 +49,7 @@ make
 a
 decent
 deal
-ru
+rus
 smith
 i
 dont

@@ -130,7 +130,7 @@ and
 i
 am
 veri
-pleas
+plea
 with
 the
 result
@@ -182,7 +182,7 @@ if
 you
 check
 other
-pleas
+plea
 indic
 your
 major
@@ -343,7 +343,7 @@ special
 music
 teacher
 must
-poss
+po
 y
 n
 na

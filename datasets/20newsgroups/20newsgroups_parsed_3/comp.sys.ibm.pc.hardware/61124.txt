@@ -22,7 +22,7 @@ cool
 if
 the
 fan
-go
+goe
 out
 at
 least
@@ -130,7 +130,7 @@ then
 if
 the
 light
-go
+goe
 out
 you
 know

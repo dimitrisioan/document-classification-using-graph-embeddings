@@ -4,7 +4,7 @@ sd
 harddisk
 jumper
 set
-pleas
+plea
 hi
 i
 have
@@ -36,7 +36,7 @@ thi
 harddisk
 could
 someon
-pleas
+plea
 tell
 me
 how

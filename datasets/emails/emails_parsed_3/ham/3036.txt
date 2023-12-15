@@ -80,7 +80,7 @@ visit
 my
 son
 who
-go
+goe
 to
 school
 in
@@ -413,7 +413,7 @@ a
 problem
 for
 you
-pleas
+plea
 give
 u
 your

@@ -53,7 +53,7 @@ video
 camera
 bl
 w
-len
+lens
 great
 for
 digiview
@@ -78,7 +78,7 @@ site
 usrobot
 hst
 note
-pleas
+plea
 no
 ftpmail
 or

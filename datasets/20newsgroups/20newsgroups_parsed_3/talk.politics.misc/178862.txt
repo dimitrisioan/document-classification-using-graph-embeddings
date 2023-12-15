@@ -8,7 +8,7 @@ gay
 percentag
 in
 articl
-ru
+rus
 anderson
 write
 in
@@ -75,7 +75,7 @@ are
 gay
 doe
 anyon
-els
+el
 see
 the
 differ
@@ -146,7 +146,7 @@ is
 now
 yeah
 right
-ru
+rus
 anderson
 disclaim
 ani

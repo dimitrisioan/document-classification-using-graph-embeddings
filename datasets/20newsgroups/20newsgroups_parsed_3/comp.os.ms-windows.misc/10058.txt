@@ -4,7 +4,7 @@ window
 zipunzip
 in
 articl
-ru
+rus
 sharp
 write
 we
@@ -317,7 +317,7 @@ out
 that
 fix
 these
-pleas
+plea
 let
 me
 know

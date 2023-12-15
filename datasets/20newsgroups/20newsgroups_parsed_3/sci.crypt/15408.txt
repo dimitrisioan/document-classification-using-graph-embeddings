@@ -65,7 +65,7 @@ time
 ago
 if
 not
-pleas
+plea
 do
 so
 befor

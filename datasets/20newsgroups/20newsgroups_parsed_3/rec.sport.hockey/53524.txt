@@ -201,7 +201,7 @@ shoot
 correctli
 ha
 anyon
-els
+el
 notic
 thi
 also
@@ -260,7 +260,7 @@ start
 fight
 and
 get
-needl
+needle
 penalti
 richard
 pilon

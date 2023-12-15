@@ -49,7 +49,7 @@ telekom
 there
 wa
 some
-discuss
+discus
 about
 a
 new
@@ -115,7 +115,7 @@ buy
 the
 equip
 somewher
-els
+el
 im
 pretti
 sure

@@ -128,7 +128,7 @@ talk
 about
 scsi
 scsi
-us
+use
 ten
 devic
 in
@@ -182,7 +182,7 @@ chip
 the
 mac
 quadra
-us
+use
 a
 scsi
 control
@@ -414,7 +414,7 @@ to
 how
 fast
 scsi
-go
+goe
 when
 one
 know

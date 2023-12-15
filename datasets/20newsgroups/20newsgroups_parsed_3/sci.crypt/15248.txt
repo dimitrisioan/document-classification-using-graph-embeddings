@@ -484,7 +484,7 @@ peopl
 who
 want
 to
-devis
+devi
 their
 own
 encrypt
@@ -618,7 +618,7 @@ quit
 mathemat
 with
 detail
-analysi
+analys
 of
 mani
 classic
@@ -1106,7 +1106,7 @@ suspect
 if
 a
 system
-pass
+pas
 all
 the
 test

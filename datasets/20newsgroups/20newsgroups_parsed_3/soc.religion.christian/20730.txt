@@ -628,7 +628,7 @@ the
 most
 valid
 system
-possess
+posse
 of
 the
 best
@@ -675,7 +675,7 @@ be
 a
 valid
 system
-possess
+posse
 of
 the
 best
@@ -779,7 +779,7 @@ argument
 are
 wellfound
 it
-go
+goe
 without
 say
 that

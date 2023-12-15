@@ -28,7 +28,7 @@ to
 jupit
 on
 the
-pa
+pas
 that
 put
 it
@@ -173,10 +173,10 @@ gehrel
 were
 april
 jupit
-radiu
+radius
 august
 jupit
-radiu
+radius
 hope
 thi
 helpsim

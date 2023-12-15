@@ -62,7 +62,7 @@ with
 option
 interfac
 kit
-us
+use
 aaa
 batteri
 and

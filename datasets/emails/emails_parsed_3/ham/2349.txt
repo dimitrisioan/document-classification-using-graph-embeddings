@@ -49,7 +49,7 @@ end
 of
 thi
 email
-pleas
+plea
 see
 below
 for
@@ -61,7 +61,7 @@ new
 releas
 fea
 is
-pleas
+plea
 to
 enclos
 your
@@ -495,7 +495,7 @@ of
 the
 erglib
 librari
-pleas
+plea
 be
 awar
 of
@@ -606,7 +606,7 @@ of
 the
 erglib
 librari
-pleas
+plea
 be
 awar
 of
@@ -757,7 +757,7 @@ you
 have
 ani
 question
-pleas
+plea
 feel
 free
 to

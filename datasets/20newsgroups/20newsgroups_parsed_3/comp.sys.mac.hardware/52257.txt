@@ -2,7 +2,7 @@ subject
 re
 mac
 orient
-bb
+bbs
 in
 articl
 jason
@@ -31,7 +31,7 @@ post
 a
 list
 of
-bb
+bbs
 in
 the
 la

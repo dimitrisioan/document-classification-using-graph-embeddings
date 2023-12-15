@@ -513,7 +513,7 @@ doubt
 sinc
 the
 extern
-bu
+bus
 are
 the
 same

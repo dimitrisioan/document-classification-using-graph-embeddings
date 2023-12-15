@@ -48,7 +48,7 @@ all
 about
 thi
 product
-pleas
+plea
 respond
 via
 email

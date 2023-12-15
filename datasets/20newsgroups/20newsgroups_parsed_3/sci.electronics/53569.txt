@@ -611,7 +611,7 @@ or
 electrocut
 furthermor
 our
-discuss
+discus
 is
 base
 on
@@ -665,7 +665,7 @@ to
 correct
 u
 but
-pleas
+plea
 quot
 refer
 the
@@ -867,7 +867,7 @@ a
 model
 electr
 code
-devis
+devi
 and
 publish
 by
@@ -1856,7 +1856,7 @@ conductor
 appar
 stanley
 util
-knife
+knive
 fit
 with
 linoleum
@@ -2538,7 +2538,7 @@ appropri
 provinci
 code
 it
-focu
+focus
 on
 residenti
 wire
@@ -2730,7 +2730,7 @@ in
 gener
 the
 process
-go
+goe
 like
 thi
 you
@@ -3422,7 +3422,7 @@ not
 be
 connect
 anywher
-els
+el
 otherwis
 weird
 andor
@@ -4215,7 +4215,7 @@ ground
 conductor
 thi
 faq
-us
+use
 neutral
 simpli
 to
@@ -4603,7 +4603,7 @@ to
 the
 fuse
 be
-loos
+loo
 screw
 in
 or
@@ -5290,7 +5290,7 @@ to
 make
 sure
 it
-go
+goe
 in
 the
 wirenut
@@ -5333,7 +5333,7 @@ of
 bare
 wire
 is
-expos
+expo
 outsid
 the
 wire
@@ -5471,7 +5471,7 @@ of
 the
 current
 that
-pass
+pas
 from
 the
 hot
@@ -5591,7 +5591,7 @@ or
 just
 about
 anywher
-els
+el
 where
 your
 like
@@ -6023,7 +6023,7 @@ want
 to
 use
 an
-overs
+over
 box
 when
 instal
@@ -6316,9 +6316,9 @@ to
 toaster
 and
 anyth
-els
+el
 with
-expos
+expo
 conductor
 consid
 if
@@ -6638,7 +6638,7 @@ outlet
 and
 one
 hot
-go
+goe
 to
 the
 upper
@@ -6647,7 +6647,7 @@ and
 the
 other
 hot
-go
+goe
 to
 the
 lower
@@ -6961,7 +6961,7 @@ the
 vagu
 refer
 to
-expos
+expo
 to
 mechan
 damag
@@ -6981,7 +6981,7 @@ mechan
 damag
 where
 it
-pass
+pas
 through
 floor
 or
@@ -6991,7 +6991,7 @@ surfac
 of
 wall
 in
-expos
+expo
 locat
 under
 foot
@@ -7391,7 +7391,7 @@ etc
 should
 not
 be
-expos
+expo
 to
 direct
 sunlight
@@ -7441,7 +7441,7 @@ duct
 will
 spread
 toxic
-ga
+gas
 from
 burn
 insul
@@ -7580,7 +7580,7 @@ nmwu
 armor
 acwu
 teck
-expos
+expo
 to
 weather
 plastic
@@ -7726,7 +7726,7 @@ vulner
 to
 impact
 for
-expos
+expo
 or
 shop
 wire
@@ -8208,7 +8208,7 @@ csa
 approv
 for
 such
-us
+use
 follow
 the
 instal
@@ -8271,7 +8271,7 @@ in
 the
 panel
 is
-loos
+loo
 depend
 on
 the
@@ -8366,7 +8366,7 @@ with
 neutral
 circuit
 a
-loos
+loo
 main
 panel
 neutral
@@ -9644,7 +9644,7 @@ high
 speed
 if
 someth
-go
+goe
 a
 bit
 wrong
@@ -10195,7 +10195,7 @@ unlik
 copper
 when
 aluminum
-go
+goe
 through
 a
 number
@@ -10233,7 +10233,7 @@ resist
 of
 the
 connect
-go
+goe
 up
 which
 caus
@@ -10869,7 +10869,7 @@ into
 them
 wire
 that
-pass
+pas
 through
 a
 closet

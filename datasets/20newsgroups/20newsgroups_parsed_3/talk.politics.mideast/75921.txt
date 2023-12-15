@@ -28,7 +28,7 @@ in
 thi
 or
 ani
-discuss
+discus
 it
 doesnt
 help
@@ -694,7 +694,7 @@ state
 or
 un
 action
-pleas
+plea
 tim
 dont
 fall

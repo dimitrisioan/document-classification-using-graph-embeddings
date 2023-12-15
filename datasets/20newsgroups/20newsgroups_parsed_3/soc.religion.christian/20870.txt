@@ -181,7 +181,7 @@ be
 interpret
 either
 way
-needl
+needle
 to
 say
 there
@@ -342,7 +342,7 @@ that
 wrote
 me
 to
-pleas
+plea
 keep
 thi
 situat
@@ -363,7 +363,7 @@ if
 you
 have
 anyth
-els
+el
 for
 mei
 will
@@ -375,7 +375,7 @@ address
 for
 one
 week
-pleas
+plea
 tell
 me
 anyht

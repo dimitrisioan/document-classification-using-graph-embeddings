@@ -180,7 +180,7 @@ and
 the
 debugg
 applic
-go
+goe
 to
 vga
 charact
@@ -193,7 +193,7 @@ to
 do
 the
 screen
-go
+goe
 haywir
 and
 is

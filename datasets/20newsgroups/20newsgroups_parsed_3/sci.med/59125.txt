@@ -92,7 +92,7 @@ you
 have
 an
 articl
-pleas
+plea
 contact
 the
 editor
@@ -113,7 +113,7 @@ the
 autom
 distribut
 system
-pleas
+plea
 contact
 the
 editor
@@ -336,7 +336,7 @@ sigelman
 carla
 moor
 barbara
-moos
+moo
 judith
 schrier
 again
@@ -675,7 +675,7 @@ ha
 ani
 specif
 question
-pleas
+plea
 do
 not
 hesit
@@ -1263,7 +1263,7 @@ restaur
 report
 eat
 a
-regulars
+regular
 hamburg
 patti
 onset
@@ -1810,7 +1810,7 @@ case
 primarili
 were
 serv
-regulars
+regular
 hamburg
 patti
 produc
@@ -2022,7 +2022,7 @@ school
 of
 medicin
 and
-children
+child
 hospit
 and
 medic
@@ -2051,7 +2051,7 @@ md
 j
 bradley
 md
-children
+child
 hospit
 san
 diego
@@ -2554,7 +2554,7 @@ case
 e
 coli
 oh
-life
+live
 in
 the
 intestin

@@ -99,7 +99,7 @@ free
 space
 or
 whatev
-els
+el
 seem
 to
 work
@@ -239,7 +239,7 @@ dblspacebin
 load
 befor
 anyth
-els
+el
 with
 stacker
 ani

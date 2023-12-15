@@ -79,7 +79,7 @@ ga
 inc
 eogi
 is
-pleas
+plea
 to
 announc
 that
@@ -224,7 +224,7 @@ each
 weil
 on
 a
-eas
+ea
 earn
 emerson
 a
@@ -240,13 +240,13 @@ ga
 inc
 eogi
 is
-pleas
+plea
 to
 announc
 that
 the
 land
-leas
+lea
 ha
 been
 survey
@@ -316,7 +316,7 @@ the
 reservoir
 under
 the
-leas
+lea
 ga
 we
 s
@@ -381,7 +381,7 @@ each
 weil
 on
 a
-leas
+lea
 earn
 emerson
 a

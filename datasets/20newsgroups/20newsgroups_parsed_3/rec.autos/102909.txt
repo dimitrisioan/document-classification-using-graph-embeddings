@@ -164,7 +164,7 @@ far
 a
 the
 price
-go
+goe
 rest
 assur
 that
@@ -282,7 +282,7 @@ a
 low
 quot
 price
-pleas
+plea
 quot
 them
 too

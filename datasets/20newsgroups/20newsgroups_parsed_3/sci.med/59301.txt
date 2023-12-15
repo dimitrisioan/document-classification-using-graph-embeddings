@@ -44,7 +44,7 @@ entrain
 wherebi
 extern
 sensori
-stimulu
+stimulus
 influenc
 gross
 electr
@@ -105,7 +105,7 @@ not
 experiment
 in
 the
-sens
+sen
 of
 a
 specif
@@ -350,7 +350,7 @@ most
 case
 mayb
 someon
-els
+el
 ha
 more
 there

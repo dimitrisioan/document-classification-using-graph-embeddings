@@ -116,7 +116,7 @@ ani
 do
 program
 which
-us
+use
 svga
 mode
 like
@@ -154,7 +154,7 @@ for
 them
 the
 p
-us
+use
 a
 weitek
 vga

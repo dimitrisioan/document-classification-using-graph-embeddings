@@ -1,9 +1,9 @@
 howard
 unveil
-tori
+torus
 asylum
 plan
-tori
+torus
 plan
 to
 cut
@@ -70,7 +70,7 @@ plan
 would
 put
 refuge
-life
+live
 at
 risk
 if
@@ -103,7 +103,7 @@ week
 and
 attack
 the
-tori
+torus
 plan
 by
 cut
@@ -338,7 +338,7 @@ countri
 of
 origin
 the
-tori
+torus
 also
 want
 quota
@@ -524,7 +524,7 @@ thoughtout
 and
 huge
 irrespons
-life
+live
 could
 be
 put

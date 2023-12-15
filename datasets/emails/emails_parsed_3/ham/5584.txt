@@ -102,7 +102,7 @@ for
 full
 program
 detail
-pleas
+plea
 visit
 www
 garp
@@ -171,7 +171,7 @@ web
 site
 can
 i
-pleas
+plea
 have
 the
 web
@@ -216,7 +216,7 @@ it
 if
 you
 could
-pa
+pas
 on
 thi
 inform
@@ -272,7 +272,7 @@ ani
 question
 or
 queri
-pleas
+plea
 do
 not
 hesit

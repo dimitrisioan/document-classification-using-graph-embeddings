@@ -286,7 +286,7 @@ of
 thi
 if
 noth
-els
+el
 it
 meaningless
 how
@@ -375,7 +375,7 @@ the
 coverup
 grant
 garrett
-pleas
+plea
 note
 that
 everi
@@ -494,7 +494,7 @@ johnson
 everi
 letter
 that
-pass
+pas
 through
 hi
 hand

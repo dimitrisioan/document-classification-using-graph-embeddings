@@ -1,7 +1,7 @@
 senior
 fanni
 mae
-boss
+bos
 resign
 the
 two
@@ -75,7 +75,7 @@ institut
 recent
 investig
 have
-expos
+expo
 extens
 account
 error

@@ -17,7 +17,7 @@ which
 critic
 claim
 depict
-tori
+torus
 leader
 michael
 howard
@@ -350,7 +350,7 @@ when
 they
 onli
 challeng
-tori
+torus
 econom
 polici
 labour
@@ -405,7 +405,7 @@ theme
 is
 that
 the
-tori
+torus
 are
 tri
 to

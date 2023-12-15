@@ -70,7 +70,7 @@ s
 perform
 manag
 goal
-pleas
+plea
 provid
 feedback
 on
@@ -108,7 +108,7 @@ your
 feedback
 input
 immedi
-pleas
+plea
 have
 all
 feedback
@@ -132,7 +132,7 @@ respons
 in
 the
 process
-pleas
+plea
 call
 the
 pep

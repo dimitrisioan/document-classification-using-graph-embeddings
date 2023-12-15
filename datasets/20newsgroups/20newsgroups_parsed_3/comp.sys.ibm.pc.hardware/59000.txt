@@ -123,7 +123,7 @@ instal
 no
 motherboard
 can
-sens
+sen
 the
 speed
 of

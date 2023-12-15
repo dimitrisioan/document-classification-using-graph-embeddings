@@ -156,14 +156,14 @@ set
 the
 echo
 variablesdevtti
-els
+el
 if
 f
 echohostnam
 then
 sourc
 echohostnam
-els
+el
 if
 echo
 n
@@ -209,7 +209,7 @@ n
 echohostnam
 sourc
 echohostnam
-els
+el
 echo
 built
 in
@@ -247,7 +247,7 @@ or
 xterm
 duplic
 these
-alia
+alias
 here
 to
 avoid
@@ -257,7 +257,7 @@ term
 sun
 then
 sun
-alia
+alias
 alia
 header
 ech
@@ -266,7 +266,7 @@ alia
 ihead
 ech
 elen
-els
+el
 if
 term
 xterm

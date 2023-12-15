@@ -133,7 +133,7 @@ nervou
 marca
 refer
 in
-pass
+pas
 to
 the
 boo
@@ -157,7 +157,7 @@ long
 period
 of
 spanish
-possess
+posse
 aragon
 no
 comment
@@ -173,7 +173,7 @@ also
 highlight
 a
 marca
-focu
+focus
 on
 the
 spanish

@@ -29,7 +29,7 @@ look
 plausibl
 becaus
 it
-us
+use
 an
 old
 version
@@ -299,7 +299,7 @@ that
 it
 would
 never
-canva
+canvas
 support
 in
 thi

@@ -92,7 +92,7 @@ u
 in
 the
 futur
-pleas
+plea
 click
 on
 the
@@ -103,7 +103,7 @@ even
 though
 our
 databas
-cleans
+clean
 might
 be
 subject
@@ -123,7 +123,7 @@ from
 our
 databas
 howev
-pleas
+plea
 realiz
 that
 remov

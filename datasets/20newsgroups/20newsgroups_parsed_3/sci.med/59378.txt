@@ -10,7 +10,7 @@ medic
 student
 thi
 request
-go
+goe
 out
 to
 medic
@@ -150,7 +150,7 @@ may
 have
 these
 book
-pleas
+plea
 respond
 by
 email

@@ -209,7 +209,7 @@ spend
 money
 on
 save
-life
+live
 than
 a
 bunch
@@ -244,7 +244,7 @@ lawyer
 i
 say
 let
-pa
+pas
 law
 to
 make
@@ -552,7 +552,7 @@ right
 of
 consider
 then
-pleas
+plea
 justifi
 whi
 be
@@ -653,7 +653,7 @@ long
 run
 to
 save
-life
+live
 later
 they
 will
@@ -845,7 +845,7 @@ or
 otherwis
 that
 someon
-els
+el
 should
 foot
 the
@@ -1459,7 +1459,7 @@ your
 statement
 would
 make
-sens
+sen
 but
 that
 is

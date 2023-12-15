@@ -91,7 +91,7 @@ button
 the
 xlib
 rout
-us
+use
 xlookupstr
 and
 there

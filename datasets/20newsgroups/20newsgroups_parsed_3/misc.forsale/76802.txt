@@ -15,7 +15,7 @@ a
 student
 at
 rit
-pleas
+plea
 repli
 say
 how

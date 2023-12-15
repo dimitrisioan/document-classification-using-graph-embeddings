@@ -6,7 +6,7 @@ bio
 hello
 ami
 attach
-pleas
+plea
 find
 vinc
 kaminski

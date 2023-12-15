@@ -320,7 +320,7 @@ alleg
 fulli
 automat
 weapon
-possess
+posse
 by
 the
 cult
@@ -350,7 +350,7 @@ if
 david
 koresh
 illeg
-possess
+posse
 them
 he
 would
@@ -380,7 +380,7 @@ report
 that
 david
 koresh
-possess
+posse
 a
 feder
 firearm
@@ -391,7 +391,7 @@ have
 permit
 him
 to
-poss
+posse
 fulli
 automat
 weapon
@@ -485,7 +485,7 @@ control
 law
 that
 ha
-pass
+pas
 through
 congress
 yet
@@ -818,7 +818,7 @@ alleg
 fulli
 automat
 weapon
-possess
+posse
 by
 the
 cult
@@ -848,7 +848,7 @@ if
 david
 koresh
 illeg
-possess
+posse
 them
 he
 would
@@ -878,7 +878,7 @@ report
 that
 david
 koresh
-possess
+posse
 a
 feder
 firearm
@@ -889,7 +889,7 @@ have
 permit
 him
 to
-poss
+posse
 fulli
 automat
 weapon
@@ -983,7 +983,7 @@ control
 law
 that
 ha
-pass
+pas
 through
 congress
 yet

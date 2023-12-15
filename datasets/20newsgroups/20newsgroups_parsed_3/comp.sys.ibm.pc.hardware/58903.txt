@@ -48,7 +48,7 @@ be
 cross
 a
 someon
-els
+el
 alreadi
 mention
 dont
@@ -190,7 +190,7 @@ one
 is
 ideal
 it
-leaf
+leav
 out
 dsr
 and

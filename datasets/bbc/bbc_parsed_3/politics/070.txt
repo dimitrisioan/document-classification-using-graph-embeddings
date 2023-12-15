@@ -221,7 +221,7 @@ a
 judg
 respons
 for
-assess
+ass
 evid
 and
 ensur
@@ -243,7 +243,7 @@ to
 enter
 into
 construct
-discuss
+discus
 with
 hi
 parti
@@ -490,7 +490,7 @@ and
 could
 put
 the
-life
+live
 of
 intellig
 sourc

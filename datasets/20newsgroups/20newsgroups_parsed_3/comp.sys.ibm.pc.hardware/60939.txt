@@ -138,7 +138,7 @@ for
 more
 then
 two
-devis
+devi
 off
 the
 scsi

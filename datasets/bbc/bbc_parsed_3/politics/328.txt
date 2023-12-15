@@ -135,7 +135,7 @@ a
 call
 by
 former
-tori
+torus
 lord
 chancellor
 lord
@@ -463,7 +463,7 @@ alway
 been
 kept
 confidenti
-tori
+torus
 mp
 michael
 mate
@@ -517,7 +517,7 @@ most
 recent
 regard
 princ
-charl
+charles
 marriag
 plan
 the

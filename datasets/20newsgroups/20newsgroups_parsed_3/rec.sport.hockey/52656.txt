@@ -323,7 +323,7 @@ russia
 if
 the
 gm
-belief
+believ
 him
 to
 be
@@ -644,7 +644,7 @@ jet
 internet
 fidonet
 or
-pleas
+plea
 rout
 through
 tkachuk

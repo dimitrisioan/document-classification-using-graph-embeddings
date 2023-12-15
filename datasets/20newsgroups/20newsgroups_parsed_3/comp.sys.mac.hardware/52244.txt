@@ -108,7 +108,7 @@ say
 cd
 the
 abov
-prof
+prove
 to
 be
 fals

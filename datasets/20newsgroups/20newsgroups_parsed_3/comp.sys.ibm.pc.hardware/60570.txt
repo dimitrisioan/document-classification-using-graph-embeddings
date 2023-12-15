@@ -6,7 +6,7 @@ ext
 db
 floppi
 connector
-pleas
+plea
 hi
 all
 thi

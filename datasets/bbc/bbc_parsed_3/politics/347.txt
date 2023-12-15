@@ -1,4 +1,4 @@
-tori
+torus
 outlin
 polic
 plan
@@ -68,7 +68,7 @@ while
 labour
 criticis
 extravag
-tori
+torus
 promis
 on
 polic
@@ -390,7 +390,7 @@ he
 said
 today
 the
-tori
+torus
 are
 make
 more
@@ -418,7 +418,7 @@ the
 asylum
 system
 the
-tori
+torus
 insist
 the
 commission
@@ -433,7 +433,7 @@ an
 american
 sheriff
 other
-tori
+torus
 law
 and
 order

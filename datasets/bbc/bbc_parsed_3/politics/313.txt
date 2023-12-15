@@ -46,7 +46,7 @@ to
 year
 old
 chariti
-bo
+bos
 gordon
 lishman
 said
@@ -130,7 +130,7 @@ a
 differ
 to
 their
-life
+live
 mr
 lishman
 said
@@ -300,7 +300,7 @@ govern
 he
 point
 to
-tori
+torus
 plan
 to
 increas

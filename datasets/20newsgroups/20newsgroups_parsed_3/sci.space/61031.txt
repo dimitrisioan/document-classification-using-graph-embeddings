@@ -133,7 +133,7 @@ judg
 dredd
 the
 stori
-focuss
+focus
 on
 an
 advertis
@@ -158,7 +158,7 @@ imag
 on
 the
 moon
-needl
+needle
 to
 say
 thi

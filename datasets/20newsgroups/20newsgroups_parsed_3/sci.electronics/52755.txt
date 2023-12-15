@@ -18,7 +18,7 @@ but
 im
 gon
 na
-loos
+loo
 net
 access
 in
@@ -59,7 +59,7 @@ phd
 and
 a
 good
-bo
+bos
 i
 have
 neither
@@ -194,7 +194,7 @@ glow
 when
 the
 blinker
-go
+goe
 open
 thi
 resistor

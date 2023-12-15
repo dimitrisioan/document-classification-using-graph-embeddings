@@ -56,7 +56,7 @@ in
 a
 compani
 which
-belief
+believ
 that
 comput
 capac

@@ -8,7 +8,7 @@ player
 read
 thi
 im
-pleas
+plea
 to
 announc
 a
@@ -91,7 +91,7 @@ code
 to
 get
 unlimit
-life
+live
 and
 other
 cheat
@@ -236,7 +236,7 @@ can
 give
 you
 unlimit
-life
+live
 or
 warp
 you

@@ -97,7 +97,7 @@ said
 time
 could
 someon
-pleas
+plea
 tell
 me
 whether
@@ -347,7 +347,7 @@ care
 the
 filter
 method
-us
+use
 an
 fir
 finit
@@ -651,7 +651,7 @@ the
 first
 imag
 ie
-aliass
+alias
 spectrum
 through
 talk

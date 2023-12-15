@@ -24,7 +24,7 @@ ticket
 system
 on
 german
-bu
+buse
 earli
 next
 year
@@ -44,7 +44,7 @@ pay
 for
 ticket
 by
-pass
+pas
 their
 phone
 over
@@ -55,7 +55,7 @@ alreadi
 instal
 on
 the
-bu
+buse
 passeng
 will
 need
@@ -201,7 +201,7 @@ for
 exampl
 by
 be
-pass
+pas
 over
 an
 advert

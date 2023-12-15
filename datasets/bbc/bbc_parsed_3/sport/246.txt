@@ -207,7 +207,7 @@ at
 setpiec
 wa
 again
-expos
+expo
 almost
 immedi
 henri
@@ -217,7 +217,7 @@ and
 chelsea
 gather
 the
-loos
+loo
 ball
 befor
 go

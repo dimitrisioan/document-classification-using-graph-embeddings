@@ -14,7 +14,7 @@ literatur
 which
 promot
 colon
-cleans
+clean
 a
 a
 vital
@@ -33,7 +33,7 @@ in
 hi
 book
 colon
-cleans
+clean
 for
 health
 and
@@ -126,7 +126,7 @@ know
 anyth
 about
 colon
-cleans
+clean
 theori
 it
 particular
@@ -161,7 +161,7 @@ touch
 upon
 fast
 and
-cleans
+clean
 through
 a
 ritual

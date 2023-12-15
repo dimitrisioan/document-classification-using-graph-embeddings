@@ -110,7 +110,7 @@ june
 unless
 someth
 realli
-go
+goe
 wrong
 thi
 time
@@ -125,7 +125,7 @@ of
 klein
 if
 he
-go
+goe
 ahead
 with
 hi
@@ -338,7 +338,7 @@ hi
 jobth
 oiler
 are
-pois
+poi
 to
 be
 competit
@@ -424,7 +424,7 @@ btw
 when
 follow
 up
-pleas
+plea
 delet
 name
 of
@@ -448,7 +448,7 @@ u
 allrememb
 jesu
 save
-life
+live
 from
 etern
 damnat

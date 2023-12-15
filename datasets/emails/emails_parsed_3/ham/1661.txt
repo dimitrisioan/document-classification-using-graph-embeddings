@@ -6,7 +6,7 @@ london
 to
 enron
 iri
-pleas
+plea
 feel
 free
 to
@@ -184,7 +184,7 @@ recipi
 of
 the
 messag
-pleas
+plea
 notifi
 the
 sender

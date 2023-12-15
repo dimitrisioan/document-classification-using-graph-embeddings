@@ -41,7 +41,7 @@ make
 me
 a
 copi
-pleas
+plea
 email
 me
 thank

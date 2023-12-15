@@ -146,7 +146,7 @@ from
 a
 coreldraw
 ttf
-ru
+rus
 sharp
 ph
 fax

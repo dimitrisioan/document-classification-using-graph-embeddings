@@ -4,7 +4,7 @@ seri
 vw
 passat
 my
-bo
+bos
 is
 interest
 in
@@ -84,7 +84,7 @@ lock
 and
 unlock
 them
-self
+selv
 while
 you
 are
@@ -195,4 +195,4 @@ got
 them
 from
 someon
-els
+el

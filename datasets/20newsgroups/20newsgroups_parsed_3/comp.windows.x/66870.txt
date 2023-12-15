@@ -78,7 +78,7 @@ to
 do
 could
 someon
-pleas
+plea
 scan
 my
 code
@@ -340,7 +340,7 @@ you
 wait
 for
 an
-expos
+expo
 event
 befor
 draw

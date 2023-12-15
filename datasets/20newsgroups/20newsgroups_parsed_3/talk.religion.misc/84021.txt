@@ -35,7 +35,7 @@ thi
 legal
 battl
 kent
-pleas
+plea
 do
 and
 if
@@ -54,7 +54,7 @@ dont
 know
 how
 thi
-discuss
+discus
 is
 appreci
 here

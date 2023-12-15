@@ -226,7 +226,7 @@ an
 fhir
 ionsa
 na
-hins
+hin
 port
 an
 fhmhair

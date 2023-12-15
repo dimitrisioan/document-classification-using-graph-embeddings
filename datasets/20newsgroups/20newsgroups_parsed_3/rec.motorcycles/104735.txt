@@ -52,7 +52,7 @@ ftp
 vaxwinonamsusedu
 user
 euro
-pa
+pas
 spoog
 cd
 bmw
@@ -61,7 +61,7 @@ and
 put
 a
 you
-pleas
+plea
 john
 stafford
 minnesota

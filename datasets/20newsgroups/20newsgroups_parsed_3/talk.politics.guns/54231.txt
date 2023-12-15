@@ -273,7 +273,7 @@ with
 regard
 to
 thi
-discuss
+discus
 we
 are
 get
@@ -717,7 +717,7 @@ to
 the
 next
 round
-discuss
+discus
 thi
 point
 now
@@ -1468,7 +1468,7 @@ wasnt
 there
 anyon
 who
-go
+goe
 anyon
 say
 that
@@ -1835,7 +1835,7 @@ a
 lone
 crimin
 vincent
-pleas
+plea
 dont
 take
 ani

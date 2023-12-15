@@ -156,7 +156,7 @@ chunk
 of
 it
 expens
-go
+goe
 toward
 purchas
 commod
@@ -343,7 +343,7 @@ pursu
 the
 opportun
 we
-discuss
+discus
 in
 the
 futur

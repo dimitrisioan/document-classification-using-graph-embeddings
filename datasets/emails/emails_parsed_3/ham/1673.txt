@@ -139,7 +139,7 @@ group
 to
 use
 cplex
-pleas
+plea
 let
 me
 know

@@ -105,7 +105,7 @@ the
 insertchild
 procedur
 and
-pa
+pas
 it
 multipl
 argument
@@ -136,7 +136,7 @@ too
 mani
 argument
 are
-pass
+pas
 to
 the
 function

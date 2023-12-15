@@ -381,7 +381,7 @@ restrict
 gun
 law
 were
-pass
+pas
 and
 decid
 to
@@ -533,7 +533,7 @@ and
 even
 le
 common
-sens
+sen
 arent
 worth
 the
@@ -603,7 +603,7 @@ polit
 correct
 movement
 often
-us
+use
 to
 stifl
 ani

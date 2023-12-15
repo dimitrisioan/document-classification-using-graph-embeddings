@@ -94,7 +94,7 @@ wrong
 about
 thi
 correl
-pleas
+plea
 correct
 me
 my
@@ -169,7 +169,7 @@ the
 same
 a
 everyon
-els
+el
 mark
 walsh
 uucp

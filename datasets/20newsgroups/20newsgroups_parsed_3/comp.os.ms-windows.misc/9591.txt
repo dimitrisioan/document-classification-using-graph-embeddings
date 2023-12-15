@@ -64,7 +64,7 @@ use
 k
 driver
 so
-pleas
+plea
 tell
 me
 whether

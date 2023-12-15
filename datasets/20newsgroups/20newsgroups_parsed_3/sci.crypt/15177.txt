@@ -38,7 +38,7 @@ not
 to
 be
 alter
-pleas
+plea
 credit
 if
 quot
@@ -474,7 +474,7 @@ tcpdump
 packettrac
 program
 is
-loos
+loo
 base
 on
 smi
@@ -563,7 +563,7 @@ issu
 especi
 those
 frequent
-discuss
+discus
 in
 scicrypt
 is
@@ -927,7 +927,7 @@ mail
 list
 dedic
 to
-discuss
+discus
 about
 technolog
 defens
@@ -1098,7 +1098,7 @@ altsecuritypgp
 altsecurityripem
 dedic
 to
-discuss
+discus
 public
 domain
 cryptograph
@@ -1811,7 +1811,7 @@ abov
 are
 amen
 to
-discuss
+discus
 featur
 problem
 and
@@ -2181,7 +2181,7 @@ on
 research
 and
 commerci
-us
+use
 see
 pubcudnetworksindex
 pubcudnetworksemail
@@ -2527,7 +2527,7 @@ past
 a
 person
 who
-us
+use
 comput
 and
 network
@@ -2591,7 +2591,7 @@ patriot
 thi
 is
 the
-sens
+sen
 intend
 in
 thi
@@ -3446,7 +3446,7 @@ structur
 and
 coher
 to
-us
+use
 of
 convent
 medium
@@ -3494,7 +3494,7 @@ profoundli
 new
 form
 peopl
-sens
+sen
 both
 the
 promis
@@ -3724,7 +3724,7 @@ consumerori
 public
 inform
 network
-pleas
+plea
 let
 me
 or
@@ -4947,7 +4947,7 @@ polici
 debat
 the
 eff
-belief
+believ
 that
 particip
 on
@@ -5103,7 +5103,7 @@ integr
 servic
 digit
 network
-us
+use
 of
 isdn
 phone
@@ -5217,7 +5217,7 @@ transmiss
 rate
 the
 bill
-pass
+pas
 the
 hous
 on
@@ -5403,7 +5403,7 @@ issu
 of
 nren
 by
-divers
+diver
 member
 of
 academia
@@ -6247,7 +6247,7 @@ seven
 month
 of
 onlin
-discuss
+discus
 about
 comput
 and
@@ -6278,7 +6278,7 @@ mention
 in
 the
 caf
-discuss
+discus
 the
 file
 booksreadm
@@ -6803,7 +6803,7 @@ way
 theyll
 chang
 our
-life
+live
 the
 futurist
 januaryfebruari
@@ -6885,7 +6885,7 @@ certain
 deep
 and
 basic
-sens
+sen
 it
 rather
 like
@@ -6922,7 +6922,7 @@ make
 whatev
 use
 you
-pleas
+plea
 of
 it
 though
@@ -6993,7 +6993,7 @@ good
 much
 the
 same
-go
+goe
 for
 the
 internet
@@ -7109,7 +7109,7 @@ data
 on
 the
 specif
-us
+use
 and
 penetr
 of
@@ -7229,7 +7229,7 @@ invest
 email
 feedback
 to
-pleas
+plea
 note
 where
 you

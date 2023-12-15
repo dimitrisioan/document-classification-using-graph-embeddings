@@ -309,7 +309,7 @@ the
 studi
 in
 human
-pleas
+plea
 im
 familiar
 with
@@ -347,7 +347,7 @@ ha
 casual
 refer
 to
-chines
+chine
 restaur
 syndrom
 in
@@ -562,7 +562,7 @@ question
 that
 oral
 administ
-do
+dose
 of
 msg
 are
@@ -692,7 +692,7 @@ effect
 chronic
 acut
 etc
-do
+dose
 of
 these
 compound
@@ -775,7 +775,7 @@ adult
 me
 certainli
 the
-do
+dose
 for
 excitotox
 in
@@ -842,7 +842,7 @@ level
 attain
 and
 oral
-do
+dose
 would
 like
 have
@@ -958,7 +958,7 @@ the
 phenomenon
 of
 the
-chines
+chine
 restaur
 syndrom
 it
@@ -1033,7 +1033,7 @@ prolactin
 in
 adult
 chronic
-expos
+expo
 to
 msg
 gh

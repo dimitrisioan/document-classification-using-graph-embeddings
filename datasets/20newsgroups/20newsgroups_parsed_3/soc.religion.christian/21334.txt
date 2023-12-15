@@ -194,7 +194,7 @@ ben
 sirach
 have
 their
-us
+use
 for
 exampl
 the
@@ -261,7 +261,7 @@ where
 thi
 sort
 of
-discuss
+discus
 ultim
 end
 david

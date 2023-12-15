@@ -58,7 +58,7 @@ out
 thi
 inform
 thank
-pleas
+plea
 email
 to
 if

@@ -604,7 +604,7 @@ famili
 plan
 laboratori
 which
-serf
+serv
 a
 network
 of
@@ -680,7 +680,7 @@ thi
 hypothesi
 requir
 further
-assess
+ass
 to
 examin
 the
@@ -865,7 +865,7 @@ announc
 sign
 on
 citi
-bu
+buse
 newspap
 advertis
 and
@@ -1145,7 +1145,7 @@ from
 through
 all
 state
-pass
+pas
 legisl
 requir
 the
@@ -2067,7 +2067,7 @@ d
 mackinnon
 d
 an
-assess
+ass
 of
 the
 california
@@ -2299,7 +2299,7 @@ the
 cdc
 surveil
 summari
-focu
+focus
 on
 public
 health
@@ -2743,7 +2743,7 @@ weekli
 identif
 of
 influenza
-viru
+virus
 weekli
 morbid
 report
@@ -2783,7 +2783,7 @@ influenza
 ahn
 and
 b
-viru
+virus
 were
 identifi
 in
@@ -2816,7 +2816,7 @@ season
 increas
 in
 the
-index
+indic
 of
 influenza
 morbid
@@ -2839,7 +2839,7 @@ predomin
 onli
 of
 identifi
-viru
+virus
 were
 influenza
 ahn
@@ -2923,7 +2923,7 @@ action
 taken
 weekli
 interim
-analysi
+analys
 of
 surveil
 data
@@ -2956,7 +2956,7 @@ viral
 variant
 to
 be
-assess
+ass
 a
 candid
 for
@@ -3274,7 +3274,7 @@ art
 procedur
 thi
 program
-serf
+serv
 a
 a
 tertiari
@@ -3527,7 +3527,7 @@ subsequ
 termin
 of
 affect
-fetu
+fetus
 in
 order
 to
@@ -3681,7 +3681,7 @@ number
 april
 assist
 semen
-analysi
+analys
 to
 ensur
 an

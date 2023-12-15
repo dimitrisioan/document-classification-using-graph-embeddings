@@ -20,7 +20,7 @@ wa
 free
 im
 quit
-pleas
+plea
 with
 the
 perform
@@ -139,7 +139,7 @@ becaus
 im
 sure
 somebodi
-els
+el
 would
 like
 to

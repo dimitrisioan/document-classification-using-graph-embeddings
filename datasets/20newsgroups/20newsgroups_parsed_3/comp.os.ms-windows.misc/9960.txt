@@ -114,7 +114,7 @@ notic
 my
 wife
 who
-us
+use
 the
 comput
 about
@@ -135,7 +135,7 @@ anyth
 about
 other
 bu
-mous
+mouse
 but
 with
 the
@@ -161,7 +161,7 @@ dont
 know
 mous
 system
-mous
+mouse
 have
 three
 button
@@ -183,7 +183,7 @@ hope
 thi
 help
 someon
-els
+el
 if
 your
 anywher

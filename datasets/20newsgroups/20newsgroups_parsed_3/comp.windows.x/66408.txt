@@ -191,7 +191,7 @@ remain
 unalt
 all
 other
-us
+use
 must
 receiv
 prior
@@ -1497,7 +1497,7 @@ noll
 and
 larri
 bassel
-pleas
+plea
 send
 x
 question
@@ -1588,7 +1588,7 @@ x
 user
 anonym
 x
-pa
+pas
 x
 dir
 pubioccc
@@ -1611,7 +1611,7 @@ to
 the
 abov
 address
-pleas
+plea
 use
 the
 subject
@@ -1719,7 +1719,7 @@ remain
 unalt
 all
 other
-us
+use
 must
 receiv
 prior
@@ -2272,7 +2272,7 @@ in
 the
 remark
 section
-pleas
+plea
 note
 that
 an
@@ -2687,7 +2687,7 @@ x
 if
 your
 entri
-us
+use
 function
 that
 have
@@ -2747,7 +2747,7 @@ a
 valist
 variabl
 x
-pass
+pas
 a
 valist
 variabl
@@ -2759,7 +2759,7 @@ a
 nonvalist
 arg
 x
-pass
+pas
 a
 nonvalist
 variabl
@@ -3559,7 +3559,7 @@ at
 least
 quasiinterest
 x
-pa
+pas
 lint
 without
 complaint
@@ -3884,7 +3884,7 @@ x
 the
 mkentryc
 program
-pleas
+plea
 send
 email
 to
@@ -4114,7 +4114,7 @@ be
 a
 particular
 name
-pleas
+plea
 say
 so
 in
@@ -4227,7 +4227,7 @@ your
 buildprogram
 file
 that
-us
+use
 the
 name
 convent
@@ -4255,7 +4255,7 @@ or
 binari
 file
 x
-pleas
+plea
 say
 so
 in
@@ -4806,7 +4806,7 @@ sure
 that
 the
 resubmitt
-us
+use
 the
 same
 titl
@@ -5260,7 +5260,7 @@ section
 if
 ani
 x
-pass
+pas
 the
 sourc
 thru
@@ -5285,7 +5285,7 @@ on
 the
 sourc
 x
-pass
+pas
 the
 beautifi
 sourc
@@ -5490,7 +5490,7 @@ the
 rule
 x
 anyth
-els
+el
 so
 strang
 that
@@ -5982,7 +5982,7 @@ x
 user
 anonym
 x
-pa
+pas
 x
 dir
 pubioccc
@@ -6005,7 +6005,7 @@ to
 the
 abov
 address
-pleas
+plea
 use
 the
 subject

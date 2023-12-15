@@ -113,7 +113,7 @@ in
 a
 formerli
 safe
-tori
+torus
 seat
 prompt
 call
@@ -271,7 +271,7 @@ understood
 to
 have
 been
-tori
+torus
 edward
 turnour
 who

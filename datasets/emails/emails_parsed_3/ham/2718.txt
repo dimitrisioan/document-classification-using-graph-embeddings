@@ -33,7 +33,7 @@ request
 login
 and
 password
-pleas
+plea
 use
 the
 login
@@ -49,7 +49,7 @@ into
 the
 enron
 network
-pleas
+plea
 send
 me
 your

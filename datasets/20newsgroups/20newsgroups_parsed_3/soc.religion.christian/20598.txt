@@ -145,7 +145,7 @@ both
 without
 gender
 and
-posess
+pose
 qualiti
 of
 both
@@ -161,7 +161,7 @@ forc
 it
 provid
 a
-sens
+sen
 of
 balanc
 i

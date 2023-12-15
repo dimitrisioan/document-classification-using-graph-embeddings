@@ -37,7 +37,7 @@ after
 a
 book
 by
-curti
+curtis
 widow
 deborah
 which
@@ -91,7 +91,7 @@ ha
 remain
 friend
 with
-curti
+curtis
 widow
 and
 daughter
@@ -168,7 +168,7 @@ get
 the
 back
 of
-curti
+curtis
 famili
 mr
 wilson

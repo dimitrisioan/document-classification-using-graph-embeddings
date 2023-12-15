@@ -38,7 +38,7 @@ energi
 deriv
 cours
 shirley
-pleas
+plea
 pay
 vinc
 forward
@@ -66,7 +66,7 @@ energi
 deriv
 cours
 shirley
-pleas
+plea
 find
 attach
 the
@@ -85,7 +85,7 @@ to
 someon
 in
 account
-pleas
+plea
 let
 me
 know

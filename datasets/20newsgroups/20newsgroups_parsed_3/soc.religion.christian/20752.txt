@@ -111,7 +111,7 @@ i
 havent
 follow
 whatev
-discuss
+discus
 there
 may
 have
@@ -178,7 +178,7 @@ express
 a
 rather
 odd
-sens
+sen
 of
 histori
 what

@@ -205,7 +205,7 @@ theoret
 structur
 that
 make
-sens
+sen
 not
 a
 mere
@@ -214,7 +214,7 @@ of
 empir
 valid
 random
-hypothesi
+hypothes
 experi
 and
 empir
@@ -252,11 +252,11 @@ doe
 not
 have
 ani
-hypothesi
+hypothes
 worth
 test
 no
-hypothesi
+hypothes
 do
 not
 just
@@ -389,7 +389,7 @@ studi
 test
 ad
 hoc
-hypothesi
+hypothes
 and
 im
 especi

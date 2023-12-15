@@ -98,7 +98,7 @@ which
 show
 no
 such
-chines
+chine
 restaur
 effect
 uniqu
@@ -332,7 +332,7 @@ ani
 control
 studi
 infant
-mous
+mouse
 and
 other
 model

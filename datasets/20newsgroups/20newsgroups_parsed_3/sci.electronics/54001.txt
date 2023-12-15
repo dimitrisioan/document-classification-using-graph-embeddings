@@ -38,7 +38,7 @@ take
 some
 big
 current
-puls
+pul
 if
 you
 can
@@ -125,7 +125,7 @@ envelop
 detect
 so
 that
-leaf
+leav
 me
 with
 onli

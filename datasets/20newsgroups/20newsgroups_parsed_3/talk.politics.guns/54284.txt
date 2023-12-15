@@ -22,7 +22,7 @@ the
 dictat
 of
 common
-sens
+sen
 but
 of
 usc
@@ -168,7 +168,7 @@ felon
 ill
 galli
 in
-possess
+posse
 and
 at
 confisc
@@ -406,7 +406,7 @@ to
 curb
 the
 unlaw
-possess
+posse
 and
 use
 of
@@ -500,7 +500,7 @@ illeg
 firearm
 and
 explos
-possess
+posse
 automat
 semiautomat
 and
@@ -773,7 +773,7 @@ by
 the
 loss
 of
-life
+live
 of
 the
 law

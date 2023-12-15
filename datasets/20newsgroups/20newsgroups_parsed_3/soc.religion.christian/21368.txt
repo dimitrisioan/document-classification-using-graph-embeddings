@@ -130,7 +130,7 @@ and
 i
 have
 alreadi
-pass
+pas
 judgment
 on
 the

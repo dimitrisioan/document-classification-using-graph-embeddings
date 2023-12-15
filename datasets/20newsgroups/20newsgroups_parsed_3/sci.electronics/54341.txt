@@ -66,7 +66,7 @@ ha
 the
 grayish
 board
-expos
+expo
 on
 the
 left
@@ -294,7 +294,7 @@ for
 most
 gener
 purpos
-us
+use
 and
 have
 a

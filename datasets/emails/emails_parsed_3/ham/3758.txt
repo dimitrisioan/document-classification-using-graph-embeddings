@@ -5,7 +5,7 @@ price
 to
 date
 margaret
-pleas
+plea
 find
 attach
 file
@@ -68,7 +68,7 @@ through
 repres
 sampl
 survey
-pleas
+plea
 let
 me
 know
@@ -118,13 +118,13 @@ date
 elena
 can
 you
-pleas
+plea
 help
 wiht
 thi
 request
 kevin
-pleas
+plea
 call
 me
 if

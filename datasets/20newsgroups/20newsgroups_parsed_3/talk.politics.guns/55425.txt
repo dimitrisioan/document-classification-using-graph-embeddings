@@ -481,7 +481,7 @@ it
 make
 much
 more
-sens
+sen
 to
 restrict
 car
@@ -539,7 +539,7 @@ germani
 in
 the
 s
-pleas
+plea
 read
 some
 histori
@@ -652,7 +652,7 @@ each
 action
 is
 thi
-discuss
+discus
 about
 ban
 weapon

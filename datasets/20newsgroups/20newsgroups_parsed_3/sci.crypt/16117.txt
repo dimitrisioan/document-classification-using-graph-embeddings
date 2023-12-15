@@ -98,7 +98,7 @@ cipher
 thi
 would
 make
-sens
+sen
 sinc
 thi
 is
@@ -244,7 +244,7 @@ for
 year
 ha
 anyon
-els
+el
 made
 thi
 sort

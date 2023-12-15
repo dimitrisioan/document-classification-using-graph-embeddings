@@ -42,7 +42,7 @@ kim
 turley
 on
 pm
-pleas
+plea
 respond
 to
 to
@@ -394,7 +394,7 @@ opl
 studio
 if
 not
-pleas
+plea
 visit
 http
 www

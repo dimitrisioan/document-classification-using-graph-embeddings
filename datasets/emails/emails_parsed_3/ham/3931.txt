@@ -14,7 +14,7 @@ reuter
 link
 volatil
 curv
-pleas
+plea
 don
 t
 re

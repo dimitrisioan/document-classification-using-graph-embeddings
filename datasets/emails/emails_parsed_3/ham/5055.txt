@@ -242,7 +242,7 @@ map
 chart
 graph
 etc
-pleas
+plea
 inform
 me
 a

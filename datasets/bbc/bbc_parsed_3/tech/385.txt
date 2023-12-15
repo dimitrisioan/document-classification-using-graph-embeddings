@@ -94,7 +94,7 @@ a
 long
 line
 of
-viru
+virus
 that
 trade
 on
@@ -159,7 +159,7 @@ of
 messag
 post
 to
-discuss
+discus
 group
 on
 the

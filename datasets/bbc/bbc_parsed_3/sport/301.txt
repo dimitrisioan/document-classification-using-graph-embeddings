@@ -133,7 +133,7 @@ return
 with
 three
 firsthalf
-possess
+posse
 in
 their
 half

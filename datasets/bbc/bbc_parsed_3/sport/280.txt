@@ -4,7 +4,7 @@ swipe
 at
 arsen
 chelsea
-bo
+bos
 jose
 mourinho
 ha
@@ -76,7 +76,7 @@ especi
 john
 terri
 chelsea
-bo
+bos
 jose
 mourinho
 admit

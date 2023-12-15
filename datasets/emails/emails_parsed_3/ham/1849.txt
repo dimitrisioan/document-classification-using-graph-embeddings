@@ -16,7 +16,7 @@ prompt
 email
 respons
 i
-pass
+pas
 your
 messag
 along

@@ -136,7 +136,7 @@ that
 directli
 hurt
 someon
-els
+el
 what
 the
 point
@@ -159,7 +159,7 @@ exce
 the
 cost
 in
-life
+live
 of
 firearm
 one
@@ -221,7 +221,7 @@ a
 bit
 virginia
 just
-pass
+pas
 the
 lawno
 word
@@ -304,7 +304,7 @@ give
 away
 to
 everybodi
-els
+el
 and
 have
 none

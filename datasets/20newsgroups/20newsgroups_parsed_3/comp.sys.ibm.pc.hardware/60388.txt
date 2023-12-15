@@ -79,7 +79,7 @@ driver
 run
 or
 so
-pass
+pas
 they
 go
 veri
@@ -98,7 +98,7 @@ chip
 if
 your
 machin
-pass
+pas
 there
 is
 a

@@ -2,7 +2,7 @@ vodafon
 appoint
 new
 japan
-bo
+bos
 vodafon
 ha
 draft

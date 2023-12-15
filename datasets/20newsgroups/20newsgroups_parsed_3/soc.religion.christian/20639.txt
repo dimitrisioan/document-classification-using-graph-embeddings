@@ -128,7 +128,7 @@ no
 way
 tri
 to
-pa
+pas
 thi
 off
 a

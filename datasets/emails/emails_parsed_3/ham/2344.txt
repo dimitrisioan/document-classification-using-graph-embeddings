@@ -137,7 +137,7 @@ schedul
 for
 novemb
 to
-discu
+discus
 the
 propos
 solut
@@ -193,7 +193,7 @@ gone
 far
 enough
 a
-discuss
+discus
 below
 a
 final
@@ -658,7 +658,7 @@ pre
 announc
 date
 he
-belief
+believ
 that
 thi
 would
@@ -893,7 +893,7 @@ in
 the
 futur
 he
-belief
+believ
 that
 thi
 order
@@ -1169,7 +1169,7 @@ ani
 question
 or
 comment
-pleas
+plea
 call
 jack
 cashin

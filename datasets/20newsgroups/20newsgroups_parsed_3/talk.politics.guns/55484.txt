@@ -246,7 +246,7 @@ make
 a
 lot
 of
-sens
+sen
 i
 tell
 you
@@ -307,7 +307,7 @@ address
 these
 lesser
 caus
-pleas
+plea
 quit
 wast
 my
@@ -400,7 +400,7 @@ someon
 who
 want
 to
-discu
+discus
 youth
 gun
 violenc
@@ -816,7 +816,7 @@ out
 ani
 idea
 of
-discuss
+discus
 thi
 issu
 in
@@ -839,7 +839,7 @@ gun
 control
 and
 polit
-discuss
+discus
 i
 realli
 dont
@@ -924,12 +924,12 @@ of
 gun
 in
 the
-life
+live
 of
 youth
 in
 the
-life
+live
 of
 youth
 or
@@ -948,7 +948,7 @@ firearm
 present
 in
 their
-life
+live
 is
 is
 quit
@@ -1009,8 +1009,8 @@ jump
 into
 a
 previou
-discuss
-pleas
+discus
+plea
 read
 the
 entir
@@ -1048,7 +1048,7 @@ issu
 out
 of
 a
-discuss
+discus
 that
 isnt
 the

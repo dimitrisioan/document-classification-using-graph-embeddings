@@ -268,7 +268,7 @@ easili
 grab
 by
 somebodi
-els
+el
 by
 thi
 criterion
@@ -278,7 +278,7 @@ make
 a
 lot
 of
-sens
+sen
 a
 a
 conceal
@@ -320,7 +320,7 @@ may
 someday
 be
 biometr
-sens
+sen
 of
 the
 user

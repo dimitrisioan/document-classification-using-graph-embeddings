@@ -35,7 +35,7 @@ audibl
 alarm
 anymor
 the
-thief
+thiev
 know
 thi
 is
@@ -83,7 +83,7 @@ if
 it
 alarm
 ever
-go
+goe
 off
 for
 real

@@ -6,7 +6,7 @@ in
 articl
 william
 e
-john
+johns
 write
 if
 good

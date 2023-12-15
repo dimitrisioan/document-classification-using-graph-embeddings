@@ -83,7 +83,7 @@ dont
 consid
 the
 true
-motif
+motiv
 of
 spammer
 said
@@ -264,7 +264,7 @@ that
 spam
 email
 contain
-viru
+virus
 or
 program
 that

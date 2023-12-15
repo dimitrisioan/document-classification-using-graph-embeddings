@@ -19,7 +19,7 @@ walkman
 have
 found
 someon
-els
+el
 who
 ha
 a
@@ -380,7 +380,7 @@ that
 i
 found
 someon
-els
+el
 sell
 me
 a

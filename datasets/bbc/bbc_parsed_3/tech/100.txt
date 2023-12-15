@@ -226,7 +226,7 @@ player
 control
 over
 the
-life
+live
 a
 small
 popul

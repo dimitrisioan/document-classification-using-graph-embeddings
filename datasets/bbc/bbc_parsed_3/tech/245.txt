@@ -71,7 +71,7 @@ gener
 the
 origin
 massiv
-sens
+sen
 of
 fun
 thi
@@ -243,7 +243,7 @@ job
 of
 captur
 the
-sens
+sen
 of
 flair
 invent
@@ -379,7 +379,7 @@ fraught
 encount
 sadli
 that
-sens
+sen
 of
 action
 is
@@ -419,7 +419,7 @@ a
 minut
 red
 dot
-pass
+pas
 for
 a
 crosshair

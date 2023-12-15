@@ -201,7 +201,7 @@ narrow
 lid
 look
 i
-sens
+sen
 my
 faculti
 colleagu
@@ -245,7 +245,7 @@ will
 do
 after
 that
-ru
+rus
 hugh
 fxstc
 dod

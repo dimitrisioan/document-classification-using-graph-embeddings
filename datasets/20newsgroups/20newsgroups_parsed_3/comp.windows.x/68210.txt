@@ -24,7 +24,7 @@ program
 just
 to
 show
-chines
+chine
 text
 in
 wondow

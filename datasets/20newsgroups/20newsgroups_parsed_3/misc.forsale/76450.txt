@@ -47,7 +47,7 @@ excel
 condit
 if
 interest
-pleas
+plea
 make
 me
 an

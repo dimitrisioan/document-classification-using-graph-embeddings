@@ -24,7 +24,7 @@ it
 handl
 the
 vmax
-go
+goe
 in
 a
 strait
@@ -33,7 +33,7 @@ like
 shit
 shrough
 a
-goos
+goo
 in
 the
 corner

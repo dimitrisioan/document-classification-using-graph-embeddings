@@ -29,7 +29,7 @@ to
 a
 profession
 autienc
-pleas
+plea
 give
 me
 a
@@ -89,7 +89,7 @@ come
 along
 if
 requir
-pleas
+plea
 could
 you
 send

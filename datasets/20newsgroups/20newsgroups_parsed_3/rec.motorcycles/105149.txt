@@ -165,7 +165,7 @@ a
 virago
 or
 someth
-els
+el
 with
 an
 equal
@@ -207,7 +207,7 @@ bike
 should
 you
 ever
-pa
+pas
 through
 minneapoli
 in

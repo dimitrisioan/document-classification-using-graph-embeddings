@@ -32,7 +32,7 @@ you
 wait
 for
 an
-expos
+expo
 event
 befor
 draw
@@ -97,7 +97,7 @@ structur
 and
 let
 the
-expos
+expo
 event
 handler
 take
@@ -125,7 +125,7 @@ cours
 is
 that
 no
-expos
+expo
 event
 is
 gener
@@ -149,7 +149,7 @@ window
 so
 that
 the
-expos
+expo
 event
 handler
 will
@@ -203,7 +203,7 @@ not
 a
 problem
 with
-expos
+expo
 event
 it
 ha
@@ -267,7 +267,7 @@ onli
 in
 respons
 to
-expos
+expo
 event
 and
 thu

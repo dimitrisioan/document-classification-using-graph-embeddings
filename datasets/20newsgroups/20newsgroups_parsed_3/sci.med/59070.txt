@@ -29,7 +29,7 @@ gain
 andor
 a
 distort
-sens
+sen
 of
 tast
 or

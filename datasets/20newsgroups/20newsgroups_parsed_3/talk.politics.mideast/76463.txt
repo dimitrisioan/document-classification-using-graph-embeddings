@@ -144,7 +144,7 @@ rhetor
 asid
 and
 start
-discuss
+discus
 substanc
 my
 view
@@ -252,7 +252,7 @@ be
 too
 late
 to
-discu
+discus
 issu
 with
 the
@@ -316,7 +316,7 @@ not
 receiv
 thi
 email
-pleas
+plea
 let
 me
 employ

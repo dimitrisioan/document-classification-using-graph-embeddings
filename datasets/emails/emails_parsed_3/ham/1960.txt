@@ -62,7 +62,7 @@ dietari
 restrict
 or
 prefer
-pleas
+plea
 it
 is
 no
@@ -83,7 +83,7 @@ can
 speak
 for
 her
-pleas
+plea
 let
 me
 know
@@ -231,7 +231,7 @@ at
 you
 conveni
 would
-pleas
+plea
 let
 me
 know
@@ -248,7 +248,7 @@ forward
 to
 it
 so
-pleas
+plea
 let
 me
 know

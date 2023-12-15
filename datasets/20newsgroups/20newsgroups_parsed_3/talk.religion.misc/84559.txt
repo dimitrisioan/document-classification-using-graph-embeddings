@@ -49,7 +49,7 @@ own
 which
 make
 more
-sens
+sen
 than
 forc
 those
@@ -150,7 +150,7 @@ danger
 is
 utterli
 idiot
-pleas
+plea
 provid
 evid
 that

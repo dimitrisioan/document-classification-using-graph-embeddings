@@ -230,7 +230,7 @@ includ
 policeman
 bureacrat
 businessmen
-housewif
+housew
 thug
 and
 hoodlum
@@ -719,4 +719,4 @@ separ
 you
 from
 everyth
-els
+el

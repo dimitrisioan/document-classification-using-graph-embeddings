@@ -166,7 +166,7 @@ at
 mhz
 the
 receiv
-us
+use
 the
 mc
 which

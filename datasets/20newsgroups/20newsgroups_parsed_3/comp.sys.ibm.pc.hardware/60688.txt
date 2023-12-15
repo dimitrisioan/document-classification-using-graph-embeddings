@@ -21,7 +21,7 @@ use
 it
 function
 to
-positions
+position
 imag
 at
 variou
@@ -85,7 +85,7 @@ the
 factori
 default
 for
-positions
+position
 on
 the
 ati

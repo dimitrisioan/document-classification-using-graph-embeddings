@@ -276,7 +276,7 @@ from
 navroz
 patel
 pm
-pleas
+plea
 respond
 to
 navroz
@@ -337,7 +337,7 @@ articl
 for
 our
 consider
-pleas
+plea
 note
 that
 articl

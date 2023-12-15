@@ -176,7 +176,7 @@ in
 answer
 thi
 question
-pleas
+plea
 accept
 nsa
 fundament
@@ -221,7 +221,7 @@ below
 right
 here
 im
-discuss
+discus
 just
 the
 technic

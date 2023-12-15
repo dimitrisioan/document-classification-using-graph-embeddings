@@ -291,7 +291,7 @@ the
 selforgan
 of
 system
-pois
+poi
 between
 chao
 and
@@ -368,7 +368,7 @@ close
 we
 had
 a
-discuss
+discus
 about
 the
 first
@@ -388,7 +388,7 @@ wa
 also
 a
 detail
-discuss
+discus
 of
 the
 point

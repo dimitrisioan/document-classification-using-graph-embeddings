@@ -91,7 +91,7 @@ put
 him
 on
 someth
-els
+el
 a
 well
 with
@@ -196,7 +196,7 @@ i
 guess
 that
 make
-sens
+sen
 sinc
 all
 the
@@ -213,7 +213,7 @@ base
 on
 a
 narrow
-assess
+ass
 of
 the
 degre

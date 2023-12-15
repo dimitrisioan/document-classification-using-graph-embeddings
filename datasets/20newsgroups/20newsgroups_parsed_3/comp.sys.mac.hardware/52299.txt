@@ -146,7 +146,7 @@ someth
 anyway
 ha
 anyon
-els
+el
 had
 such
 a
@@ -191,7 +191,7 @@ is
 not
 desirebl
 solut
-pleas
+plea
 email
 ani
 resp

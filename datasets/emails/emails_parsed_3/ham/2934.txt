@@ -9,7 +9,7 @@ guest
 list
 gentleman
 attach
-pleas
+plea
 find
 the
 propos
@@ -72,7 +72,7 @@ final
 headcount
 in
 place
-pleas
+plea
 let
 me
 know

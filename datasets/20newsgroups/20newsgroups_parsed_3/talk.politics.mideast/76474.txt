@@ -93,7 +93,7 @@ india
 over
 kill
 none
-gass
+gas
 to
 death
 of
@@ -488,7 +488,7 @@ like
 to
 debat
 thi
-pleas
+plea
 do
 if
 youd

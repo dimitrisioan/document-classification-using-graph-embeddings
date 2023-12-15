@@ -162,7 +162,7 @@ solar
 enlarg
 sever
 object
-len
+lens
 with
 easel
 and

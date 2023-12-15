@@ -69,7 +69,7 @@ sold
 separ
 former
 yuko
-bo
+bos
 mikhail
 khodorkovski
 began
@@ -253,7 +253,7 @@ financ
 offic
 bruce
 misamor
-life
+live
 in
 houston
 yuko

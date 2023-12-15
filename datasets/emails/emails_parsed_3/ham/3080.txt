@@ -121,7 +121,7 @@ abl
 to
 get
 anyth
-els
+el
 done
 late
 i
@@ -251,7 +251,7 @@ price
 relat
 model
 also
-pleas
+plea
 check
 your
 invoic

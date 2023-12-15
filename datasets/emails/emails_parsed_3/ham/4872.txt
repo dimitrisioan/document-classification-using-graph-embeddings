@@ -4,7 +4,7 @@ ny
 real
 option
 confer
-pleas
+plea
 find
 attach
 the
@@ -110,7 +110,7 @@ their
 idea
 and
 experi
-pleas
+plea
 note
 that
 the

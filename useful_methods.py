@@ -22,7 +22,7 @@ def choose_dataset():
 
     print("1 - basic preprocessing dataset")
     print("2 - basic preprocessing & stopwords removal dataset")
-    print("3 - basic preprocessing & stemming/lemmatization  dataset")
+    print("3 - basic preprocessing & stemming/lemmatization dataset")
 
     while True:
         try:
@@ -142,7 +142,7 @@ def load_save_results(dataset_prefix, sub_choice):
     return load_save_path
 
 
-def preprocess_file(file, remove_headers=False, remove_stopwords=False, lemmatization=False, stemming=False):
+def preprocess_file(file, remove_headers=False, remove_stopwords=False, stemming=False, lemmatization=False):
     with open(file, 'r') as f:
         text = f.read()
     # Remove headers for 20newsgroups dataset
@@ -166,19 +166,19 @@ def preprocess_file(file, remove_headers=False, remove_stopwords=False, lemmatiz
     if remove_stopwords:
         stop_words = set(stopwords.words('english'))
         words = [word for word in words if word.lower() not in stop_words]
-    # Lemmatization
-    if lemmatization:
-        lemmatizer = WordNetLemmatizer()
-        words = [lemmatizer.lemmatize(word) for word in words]
     # Stemming
     if stemming:
         stemmer = PorterStemmer()
         words = [stemmer.stem(word) for word in words]
+    # Lemmatization
+    if lemmatization:
+        lemmatizer = WordNetLemmatizer()
+        words = [lemmatizer.lemmatize(word) for word in words]
 
     return words
 
 
-def file_to_sentences(file, remove_headers=False, remove_stopwords=False, lemmatization=False, stemming=False):
+def file_to_sentences(file, remove_headers=False, remove_stopwords=False, stemming=False, lemmatization=False):
     sentences = []
     with open(file, 'r') as f:
         text = f.read()
@@ -207,14 +207,14 @@ def file_to_sentences(file, remove_headers=False, remove_stopwords=False, lemmat
         if remove_stopwords:
             stop_words = set(stopwords.words('english'))
             words = [word for word in words if word.lower() not in stop_words]
-        # Lemmatization
-        if lemmatization:
-            lemmatizer = WordNetLemmatizer()
-            words = [lemmatizer.lemmatize(word) for word in words]
         # Stemming
         if stemming:
             stemmer = PorterStemmer()
             words = [stemmer.stem(word) for word in words]
+        # Lemmatization
+        if lemmatization:
+            lemmatizer = WordNetLemmatizer()
+            words = [lemmatizer.lemmatize(word) for word in words]
         if words:
             sentences.append(words)
 

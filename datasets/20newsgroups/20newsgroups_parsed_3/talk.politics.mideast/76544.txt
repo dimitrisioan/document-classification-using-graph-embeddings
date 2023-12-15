@@ -14,7 +14,7 @@ forbid
 ani
 action
 which
-serf
+serv
 to
 promot
 a

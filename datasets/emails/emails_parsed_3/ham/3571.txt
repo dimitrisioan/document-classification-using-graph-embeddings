@@ -161,7 +161,7 @@ for
 a
 minut
 panel
-discuss
+discus
 with
 the
 student

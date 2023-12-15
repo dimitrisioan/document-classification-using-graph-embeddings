@@ -36,7 +36,7 @@ about
 a
 year
 ago
-needl
+needle
 to
 say
 id
@@ -145,7 +145,7 @@ termin
 are
 s
 which
-leaf
+leav
 the
 network
 pretti
@@ -155,7 +155,7 @@ and
 i
 guess
 that
-leaf
+leav
 out
 window
 for
@@ -212,7 +212,7 @@ in
 such
 an
 area
-pleas
+plea
 repli
 by
 email

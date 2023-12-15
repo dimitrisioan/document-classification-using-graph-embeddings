@@ -1,7 +1,7 @@
 fast
 move
 phone
-viru
+virus
 appear
 secur
 firm
@@ -11,7 +11,7 @@ about
 sever
 mobil
 phone
-viru
+virus
 that
 can
 spread
@@ -233,7 +233,7 @@ but
 said
 that
 the
-viru
+virus
 do
 not
 do

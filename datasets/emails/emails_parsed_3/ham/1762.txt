@@ -163,7 +163,7 @@ pm
 slot
 pm
 vinc
-pleas
+plea
 could
 you
 let

@@ -118,7 +118,7 @@ acceler
 plug
 into
 the
-s
+se
 lone
 expans
 port

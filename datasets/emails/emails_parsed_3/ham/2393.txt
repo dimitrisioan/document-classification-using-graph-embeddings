@@ -208,7 +208,7 @@ there
 will
 be
 consider
-discuss
+discus
 on
 how
 the
@@ -243,7 +243,7 @@ and
 particip
 in
 the
-discuss
+discus
 which
 should
 contain
@@ -325,7 +325,7 @@ you
 plan
 to
 attend
-pleas
+plea
 rsvp
 earli
 sinc
@@ -362,7 +362,7 @@ determin
 if
 it
 make
-sens
+sen
 for
 enron
 to

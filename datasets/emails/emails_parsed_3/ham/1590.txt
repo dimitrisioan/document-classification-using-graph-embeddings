@@ -276,7 +276,7 @@ deriv
 a
 possibl
 to
-discu
+discus
 in
 depth
 the
@@ -319,7 +319,7 @@ risk
 manag
 system
 which
-us
+use
 a
 consist
 model
@@ -417,7 +417,7 @@ be
 clear
 from
 our
-discuss
+discus
 the
 model
 s
@@ -534,7 +534,7 @@ book
 in
 chapter
 we
-discu
+discus
 the
 analysi
 of
@@ -583,7 +583,7 @@ volatil
 and
 jump
 process
-discuss
+discus
 each
 and
 show
@@ -609,7 +609,7 @@ chahal
 of
 enron
 corp
-discu
+discus
 volatil
 estim
 in
@@ -764,9 +764,9 @@ energi
 deriv
 market
 and
-discu
+discus
 their
-us
+use
 exampl
 of
 product
@@ -1024,7 +1024,7 @@ chapter
 close
 with
 a
-discuss
+discus
 of
 the
 valuat
@@ -1033,7 +1033,7 @@ american
 style
 option
 chapter
-focu
+focus
 on
 the
 risk
@@ -1046,7 +1046,7 @@ in
 thi
 chapter
 we
-discu
+discus
 the
 manag
 of
@@ -1123,7 +1123,7 @@ and
 thi
 is
 also
-discuss
+discus
 chapter
 examin
 the
@@ -1144,7 +1144,7 @@ energi
 deriv
 product
 after
-discuss
+discus
 the
 concept
 of

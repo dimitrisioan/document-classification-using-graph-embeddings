@@ -73,7 +73,7 @@ let
 me
 know
 how
-els
+el
 i
 can
 help
@@ -272,7 +272,7 @@ thi
 work
 for
 enron
-pleas
+plea
 suggest
 that
 enron

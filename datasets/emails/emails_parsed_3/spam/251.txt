@@ -16,7 +16,7 @@ lib
 freedom
 is
 noth
-els
+el
 but
 a
 chanc

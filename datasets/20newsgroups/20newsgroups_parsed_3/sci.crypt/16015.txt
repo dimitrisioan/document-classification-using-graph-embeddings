@@ -43,7 +43,7 @@ dorothi
 den
 cite
 sourc
-pleas
+plea
 dorothi
 den
 cryptographi
@@ -68,7 +68,7 @@ two
 are
 effici
 and
-eas
+ea
 of
 use
 michael

@@ -84,7 +84,7 @@ wa
 too
 good
 to
-pa
+pas
 up
 and
 other
@@ -332,7 +332,7 @@ is
 never
 in
 a
-sens
+sen
 they
 are
 right
@@ -537,7 +537,7 @@ good
 stock
 and
 he
-go
+goe
 up
 k
 and
@@ -1175,7 +1175,7 @@ money
 whether
 a
 stock
-go
+goe
 up
 or
 down
@@ -1533,7 +1533,7 @@ with
 no
 risk
 that
-go
+goe
 up
 a
 year
@@ -1664,7 +1664,7 @@ remov
 from
 thi
 list
-pleas
+plea
 send
 an
 email

@@ -7,7 +7,7 @@ blackman
 write
 in
 articl
-ru
+rus
 sharp
 write
 we
@@ -63,7 +63,7 @@ do
 pkzippkunzip
 command
 ye
-ru
+rus
 there
 is
 quinzip

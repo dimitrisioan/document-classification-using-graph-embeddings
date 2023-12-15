@@ -8,7 +8,7 @@ clear
 out
 some
 miscellan
-len
+lens
 camera
 and
 photo
@@ -61,7 +61,7 @@ nikon
 f
 or
 ai
-len
+lens
 pretti
 cute
 flip
@@ -76,7 +76,7 @@ all
 manual
 focu
 nikon
-len
+lens
 and
 bodi
 it
@@ -171,7 +171,7 @@ camera
 with
 leather
 case
-us
+use
 or
 film
 mm
@@ -232,7 +232,7 @@ pentax
 made
 ha
 interchang
-len
+lens
 but
 tri
 and
@@ -338,7 +338,7 @@ the
 film
 advanc
 lever
-len
+lens
 are
 perfect
 and

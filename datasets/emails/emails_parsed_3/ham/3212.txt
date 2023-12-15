@@ -36,7 +36,7 @@ is
 below
 ani
 addit
-pleas
+plea
 call
 x
 forward
@@ -101,7 +101,7 @@ s
 a
 p
 lyn
-pleas
+plea
 give
 me
 a

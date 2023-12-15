@@ -156,7 +156,7 @@ speed
 increas
 a
 time
-go
+goe
 on
 i
 want
@@ -233,7 +233,7 @@ led
 would
 remain
 off
-pleas
+plea
 help
 thank
 dana

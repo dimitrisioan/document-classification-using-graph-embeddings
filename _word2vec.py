@@ -59,7 +59,11 @@ if __name__ == '__main__':
     num_cores = multiprocessing.cpu_count()
 
     # Train Word2Vec model
-    model = Word2Vec(vector_size=300, window=5, min_count=5, workers=num_cores, epochs=10, sg=1)
+    # # bbc and emails dataset
+    # model = Word2Vec(vector_size=300, window=5, min_count=1, workers=num_cores, epochs=10, sg=1)
+
+    # 20newsgroups dataset
+    model = Word2Vec(vector_size=300, window=5, min_count=5, workers=num_cores, epochs=50, sg=1)
     model.build_vocab(sentences)  # prepare the model vocabulary
     model.train(sentences, total_examples=model.corpus_count, epochs=model.epochs)
 

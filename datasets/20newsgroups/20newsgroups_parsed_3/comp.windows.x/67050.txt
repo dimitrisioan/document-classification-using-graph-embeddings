@@ -4,7 +4,7 @@ with
 motif
 solari
 to
-eas
+ea
 motif
 burden
 weve
@@ -42,13 +42,13 @@ i
 love
 the
 gener
-eas
+ea
 of
 use
 i
 talk
 with
-talu
+talus
 aben
 at
 sun
@@ -77,7 +77,7 @@ next
 version
 of
 devguid
-talu
+talus
 wa
 veri
 enthusiat

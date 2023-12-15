@@ -1,11 +1,11 @@
 subject
 risk
 panel
-discuss
+discus
 draft
 agenda
 attach
-pleas
+plea
 mark
 up
 at

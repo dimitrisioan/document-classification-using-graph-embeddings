@@ -342,7 +342,7 @@ blame
 on
 newli
 emerg
-viru
+virus
 and
 bacteria
 pose
@@ -1209,7 +1209,7 @@ situat
 where
 peopl
 are
-expos
+expo
 to
 the
 tick
@@ -1332,7 +1332,7 @@ outdoorsman
 like
 to
 be
-expos
+expo
 elsewher
 to
 the
@@ -1835,7 +1835,7 @@ respons
 to
 thi
 question
-pleas
+plea
 forward
 it
 to

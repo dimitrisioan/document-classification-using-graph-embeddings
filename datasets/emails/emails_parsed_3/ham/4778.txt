@@ -48,8 +48,8 @@ otherwis
 it
 make
 littl
-sens
-pleas
+sen
+plea
 let
 me
 know

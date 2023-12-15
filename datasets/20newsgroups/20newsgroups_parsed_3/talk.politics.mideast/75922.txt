@@ -88,7 +88,7 @@ civilian
 a
 shield
 also
-pleas
+plea
 explain
 under
 what
@@ -102,7 +102,7 @@ to
 defend
 themselv
 also
-pleas
+plea
 explain
 the
 particular

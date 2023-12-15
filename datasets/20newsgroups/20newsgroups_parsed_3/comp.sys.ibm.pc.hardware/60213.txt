@@ -46,7 +46,7 @@ pm
 nf
 ceram
 p
-pleas
+plea
 excus
 the
 obviou

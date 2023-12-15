@@ -28,7 +28,7 @@ in
 my
 case
 it
-go
+goe
 down
 after
 the
@@ -46,7 +46,7 @@ up
 the
 last
 two
-needl
+needle
 to
 say
 i

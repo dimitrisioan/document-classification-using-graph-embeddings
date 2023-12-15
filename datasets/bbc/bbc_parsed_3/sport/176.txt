@@ -5,7 +5,7 @@ king
 fowler
 manchest
 citi
-bo
+bos
 kevin
 keegan
 ha
@@ -147,7 +147,7 @@ andi
 cole
 and
 keegan
-belief
+believ
 there
 is
 still
@@ -236,7 +236,7 @@ keegan
 sympathis
 with
 norwich
-bo
+bos
 nigel
 worthington
 afterward

@@ -15,7 +15,7 @@ inflat
 model
 review
 wa
-discuss
+discus
 with
 anjam
 all
@@ -111,13 +111,13 @@ the
 european
 research
 team
-pleas
+plea
 find
 the
 final
 version
 attach
-pleas
+plea
 note
 that
 the

@@ -176,7 +176,7 @@ tri
 to
 continu
 the
-discuss
+discus
 rather
 than
 just
@@ -232,7 +232,7 @@ anyth
 i
 am
 so
-pleas
+plea
 you
 are
 not
@@ -325,7 +325,7 @@ reactor
 sinc
 the
 s
-puls
+pul
 spallat
 neutron
 sourc

@@ -109,7 +109,7 @@ been
 a
 lot
 of
-discuss
+discus
 go
 on
 about
@@ -644,6 +644,6 @@ jon
 sig
 file
 broken
-pleas
+plea
 tri
 later

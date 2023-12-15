@@ -83,7 +83,7 @@ my
 student
 s
 cv
-pleas
+plea
 let
 me
 know

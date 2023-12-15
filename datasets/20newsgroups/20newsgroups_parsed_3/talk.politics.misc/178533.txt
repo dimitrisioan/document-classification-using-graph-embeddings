@@ -1,7 +1,7 @@
 subject
 re
 the
-tori
+torus
 could
 win
 the
@@ -77,7 +77,7 @@ mennonit
 are
 a
 veri
-divers
+diver
 lot
 while
 hutterit
@@ -229,7 +229,7 @@ clinton
 is
 ani
 differ
-pleas
+plea
 he
 is
 just

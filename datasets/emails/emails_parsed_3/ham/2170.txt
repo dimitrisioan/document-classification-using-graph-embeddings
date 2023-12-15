@@ -31,7 +31,7 @@ vinc
 p
 s
 amitava
-pleas
+plea
 take
 note
 david
@@ -103,7 +103,7 @@ and
 next
 step
 rhonna
-pleas
+plea
 arrang
 a
 meet
@@ -151,7 +151,7 @@ meet
 will
 be
 to
-discu
+discus
 and
 deleg
 next

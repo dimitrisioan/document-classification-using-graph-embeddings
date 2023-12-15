@@ -1,7 +1,7 @@
 subject
 re
 the
-tori
+torus
 could
 win
 the

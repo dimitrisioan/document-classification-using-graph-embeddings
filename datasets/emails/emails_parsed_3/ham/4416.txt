@@ -59,7 +59,7 @@ subject
 jcc
 studi
 hello
-pleas
+plea
 read
 the
 jcc

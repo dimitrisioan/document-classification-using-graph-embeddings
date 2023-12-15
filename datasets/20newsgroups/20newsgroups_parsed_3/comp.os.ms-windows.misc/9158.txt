@@ -1,7 +1,7 @@
 subject
 termin
 softwar
-pleas
+plea
 repli
 via
 email

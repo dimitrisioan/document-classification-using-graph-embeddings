@@ -28,7 +28,7 @@ if
 input
 ok
 morework
-els
+el
 otherwork
 so
 morework

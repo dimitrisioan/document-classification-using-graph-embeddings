@@ -45,7 +45,7 @@ correl
 is
 use
 claim
-go
+goe
 up
 a
 the
@@ -64,7 +64,7 @@ result
 seem
 to
 make
-sens
+sen
 the
 new
 model
@@ -100,7 +100,7 @@ provid
 in
 main
 spreadsheet
-pleas
+plea
 call
 me
 if

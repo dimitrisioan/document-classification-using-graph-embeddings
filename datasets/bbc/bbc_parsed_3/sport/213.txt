@@ -100,7 +100,7 @@ hugh
 appoint
 a
 blackburn
-bo
+bos
 and
 mark
 it
@@ -138,7 +138,7 @@ complet
 the
 rover
 assist
-bo
+bos
 forecast
 a
 longer
@@ -171,7 +171,7 @@ of
 see
 how
 he
-go
+goe
 you
 cant
 put

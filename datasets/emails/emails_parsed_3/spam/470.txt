@@ -123,7 +123,7 @@ to
 confirm
 your
 ident
-pleas
+plea
 follow
 the
 link
@@ -141,7 +141,7 @@ all
 the
 requir
 field
-pleas
+plea
 note
 if
 your

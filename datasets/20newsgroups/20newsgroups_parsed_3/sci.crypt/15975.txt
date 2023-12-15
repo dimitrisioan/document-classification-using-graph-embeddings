@@ -21,7 +21,7 @@ there
 ha
 been
 some
-discuss
+discus
 of
 our
 compani
@@ -154,7 +154,7 @@ packag
 in
 cryptologia
 contain
-analysi
+analys
 and
 break
 techniqu

@@ -77,7 +77,7 @@ sigam
 sqrt
 sigmal
 make
-sens
+sen
 zimin
 john
 disturn

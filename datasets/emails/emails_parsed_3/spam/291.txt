@@ -91,7 +91,7 @@ afft
 qml
 to
 unsubscrib
-pleas
+plea
 visit
 http
 light

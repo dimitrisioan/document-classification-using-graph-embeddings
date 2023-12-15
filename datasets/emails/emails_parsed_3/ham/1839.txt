@@ -38,7 +38,7 @@ cv
 group
 in
 town
-pleas
+plea
 call
 him
 directli
@@ -108,7 +108,7 @@ to
 introduc
 the
 concept
-discuss
+discus
 with
 one
 of
@@ -168,7 +168,7 @@ could
 be
 success
 accomplish
-pleas
+plea
 confidenti
 share
 matter

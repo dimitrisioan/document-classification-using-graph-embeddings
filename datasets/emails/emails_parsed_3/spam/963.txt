@@ -54,7 +54,7 @@ your
 ident
 even
 your
-bo
+bos
 did
 you
 know
@@ -141,7 +141,7 @@ your
 friend
 neighbor
 or
-bo
+bos
 discov
 employ
 opportun
@@ -272,7 +272,7 @@ line
 by
 click
 here
-pleas
+plea
 allow
 up
 to
@@ -280,7 +280,7 @@ hour
 to
 take
 effect
-pleas
+plea
 do
 not
 includ

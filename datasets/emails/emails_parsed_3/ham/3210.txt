@@ -294,7 +294,7 @@ dr
 kaminski
 if
 not
-pleas
+plea
 let
 me
 know

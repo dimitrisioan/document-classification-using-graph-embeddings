@@ -1,4 +1,4 @@
-tori
+torus
 leader
 urg
 harri
@@ -25,7 +25,7 @@ fanci
 dress
 parti
 say
-tori
+torus
 leader
 michael
 howard

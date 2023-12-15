@@ -2,7 +2,7 @@ subject
 re
 term
 paper
-pleas
+plea
 respond
 to
 here
@@ -26,7 +26,7 @@ sorri
 about
 the
 inconvin
-pleas
+plea
 let
 me
 know
@@ -96,7 +96,7 @@ subject
 term
 paper
 felix
-pleas
+plea
 resend
 me
 the
@@ -110,7 +110,7 @@ a
 a
 separ
 file
-pleas
+plea
 send
 it
 to

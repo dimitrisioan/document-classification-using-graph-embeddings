@@ -335,7 +335,7 @@ analysi
 of
 thi
 issu
-pleas
+plea
 respond
 to
 the
@@ -365,7 +365,7 @@ the
 vendor
 if
 so
-pleas
+plea
 identifi
 such
 entiti
@@ -377,7 +377,7 @@ test
 perform
 if
 not
-pleas
+plea
 describ
 ani
 plan
@@ -522,7 +522,7 @@ is
 the
 commerc
 depart
-assess
+ass
 of
 the
 competit
@@ -565,7 +565,7 @@ you
 have
 ani
 question
-pleas
+plea
 have
 your
 staff

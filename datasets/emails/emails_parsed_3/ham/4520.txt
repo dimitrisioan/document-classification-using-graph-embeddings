@@ -145,7 +145,7 @@ non
 bind
 offer
 after
-discuss
+discus
 it
 further
 with
@@ -196,7 +196,7 @@ for
 a
 better
 deal
-pleas
+plea
 advis
 doug
 leach
@@ -295,7 +295,7 @@ bid
 doug
 marc
 fyi
-pleas
+plea
 let
 me
 know

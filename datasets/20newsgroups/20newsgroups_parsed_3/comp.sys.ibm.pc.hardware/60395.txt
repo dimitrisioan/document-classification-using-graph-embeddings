@@ -132,7 +132,7 @@ your
 other
 hardwar
 com
-us
+use
 irq
 com
 irq

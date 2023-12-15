@@ -249,7 +249,7 @@ place
 for
 open
 end
-discuss
+discus
 i
 have
 an
@@ -1041,7 +1041,7 @@ sciastro
 which
 ive
 edit
-pleas
+plea
 let
 me
 know

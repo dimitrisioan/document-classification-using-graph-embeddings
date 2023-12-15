@@ -30,7 +30,7 @@ when
 it
 hit
 the
-shelf
+shelv
 at
 launch
 game

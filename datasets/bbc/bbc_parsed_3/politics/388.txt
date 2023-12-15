@@ -384,7 +384,7 @@ choos
 from
 local
 the
-tori
+torus
 say
 peopl
 who
@@ -408,8 +408,8 @@ the
 rest
 of
 their
-life
-tori
+live
+torus
 spokesman
 simon
 burn

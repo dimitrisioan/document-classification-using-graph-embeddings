@@ -224,7 +224,7 @@ where
 a
 lawabid
 citizen
-us
+use
 a
 gun
 to

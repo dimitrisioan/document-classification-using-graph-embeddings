@@ -284,7 +284,7 @@ a
 he
 love
 everyon
-els
+el
 if
 hi
 love
@@ -333,7 +333,7 @@ the
 result
 of
 the
-pass
+pas
 amend
 in
 colorado

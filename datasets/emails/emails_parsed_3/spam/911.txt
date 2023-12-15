@@ -46,7 +46,7 @@ i
 believ
 we
 could
-discu
+discus
 analyz
 and
 execut
@@ -204,7 +204,7 @@ to
 receiv
 thi
 fund
-pleas
+plea
 note
 hi
 famili

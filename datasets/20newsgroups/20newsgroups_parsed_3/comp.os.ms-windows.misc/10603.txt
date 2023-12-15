@@ -146,7 +146,7 @@ newer
 version
 of
 cosypak
-pleas
+plea
 send
 emailfaxmail
 to
@@ -414,7 +414,7 @@ dr
 ray
 neff
 case
-alumnu
+alumnus
 associ
 the
 lilli
@@ -610,7 +610,7 @@ in
 the
 directori
 for
-pleas
+plea
 move
 all
 file
@@ -755,7 +755,7 @@ or
 anybodi
 you
 know
-us
+use
 thi
 softwar
 on
@@ -1478,7 +1478,7 @@ in
 the
 directori
 for
-pleas
+plea
 move
 all
 file
@@ -1622,7 +1622,7 @@ cleveland
 oh
 report
 bug
-pleas
+plea
 report
 bug
 and
@@ -1807,7 +1807,7 @@ least
 allow
 you
 to
-perus
+peru
 notebook
 but
 you

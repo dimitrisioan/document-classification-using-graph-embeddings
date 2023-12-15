@@ -86,7 +86,7 @@ question
 about
 amr
 research
-pleas
+plea
 email
 info
 amrresearch
@@ -98,7 +98,7 @@ access
 the
 preview
 section
-pleas
+plea
 go
 to
 the

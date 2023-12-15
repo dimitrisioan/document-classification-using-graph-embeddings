@@ -158,7 +158,7 @@ report
 on
 scitech
 etc
-pleas
+plea
 to
 make
 thi
@@ -180,7 +180,7 @@ a
 flame
 to
 thi
-pleas
+plea
 chang
 the
 subject
@@ -188,7 +188,7 @@ to
 eg
 clipper
 scope
-discuss
+discus
 michael
 golan
 all
@@ -257,7 +257,7 @@ back
 door
 onc
 everyon
-us
+use
 a
 clipper
 chip

@@ -8,7 +8,7 @@ former
 captain
 keith
 wood
-belief
+believ
 ireland
 can
 win
@@ -232,7 +232,7 @@ irish
 are
 visit
 wood
-belief
+believ
 wale
 might
 end

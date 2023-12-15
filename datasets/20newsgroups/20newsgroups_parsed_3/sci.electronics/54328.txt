@@ -1,7 +1,7 @@
 subject
 correct
 to
-harri
+harris
 answerfax
 phone
 number
@@ -187,11 +187,11 @@ want
 to
 order
 anyth
-els
+el
 if
 ye
 anyth
-els
+el
 if
 ye
 you

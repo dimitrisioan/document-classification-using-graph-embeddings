@@ -58,7 +58,7 @@ pocklington
 sign
 a
 tent
-leas
+lea
 arrang
 with
 copp
@@ -94,7 +94,7 @@ to
 renegoti
 the
 oiler
-leas
+lea
 on
 the
 stadium
@@ -241,7 +241,7 @@ who
 want
 to
 be
-tori
+torus
 leader
 year
 ago
@@ -263,7 +263,7 @@ u
 allrememb
 jesu
 save
-life
+live
 from
 etern
 damnat

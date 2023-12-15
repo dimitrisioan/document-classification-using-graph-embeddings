@@ -5,7 +5,7 @@ ride
 southern
 california
 ridelist
-pleas
+plea
 send
 me
 ani
@@ -26,7 +26,7 @@ all
 biker
 are
 post
-pleas
+plea
 inc
 phone
 for
@@ -63,7 +63,7 @@ find
 out
 further
 info
-pleas
+plea
 let
 me
 know
@@ -217,7 +217,7 @@ annual
 gwta
 loma
 linda
-children
+child
 hospit
 benefit
 run
@@ -785,7 +785,7 @@ to
 benefit
 the
 except
-children
+child
 foundat
 jul
 abat
@@ -807,7 +807,7 @@ the
 west
 coast
 and
-go
+goe
 to
 pine
 glen
@@ -1116,7 +1116,7 @@ abat
 nov
 accessori
 unlimit
-poss
+po
 ride
 dec
 mc
@@ -1129,7 +1129,7 @@ costa
 mesa
 dec
 hathaway
-children
+child
 center
 toy
 run

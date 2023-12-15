@@ -107,7 +107,7 @@ keep
 thi
 room
 oper
-pleas
+plea
 note
 that
 i
@@ -118,7 +118,7 @@ more
 often
 than
 anyon
-els
+el
 and
 i
 pay

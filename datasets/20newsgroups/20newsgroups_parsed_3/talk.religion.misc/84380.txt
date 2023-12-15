@@ -518,7 +518,7 @@ own
 road
 one
 that
-go
+goe
 far
 away
 from
@@ -790,7 +790,7 @@ like
 the
 lazaru
 of
-jesu
+jesus
 stori
 start
 in
@@ -1046,13 +1046,13 @@ life
 doesnt
 do
 anybodi
-els
+el
 ani
 good
 either
 becaus
 everyon
-dy
+die
 anyway
 so
 you
@@ -1347,7 +1347,7 @@ you
 say
 is
 true
-pleas
+plea
 give
 me
 some
@@ -1406,7 +1406,7 @@ have
 a
 squad
 of
-elf
+elv
 and
 fli
 reindeer

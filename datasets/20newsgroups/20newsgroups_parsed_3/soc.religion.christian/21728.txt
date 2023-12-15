@@ -6,7 +6,7 @@ dialog
 with
 toni
 rose
-pleas
+plea
 read
 thi
 hello

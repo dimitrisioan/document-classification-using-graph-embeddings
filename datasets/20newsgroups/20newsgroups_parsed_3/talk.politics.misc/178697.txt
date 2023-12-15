@@ -198,7 +198,7 @@ had
 illeg
 weapon
 noth
-els
+el
 wa
 in
 the

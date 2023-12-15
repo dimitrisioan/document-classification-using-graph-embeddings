@@ -45,7 +45,7 @@ quit
 window
 the
 screen
-go
+goe
 black
 and
 you
@@ -108,7 +108,7 @@ call
 them
 ha
 anyon
-els
+el
 notic
 thi
 phenomenon

@@ -49,7 +49,7 @@ the
 big
 store
 mca
-hours
+hour
 feather
 the
 cocoanut

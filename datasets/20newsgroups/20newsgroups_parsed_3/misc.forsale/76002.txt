@@ -46,7 +46,7 @@ of
 concour
 class
 for
-pass
+pas
 the
 rout
 with

@@ -71,7 +71,7 @@ rewind
 retens
 write
 and
-eras
+era
 i
 also
 boot

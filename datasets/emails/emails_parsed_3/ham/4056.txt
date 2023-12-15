@@ -193,7 +193,7 @@ larger
 enron
 capabl
 a
-discuss
+discus
 at
 the
 all
@@ -286,7 +286,7 @@ the
 chairman
 we
 are
-pleas
+plea
 to
 announc
 that
@@ -395,7 +395,7 @@ thi
 chang
 we
 are
-pleas
+plea
 to
 add
 evan
@@ -433,7 +433,7 @@ the
 same
 a
 that
-discuss
+discus
 at
 the
 all
@@ -591,7 +591,7 @@ you
 have
 ani
 question
-pleas
+plea
 do
 not
 hesit

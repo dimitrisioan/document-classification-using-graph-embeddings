@@ -128,7 +128,7 @@ time
 for
 each
 session
-pleas
+plea
 select
 a
 date

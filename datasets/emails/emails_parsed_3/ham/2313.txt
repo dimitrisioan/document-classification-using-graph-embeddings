@@ -1,7 +1,7 @@
 subject
 research
 prc
-pleas
+plea
 make
 sure
 that
@@ -64,7 +64,7 @@ move
 to
 eb
 cl
-pleas
+plea
 make
 the
 necessari

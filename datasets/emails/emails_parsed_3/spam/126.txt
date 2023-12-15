@@ -65,7 +65,7 @@ public
 safeti
 market
 vspc
-us
+use
 patent
 technolog
 base
@@ -199,7 +199,7 @@ is
 base
 on
 the
-fabl
+fable
 busi
 model
 perfect
@@ -756,14 +756,14 @@ open
 a
 tokyo
 offic
-fabl
+fable
 busi
 model
 enabl
 cost
 effect
 growth
-fabl
+fable
 semiconductor
 chip
 compani
@@ -785,7 +785,7 @@ east
 some
 well
 known
-fabl
+fable
 semiconductor
 compani
 rank
@@ -865,7 +865,7 @@ technolog
 product
 to
 be
-discuss
+discus
 in
 futur
 analyst
@@ -1899,7 +1899,7 @@ laboratori
 the
 compani
 current
-focu
+focus
 on
 technolog
 origin
@@ -2119,12 +2119,12 @@ high
 growth
 market
 and
-pois
+poi
 for
 profit
 today
 viaspac
-focu
+focus
 it
 effort
 on

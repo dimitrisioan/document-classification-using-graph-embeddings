@@ -92,7 +92,7 @@ quit
 disson
 with
 much
-els
+el
 that
 ha
 been
@@ -185,7 +185,7 @@ better
 than
 password
 or
-pa
+pas
 phrase
 if
 ani
@@ -221,7 +221,7 @@ pick
 the
 password
 or
-pa
+pas
 phrase
 then
 the
@@ -245,7 +245,7 @@ is
 about
 bit
 in
-pa
+pas
 phrase
 thi
 may

@@ -6,7 +6,7 @@ slide
 about
 enron
 vinc
-pleas
+plea
 ask
 your
 associ
@@ -138,7 +138,7 @@ present
 we
 make
 on
-campu
+campus
 to
 busi
 and

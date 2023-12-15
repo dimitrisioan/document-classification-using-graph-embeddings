@@ -115,7 +115,7 @@ someth
 wrong
 or
 miss
-pleas
+plea
 mail
 me
 and
@@ -289,7 +289,7 @@ a
 proprietari
 comput
 which
-us
+use
 it
 own
 keyboard
@@ -618,7 +618,7 @@ standard
 pccompat
 keyboard
 and
-mous
+mouse
 i
 dont
 believ
@@ -741,7 +741,7 @@ you
 learn
 anyth
 new
-pleas
+plea
 send
 me
 email
@@ -2203,7 +2203,7 @@ your
 finger
 the
 cabl
-leaf
+leav
 your
 normal
 keyboard
@@ -2247,7 +2247,7 @@ the
 braill
 n
 speak
-us
+use
 ani
 of
 sever
@@ -2418,7 +2418,7 @@ is
 split
 in
 two
-half
+halv
 each
 point
 straight
@@ -2946,7 +2946,7 @@ scott
 mandel
 and
 everybodi
-els
+el
 who
 ive
 probabl

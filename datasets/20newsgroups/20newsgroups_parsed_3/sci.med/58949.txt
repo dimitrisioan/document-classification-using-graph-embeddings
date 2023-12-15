@@ -69,7 +69,7 @@ pox
 speed
 up
 heal
-pleas
+plea
 email
 repli
 and

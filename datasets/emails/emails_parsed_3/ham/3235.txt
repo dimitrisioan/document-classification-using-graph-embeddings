@@ -49,7 +49,7 @@ digit
 technolog
 panel
 februari
-alumnu
+alumnus
 weekend
 march
 lectur
@@ -159,7 +159,7 @@ school
 host
 a
 panel
-discuss
+discus
 on
 digit
 technolog
@@ -180,14 +180,14 @@ is
 for
 jone
 school
-alumnu
+alumnus
 and
 for
 non
 member
 guest
 the
-alumnu
+alumnus
 weekend
 reunion
 will
@@ -201,8 +201,8 @@ http
 jonesgsm
 rice
 edu
-alumnu
-alumnu
+alumnus
+alumnus
 weekend
 html
 gordon
@@ -226,7 +226,7 @@ march
 at
 her
 hall
-alumnu
+alumnus
 and
 student
 are
@@ -263,7 +263,7 @@ jone
 school
 student
 and
-alumnu
+alumnus
 are
 invit
 to
@@ -360,7 +360,7 @@ entrepreneur
 from
 houston
 to
-discu
+discus
 key
 issu
 face
@@ -423,7 +423,7 @@ bring
 togeth
 student
 faculti
-alumnu
+alumnus
 and
 other
 rice
@@ -713,7 +713,7 @@ the
 jone
 school
 websit
-pleas
+plea
 e
 mail
 jgsmnew

@@ -326,7 +326,7 @@ for
 exampl
 mr
 houlihan
-belief
+believ
 that
 there
 is
@@ -440,7 +440,7 @@ said
 the
 compani
 wa
-pleas
+plea
 to
 have
 offer

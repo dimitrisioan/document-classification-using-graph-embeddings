@@ -2,7 +2,7 @@ subject
 sparc
 ipc
 sprite
-go
+goe
 off
 screen
 environ
@@ -20,7 +20,7 @@ screen
 horizont
 the
 sprite
-go
+goe
 off
 of
 the
@@ -75,7 +75,7 @@ server
 in
 multiscreen
 mode
-pleas
+plea
 repli
 via
 email

@@ -12,7 +12,7 @@ gadget
 soni
 playstat
 portabl
-go
+goe
 on
 sale
 in

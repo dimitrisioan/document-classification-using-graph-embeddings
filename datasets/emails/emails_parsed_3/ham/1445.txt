@@ -58,7 +58,7 @@ do
 a
 phone
 interview
-pleas
+plea
 let
 me
 know

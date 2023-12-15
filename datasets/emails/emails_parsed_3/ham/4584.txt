@@ -4,7 +4,7 @@ confer
 on
 real
 option
-pleas
+plea
 find
 attach
 the
@@ -130,7 +130,7 @@ two
 event
 we
 are
-pleas
+plea
 to
 present
 an
@@ -149,7 +149,7 @@ corpor
 execut
 and
 panel
-discuss
+discus
 by
 expert
 from

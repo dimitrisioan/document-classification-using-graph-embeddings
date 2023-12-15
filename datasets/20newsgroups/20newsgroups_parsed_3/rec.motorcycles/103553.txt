@@ -212,7 +212,7 @@ favrit
 highway
 highway
 which
-go
+goe
 through
 the
 feather
@@ -233,7 +233,7 @@ gold
 countri
 highway
 day
-pass
+pas
 will
 not
 be

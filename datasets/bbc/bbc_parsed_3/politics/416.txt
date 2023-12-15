@@ -1,5 +1,5 @@
 top
-tori
+torus
 on
 lib
 dem
@@ -16,7 +16,7 @@ a
 string
 of
 top
-tori
+torus
 includ
 leader
 michael
@@ -101,7 +101,7 @@ peter
 carrol
 give
 the
-tori
+torus
 leader
 a
 major
@@ -283,4 +283,4 @@ more
 control
 over
 our
-life
+live

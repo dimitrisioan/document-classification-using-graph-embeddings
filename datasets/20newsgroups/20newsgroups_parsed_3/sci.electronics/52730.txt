@@ -46,7 +46,7 @@ in
 their
 origin
 s
-prof
+prove
 that
 they
 had

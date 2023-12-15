@@ -6,7 +6,7 @@ oper
 organiz
 chart
 shire
-pleas
+plea
 print
 thi
 out
@@ -69,7 +69,7 @@ within
 the
 engin
 organ
-pleas
+plea
 support
 thi
 leadership
@@ -105,7 +105,7 @@ open
 in
 the
 organ
-pleas
+plea
 direct
 ani
 input

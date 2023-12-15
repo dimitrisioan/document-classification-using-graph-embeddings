@@ -21,7 +21,7 @@ prefer
 interview
 date
 shortli
-pleas
+plea
 let
 u
 know

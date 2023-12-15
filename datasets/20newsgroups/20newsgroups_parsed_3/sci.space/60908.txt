@@ -26,7 +26,7 @@ link
 to
 over
 other
-bb
+bbs
 in
 the
 usa

@@ -349,7 +349,7 @@ amend
 when
 the
 bill
-go
+goe
 to
 the
 hous

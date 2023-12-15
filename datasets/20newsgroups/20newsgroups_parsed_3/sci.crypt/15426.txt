@@ -758,7 +758,7 @@ afterthought
 to
 your
 right
-pleas
+plea
 note
 that
 i
@@ -895,14 +895,14 @@ will
 make
 not
 much
-sens
+sen
 to
-discu
+discus
 that
 topic
 in
 scicrypt
-discuss
+discus
 of
 technic
 detail
@@ -967,7 +967,7 @@ etc
 ad
 nauseam
 p
-pleas
+plea
 dont
 ask
 me

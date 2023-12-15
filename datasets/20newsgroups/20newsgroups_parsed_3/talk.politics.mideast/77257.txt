@@ -58,7 +58,7 @@ read
 i
 led
 three
-life
+live
 herbert
 philbrick
 cold
@@ -112,7 +112,7 @@ where
 philbrick
 led
 three
-life
+live
 a
 an
 fbi
@@ -1695,7 +1695,7 @@ commun
 had
 just
 been
-expos
+expo
 when
 the
 ensu
@@ -1951,7 +1951,7 @@ had
 more
 than
 a
-pass
+pas
 interest
 in
 rightw
@@ -2661,7 +2661,7 @@ that
 the
 adl
 freeli
-pass
+pas
 inform
 to
 isra
@@ -2922,7 +2922,7 @@ that
 the
 adl
 ha
-pass
+pas
 inform
 on
 jarad
@@ -3159,7 +3159,7 @@ activ
 on
 u
 colleg
-campu
+campus
 and
 it
 metamorphosi
@@ -3442,7 +3442,7 @@ harder
 time
 explain
 it
-obsess
+ob
 with
 spi
 on
@@ -3824,7 +3824,7 @@ wa
 alreadi
 in
 the
-possess
+posse
 of
 bullock
 and
@@ -4208,7 +4208,7 @@ busi
 and
 that
 gerard
-discuss
+discus
 the
 plo
 and
@@ -5041,7 +5041,7 @@ the
 earli
 s
 research
-ru
+rus
 bellant
 and
 berlet
@@ -5054,7 +5054,7 @@ head
 irwin
 suall
 to
-discu
+discus
 their
 work
 on
@@ -5374,7 +5374,7 @@ is
 to
 monitor
 and
-expos
+expo
 those
 who
 are
@@ -5594,7 +5594,7 @@ assert
 that
 adl
 wa
-obsess
+ob
 with
 spi
 on
@@ -5797,7 +5797,7 @@ activist
 and
 then
 freeli
-pa
+pas
 their
 file
 to

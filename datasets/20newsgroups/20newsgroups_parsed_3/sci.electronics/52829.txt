@@ -52,7 +52,7 @@ wa
 get
 out
 anybodi
-els
+el
 get
 a
 call

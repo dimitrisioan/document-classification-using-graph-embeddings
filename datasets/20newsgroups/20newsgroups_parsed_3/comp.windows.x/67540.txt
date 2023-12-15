@@ -83,7 +83,7 @@ write
 into
 thi
 xterm
-pleas
+plea
 help
 static
 char

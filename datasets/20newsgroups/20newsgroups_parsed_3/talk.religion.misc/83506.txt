@@ -702,7 +702,7 @@ answer
 a
 pictur
 which
-leaf
+leav
 room
 for
 veri
@@ -845,7 +845,7 @@ oto
 and
 merlinu
 x
-pleas
+plea
 look
 oto
 more
@@ -985,7 +985,7 @@ quit
 often
 artist
 and
-geniu
+genius
 have
 met
 some

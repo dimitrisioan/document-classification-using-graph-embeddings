@@ -99,7 +99,7 @@ new
 never
 use
 in
-factorys
+factory
 carton
 ship
 cost
@@ -121,7 +121,7 @@ faster
 seriou
 inquiri
 onli
-pleas
+plea
 first
 come
 first

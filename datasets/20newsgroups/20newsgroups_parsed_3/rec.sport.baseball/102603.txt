@@ -1,7 +1,7 @@
 from
 dave
 almost
-curs
+cur
 the
 jay
 kirsch
@@ -49,7 +49,7 @@ team
 okay
 that
 win
-less
+le
 dipshit
 math
 genuiou

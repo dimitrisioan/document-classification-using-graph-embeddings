@@ -2,7 +2,7 @@ subject
 re
 greet
 carlo
-pleas
+plea
 forward
 their
 resum
@@ -56,7 +56,7 @@ in
 the
 near
 futur
-pleas
+plea
 let
 me
 know

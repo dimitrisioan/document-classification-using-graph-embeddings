@@ -154,7 +154,7 @@ write
 if
 your
 server
-us
+use
 the
 cfb
 code
@@ -265,7 +265,7 @@ segment
 if
 the
 client
-dy
+die
 a
 sudden
 violent

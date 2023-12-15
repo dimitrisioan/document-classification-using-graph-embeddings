@@ -245,7 +245,7 @@ palestinian
 interim
 selfcontrol
 without
-expos
+expo
 itself
 to
 unwarr

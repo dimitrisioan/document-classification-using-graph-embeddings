@@ -2,7 +2,7 @@ subject
 centi
 and
 milli
-pe
+pede
 doe
 anyon
 know

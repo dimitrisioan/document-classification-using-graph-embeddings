@@ -72,7 +72,7 @@ train
 sam
 smith
 also
-pleas
+plea
 let
 u
 know
@@ -129,7 +129,7 @@ modul
 in
 the
 program
-pleas
+plea
 send
 me
 a

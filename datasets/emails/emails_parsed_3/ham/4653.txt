@@ -15,7 +15,7 @@ var
 memo
 follow
 the
-discuss
+discus
 grant
 and
 i
@@ -24,7 +24,7 @@ with
 bjorn
 thursday
 even
-pleas
+plea
 let
 me
 know

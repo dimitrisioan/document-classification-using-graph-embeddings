@@ -82,7 +82,7 @@ mean
 unit
 win
 will
-pa
+pas
 off
 without
 further

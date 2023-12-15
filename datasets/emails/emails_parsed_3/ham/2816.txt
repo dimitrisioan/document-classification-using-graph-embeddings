@@ -341,7 +341,7 @@ is
 depict
 in
 blue
-pleas
+plea
 note
 that
 all
@@ -780,7 +780,7 @@ economi
 hope
 we
 can
-discu
+discus
 these
 and
 other

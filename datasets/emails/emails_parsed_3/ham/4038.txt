@@ -12,7 +12,7 @@ cera
 confer
 call
 notif
-pleas
+plea
 accept
 our
 apolog
@@ -185,7 +185,7 @@ to
 enrol
 to
 enrol
-pleas
+plea
 send
 a
 fax
@@ -207,7 +207,7 @@ p
 m
 monday
 april
-pleas
+plea
 includ
 your
 name
@@ -229,7 +229,7 @@ portion
 of
 the
 call
-pleas
+plea
 call
 in
 on
@@ -451,7 +451,7 @@ confer
 for
 more
 inform
-pleas
+plea
 contact
 kari
 paakaula
@@ -480,7 +480,7 @@ to
 access
 thi
 record
-pleas
+plea
 call
 within
 the
@@ -491,7 +491,7 @@ outsid
 the
 unit
 state
-pleas
+plea
 use
 confirm
 number

@@ -149,7 +149,7 @@ bike
 ani
 syggest
 what
-els
+el
 could
 caus
 my
@@ -189,7 +189,7 @@ wear
 of
 my
 piston
-pleas
+plea
 send
 comment
 to

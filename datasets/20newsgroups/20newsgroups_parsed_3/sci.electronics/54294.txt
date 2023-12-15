@@ -49,7 +49,7 @@ telekom
 there
 wa
 some
-discuss
+discus
 about
 a
 new
@@ -101,7 +101,7 @@ still
 exclus
 set
 to
-puls
+pul
 dial
 last
 time
@@ -114,7 +114,7 @@ areacod
 wa
 still
 sole
-puls
+pul
 dial
 btw
 touch

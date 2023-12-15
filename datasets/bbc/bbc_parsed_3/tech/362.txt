@@ -70,10 +70,10 @@ a
 spam
 messag
 can
-expos
+expo
 peopl
 to
-viru
+virus
 and
 alert
 spammer
@@ -144,7 +144,7 @@ secur
 threat
 includ
 spam
-viru
+virus
 and
 phish
 scam
@@ -208,7 +208,7 @@ american
 drama
 seri
 desper
-housewif
+housew
 it
 ha
 also
@@ -277,7 +277,7 @@ last
 month
 without
 cast
-aspers
+asper
 those
 like
 to

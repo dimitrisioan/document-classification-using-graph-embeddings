@@ -3,13 +3,13 @@ rfd
 recautossaab
 request
 for
-discuss
+discus
 thi
 is
 a
 request
 for
-discuss
+discus
 on
 the
 creation
@@ -90,7 +90,7 @@ answer
 from
 the
 commun
-discuss
+discus
 comment
 on
 thi

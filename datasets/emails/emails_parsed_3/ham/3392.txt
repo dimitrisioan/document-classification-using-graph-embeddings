@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 read
 mike
 enron
@@ -20,7 +20,7 @@ see
 attach
 call
 to
-discu
+discus
 if
 you
 re

@@ -274,7 +274,7 @@ use
 the
 name
 unix
-loos
+loo
 here
 i
 know
@@ -317,7 +317,7 @@ experi
 compwindowsx
 articl
 etc
-pleas
+plea
 forward
 ani
 correct
@@ -5174,7 +5174,7 @@ font
 etc
 amiga
 xpr
-us
+use
 the
 standard
 amiga

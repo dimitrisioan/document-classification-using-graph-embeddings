@@ -3,7 +3,7 @@ parallel
 port
 can
 anybodi
-pleas
+plea
 help
 me
 with
@@ -124,7 +124,7 @@ would
 be
 greatli
 appreasi
-pleas
+plea
 post
 a
 repli

@@ -9,7 +9,7 @@ hoen
 write
 can
 peopl
-pleas
+plea
 stop
 the
 i
@@ -213,7 +213,7 @@ for
 the
 storm
 and
-gass
+gas
 of
 the
 compound

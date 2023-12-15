@@ -5,7 +5,7 @@ question
 about
 xcopyarea
 and
-expos
+expo
 event
 excerpt
 from
@@ -60,13 +60,13 @@ and
 let
 the
 same
-expos
+expo
 event
 handler
 that
 handl
 regular
-expos
+expo
 event
 eg
 window
@@ -99,7 +99,7 @@ the
 context
 of
 an
-expos
+expo
 event
 certainli
 ani
@@ -120,7 +120,7 @@ maintain
 properli
 whenev
 an
-expos
+expo
 event
 happen
 to

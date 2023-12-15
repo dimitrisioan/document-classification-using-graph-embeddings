@@ -64,7 +64,7 @@ avail
 on
 request
 disclaim
-pleas
+plea
 note
 that
 the

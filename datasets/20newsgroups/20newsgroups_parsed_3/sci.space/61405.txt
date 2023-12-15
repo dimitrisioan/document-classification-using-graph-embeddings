@@ -243,7 +243,7 @@ gener
 grb
 from
 cometari
-nucleu
+nucleus
 unlik
 a
 it

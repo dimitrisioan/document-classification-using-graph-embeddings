@@ -16,7 +16,7 @@ from
 diabet
 plu
 inc
-pleas
+plea
 click
 here
 unsubscrib

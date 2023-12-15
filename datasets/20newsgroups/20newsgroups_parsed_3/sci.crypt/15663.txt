@@ -30,7 +30,7 @@ thousand
 do
 some
 arithmet
-pleas
+plea
 skipjack
 ha
 possibl
@@ -208,7 +208,7 @@ my
 view
 on
 anyon
-els
+el
 they
 would
 look

@@ -86,7 +86,7 @@ pedestrian
 traffic
 or
 someth
-els
+el
 that
 would
 trigger
@@ -239,7 +239,7 @@ the
 door
 the
 alarm
-go
+goe
 off
 more
 frequent
@@ -281,7 +281,7 @@ say
 protect
 by
 viper
-pleas
+plea
 stand
 back
 and

@@ -57,7 +57,7 @@ help
 defin
 the
 scope
-discu
+discus
 a
 timelin
 tool

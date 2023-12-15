@@ -106,7 +106,7 @@ help
 to
 have
 someon
-els
+el
 do
 thi
 and

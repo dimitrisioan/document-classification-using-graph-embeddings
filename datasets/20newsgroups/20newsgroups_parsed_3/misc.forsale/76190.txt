@@ -45,7 +45,7 @@ cod
 certifi
 check
 onli
-pleas
+plea
 these
 unit
 are

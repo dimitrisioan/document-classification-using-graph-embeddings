@@ -31,7 +31,7 @@ a
 prospect
 who
 wa
-expos
+expo
 to
 the
 draft

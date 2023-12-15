@@ -19,7 +19,7 @@ print
 with
 your
 favourit
-curs
+cur
 are
 good
 even

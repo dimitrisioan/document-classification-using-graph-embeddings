@@ -20,7 +20,7 @@ peggi
 davi
 on
 pm
-pleas
+plea
 respond
 to
 peggi
@@ -73,7 +73,7 @@ texa
 financ
 festiv
 attende
-pleas
+plea
 respond
 to
 the
@@ -129,7 +129,7 @@ not
 be
 in
 attend
-pleas
+plea
 indic
 below
 the
@@ -147,7 +147,7 @@ other
 come
 with
 you
-pleas
+plea
 indic
 the
 total

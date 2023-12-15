@@ -315,7 +315,7 @@ secret
 servic
 list
 sever
-discuss
+discus
 group
 in
 english

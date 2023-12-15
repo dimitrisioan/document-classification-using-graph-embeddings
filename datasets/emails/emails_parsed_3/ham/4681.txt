@@ -2,7 +2,7 @@ subject
 revenu
 manag
 meet
-pleas
+plea
 plan
 to
 attend
@@ -65,7 +65,7 @@ prior
 to
 the
 meet
-pleas
+plea
 call
 kim
 watson

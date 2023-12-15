@@ -260,7 +260,7 @@ com
 fax
 product
 avail
-pleas
+plea
 allow
 up
 to
@@ -315,7 +315,7 @@ or
 more
 pro
 tech
-us
+use
 up
 ground
 for

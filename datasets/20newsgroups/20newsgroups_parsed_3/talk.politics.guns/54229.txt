@@ -165,7 +165,7 @@ word
 for
 somebodi
 who
-life
+live
 in
 florida
 the
@@ -856,7 +856,7 @@ on
 thi
 mayb
 somebodi
-els
+el
 ha
 detail
 then
@@ -994,7 +994,7 @@ tbone
 and
 mtv
 that
-leaf
+leav
 hardcor
 gunown
 against

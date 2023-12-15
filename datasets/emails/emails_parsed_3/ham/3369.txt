@@ -14,7 +14,7 @@ after
 you
 log
 in
-pleas
+plea
 chang
 your
 password
@@ -245,7 +245,7 @@ on
 the
 enterpris
 workspac
-pleas
+plea
 call
 me
 should

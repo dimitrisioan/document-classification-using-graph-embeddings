@@ -65,7 +65,7 @@ philadelphia
 left
 wing
 adam
-graf
+grave
 n
 y
 ranger
@@ -84,7 +84,7 @@ wing
 pat
 verbeek
 hartford
-ru
+rus
 courtnal
 minnesota
 mike

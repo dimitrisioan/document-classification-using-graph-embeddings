@@ -5,7 +5,7 @@ for
 scotland
 graem
 souness
-belief
+believ
 walter
 smith
 would
@@ -207,7 +207,7 @@ job
 the
 man
 utd
-bo
+bos
 continu
 i
 dont
@@ -281,7 +281,7 @@ former
 everton
 and
 ranger
-bo
+bos
 ha
 been
 out
@@ -306,7 +306,7 @@ would
 be
 will
 to
-discu
+discus
 take
 over
 if

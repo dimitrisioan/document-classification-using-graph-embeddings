@@ -218,7 +218,7 @@ that
 ani
 action
 which
-serf
+serv
 to
 promot
 a
@@ -299,7 +299,7 @@ i
 nor
 ani
 one
-els
+el
 ha
 the
 right

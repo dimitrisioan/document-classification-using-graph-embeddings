@@ -21,7 +21,7 @@ debt
 consolid
 cash
 out
-pleas
+plea
 click
 here
 for
@@ -89,7 +89,7 @@ could
 meet
 your
 need
-pleas
+plea
 click
 here
 for

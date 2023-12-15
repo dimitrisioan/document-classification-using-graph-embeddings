@@ -12,7 +12,7 @@ t
 get
 time
 to
-discu
+discus
 in
 detail
 what
@@ -22,7 +22,7 @@ in
 houston
 we
 have
-discuss
+discus
 the
 subject
 inform
@@ -112,7 +112,7 @@ if
 you
 do
 noth
-els
+el
 in
 your
 two

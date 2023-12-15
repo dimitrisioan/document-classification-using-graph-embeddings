@@ -7,7 +7,7 @@ itali
 coach
 john
 kirwan
-belief
+believ
 hi
 side
 can
@@ -262,7 +262,7 @@ but
 centr
 jami
 noon
-belief
+believ
 the
 side
 at

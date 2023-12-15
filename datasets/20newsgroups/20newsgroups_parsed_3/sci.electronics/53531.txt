@@ -42,7 +42,7 @@ is
 make
 simpl
 hz
-puls
+pul
 horiz
 out
 transistor
@@ -105,7 +105,7 @@ circuitri
 a
 problem
 is
-sens
+sen
 and
 the
 horizont

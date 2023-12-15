@@ -79,7 +79,7 @@ begin
 at
 a
 m
-pleas
+plea
 visit
 the
 june
@@ -96,7 +96,7 @@ some
 inform
 about
 hotel
-pleas
+plea
 help
 u
 in
@@ -127,7 +127,7 @@ base
 upon
 previou
 messag
-pleas
+plea
 updat
 me
 with
@@ -150,7 +150,7 @@ june
 in
 the
 interim
-pleas
+plea
 do
 not
 hesit

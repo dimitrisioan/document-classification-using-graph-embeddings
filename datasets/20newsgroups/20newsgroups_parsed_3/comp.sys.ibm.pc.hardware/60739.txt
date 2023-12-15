@@ -29,7 +29,7 @@ doesnt
 that
 make
 real
-sens
+sen
 actual
 it
 doe
@@ -38,7 +38,7 @@ a
 reason
 amount
 of
-sens
+sen
 fix
 disk
 sector
@@ -67,7 +67,7 @@ quit
 effici
 singl
 instruct
-go
+goe
 a
 fast
 a

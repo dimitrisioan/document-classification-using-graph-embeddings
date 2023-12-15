@@ -23,7 +23,7 @@ presid
 rod
 burn
 is
-pleas
+plea
 to
 report
 that
@@ -57,7 +57,7 @@ texa
 the
 netti
 gardner
-leas
+lea
 is
 locat
 in
@@ -67,7 +67,7 @@ and
 the
 eastland
 counti
-leas
+lea
 is
 locat
 in
@@ -77,7 +77,7 @@ texa
 the
 netti
 gardner
-leas
+lea
 is
 compris
 of
@@ -222,7 +222,7 @@ direct
 we
 are
 extrem
-pleas
+plea
 to
 be
 abl
@@ -293,7 +293,7 @@ comment
 quest
 is
 veri
-pleas
+plea
 to
 develop
 a
@@ -445,7 +445,7 @@ the
 plan
 drill
 program
-pleas
+plea
 visit
 the
 quest

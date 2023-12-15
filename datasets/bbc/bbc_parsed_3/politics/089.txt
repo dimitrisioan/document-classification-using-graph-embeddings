@@ -1,4 +1,4 @@
-tori
+torus
 leader
 quit
 legal
@@ -85,7 +85,7 @@ about
 paid
 advocaci
 a
-tori
+torus
 spokesman
 total
 refut
@@ -532,7 +532,7 @@ she
 thought
 that
 the
-tori
+torus
 were
 an
 irrelev

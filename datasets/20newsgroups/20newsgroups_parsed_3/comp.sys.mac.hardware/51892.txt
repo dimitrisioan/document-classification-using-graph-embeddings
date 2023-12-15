@@ -109,7 +109,7 @@ incorrect
 on
 inform
 so
-pleas
+plea
 just
 dont
 say
@@ -144,7 +144,7 @@ thi
 data
 sheet
 organ
-pleas
+plea
 provid
 if
 possibl
@@ -228,7 +228,7 @@ for
 the
 hardwar
 section
-pleas
+plea
 thank
 you
 note
@@ -1185,7 +1185,7 @@ for
 app
 system
 x
-us
+use
 thi
 featur
 to
@@ -1380,7 +1380,7 @@ or
 if
 necessari
 the
-os
+ose
 themselv
 in
 a
@@ -2504,7 +2504,7 @@ for
 more
 then
 two
-devis
+devi
 off
 the
 scsi
@@ -3524,7 +3524,7 @@ pc
 mag
 mb
 byte
-us
+use
 edgetrigg
 interrupt
 cant
@@ -3764,7 +3764,7 @@ replac
 isaeisamca
 in
 develop
-os
+ose
 assum
 full
 instal
@@ -4078,7 +4078,7 @@ be
 use
 by
 older
-os
+ose
 use
 appleshar
 client
@@ -4312,7 +4312,7 @@ output
 wa
 support
 in
-os
+ose
 to
 by
 mani
@@ -4357,7 +4357,7 @@ most
 still
 play
 ibm
-machin
+machi
 have
 littl
 gui
@@ -4507,7 +4507,7 @@ featur
 document
 for
 it
-os
+ose
 to
 develop
 outsid
@@ -4625,7 +4625,7 @@ hook
 pc
 week
 microsoft
-os
+ose
 do
 ha
 a
@@ -5032,7 +5032,7 @@ otherwis
 pc
 week
 other
-os
+ose
 pcdo
 ibm
 version
@@ -5110,7 +5110,7 @@ requir
 mb
 ram
 mb
-us
+use
 mb
 hard
 drive
@@ -5525,7 +5525,7 @@ one
 of
 the
 few
-os
+ose
 to
 directli
 state
@@ -6289,7 +6289,7 @@ for
 all
 the
 abov
-os
+ose
 do
 not
 have
@@ -6358,7 +6358,7 @@ which
 in
 turn
 requir
-os
+ose
 and
 program
 to
@@ -6652,7 +6652,7 @@ the
 inform
 are
 welcom
-pleas
+plea
 email
 correct
 to

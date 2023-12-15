@@ -8,7 +8,7 @@ transform
 of
 enron
 shirley
-pleas
+plea
 provid
 thi
 info
@@ -158,7 +158,7 @@ which
 may
 be
 videotap
-pleas
+plea
 let
 me
 know
@@ -172,7 +172,7 @@ for
 your
 help
 and
-pleas
+plea
 don
 t
 hesit

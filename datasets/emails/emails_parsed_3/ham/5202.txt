@@ -68,7 +68,7 @@ if
 you
 think
 someon
-els
+el
 would
 be
 more
@@ -87,7 +87,7 @@ someon
 in
 the
 risk
-assess
+ass
 group
 about
 credit

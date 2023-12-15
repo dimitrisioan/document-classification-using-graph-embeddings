@@ -99,7 +99,7 @@ e
 squar
 retain
 servic
-pleas
+plea
 visit
 http
 www
@@ -108,7 +108,7 @@ com
 offer
 ret
 e
-pleas
+plea
 feel
 free
 to
@@ -158,7 +158,7 @@ futur
 e
 mail
 notif
-pleas
+plea
 send
 a
 repli

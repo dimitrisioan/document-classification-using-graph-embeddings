@@ -70,7 +70,7 @@ voter
 with
 both
 the
-tori
+torus
 and
 lib
 dem
@@ -114,7 +114,7 @@ a
 polici
 while
 the
-tori
+torus
 have
 pledg
 to

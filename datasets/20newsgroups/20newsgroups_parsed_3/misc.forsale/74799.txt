@@ -16,7 +16,7 @@ excel
 work
 condit
 just
-pass
+pas
 inspect
 ha
 a

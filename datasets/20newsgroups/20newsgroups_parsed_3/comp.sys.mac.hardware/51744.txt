@@ -14,7 +14,7 @@ write
 i
 believ
 it
-go
+goe
 or
 will
 go
@@ -105,7 +105,7 @@ run
 a
 program
 that
-us
+use
 a
 lot
 of
@@ -211,7 +211,7 @@ get
 somewher
 with
 our
-discuss
+discus
 chung
 yang
 in

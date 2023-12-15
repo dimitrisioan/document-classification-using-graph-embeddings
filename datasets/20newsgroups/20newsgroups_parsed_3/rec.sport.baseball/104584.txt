@@ -54,7 +54,7 @@ reggi
 w
 game
 count
-els
+el
 i
 believ
 he

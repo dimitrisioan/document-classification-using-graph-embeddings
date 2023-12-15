@@ -308,7 +308,7 @@ arrang
 a
 year
 transport
-leas
+lea
 agreement
 on
 the
@@ -615,7 +615,7 @@ alberta
 natur
 ga
 price
-index
+indic
 publish
 by
 the
@@ -674,7 +674,7 @@ no
 formal
 or
 inform
-discuss
+discus
 with
 medium
 colleagu
@@ -807,7 +807,7 @@ is
 michael
 l
 miller
-discuss
+discus
 princip
 invest
 histor

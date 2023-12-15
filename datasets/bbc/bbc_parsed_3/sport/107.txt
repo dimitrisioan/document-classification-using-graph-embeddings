@@ -3,7 +3,7 @@ utd
 aberdeen
 dunde
 unit
-eas
+ea
 into
 the
 semifin
@@ -261,7 +261,7 @@ scotland
 play
 a
 perfectlyweight
-pa
+pas
 into
 the
 path
@@ -293,7 +293,7 @@ interv
 gradi
 receiv
 a
-pa
+pas
 from
 crawford
 with

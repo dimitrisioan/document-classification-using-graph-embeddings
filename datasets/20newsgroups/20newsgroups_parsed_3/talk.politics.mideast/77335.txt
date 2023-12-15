@@ -217,7 +217,7 @@ classic
 exampl
 of
 ethnic
-cleans
+clean
 there
 is
 no
@@ -467,7 +467,7 @@ r
 khan
 after
 juli
-pleas
+plea
 send
 mail
 to

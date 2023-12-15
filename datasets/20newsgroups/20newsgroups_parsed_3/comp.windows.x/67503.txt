@@ -14,7 +14,7 @@ a
 small
 applic
 which
-us
+use
 pixmap
 copi
 into

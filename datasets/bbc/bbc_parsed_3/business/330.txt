@@ -190,7 +190,7 @@ street
 where
 dozen
 of
-life
+live
 were
 lost
 in
@@ -394,7 +394,7 @@ local
 there
 is
 a
-sens
+sen
 of
 recoveri
 mani
@@ -524,7 +524,7 @@ for
 presid
 kirchner
 thi
-prof
+prove
 a
 hopeless
 challeng

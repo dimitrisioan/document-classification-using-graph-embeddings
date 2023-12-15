@@ -278,7 +278,7 @@ definedsun
 definedsysv
 includ
 stringh
-els
+el
 includ
 stringsh
 endif
@@ -301,7 +301,7 @@ sigrelsesigalrm
 defin
 pausesig
 sigpausesigalrm
-els
+el
 defin
 holdsig
 sigblocksigmasksigalrm
@@ -353,7 +353,7 @@ mkgstate
 gstatesh
 rm
 gstatesh
-els
+el
 gstatesh
 mkgstatesc
 th

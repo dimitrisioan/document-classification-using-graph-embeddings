@@ -1,5 +1,5 @@
 euronext
-pois
+poi
 to
 make
 lse
@@ -8,7 +8,7 @@ paneuropean
 group
 euronext
 is
-pois
+poi
 to
 launch
 a
@@ -34,7 +34,7 @@ from
 german
 rival
 deutsch
-boers
+boer
 the
 penceashar
 offer
@@ -161,7 +161,7 @@ reject
 of
 the
 deutsch
-boers
+boer
 bid
 last
 week
@@ -204,10 +204,10 @@ in
 respond
 to
 the
-l
+lse
 rebuff
 deutsch
-boers
+boer
 whose
 market
 capitalis
@@ -334,7 +334,7 @@ mani
 analyst
 believ
 german
-boers
+boer
 ha
 more
 financi

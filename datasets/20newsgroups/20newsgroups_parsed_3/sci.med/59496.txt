@@ -11,7 +11,7 @@ in
 articl
 write
 someon
-pleas
+plea
 help
 me
 i

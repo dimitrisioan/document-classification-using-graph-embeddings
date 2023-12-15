@@ -9,7 +9,7 @@ keller
 write
 my
 vote
-go
+goe
 to
 john
 vanbiesbrouck
@@ -73,7 +73,7 @@ last
 year
 now
 he
-go
+goe
 out
 and
 get

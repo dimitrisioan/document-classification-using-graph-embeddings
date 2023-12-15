@@ -15,7 +15,7 @@ a
 pc
 pd
 program
-pleas
+plea
 let
 me
 know

@@ -127,7 +127,7 @@ there
 wa
 an
 excel
-discuss
+discus
 in
 sciskept
 on
@@ -183,7 +183,7 @@ true
 in
 a
 mathemat
-sens
+sen
 howev
 theori
 are
@@ -219,7 +219,7 @@ come
 up
 with
 have
-pass
+pas
 thi
 test
 includ
@@ -1232,7 +1232,7 @@ question
 ha
 to
 be
-discuss
+discus
 separ
 i
 think

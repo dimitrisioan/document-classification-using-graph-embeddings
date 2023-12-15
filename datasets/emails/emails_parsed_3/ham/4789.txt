@@ -9,7 +9,7 @@ for
 ag
 trade
 apolog
-pleas
+plea
 note
 that
 i
@@ -74,7 +74,7 @@ for
 ag
 trade
 vinc
-pleas
+plea
 find
 attach
 the

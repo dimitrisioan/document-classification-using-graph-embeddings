@@ -36,7 +36,7 @@ where
 ron
 gant
 wa
-assess
+ass
 the
 second
 strike

@@ -194,7 +194,7 @@ effici
 but
 thi
 version
-us
+use
 transistor
 and
 resistor

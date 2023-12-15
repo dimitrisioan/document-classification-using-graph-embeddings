@@ -249,7 +249,7 @@ state
 would
 not
 have
-pass
+pas
 so
 mani
 law

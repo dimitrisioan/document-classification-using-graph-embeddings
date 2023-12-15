@@ -2,8 +2,8 @@ subject
 u
 simm
 price
-pleas
-pleas
+plea
+plea
 could
 someon
 in
@@ -64,7 +64,7 @@ from
 a
 friend
 account
-pleas
+plea
 repli
 direct
 to

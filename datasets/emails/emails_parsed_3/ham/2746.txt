@@ -113,7 +113,7 @@ field
 christi
 could
 you
-pleas
+plea
 fill
 me
 in
@@ -225,7 +225,7 @@ pm
 at
 enron
 smith
-pleas
+plea
 come
 to
 the
@@ -280,7 +280,7 @@ special
 invit
 list
 onli
-pleas
+plea
 confirm
 your
 attend

@@ -33,7 +33,7 @@ pressur
 hangar
 make
 consider
-sens
+sen
 the
 question
 is
@@ -203,7 +203,7 @@ environ
 reduc
 ductil
 in
-expos
+expo
 materi
 due
 to

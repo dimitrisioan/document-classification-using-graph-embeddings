@@ -52,7 +52,7 @@ and
 joe
 sutton
 who
-discu
+discus
 four
 key
 busi
@@ -172,7 +172,7 @@ t
 familiar
 with
 mooresourc
-pleas
+plea
 go
 tohttp
 home

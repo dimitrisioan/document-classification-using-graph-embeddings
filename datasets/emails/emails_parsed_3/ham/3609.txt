@@ -477,7 +477,7 @@ your
 date
 of
 migrat
-pleas
+plea
 take
 a
 few
@@ -596,7 +596,7 @@ respons
 for
 updat
 anyon
-els
+el
 s
 address
 book
@@ -606,7 +606,7 @@ ye
 who
 is
 anyon
-els
+el
 respons
 for
 updat
@@ -648,10 +648,10 @@ mail
 no
 if
 ye
-pleas
+plea
 list
 here
-pleas
+plea
 list
 all
 note

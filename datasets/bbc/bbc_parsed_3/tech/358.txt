@@ -127,7 +127,7 @@ set
 top
 box
 to
-children
+child
 toy
 but
 for
@@ -488,7 +488,7 @@ the
 increas
 secur
 from
-viru
+virus
 spywar
 and
 data
@@ -551,7 +551,7 @@ manag
 servic
 into
 our
-life
+live
 can
 lead
 to

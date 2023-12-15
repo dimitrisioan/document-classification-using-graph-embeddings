@@ -139,7 +139,7 @@ father
 and
 grandfath
 were
-expos
+expo
 to
 poison
 ga

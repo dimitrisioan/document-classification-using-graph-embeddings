@@ -85,7 +85,7 @@ just
 to
 dodg
 taxi
-bu
+buse
 pedistrian
 bicycl
 messeng
@@ -114,7 +114,7 @@ much
 fun
 besid
 where
-els
+el
 can
 you
 think
@@ -292,4 +292,4 @@ to
 do
 with
 anyon
-els
+el

@@ -3,7 +3,7 @@ trident
 cl
 x
 driver
-pleas
+plea
 excus
 if
 faq
@@ -43,5 +43,5 @@ box
 ani
 suggest
 thanx
-pleas
+plea
 email

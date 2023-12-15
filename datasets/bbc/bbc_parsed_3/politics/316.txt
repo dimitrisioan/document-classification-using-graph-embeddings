@@ -13,7 +13,7 @@ never
 ever
 ever
 attack
-tori
+torus
 leader
 michael
 howard
@@ -96,7 +96,7 @@ pig
 anoth
 pictur
 the
-tori
+torus
 leader
 swing
 a

@@ -179,7 +179,7 @@ begin
 to
 get
 a
-sens
+sen
 of
 the
 capabl
@@ -279,7 +279,7 @@ in
 la
 vega
 microsoft
-bo
+bos
 bill
 gate
 said
@@ -698,10 +698,10 @@ for
 euro
 when
 he
-go
+goe
 home
 he
-go
+goe
 onlin
 and
 he

@@ -97,7 +97,7 @@ day
 of
 peopl
 s
-life
+live
 our
 wed
 consult
@@ -373,7 +373,7 @@ schedul
 a
 time
 to
-discu
+discus
 the
 program
 togeth

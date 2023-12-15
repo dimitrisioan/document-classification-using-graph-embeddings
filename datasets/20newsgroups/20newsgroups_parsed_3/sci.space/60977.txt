@@ -39,7 +39,7 @@ orbit
 may
 trash
 the
-focu
+focus
 element
 even
 if

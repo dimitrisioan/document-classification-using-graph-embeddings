@@ -184,7 +184,7 @@ cop
 they
 are
 the
-bo
+bos
 you
 are
 the
@@ -634,7 +634,7 @@ new
 law
 ha
 been
-pass
+pas
 it
 is
 not
@@ -914,7 +914,7 @@ the
 repercuss
 if
 it
-go
+goe
 wrong
 bet
 you
@@ -1048,7 +1048,7 @@ seattl
 wa
 if
 all
-els
+el
 fail
 tri
 uunetpilchuckrwingpat

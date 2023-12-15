@@ -24,7 +24,7 @@ of
 clipper
 chip
 key
-half
+halv
 i
 would
 not

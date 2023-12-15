@@ -1,6 +1,8 @@
 import time
 import numpy as np
 import pandas as pd
+import seaborn as sns
+from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
@@ -27,6 +29,8 @@ if __name__ == "__main__":
     X = df['embedding'].apply(lambda x: np.fromstring(x[1:-1], sep=',')).tolist()
     y = df['category']
     print(type(X))
+    class_names = sorted(y.unique())
+    print(class_names)
 
     # Split data into training and test sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -106,6 +110,14 @@ if __name__ == "__main__":
     print(f"Precision: {prec_score_logreg}")
     print(f"Confusion matrix:\n {conf_matrix_logreg}")
     print(f"Report:\n {report_logreg}")
+
+    plt.figure(figsize=(14, 12))  # Increase the figsize to enlarge the plot
+    sns.heatmap(conf_matrix_mlp, annot=True, fmt='d', cmap='Blues',
+                xticklabels=class_names, yticklabels=class_names)
+    plt.xlabel('Predicted Labels')
+    plt.ylabel('True Labels')
+    plt.title('Confusion Matrix')
+    plt.show()
 
     print("--- %s seconds ---" % (time.time() - start_time))
 

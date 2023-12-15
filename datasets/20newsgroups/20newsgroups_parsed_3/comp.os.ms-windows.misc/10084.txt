@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 help
 wierd
 problem
@@ -195,7 +195,7 @@ think
 you
 can
 help
-pleas
+plea
 repli
 through
 the

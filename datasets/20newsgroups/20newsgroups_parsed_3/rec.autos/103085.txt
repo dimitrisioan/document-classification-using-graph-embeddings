@@ -9,7 +9,7 @@ lagess
 write
 long
 silli
-discuss
+discus
 delet
 and
 while

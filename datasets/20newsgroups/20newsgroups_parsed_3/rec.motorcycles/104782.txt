@@ -66,7 +66,7 @@ happen
 to
 miss
 the
-discuss
+discus
 of
 deltabox
 frame

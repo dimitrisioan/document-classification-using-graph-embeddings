@@ -99,7 +99,7 @@ more
 money
 from
 someon
-els
+el
 what
 exactli
 is
@@ -343,7 +343,7 @@ the
 book
 it
 usual
-go
+goe
 by
 the
 class

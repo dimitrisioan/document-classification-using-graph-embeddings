@@ -41,7 +41,7 @@ orbit
 may
 trash
 the
-focu
+focus
 element
 what
 i

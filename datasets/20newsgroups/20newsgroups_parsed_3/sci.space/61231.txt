@@ -81,7 +81,7 @@ in
 fact
 be
 fore
-bats
+bat
 have
 thi
 wide
@@ -151,7 +151,7 @@ detector
 one
 get
 intersect
-annulu
+annulus
 give
 two
 possibl
@@ -179,7 +179,7 @@ have
 an
 error
 box
-bats
+bat
 by
 have
 detector

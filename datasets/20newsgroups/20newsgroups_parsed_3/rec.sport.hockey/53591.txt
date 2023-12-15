@@ -85,7 +85,7 @@ pick
 loser
 in
 seri
-go
+goe
 pick
 loser
 in

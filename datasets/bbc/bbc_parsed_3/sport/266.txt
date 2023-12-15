@@ -46,7 +46,7 @@ at
 the
 bernabeu
 liverpool
-bo
+bos
 rafael
 benitez
 is
@@ -58,7 +58,7 @@ forward
 option
 with
 djibril
-ciss
+cis
 out
 until
 next

@@ -136,7 +136,7 @@ euro
 exchang
 minimum
 invest
-pleas
+plea
 care
 evalu
 your

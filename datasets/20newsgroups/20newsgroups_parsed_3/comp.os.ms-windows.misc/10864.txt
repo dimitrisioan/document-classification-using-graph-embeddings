@@ -809,7 +809,7 @@ and
 who
 know
 what
-els
+el
 are
 crippl
 by
@@ -1070,7 +1070,7 @@ path
 ha
 so
 mani
-do
+dos
 if
 the
 instal

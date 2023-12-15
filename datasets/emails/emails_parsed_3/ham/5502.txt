@@ -12,7 +12,7 @@ richard
 i
 have
 been
-discuss
+discus
 with
 eric
 gadd
@@ -44,7 +44,7 @@ ensur
 that
 the
 integr
-go
+goe
 smoothli
 from
 a
@@ -203,7 +203,7 @@ to
 ensur
 that
 everyth
-go
+goe
 smoothli
 in
 thi
@@ -211,7 +211,7 @@ excit
 new
 develop
 so
-pleas
+plea
 do
 not
 hesit

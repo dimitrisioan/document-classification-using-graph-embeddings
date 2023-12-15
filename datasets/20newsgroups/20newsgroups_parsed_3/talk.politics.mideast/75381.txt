@@ -118,7 +118,7 @@ sebinkarahisarin
 islam
 mahalleleri
 tamamen
-ates
+ate
 verildi
 her
 rastlanan
@@ -283,7 +283,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

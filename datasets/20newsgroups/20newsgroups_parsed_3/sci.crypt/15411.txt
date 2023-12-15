@@ -340,7 +340,7 @@ want
 to
 talk
 over
-bb
+bbs
 in
 the
 usa

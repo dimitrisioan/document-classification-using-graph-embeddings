@@ -32,7 +32,7 @@ sanjeev
 khanna
 the
 model
-us
+use
 american
 mont
 carlo
@@ -82,7 +82,7 @@ price
 total
 gener
 cost
-els
+el
 turn
 the
 plant

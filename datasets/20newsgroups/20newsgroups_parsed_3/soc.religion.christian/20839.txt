@@ -129,7 +129,7 @@ far
 a
 the
 command
-go
+goe
 command
 can
 be
@@ -177,7 +177,7 @@ respons
 to
 a
 command
-go
+goe
 it
 can
 be
@@ -312,7 +312,7 @@ of
 saint
 piu
 x
-go
+goe
 they
 are
 certainli
@@ -463,7 +463,7 @@ about
 the
 issu
 be
-discuss
+discus
 in
 the
 cathol
@@ -683,7 +683,7 @@ schism
 mayb
 thi
 someth
-els
+el
 make
 the
 sspx
@@ -742,7 +742,7 @@ schism
 in
 order
 to
-poss
+posse
 thi
 charact
 it
@@ -790,7 +790,7 @@ the
 pope
 is
 their
-bo
+bos
 they
 pray
 for
@@ -806,7 +806,7 @@ a
 far
 a
 schism
-go
+goe
 what
 all
 thi
@@ -844,7 +844,7 @@ of
 obedi
 and
 schism
-go
+goe
 they
 are
 resist
@@ -951,13 +951,13 @@ the
 pope
 himself
 hi
-bo
+bos
 is
 god
 there
 no
 one
-els
+el
 to
 complain
 to
@@ -1104,7 +1104,7 @@ be
 confer
 by
 someon
-els
+el
 with
 the
 power
@@ -1256,7 +1256,7 @@ the
 natur
 of
 tradit
-go
+goe
 here
 the
 passag
@@ -1332,7 +1332,7 @@ word
 that
 are
 be
-pass
+pas
 on
 thi
 come
@@ -1361,7 +1361,7 @@ come
 from
 the
 intim
-sens
+sen
 of
 spiritu
 realiti
@@ -1409,7 +1409,7 @@ magisterium
 of
 the
 church
-possess
+posse
 by
 the
 bishop
@@ -1792,7 +1792,7 @@ someon
 wrongli
 it
 someth
-els
+el
 to
 say
 that

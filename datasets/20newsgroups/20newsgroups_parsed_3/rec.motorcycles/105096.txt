@@ -29,7 +29,7 @@ chase
 ani
 car
 that
-pass
+pas
 run
 along
 the

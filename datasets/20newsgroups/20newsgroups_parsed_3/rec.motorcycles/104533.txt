@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 in
 articl
@@ -173,7 +173,7 @@ to
 what
 wa
 intend
-needl
+needle
 to
 say
 thi
@@ -228,7 +228,7 @@ motorcycl
 straighten
 up
 and
-go
+goe
 off
 the
 road

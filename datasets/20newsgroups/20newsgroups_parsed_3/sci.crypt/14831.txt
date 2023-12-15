@@ -56,7 +56,7 @@ a
 monthli
 basi
 followup
-discuss
+discus
 specif
 to
 ripem
@@ -395,7 +395,7 @@ i
 get
 ripem
 ripem
-us
+use
 the
 librari
 of
@@ -489,7 +489,7 @@ law
 not
 be
 violat
-pleas
+plea
 do
 not
 export
@@ -754,7 +754,7 @@ includ
 with
 the
 distribut
-discu
+discus
 way
 to
 use
@@ -1052,7 +1052,7 @@ system
 unlik
 rsa
 de
-us
+use
 the
 same
 key
@@ -1069,7 +1069,7 @@ faster
 than
 rsa
 ripem
-us
+use
 both
 de
 and
@@ -1125,7 +1125,7 @@ is
 somewhat
 old
 and
-us
+use
 a
 key
 length
@@ -1636,7 +1636,7 @@ internet
 standard
 ha
 a
-discuss
+discus
 section
 on
 what
@@ -2109,7 +2109,7 @@ other
 than
 itself
 ripem
-us
+use
 rsaref
 a
 librari
@@ -2127,7 +2127,7 @@ allow
 noncommerci
 use
 pgp
-us
+use
 it
 own
 implement
@@ -2575,7 +2575,7 @@ companion
 post
 ripemattack
 which
-discu
+discus
 some
 of
 the

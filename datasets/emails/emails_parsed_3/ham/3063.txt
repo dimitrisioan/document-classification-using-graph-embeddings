@@ -34,7 +34,7 @@ yeargain
 hou
 ee
 ee
-re
+res
 young
 hou
 ee
@@ -191,7 +191,7 @@ hou
 ee
 ee
 stephen
-dougla
+douglas
 hou
 ee
 ee
@@ -426,7 +426,7 @@ take
 an
 attende
 list
-pleas
+plea
 forward
 to
 your

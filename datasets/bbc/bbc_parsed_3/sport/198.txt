@@ -38,7 +38,7 @@ wa
 thrown
 at
 unit
-bo
+bos
 sir
 alex
 ferguson
@@ -209,7 +209,7 @@ foul
 play
 while
 arsen
-bo
+bos
 arsen
 wenger
 ha

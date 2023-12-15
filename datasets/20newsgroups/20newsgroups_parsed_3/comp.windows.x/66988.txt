@@ -110,7 +110,7 @@ can
 not
 perform
 anyth
-els
+el
 but
 set
 the
@@ -287,7 +287,7 @@ to
 posit
 them
 it
-us
+use
 xptabl
 childposit
 in
@@ -376,7 +376,7 @@ formviewheight
 prefheight
 newheight
 prefheight
-els
+el
 newheight
 formviewheight
 set
@@ -457,14 +457,14 @@ xtmanagechild
 on
 it
 second
-pa
+pas
 through
 the
 observ
 function
 the
 first
-pa
+pas
 succe
 xtmanagechildmodelinitformview
 xtmanagechildmodelinitt

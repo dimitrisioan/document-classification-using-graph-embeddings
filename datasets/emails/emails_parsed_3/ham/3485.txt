@@ -422,7 +422,7 @@ from
 my
 research
 and
-discuss
+discus
 with
 expert
 in
@@ -575,7 +575,7 @@ manag
 for
 more
 inform
-pleas
+plea
 refer
 to
 our
@@ -611,7 +611,7 @@ you
 have
 ani
 question
-pleas
+plea
 do
 not
 hesit
@@ -626,7 +626,7 @@ you
 again
 on
 to
-discu
+discus
 thi
 further
 best

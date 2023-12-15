@@ -50,7 +50,7 @@ report
 research
 joe
 mike
-pleas
+plea
 check
 with
 pr
@@ -96,7 +96,7 @@ aol
 com
 on
 am
-pleas
+plea
 respond
 to
 energywrit
@@ -123,7 +123,7 @@ manag
 the
 stori
 will
-discu
+discus
 differ
 weather
 risk

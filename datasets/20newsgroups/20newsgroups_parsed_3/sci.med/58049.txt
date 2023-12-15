@@ -16,7 +16,7 @@ about
 total
 cholesterol
 when
-assess
+ass
 health
 risk
 factor

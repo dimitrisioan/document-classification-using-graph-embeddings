@@ -1,7 +1,7 @@
 subject
 result
 scilifeextens
-pass
+pas
 the
 vote
 to
@@ -532,7 +532,7 @@ zubkoff
 the
 group
 still
-pass
+pas
 if
 you
 dont

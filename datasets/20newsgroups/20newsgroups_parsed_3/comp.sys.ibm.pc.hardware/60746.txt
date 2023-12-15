@@ -33,7 +33,7 @@ my
 current
 io
 card
-us
+use
 s
 correct
 number

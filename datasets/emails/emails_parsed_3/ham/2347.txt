@@ -12,7 +12,7 @@ our
 san
 francisco
 project
-pleas
+plea
 forward
 info
 to

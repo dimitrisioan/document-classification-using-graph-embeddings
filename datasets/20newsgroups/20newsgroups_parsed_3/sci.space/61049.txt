@@ -882,7 +882,7 @@ whi
 not
 perhap
 by
-pass
+pas
 a
 larg
 flat
@@ -1255,7 +1255,7 @@ we
 couldnt
 rememb
 how
-els
+el
 it
 should
 be
@@ -1464,7 +1464,7 @@ the
 wiser
 a
 we
-pa
+pas
 the
 point
 along

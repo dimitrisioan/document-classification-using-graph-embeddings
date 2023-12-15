@@ -75,7 +75,7 @@ ask
 stinson
 could
 you
-pleas
+plea
 tell
 me
 what
@@ -105,7 +105,7 @@ monday
 morn
 houston
 time
-pleas
+plea
 jot
 me
 a
@@ -133,7 +133,7 @@ primarili
 it
 will
 be
-discuss
+discus
 of
 the
 data

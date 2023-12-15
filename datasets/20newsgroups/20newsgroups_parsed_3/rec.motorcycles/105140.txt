@@ -51,7 +51,7 @@ not
 interchang
 with
 anyth
-els
+el
 so
 far
 a
@@ -154,5 +154,5 @@ si
 you
 porsch
 me
-pa
+pas
 dod

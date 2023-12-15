@@ -116,7 +116,7 @@ be
 legal
 or
 someon
-els
+el
 say
 let
 allow

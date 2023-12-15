@@ -76,7 +76,7 @@ the
 with
 cd
 instal
-pleas
+plea
 let
 me
 know

@@ -75,7 +75,7 @@ slow
 i
 can
 detect
-puls
+pul
 that
 occur
 at

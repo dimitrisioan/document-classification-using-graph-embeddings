@@ -118,7 +118,7 @@ it
 doe
 not
 make
-sens
+sen
 to
 wast
 resourc
@@ -141,7 +141,7 @@ it
 doe
 not
 make
-sens
+sen
 when
 the
 same

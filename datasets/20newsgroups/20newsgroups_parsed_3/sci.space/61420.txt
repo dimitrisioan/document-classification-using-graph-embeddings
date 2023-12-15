@@ -48,7 +48,7 @@ of
 eq
 well
 a
-bats
+bat
 detector
 need
 lead
@@ -73,7 +73,7 @@ talk
 about
 a
 singl
-bats
+bat
 compon
 or
 the
@@ -83,7 +83,7 @@ you
 could
 propos
 a
-bats
+bat
 probe
 launch
 two

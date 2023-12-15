@@ -21,7 +21,7 @@ and
 joe
 on
 friday
-pleas
+plea
 let
 me
 know
@@ -73,7 +73,7 @@ subject
 exmar
 deal
 farhad
-pleas
+plea
 cc
 mail
 to

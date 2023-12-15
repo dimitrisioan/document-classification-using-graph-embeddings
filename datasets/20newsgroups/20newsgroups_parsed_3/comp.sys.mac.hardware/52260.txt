@@ -16,7 +16,7 @@ for
 the
 mac
 it
-us
+use
 a
 scsi
 interfac

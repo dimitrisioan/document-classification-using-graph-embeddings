@@ -227,7 +227,7 @@ thi
 is
 technoiogi
 which
-us
+use
 tini
 sensor
 to
@@ -825,7 +825,7 @@ that
 express
 or
 invoiv
-discuss
+discus
 with
 respect
 to
@@ -915,7 +915,7 @@ expect
 will
 anticip
 estim
-belief
+believ
 understand
 or
 that

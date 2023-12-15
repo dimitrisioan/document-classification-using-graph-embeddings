@@ -62,7 +62,7 @@ doe
 read
 k
 disk
-pleas
+plea
 let
 me
 know
@@ -164,7 +164,7 @@ so
 that
 the
 track
-pa
+pas
 under
 the
 head

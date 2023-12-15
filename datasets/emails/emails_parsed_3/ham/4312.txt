@@ -163,7 +163,7 @@ asp
 id
 wurtt
 uk
-go
+goe
 digit
 http
 www
@@ -201,7 +201,7 @@ confer
 viewstori
 asp
 id
-pleas
+plea
 visit
 http
 www

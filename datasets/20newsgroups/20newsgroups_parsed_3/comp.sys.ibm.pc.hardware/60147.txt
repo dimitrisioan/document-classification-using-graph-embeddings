@@ -157,7 +157,7 @@ also
 eisa
 card
 or
-els
+el
 your
 comput
 system

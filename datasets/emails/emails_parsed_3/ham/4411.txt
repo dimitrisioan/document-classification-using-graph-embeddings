@@ -25,7 +25,7 @@ public
 ha
 been
 accept
-pleas
+plea
 save
 thi
 messag
@@ -174,7 +174,7 @@ mail
 to
 frbnyrmagl
 peach
-eas
+ea
 lsoft
 com
 thi
@@ -208,7 +208,7 @@ thi
 address
 frbnyrmagl
 peach
-eas
+ea
 lsoft
 com
 is
@@ -251,7 +251,7 @@ listserv
 address
 listserv
 peach
-eas
+ea
 lsoft
 com
 it
@@ -483,7 +483,7 @@ command
 to
 listserv
 peach
-eas
+ea
 lsoft
 com
 you
@@ -666,7 +666,7 @@ command
 to
 listserv
 peach
-eas
+ea
 lsoft
 com
 you
@@ -724,7 +724,7 @@ it
 to
 third
 parti
-pleas
+plea
 note
 that
 the
@@ -763,6 +763,6 @@ command
 to
 listserv
 peach
-eas
+ea
 lsoft
 com

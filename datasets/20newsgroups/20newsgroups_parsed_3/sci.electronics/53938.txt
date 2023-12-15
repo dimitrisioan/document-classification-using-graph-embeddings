@@ -109,7 +109,7 @@ at
 least
 amp
 current
-puls
+pul
 at
 thi
 current
@@ -169,7 +169,7 @@ take
 some
 big
 current
-puls
+pul
 if
 you
 can

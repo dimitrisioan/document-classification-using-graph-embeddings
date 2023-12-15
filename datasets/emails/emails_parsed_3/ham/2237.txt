@@ -53,7 +53,7 @@ of
 boston
 univers
 iri
-pleas
+plea
 check
 with
 shirley
@@ -101,7 +101,7 @@ with
 the
 busi
 unit
-pleas
+plea
 check
 with
 vasant
@@ -122,7 +122,7 @@ kinneman
 craig
 chaney
 also
-pleas
+plea
 plan
 for
 a
@@ -319,7 +319,7 @@ in
 the
 broadband
 area
-pleas
+plea
 see
 the
 forward
@@ -748,7 +748,7 @@ issu
 perhap
 we
 can
-discu
+discus
 some
 of
 these
@@ -796,7 +796,7 @@ hi
 a
 we
 briefli
-discuss
+discus
 i
 spoke
 with
@@ -823,7 +823,7 @@ time
 with
 u
 to
-discu
+discus
 you
 work
 in
@@ -906,7 +906,7 @@ me
 vinc
 kaminski
 our
-bo
+bos
 ani
 other
 of

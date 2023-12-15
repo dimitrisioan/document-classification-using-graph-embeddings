@@ -5,7 +5,7 @@ race
 chelsea
 william
 galla
-belief
+believ
 they
 will
 battl
@@ -191,13 +191,13 @@ the
 french
 intern
 defend
-belief
+believ
 mourinho
 is
 perfectli
 suit
 to
-bo
+bos
 the
 squad
 of

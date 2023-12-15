@@ -84,7 +84,7 @@ the
 font
 or
 anyth
-els
+el
 if
 all
 you
@@ -99,7 +99,7 @@ printingi
 dont
 have
 anyth
-els
+el
 instal
 and
 can

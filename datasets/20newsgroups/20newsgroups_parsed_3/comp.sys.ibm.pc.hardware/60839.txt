@@ -76,7 +76,7 @@ prefer
 way
 of
 mirror
-us
+use
 two
 control
 card
@@ -329,7 +329,7 @@ thi
 configur
 wm
 what
-els
+el
 can
 caus
 a
@@ -396,7 +396,7 @@ mail
 hub
 usenet
 newsgroup
-pleas
+plea
 rout
 all
 question

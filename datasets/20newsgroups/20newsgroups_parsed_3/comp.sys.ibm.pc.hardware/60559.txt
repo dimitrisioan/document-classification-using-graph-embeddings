@@ -46,5 +46,5 @@ green
 cursor
 ani
 idea
-pleas
+plea
 email

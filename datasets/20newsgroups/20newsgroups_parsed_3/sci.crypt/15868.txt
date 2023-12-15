@@ -486,7 +486,7 @@ these
 techniqu
 are
 well
-discuss
+discus
 in
 internet
 rfc

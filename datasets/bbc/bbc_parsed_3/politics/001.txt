@@ -64,7 +64,7 @@ of
 older
 child
 the
-tori
+torus
 dismiss
 the
 matern

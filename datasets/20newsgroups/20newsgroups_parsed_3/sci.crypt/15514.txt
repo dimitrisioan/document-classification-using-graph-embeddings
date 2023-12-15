@@ -124,7 +124,7 @@ thousand
 do
 some
 arithmet
-pleas
+plea
 skipjack
 ha
 possibl
@@ -179,7 +179,7 @@ for
 each
 solut
 idea
-us
+use
 bit
 key
 shall

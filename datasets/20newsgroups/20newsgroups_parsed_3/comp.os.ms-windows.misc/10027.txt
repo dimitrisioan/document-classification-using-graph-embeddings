@@ -53,7 +53,7 @@ the
 do
 pkzippkunzip
 command
-ru
+rus
 sharp
 ph
 fax

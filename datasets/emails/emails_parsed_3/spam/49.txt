@@ -1074,7 +1074,7 @@ primarili
 genethera
 s
 expertis
-focu
+focus
 on
 technolog
 relev
@@ -1265,7 +1265,7 @@ reaction
 f
 pcr
 technolog
-us
+use
 live
 anim
 blood
@@ -2623,7 +2623,7 @@ expect
 will
 anticip
 estim
-belief
+believ
 or
 by
 statement

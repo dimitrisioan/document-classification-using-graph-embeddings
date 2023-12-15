@@ -111,7 +111,7 @@ draft
 analysi
 hi
 trushar
-pleas
+plea
 find
 attach
 our
@@ -153,7 +153,7 @@ to
 u
 base
 on
-discuss
+discus
 with
 enron
 and
@@ -163,7 +163,7 @@ draft
 document
 the
 analysi
-us
+use
 the
 enron
 share
@@ -192,10 +192,10 @@ irr
 base
 on
 enron
-discuss
+discus
 with
 ljm
-pleas
+plea
 call
 steve
 stampf
@@ -278,7 +278,7 @@ receiv
 thi
 in
 error
-pleas
+plea
 contact
 the
 sender

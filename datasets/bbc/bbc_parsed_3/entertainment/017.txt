@@ -23,7 +23,7 @@ intern
 booker
 prize
 dori
-less
+le
 and
 ian
 mcewan
@@ -214,7 +214,7 @@ stanislaw
 lem
 poland
 dori
-less
+le
 uk
 ian
 mcewan

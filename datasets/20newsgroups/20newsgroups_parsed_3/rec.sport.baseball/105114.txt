@@ -33,7 +33,7 @@ up
 someth
 regard
 the
-bo
+bos
 talk
 about
 mark
@@ -172,7 +172,7 @@ with
 quot
 from
 the
-bo
+bos
 if
 they
 just

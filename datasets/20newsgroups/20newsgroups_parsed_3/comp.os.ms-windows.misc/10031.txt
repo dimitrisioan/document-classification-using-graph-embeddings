@@ -15,7 +15,7 @@ can
 ftp
 or
 somehow
-els
+el
 acquir
 the
 latest

@@ -9,7 +9,7 @@ posit
 at
 enron
 shirley
-pleas
+plea
 set
 up
 a

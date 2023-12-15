@@ -72,7 +72,7 @@ sourcesoth
 info
 a
 acquir
-pleas
+plea
 mail
 me
 or

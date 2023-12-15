@@ -153,7 +153,7 @@ i
 e
 quantit
 model
-pleas
+plea
 let
 me
 know
@@ -215,7 +215,7 @@ then
 also
 could
 you
-pleas
+plea
 tell
 me
 about
@@ -359,7 +359,7 @@ be
 better
 for
 u
-pleas
+plea
 let
 me
 know
@@ -555,7 +555,7 @@ to
 enron
 a
 well
-pleas
+plea
 let
 me
 know
@@ -641,7 +641,7 @@ energi
 compani
 in
 houston
-pleas
+plea
 let
 me
 know
@@ -747,7 +747,7 @@ have
 attach
 my
 cv
-pleas
+plea
 see
 attach
 file
@@ -802,7 +802,7 @@ london
 to
 enron
 iri
-pleas
+plea
 feel
 free
 to
@@ -980,7 +980,7 @@ recipi
 of
 the
 messag
-pleas
+plea
 notifi
 the
 sender

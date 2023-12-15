@@ -124,7 +124,7 @@ about
 thi
 last
 offer
-pleas
+plea
 send
 an
 email
@@ -145,7 +145,7 @@ click
 repli
 to
 remov
-pleas
+plea
 send
 an
 email

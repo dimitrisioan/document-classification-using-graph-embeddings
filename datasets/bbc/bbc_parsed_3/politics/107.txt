@@ -190,7 +190,7 @@ deliber
 wa
 mr
 marr
-assess
+ass
 the
 prime
 minist
@@ -328,7 +328,7 @@ vote
 warn
 that
 the
-tori
+torus
 strategi
 wa
 to

@@ -10,7 +10,7 @@ write
 respond
 to
 a
-discuss
+discus
 about
 a
 mosqu
@@ -387,7 +387,7 @@ the
 world
 is
 so
-obsess
+ob
 by
 a
 hatr

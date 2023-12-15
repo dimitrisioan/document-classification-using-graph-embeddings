@@ -207,7 +207,7 @@ about
 secondsday
 better
 than
-do
+dos
 clock
 mark
 aitchison

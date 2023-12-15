@@ -55,7 +55,7 @@ a
 categori
 titl
 rank
-pleas
+plea
 place
 your
 recommend
@@ -84,7 +84,7 @@ all
 on
 friday
 to
-discu
+discus
 these
 pre
 rank

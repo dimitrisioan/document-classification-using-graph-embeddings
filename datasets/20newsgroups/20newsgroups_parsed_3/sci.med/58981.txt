@@ -246,7 +246,7 @@ are
 invertebr
 that
 invertebr
-poss
+posse
 a
 remark
 broad
@@ -380,7 +380,7 @@ use
 secondli
 it
 make
-sens
+sen
 to
 be
 more
@@ -529,7 +529,7 @@ the
 advocaci
 lack
 ani
-sens
+sen
 of
 proport
 regard
@@ -640,7 +640,7 @@ paper
 of
 thi
 sort
-pass
+pas
 muster
 is
 the
@@ -980,7 +980,7 @@ on
 nlp
 or
 the
-discuss
+discus
 of
 it
 in

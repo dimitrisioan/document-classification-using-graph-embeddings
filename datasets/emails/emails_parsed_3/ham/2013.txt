@@ -71,7 +71,7 @@ you
 need
 ani
 inform
-pleas
+plea
 call
 me
 at
@@ -117,7 +117,7 @@ subject
 re
 greet
 shirley
-pleas
+plea
 invit
 them
 for
@@ -190,7 +190,7 @@ through
 me
 i
 would
-pa
+pas
 along
 the
 inform
@@ -270,7 +270,7 @@ in
 an
 actual
 resum
-pleas
+plea
 let
 me
 know
@@ -288,7 +288,7 @@ am
 you
 wrote
 carlo
-pleas
+plea
 forward
 their
 resum
@@ -342,7 +342,7 @@ in
 the
 near
 futur
-pleas
+plea
 let
 me
 know

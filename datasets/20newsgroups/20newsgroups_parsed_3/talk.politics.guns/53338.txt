@@ -56,7 +56,7 @@ with
 panzer
 and
 fockewulf
-pois
+poi
 on
 the
 border

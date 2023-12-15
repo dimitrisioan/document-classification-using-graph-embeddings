@@ -3,7 +3,7 @@ re
 i
 wa
 veri
-pleas
+plea
 to
 get
 your
@@ -111,7 +111,7 @@ option
 credit
 portfolio
 model
-assess
+ass
 of
 the
 valu
@@ -154,7 +154,7 @@ posit
 for
 the
 fall
-pleas
+plea
 do
 not
 hesit

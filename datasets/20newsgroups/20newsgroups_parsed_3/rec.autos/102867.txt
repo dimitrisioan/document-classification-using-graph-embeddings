@@ -67,7 +67,7 @@ line
 model
 the
 same
-go
+goe
 for
 the
 the

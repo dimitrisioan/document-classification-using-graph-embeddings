@@ -343,7 +343,7 @@ propos
 the
 follow
 for
-discuss
+discus
 alic
 and
 bob
@@ -544,7 +544,7 @@ the
 plaintext
 p
 then
-us
+use
 some
 more
 of
@@ -659,7 +659,7 @@ you
 might
 work
 on
-bytes
+byte
 sbox
 but
 i
@@ -671,7 +671,7 @@ irrelev
 detail
 for
 the
-discuss
+discus
 at
 hand
 who

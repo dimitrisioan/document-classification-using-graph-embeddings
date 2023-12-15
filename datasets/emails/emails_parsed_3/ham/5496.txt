@@ -60,7 +60,7 @@ bid
 if
 the
 deal
-go
+goe
 through
 rac
 i

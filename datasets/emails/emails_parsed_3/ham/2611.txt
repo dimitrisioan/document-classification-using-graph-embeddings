@@ -33,7 +33,7 @@ identifi
 potenti
 equiti
 or
-index
+indic
 which
 might
 be
@@ -92,7 +92,7 @@ identifi
 which
 steel
 price
-index
+indic
 should
 be
 use

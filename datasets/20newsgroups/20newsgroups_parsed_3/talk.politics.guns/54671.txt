@@ -235,7 +235,7 @@ it
 all
 befor
 i
-pa
+pas
 judgment
 whi
 dont

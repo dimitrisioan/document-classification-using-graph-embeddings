@@ -292,7 +292,7 @@ edu
 mantua
 pnw
 impact
-index
+indic
 pdo
 latest
 if

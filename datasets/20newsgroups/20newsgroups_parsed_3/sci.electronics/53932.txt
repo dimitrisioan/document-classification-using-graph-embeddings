@@ -70,7 +70,7 @@ suggest
 for
 circuit
 layout
-pleas
+plea
 repli
 to
 thi
@@ -165,7 +165,7 @@ brand
 of
 tv
 that
-us
+use
 an
 ir
 remot
@@ -210,6 +210,6 @@ spec
 if
 the
 system
-us
+use
 that
 duan

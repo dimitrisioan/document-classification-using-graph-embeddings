@@ -180,7 +180,7 @@ fda
 advis
 patient
 to
-discu
+discus
 the
 benefit
 and
@@ -314,7 +314,7 @@ birth
 weight
 in
 babi
-expos
+expo
 to
 the
 drug
@@ -1132,7 +1132,7 @@ substanc
 experiment
 rat
 were
-expos
+expo
 to
 constant
 light
@@ -1205,7 +1205,7 @@ effect
 in
 these
 experi
-discuss
+discus
 the
 research
 dr
@@ -1705,7 +1705,7 @@ exist
 in
 their
 cultur
-loos
+loo
 translat
 the
 name
@@ -1994,7 +1994,7 @@ cholesterol
 triglycerid
 and
 lipoprotein
-analysi
+analys
 regular
 measur
 includ
@@ -2087,7 +2087,7 @@ index
 or
 csi
 recent
-devis
+devi
 research
 dietitian
 sonja
@@ -2176,7 +2176,7 @@ the
 nativ
 diet
 befor
-expos
+expo
 subject
 to
 the
@@ -3118,7 +3118,7 @@ trial
 thi
 minut
 videocassett
-discu
+discus
 whi
 and
 how
@@ -3243,7 +3243,7 @@ such
 a
 bacteria
 and
-viru
+virus
 and
 how
 it
@@ -3843,7 +3843,7 @@ pap
 test
 it
 also
-discu
+discus
 smoke
 and
 nutrit
@@ -3916,7 +3916,7 @@ test
 the
 kit
 also
-discu
+discus
 smoke
 and
 relat
@@ -4041,7 +4041,7 @@ thi
 minut
 vh
 videotap
-us
+use
 a
 dramat
 format

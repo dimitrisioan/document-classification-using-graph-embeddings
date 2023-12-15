@@ -261,7 +261,7 @@ not
 to
 let
 the
-tori
+torus
 take
 thing
 backward
@@ -278,7 +278,7 @@ confid
 and
 abov
 all
-els
+el
 optimist
 about
 the
@@ -501,7 +501,7 @@ a
 dinner
 but
 the
-discuss
+discus
 were
 confidenti
 of

@@ -71,7 +71,7 @@ re
 memori
 kevin
 make
-sens
+sen
 vinc
 kevin
 g
@@ -164,7 +164,7 @@ for
 memori
 on
 someon
-els
+el
 s
 printer
 could
@@ -176,7 +176,7 @@ one
 of
 our
 own
-pleas
+plea
 inform
 thank
 kevin
@@ -205,7 +205,7 @@ cc
 subject
 memori
 kevin
-pleas
+plea
 repli
 with
 a

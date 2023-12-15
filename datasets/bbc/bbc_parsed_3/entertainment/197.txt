@@ -14,7 +14,7 @@ peel
 bbc
 radio
 show
-go
+goe
 on
 air
 on
@@ -76,7 +76,7 @@ all
 three
 will
 play
-divers
+diver
 unpredict
 and
 noncommerci

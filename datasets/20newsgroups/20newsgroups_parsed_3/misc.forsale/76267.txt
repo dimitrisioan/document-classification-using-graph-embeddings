@@ -80,7 +80,7 @@ straight
 vga
 cheap
 monitor
-pleas
+plea
 email
 me
 directli

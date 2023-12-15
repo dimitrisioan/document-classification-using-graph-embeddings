@@ -8,7 +8,7 @@ footbal
 and
 record
 compani
-bo
+bos
 kevin
 campbel
 ha
@@ -132,7 +132,7 @@ hi
 commun
 servic
 for
-possess
+posse
 of
 a
 stun

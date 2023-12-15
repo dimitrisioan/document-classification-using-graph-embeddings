@@ -63,7 +63,7 @@ an
 xterm
 to
 get
-pass
+pas
 anyon
 have
 a
@@ -82,7 +82,7 @@ use
 xmodmap
 put
 stti
-pa
+pas
 setenv
 lcctype
 iso

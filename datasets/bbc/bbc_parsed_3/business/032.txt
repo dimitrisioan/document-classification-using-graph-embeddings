@@ -27,7 +27,7 @@ with
 mitsubishi
 tokyo
 sumitomo
-boss
+bos
 told
 counterpart
 at

@@ -18,7 +18,7 @@ eric
 after
 brainstorm
 and
-discuss
+discus
 further
 on
 data
@@ -213,7 +213,7 @@ credit
 we
 have
 also
-discuss
+discus
 the
 cost
 aspect
@@ -226,7 +226,7 @@ big
 pictur
 it
 make
-sens
+sen
 to
 spend
 the
@@ -239,7 +239,7 @@ right
 data
 for
 analysi
-pleas
+plea
 let
 me
 know

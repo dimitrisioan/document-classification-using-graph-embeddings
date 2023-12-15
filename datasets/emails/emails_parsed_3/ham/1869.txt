@@ -4,7 +4,7 @@ request
 hi
 mr
 kaminski
-pleas
+plea
 send
 me
 your
@@ -85,7 +85,7 @@ in
 your
 group
 to
-discu
+discus
 some
 of
 the

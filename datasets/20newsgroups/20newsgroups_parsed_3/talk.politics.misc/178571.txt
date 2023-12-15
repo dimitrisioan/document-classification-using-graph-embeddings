@@ -122,7 +122,7 @@ wa
 a
 veri
 good
-discuss
+discus
 about
 the
 job
@@ -209,7 +209,7 @@ the
 close
 of
 that
-discuss
+discus
 they
 said
 that
@@ -252,7 +252,7 @@ continu
 to
 have
 some
-discuss
+discus
 and
 that
 where
@@ -303,13 +303,13 @@ an
 adjust
 packag
 he
-belief
+believ
 in
 the
 packag
 but
 he
-belief
+believ
 that
 if
 it
@@ -511,7 +511,7 @@ forc
 advis
 have
 they
-discuss
+discus
 the
 fund
 issu
@@ -545,7 +545,7 @@ but
 ha
 it
 been
-discuss
+discus
 a
 an
 option
@@ -613,7 +613,7 @@ q
 but
 ha
 he
-discuss
+discus
 that
 with
 hi
@@ -638,7 +638,7 @@ know
 what
 level
 of
-discuss
+discus
 there
 ha
 been
@@ -1358,7 +1358,7 @@ the
 same
 inform
 that
-go
+goe
 to
 the
 presid
@@ -1643,7 +1643,7 @@ more
 time
 for
 the
-discuss
+discus
 mr
 stephanopoulo
 i
@@ -1664,7 +1664,7 @@ dont
 know
 that
 they
-discuss
+discus
 the
 time
 like
@@ -1695,7 +1695,7 @@ that
 were
 go
 to
-pa
+pas
 a
 job
 packag
@@ -1741,7 +1741,7 @@ vote
 but
 the
 presid
-belief
+believ
 deepli
 in
 thi
@@ -2046,7 +2046,7 @@ order
 to
 get
 it
-pass
+pas
 q
 a
 we
@@ -2060,7 +2060,7 @@ first
 one
 wa
 some
-discuss
+discus
 of
 thi
 and
@@ -2108,7 +2108,7 @@ they
 had
 a
 gener
-discuss
+discus
 about
 the
 packag
@@ -2127,7 +2127,7 @@ there
 will
 be
 followup
-discuss
+discus
 today
 in
 the
@@ -2190,7 +2190,7 @@ what
 are
 the
 followup
-discuss
+discus
 if
 not
 the
@@ -2269,14 +2269,14 @@ wa
 more
 of
 a
-discuss
+discus
 about
 their
 posit
 q
 did
 they
-discu
+discus
 actual
 number
 mr
@@ -2453,7 +2453,7 @@ mr
 stephanopoulo
 the
 presid
-belief
+believ
 deepli
 that
 the
@@ -2608,7 +2608,7 @@ i
 know
 that
 it
-go
+goe
 to
 the
 overal
@@ -2840,7 +2840,7 @@ there
 have
 been
 no
-discuss
+discus
 on
 that
 q
@@ -3917,7 +3917,7 @@ that
 certainli
 will
 be
-discuss
+discus
 between
 the
 prime
@@ -4026,7 +4026,7 @@ what
 he
 go
 to
-discu
+discus
 with
 miyazawa
 mr
@@ -4037,7 +4037,7 @@ to
 have
 a
 broad
-discuss
+discus
 of
 a
 wide
@@ -4104,7 +4104,7 @@ mr
 stephanopoulo
 the
 presid
-belief
+believ
 that
 we
 must
@@ -4373,7 +4373,7 @@ for
 itself
 the
 presid
-belief
+believ
 also
 that
 thi
@@ -4473,7 +4473,7 @@ mr
 stephanopoulo
 the
 presid
-belief
+believ
 that
 what
 must
@@ -4496,13 +4496,13 @@ the
 administr
 ha
 been
-discuss
+discus
 lift
 the
 arm
 embargo
 he
-belief
+believ
 those
 are
 the
@@ -5207,7 +5207,7 @@ it
 certainli
 someth
 under
-discuss
+discus
 and
 someth
 weve
@@ -5456,7 +5456,7 @@ long
 the
 senat
 thing
-go
+goe
 it
 might
 go
@@ -5624,7 +5624,7 @@ had
 a
 veri
 good
-discuss
+discus
 for
 about
 half
@@ -6310,7 +6310,7 @@ not
 comment
 on
 the
-discuss
+discus
 between
 the
 presid
@@ -6509,7 +6509,7 @@ memo
 he
 had
 gener
-discuss
+discus
 with
 member
 of

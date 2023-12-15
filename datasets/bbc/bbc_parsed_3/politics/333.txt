@@ -130,7 +130,7 @@ been
 held
 by
 the
-tori
+torus
 sinc
 m
 blackman

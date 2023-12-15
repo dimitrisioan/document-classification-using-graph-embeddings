@@ -151,7 +151,7 @@ patient
 and
 let
 someon
-els
+el
 be
 the
 pioneer

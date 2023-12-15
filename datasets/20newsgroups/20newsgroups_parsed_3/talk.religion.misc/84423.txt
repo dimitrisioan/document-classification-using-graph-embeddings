@@ -9,7 +9,7 @@ e
 king
 write
 write
-discuss
+discus
 on
 josephu
 insert

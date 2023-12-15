@@ -173,7 +173,7 @@ le
 labour
 and
 the
-tori
+torus
 have
 attack
 hi
@@ -201,7 +201,7 @@ improv
 in
 servic
 the
-tori
+torus
 claim
 they
 can
@@ -265,7 +265,7 @@ between
 labour
 and
 the
-tori
+torus
 in
 the
 s
@@ -279,7 +279,7 @@ old
 torylabour
 debat
 he
-belief
+believ
 voter
 are
 readi
@@ -395,7 +395,7 @@ elect
 chanc
 declar
 the
-tori
+torus
 were
 not
 go
@@ -456,7 +456,7 @@ the
 lib
 dem
 leader
-belief
+believ
 he
 may
 well

@@ -123,7 +123,7 @@ gleem
 from
 review
 and
-discuss
+discus
 with
 owner
 i

@@ -39,7 +39,7 @@ spend
 for
 more
 inform
-pleas
+plea
 visit
 the
 websit
@@ -51,7 +51,7 @@ link
 doe
 not
 work
-pleas
+plea
 copi
 the
 address
@@ -129,7 +129,7 @@ term
 of
 thi
 verif
-pleas
+plea
 repli
 to
 thi

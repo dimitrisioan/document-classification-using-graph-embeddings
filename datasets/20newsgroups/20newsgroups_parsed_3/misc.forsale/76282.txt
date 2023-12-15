@@ -19,7 +19,7 @@ for
 offer
 some
 isnt
-pleas
+plea
 read
 care
 in
@@ -431,4 +431,4 @@ thi
 point
 email
 respons
-pleas
+plea

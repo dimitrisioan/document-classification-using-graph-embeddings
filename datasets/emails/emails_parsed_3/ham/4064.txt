@@ -1,7 +1,7 @@
 subject
 risk
 panel
-discuss
+discus
 hello
 everyon
 vinc
@@ -28,7 +28,7 @@ day
 is
 rather
 full
-pleas
+plea
 let
 me
 know

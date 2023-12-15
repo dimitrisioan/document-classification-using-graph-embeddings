@@ -132,7 +132,7 @@ we
 dont
 know
 the
-puls
+pul
 rate
 we
 may
@@ -145,7 +145,7 @@ the
 speedo
 ye
 bmw
-us
+use
 a
 combin
 instrument

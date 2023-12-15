@@ -51,7 +51,7 @@ a
 power
 money
 materi
-possess
+posse
 etc
 these
 thing
@@ -59,7 +59,7 @@ are
 worship
 in
 some
-sens
+sen
 i
 suppos
 but
@@ -111,7 +111,7 @@ my
 view
 on
 anyon
-els
+el
 i
 havent
 been
@@ -318,7 +318,7 @@ your
 thi
 is
 a
-discuss
+discus
 between
 cathol
 and

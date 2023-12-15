@@ -213,7 +213,7 @@ have
 and
 would
 also
-pa
+pas
 on
 the
 new

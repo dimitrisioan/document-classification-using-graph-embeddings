@@ -327,7 +327,7 @@ carri
 mode
 that
 make
-sens
+sen
 the
 seri
 colt
@@ -593,7 +593,7 @@ in
 thi
 post
 but
-leaf
+leav
 off
 the
 oppos

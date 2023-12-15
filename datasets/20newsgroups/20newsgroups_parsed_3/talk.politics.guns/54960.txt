@@ -171,7 +171,7 @@ i
 havent
 seen
 anyon
-els
+el
 note
 it
 and
@@ -308,7 +308,7 @@ idea
 in
 previou
 month
-pleas
+plea
 also
 note
 that
@@ -351,7 +351,7 @@ by
 my
 own
 common
-sens
+sen
 and
 consider
 of

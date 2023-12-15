@@ -322,7 +322,7 @@ inscript
 armenien
 joachim
 hoffmann
-dy
+die
 ostlegionen
 turkotataren
 kaukasi
@@ -440,7 +440,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

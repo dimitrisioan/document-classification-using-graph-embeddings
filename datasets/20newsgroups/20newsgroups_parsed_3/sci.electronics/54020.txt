@@ -15,7 +15,7 @@ tri
 radio
 shack
 or
-els
+el
 a
 tv
 repair
@@ -36,10 +36,10 @@ differ
 tvvcrcabl
 boxstereo
 manufactur
-us
+use
 a
 uniqu
-puls
+pul
 scheme
 to
 perform
@@ -57,7 +57,7 @@ rca
 set
 at
 home
-us
+use
 simpl
 carrier
 which

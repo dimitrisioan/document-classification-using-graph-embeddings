@@ -29,7 +29,7 @@ print
 with
 your
 favourit
-curs
+cur
 are
 good
 even
@@ -59,7 +59,7 @@ your
 local
 hospit
 favorit
-curs
+cur
 may
 your
 skin

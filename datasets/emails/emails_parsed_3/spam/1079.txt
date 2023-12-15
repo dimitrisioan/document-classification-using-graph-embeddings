@@ -71,7 +71,7 @@ guild
 registri
 e
 ao
-pleas
+plea
 accept
 our
 congratul
@@ -206,7 +206,7 @@ remov
 from
 our
 list
-pleas
+plea
 submit
 your
 request
@@ -226,7 +226,7 @@ u
 and
 canada
 onli
-pleas
+plea
 fill
 out
 thi
@@ -248,7 +248,7 @@ accuraci
 and
 public
 purpos
-pleas
+plea
 complet
 and
 send
@@ -306,7 +306,7 @@ in
 consid
 your
 applic
-pleas
+plea
 tell
 u
 a
@@ -415,7 +415,7 @@ liveri
 is
 made
 by
-brows
+brow
 your
 outgo
 mail

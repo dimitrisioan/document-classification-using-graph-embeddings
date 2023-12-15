@@ -102,7 +102,7 @@ presid
 said
 tuesday
 he
-belief
+believ
 that
 texa
 energi
@@ -246,7 +246,7 @@ t
 been
 abl
 to
-pa
+pas
 on
 the
 high

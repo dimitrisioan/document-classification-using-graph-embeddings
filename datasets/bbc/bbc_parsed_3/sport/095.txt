@@ -155,7 +155,7 @@ control
 with
 a
 suprem
-pass
+pas
 display
 on
 a

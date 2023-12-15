@@ -39,7 +39,7 @@ a
 receiv
 data
 buffer
-pleas
+plea
 repli
 with
 ani

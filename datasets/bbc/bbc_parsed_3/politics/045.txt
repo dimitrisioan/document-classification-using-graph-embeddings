@@ -1,4 +1,4 @@
-tori
+torus
 leader
 clear
 over
@@ -223,7 +223,7 @@ he
 would
 have
 to
-discu
+discus
 with
 the
 other

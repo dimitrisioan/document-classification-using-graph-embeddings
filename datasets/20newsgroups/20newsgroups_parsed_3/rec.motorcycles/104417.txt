@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 in
 articl
@@ -117,7 +117,7 @@ more
 irrelev
 to
 thi
-discuss
+discus
 than
 snow
 ski

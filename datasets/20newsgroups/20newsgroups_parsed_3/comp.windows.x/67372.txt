@@ -86,7 +86,7 @@ notifi
 when
 the
 user
-us
+use
 xmodmap
 to
 remap
@@ -128,7 +128,7 @@ event
 when
 the
 user
-us
+use
 xmodmap
 if
 i

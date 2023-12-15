@@ -22,7 +22,7 @@ prospect
 a
 survey
 of
-boss
+bos
 suggest
 their
 biggest
@@ -78,7 +78,7 @@ year
 ago
 nearli
 of
-boss
+bos
 were
 gloomi
 about
@@ -185,7 +185,7 @@ alreadi
 about
 of
 the
-boss
+bos
 poll
 for
 the

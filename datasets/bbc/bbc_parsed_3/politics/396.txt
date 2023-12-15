@@ -40,7 +40,7 @@ dem
 about
 how
 labour
-us
+use
 it
 call
 centr
@@ -264,7 +264,7 @@ time
 will
 be
 vote
-tori
+torus
 the
 newslett
 say
@@ -299,7 +299,7 @@ had
 defect
 from
 the
-tori
+torus
 to
 labour
 explain
@@ -307,7 +307,7 @@ the
 reason
 whi
 vote
-tori
+torus
 is
 a
 bad
@@ -420,7 +420,7 @@ scatter
 evid
 of
 the
-tori
+torus
 break
 the
 rule

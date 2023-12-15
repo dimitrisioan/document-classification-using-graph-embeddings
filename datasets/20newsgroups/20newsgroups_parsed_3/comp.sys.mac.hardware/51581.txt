@@ -166,7 +166,7 @@ and
 order
 desta
 dec
-overs
+over
 version
 of
 an

@@ -104,7 +104,7 @@ from
 histori
 or
 common
-sens
+sen
 price
 control
 do

@@ -13,7 +13,7 @@ down
 becaus
 labour
 and
-tori
+torus
 are
 not
 be
@@ -307,7 +307,7 @@ lib
 dem
 say
 the
-tori
+torus
 have
 onli
 laid

@@ -188,7 +188,7 @@ may
 and
 the
 insur
-go
+goe
 down
 to
 mo
@@ -657,7 +657,7 @@ standard
 that
 doenst
 make
-sens
+sen
 that
 what
 the
@@ -1006,7 +1006,7 @@ atleast
 hope
 thi
 help
-pleas
+plea
 post
 a
 summari

@@ -3,8 +3,8 @@ re
 evalu
 enron
 remind
-pleas
-pa
+plea
+pas
 thi
 along
 to
@@ -92,7 +92,7 @@ review
 the
 final
 report
-pleas
+plea
 take
 a
 moment
@@ -117,7 +117,7 @@ between
 note
 case
 sensit
-pleas
+plea
 use
 lower
 case
@@ -226,7 +226,7 @@ you
 have
 ani
 question
-pleas
+plea
 contact
 the
 fap

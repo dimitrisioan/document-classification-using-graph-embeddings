@@ -71,7 +71,7 @@ dont
 let
 bitnet
 anybodi
-els
+el
 use
 it
 internet

@@ -22,7 +22,7 @@ if
 thi
 is
 correct
-pleas
+plea
 repli
 back
 with
@@ -62,7 +62,7 @@ the
 follow
 nt
 group
-pleas
+plea
 review
 the
 membership
@@ -148,7 +148,7 @@ hou
 ect
 jbuss
 jd
-bu
+bus
 hou
 ect
 khopper

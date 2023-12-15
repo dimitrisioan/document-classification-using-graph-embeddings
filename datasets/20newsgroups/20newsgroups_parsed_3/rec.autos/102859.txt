@@ -54,5 +54,5 @@ use
 to
 goug
 from
-pass
+pas
 motorist

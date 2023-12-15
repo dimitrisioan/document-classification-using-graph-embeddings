@@ -87,7 +87,7 @@ thi
 context
 matthew
 make
-sens
+sen
 matt
 do
 not
@@ -152,7 +152,7 @@ until
 heaven
 and
 earth
-pa
+pas
 away
 not
 the
@@ -161,7 +161,7 @@ letter
 or
 stroke
 shall
-pa
+pas
 away
 from
 the
@@ -246,13 +246,13 @@ jewish
 peopl
 about
 live
-life
+live
 under
 the
 law
 thi
 make
-sens
+sen
 in
 gener
 it
@@ -589,7 +589,7 @@ moral
 principl
 it
 make
-sens
+sen
 that
 mani
 of
@@ -628,7 +628,7 @@ law
 it
 also
 make
-sens
+sen
 that
 new
 practic
@@ -707,7 +707,7 @@ to
 offer
 other
 altern
-pleas
+plea
 excus
 the
 long

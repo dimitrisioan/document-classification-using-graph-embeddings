@@ -44,7 +44,7 @@ osfactiv
 warn
 found
 while
-pars
+par
 keyosfactivatemanagerparentactiv
 warn
 translat
@@ -58,7 +58,7 @@ osfcancel
 warn
 found
 while
-pars
+par
 keyosfcancelmanagerparentcancel
 warn
 translat
@@ -72,7 +72,7 @@ osfselect
 warn
 found
 while
-pars
+par
 keyosfselectmanagergadgetselect
 etc
 a

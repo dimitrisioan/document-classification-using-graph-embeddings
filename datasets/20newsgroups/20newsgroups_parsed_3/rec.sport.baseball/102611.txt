@@ -41,7 +41,7 @@ dalla
 area
 right
 fan
-pleas
+plea
 let
 me
 know

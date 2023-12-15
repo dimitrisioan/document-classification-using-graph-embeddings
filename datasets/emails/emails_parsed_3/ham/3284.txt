@@ -31,7 +31,7 @@ agenda
 is
 enclos
 below
-pleas
+plea
 note
 unless
 we
@@ -84,7 +84,7 @@ valuabl
 insight
 build
 experi
-pleas
+plea
 call
 or
 e
@@ -222,7 +222,7 @@ and
 academ
 leader
 to
-discu
+discus
 what
 is
 requir
@@ -846,7 +846,7 @@ night
 wharton
 room
 rate
-pleas
+plea
 make
 your
 reserv

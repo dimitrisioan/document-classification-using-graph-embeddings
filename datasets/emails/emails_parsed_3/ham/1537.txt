@@ -68,7 +68,7 @@ price
 model
 i
 will
-discu
+discus
 about
 thi
 project
@@ -277,7 +277,7 @@ into
 product
 later
 today
-pleas
+plea
 contact
 me
 or

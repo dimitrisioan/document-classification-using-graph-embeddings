@@ -46,7 +46,7 @@ disk
 icon
 and
 then
-go
+goe
 dark
 i
 consult
@@ -61,7 +61,7 @@ these
 symptom
 ha
 anybodi
-els
+el
 seen
 such
 symptom

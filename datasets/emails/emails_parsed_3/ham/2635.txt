@@ -39,7 +39,7 @@ go
 to
 supervisor
 servic
-pleas
+plea
 rememb
 no
 feedback

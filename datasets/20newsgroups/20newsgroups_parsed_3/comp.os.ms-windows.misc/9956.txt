@@ -289,7 +289,7 @@ sql
 queri
 string
 and
-pa
+pas
 it
 to
 a
@@ -760,7 +760,7 @@ paradox
 dbase
 btriev
 an
-ascu
+ascus
 file
 they
 also

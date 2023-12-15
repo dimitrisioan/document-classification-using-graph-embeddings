@@ -34,7 +34,7 @@ ignit
 it
 a
 someon
-els
+el
 ha
 point
 out
@@ -109,7 +109,7 @@ give
 away
 to
 everybodi
-els
+el
 and
 have
 none

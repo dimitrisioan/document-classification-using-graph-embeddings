@@ -1,6 +1,6 @@
 subject
 re
-pleas
+plea
 show
 up
 in
@@ -141,7 +141,7 @@ an
 utterli
 ridicul
 claim
-pleas
+plea
 substanti
 thi
 utterli

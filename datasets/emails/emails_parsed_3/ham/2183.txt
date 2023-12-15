@@ -148,7 +148,7 @@ oil
 price
 vinc
 a
-discuss
+discus
 on
 the
 phone
@@ -406,11 +406,11 @@ month
 to
 nine
 year
-dy
+die
 laesst
 un
 annehmen
-da
+das
 enron
 bestimmt
 daten
@@ -463,7 +463,7 @@ lieferung
 in
 cush
 nuetzlich
-dies
+dy
 idealen
 datenanforderungen
 werden

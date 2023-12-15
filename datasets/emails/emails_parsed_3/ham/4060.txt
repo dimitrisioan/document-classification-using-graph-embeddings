@@ -622,7 +622,7 @@ massey
 argu
 the
 order
-focu
+focus
 on
 quick
 fix
@@ -1371,7 +1371,7 @@ market
 base
 rate
 ferc
-waif
+waiv
 it
 prior
 notic
@@ -1432,7 +1432,7 @@ consist
 with
 it
 prior
-discuss
+discus
 on
 sale
 from
@@ -1784,7 +1784,7 @@ term
 region
 solut
 ferc
-belief
+believ
 an
 rto
 for
@@ -1944,7 +1944,7 @@ hold
 a
 confer
 to
-discu
+discus
 method
 to
 address
@@ -2055,7 +2055,7 @@ from
 western
 state
 to
-discu
+discus
 price
 volatil
 in

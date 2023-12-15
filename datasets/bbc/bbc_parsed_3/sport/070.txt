@@ -358,7 +358,7 @@ go
 when
 the
 gun
-go
+goe
 and
 not
 befor
@@ -445,7 +445,7 @@ of
 the
 meet
 someth
-els
+el
 that
 probabl
 went

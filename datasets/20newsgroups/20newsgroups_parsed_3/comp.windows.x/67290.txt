@@ -151,7 +151,7 @@ good
 colormap
 xcreatecolormapdisplaywinvisualinfoallocnon
 it
-dy
+die
 here
 with
 a

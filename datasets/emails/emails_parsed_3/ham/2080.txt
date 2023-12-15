@@ -38,7 +38,7 @@ and
 ebl
 ani
 question
-pleas
+plea
 call
 kevin
 moor

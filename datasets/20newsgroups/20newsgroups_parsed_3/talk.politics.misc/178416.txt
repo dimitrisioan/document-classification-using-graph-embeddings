@@ -44,7 +44,7 @@ not
 call
 for
 thi
-assess
+ass
 it
 assum
 that
@@ -170,7 +170,7 @@ might
 be
 possibl
 to
-pa
+pas
 an
 amend
 which

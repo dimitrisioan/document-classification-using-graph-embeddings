@@ -121,7 +121,7 @@ dont
 know
 if
 im
-curs
+cur
 on
 thi
 or
@@ -178,7 +178,7 @@ problem
 if
 someon
 can
-pleas
+plea
 help
 me
 with

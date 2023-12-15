@@ -108,7 +108,7 @@ tri
 calum
 macra
 surrend
-possess
+posse
 befor
 centr
 steinmetz
@@ -141,7 +141,7 @@ out
 of
 play
 and
-eas
+ea
 up
 on
 the
@@ -283,7 +283,7 @@ to
 set
 up
 the
-tens
+ten
 final
 ulster
 coach

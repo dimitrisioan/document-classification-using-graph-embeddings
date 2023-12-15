@@ -58,7 +58,7 @@ other
 disk
 compress
 sw
-pleas
+plea
 advis
 divya
 divya

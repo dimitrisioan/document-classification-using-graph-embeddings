@@ -732,7 +732,7 @@ those
 vote
 the
 elect
-go
+goe
 to
 nixon
 your
@@ -857,7 +857,7 @@ georgewbush
 com
 to
 unsubscrib
-pleas
+plea
 go
 here
 http
@@ -881,7 +881,7 @@ ani
 other
 subscript
 inform
-pleas
+plea
 go
 here
 http
@@ -949,7 +949,7 @@ sender
 by
 repli
 email
-pleas
+plea
 advis
 immedi
 if

@@ -210,7 +210,7 @@ output
 to
 reflect
 thi
-focuss
+focus
 instead
 on
 medic

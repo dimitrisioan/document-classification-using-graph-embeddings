@@ -132,7 +132,7 @@ about
 implement
 composit
 widget
-pleas
+plea
 respond
 via
 email

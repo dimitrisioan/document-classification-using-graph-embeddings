@@ -135,7 +135,7 @@ emf
 websit
 list
 below
-pleas
+plea
 let
 me
 know
@@ -155,7 +155,7 @@ a
 brief
 minut
 present
-pleas
+plea
 let
 me
 know
@@ -215,7 +215,7 @@ also
 encourag
 practition
 to
-discu
+discus
 their
 experi
 in

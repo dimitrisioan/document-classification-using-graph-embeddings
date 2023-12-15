@@ -135,7 +135,7 @@ respond
 consortium
 the
 group
-us
+use
 satellit
 from
 nasa
@@ -202,7 +202,7 @@ work
 in
 the
 remot
-sens
+sen
 depart
 of
 one

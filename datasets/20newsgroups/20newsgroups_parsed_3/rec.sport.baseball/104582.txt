@@ -2,7 +2,7 @@ subject
 music
 censorship
 survey
-pleas
+plea
 fill
 out
 hello
@@ -29,7 +29,7 @@ particip
 in
 thi
 survey
-pleas
+plea
 answer
 a
 each
@@ -63,7 +63,7 @@ thank
 you
 in
 advanc
-pleas
+plea
 email
 to
 the
@@ -239,7 +239,7 @@ question
 or
 further
 explan
-pleas
+plea
 email
 at
 or

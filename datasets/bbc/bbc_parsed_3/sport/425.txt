@@ -70,7 +70,7 @@ second
 set
 after
 a
-tens
+ten
 tiebreak
 swiss
 star
@@ -210,7 +210,7 @@ like
 my
 racket
 wa
-loos
+loo
 and
 the
 ball
@@ -232,7 +232,7 @@ a
 second
 it
 just
-go
+goe
 veri
 quick
 he
@@ -287,7 +287,7 @@ the
 world
 number
 wa
-pleas
+plea
 with
 hi
 overal

@@ -73,7 +73,7 @@ make
 me
 and
 anyon
-els
+el
 who
 doesnt
 chose
@@ -286,12 +286,12 @@ or
 base
 on
 someth
-els
+el
 proxim
 no
 room
 to
-pa
+pas
 on
 the
 trail
@@ -303,7 +303,7 @@ to
 someon
 an
 inner
-sens
+sen
 now
 im
 realli

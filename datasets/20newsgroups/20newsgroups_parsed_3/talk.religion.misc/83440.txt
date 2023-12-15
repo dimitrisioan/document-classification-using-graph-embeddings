@@ -185,7 +185,7 @@ valu
 which
 the
 propos
-belief
+believ
 are
 applic
 to
@@ -248,7 +248,7 @@ percept
 of
 a
 time
-laps
+lap
 with
 or
 without
@@ -276,7 +276,7 @@ like
 in
 the
 loosest
-sens
+sen
 of
 the
 word

@@ -1,7 +1,7 @@
 labour
 mp
 prais
-tori
+torus
 campaign
 the
 conserv
@@ -156,7 +156,7 @@ critic
 for
 let
 the
-tori
+torus
 set
 the
 agenda

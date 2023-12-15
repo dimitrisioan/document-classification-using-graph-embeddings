@@ -25,7 +25,7 @@ everyth
 bike
 helmet
 anyth
-els
+el
 that
 im
 too
@@ -68,7 +68,7 @@ cours
 a
 must
 that
-leaf
+leav
 you
 between
 and
@@ -187,7 +187,7 @@ individu
 freedom
 in
 the
-guis
+gui
 of
 public
 safeti

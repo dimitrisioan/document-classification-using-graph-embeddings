@@ -40,7 +40,7 @@ say
 that
 hesh
 simpli
-disbelief
+disbeliev
 that
 the
 proposit
@@ -157,7 +157,7 @@ in
 exactli
 the
 same
-sens
+sen
 that
 a
 a

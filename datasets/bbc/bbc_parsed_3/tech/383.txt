@@ -58,7 +58,7 @@ firm
 embrac
 digit
 distribut
-eas
+ea
 of
 use
 rel

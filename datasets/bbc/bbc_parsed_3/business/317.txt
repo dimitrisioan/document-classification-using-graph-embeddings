@@ -233,7 +233,7 @@ were
 expect
 to
 have
-pass
+pas
 through
 the
 door

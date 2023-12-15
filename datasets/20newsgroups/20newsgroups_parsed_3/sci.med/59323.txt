@@ -516,7 +516,7 @@ treat
 pmth
 thi
 gener
-discuss
+discus
 of
 the
 pm
@@ -1328,7 +1328,7 @@ damag
 if
 consum
 in
-do
+dose
 of
 mg
 or
@@ -1508,7 +1508,7 @@ a
 higher
 vitamin
 e
-do
+dose
 will
 reliev
 pmth
@@ -1631,7 +1631,7 @@ studi
 oral
 magnesium
 success
-relief
+reliev
 premenstru
 mood
 chang

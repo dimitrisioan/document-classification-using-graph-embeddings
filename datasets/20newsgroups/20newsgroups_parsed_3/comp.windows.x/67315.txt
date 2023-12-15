@@ -14,13 +14,13 @@ articl
 raymond
 chui
 write
-pleas
+plea
 igor
 my
 previous
 calcul
 mistak
-pleas
+plea
 see
 the
 correct
@@ -109,7 +109,7 @@ x
 y
 or
 not
-pleas
+plea
 dont
 ask
 me

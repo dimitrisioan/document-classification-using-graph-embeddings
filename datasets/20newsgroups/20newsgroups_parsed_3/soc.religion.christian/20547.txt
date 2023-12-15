@@ -15,7 +15,7 @@ do
 a
 dormitori
 bibl
-discuss
+discus
 with
 my
 christian
@@ -256,7 +256,7 @@ offic
 but
 becaus
 jesu
-life
+live
 forev
 he
 ha
@@ -280,7 +280,7 @@ him
 becaus
 he
 alway
-life
+live
 to
 interced
 for
@@ -323,7 +323,7 @@ you
 think
 in
 what
-sens
+sen
 to
 you
 mean
@@ -340,7 +340,7 @@ had
 jesu
 in
 the
-sens
+sen
 that
 they
 were
@@ -360,7 +360,7 @@ in
 some
 real
 spiritu
-sens
+sen
 they
 did
 have

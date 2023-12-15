@@ -99,7 +99,7 @@ termin
 characterist
 be
 reset
-pleas
+plea
 send
 repli
 to

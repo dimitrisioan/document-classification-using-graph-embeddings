@@ -45,7 +45,7 @@ or
 barbara
 ostdiek
 everyon
-els
+el
 paul
 s
 seminar
@@ -161,4 +161,4 @@ and
 underwrit
 busi
 are
-discuss
+discus

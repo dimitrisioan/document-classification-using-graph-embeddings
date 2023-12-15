@@ -110,7 +110,7 @@ date
 when
 a
 program
-us
+use
 a
 do
 call
@@ -129,11 +129,11 @@ bio
 that
 it
 ha
-pass
+pas
 midnight
 it
 then
-us
+use
 thi
 flag
 to
@@ -170,7 +170,7 @@ know
 that
 the
 day
-pass
+pas
 and
 the
 date
@@ -182,7 +182,7 @@ i
 might
 have
 some
-do
+dos
 and
 bioss
 mix
@@ -250,7 +250,7 @@ mail
 hub
 usenet
 newsgroup
-pleas
+plea
 rout
 all
 question

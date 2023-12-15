@@ -86,7 +86,7 @@ drug
 that
 is
 not
-pass
+pas
 fda
 approv
 it

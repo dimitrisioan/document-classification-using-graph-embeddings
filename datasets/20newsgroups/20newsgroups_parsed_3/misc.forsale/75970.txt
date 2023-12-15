@@ -29,7 +29,7 @@ with
 three
 pg
 mhz
-puls
+pul
 gener
 textron
 a
@@ -92,7 +92,7 @@ offer
 will
 be
 accept
-pleas
+plea
 respond
 by
 email

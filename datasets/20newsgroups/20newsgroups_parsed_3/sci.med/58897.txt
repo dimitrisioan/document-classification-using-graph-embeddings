@@ -37,7 +37,7 @@ which
 show
 no
 such
-chines
+chine
 restaur
 effect
 uniqu
@@ -114,7 +114,7 @@ that
 some
 peopl
 think
-chines
+chine
 restaur
 syndrom
 is
@@ -433,7 +433,7 @@ ani
 control
 studi
 infant
-mous
+mouse
 and
 other
 model
@@ -513,7 +513,7 @@ search
 but
 your
 right
-mous
+mouse
 arent
 the
 best

@@ -50,7 +50,7 @@ from
 unwant
 and
 hazard
-viru
+virus
 help
 secur
 your
@@ -148,7 +148,7 @@ fall
 prey
 to
 destruct
-viru
+virus
 or
 program
 protect
@@ -277,7 +277,7 @@ to
 receiv
 further
 mail
-pleas
+plea
 click
 here
 http
@@ -290,7 +290,7 @@ remov
 from
 the
 list
-pleas
+plea
 accept
 our
 apolog

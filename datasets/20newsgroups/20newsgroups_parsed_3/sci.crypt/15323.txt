@@ -107,7 +107,7 @@ encrypt
 thing
 a
 i
-pleas
+plea
 who
 care
 about
@@ -151,7 +151,7 @@ the
 attitud
 that
 everyon
-els
+el
 should
 have
 instead
@@ -205,7 +205,7 @@ obvious
 you
 have
 never
-us
+use
 pgp
 anyon
 who

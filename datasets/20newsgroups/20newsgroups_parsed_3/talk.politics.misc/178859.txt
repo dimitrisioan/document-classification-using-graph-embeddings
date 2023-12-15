@@ -43,7 +43,7 @@ a
 euphem
 oh
 do
-pleas
+plea
 tri
 not
 to
@@ -1046,7 +1046,7 @@ in
 continu
 thi
 effortless
-discuss
+discus
 after
 all
 thi

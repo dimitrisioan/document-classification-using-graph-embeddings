@@ -29,7 +29,7 @@ from
 am
 central
 time
-pleas
+plea
 let
 me
 know
@@ -118,7 +118,7 @@ be
 fine
 with
 me
-pleas
+plea
 let
 me
 know

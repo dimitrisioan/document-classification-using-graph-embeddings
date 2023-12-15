@@ -94,7 +94,7 @@ perform
 enron
 account
 payabl
-pleas
+plea
 wire
 my
 fund
@@ -375,7 +375,7 @@ for
 thi
 opportun
 molli
-pleas
+plea
 send
 my
 your

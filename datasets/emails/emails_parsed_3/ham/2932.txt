@@ -405,7 +405,7 @@ ab
 html
 summari
 of
-discuss
+discus
 url
 http
 www
@@ -801,7 +801,7 @@ alt
 ab
 html
 end
-pleas
+plea
 follow
 url
 at
@@ -830,7 +830,7 @@ abov
 url
 not
 work
-pleas
+plea
 use
 the
 follow

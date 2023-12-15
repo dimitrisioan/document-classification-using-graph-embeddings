@@ -30,7 +30,7 @@ go
 on
 i
 will
-pa
+pas
 on
 psycholog
 answer
@@ -366,7 +366,7 @@ like
 to
 turn
 the
-discuss
+discus
 to
 the
 author
@@ -687,7 +687,7 @@ infer
 to
 get
 ani
-sens
+sen
 out
 of
 the
@@ -969,7 +969,7 @@ thi
 same
 q
 context
-go
+goe
 on
 to
 have
@@ -1225,7 +1225,7 @@ a
 command
 in
 the
-sens
+sen
 of
 john
 do
@@ -1772,7 +1772,7 @@ call
 thi
 intertextu
 my
-discuss
+discus
 of
 whi
 the
@@ -2045,7 +2045,7 @@ is
 our
 own
 cultur
-bia
+bias
 i
 have
 so
@@ -2081,7 +2081,7 @@ difficulti
 i
 want
 to
-discu
+discus
 in
 my
 next

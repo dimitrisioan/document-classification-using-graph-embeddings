@@ -68,7 +68,7 @@ includ
 inform
 on
 such
-divers
+diver
 tool
 a
 calendar
@@ -76,7 +76,7 @@ program
 and
 digit
 watch
-pleas
+plea
 let
 me
 know
@@ -2052,7 +2052,7 @@ the
 dvorak
 keyboard
 appar
-us
+use
 a
 more
 ration

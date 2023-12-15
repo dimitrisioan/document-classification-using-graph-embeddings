@@ -145,7 +145,7 @@ our
 politician
 with
 vision
-pass
+pas
 some
 environment
 law

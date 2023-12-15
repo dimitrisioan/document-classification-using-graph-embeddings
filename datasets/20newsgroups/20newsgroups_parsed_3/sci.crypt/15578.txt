@@ -85,7 +85,7 @@ and
 the
 algorithm
 it
-us
+use
 will
 not
 remain

@@ -22,7 +22,7 @@ aerostitch
 like
 most
 everyon
-els
+el
 i
 end
 up
@@ -158,7 +158,7 @@ the
 model
 aero
 design
-us
+use
 to
 design
 it
@@ -226,7 +226,7 @@ motorcycl
 storag
 devic
 yet
-devis
+devi
 except
 the
 trunk

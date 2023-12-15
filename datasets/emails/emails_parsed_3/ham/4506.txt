@@ -110,7 +110,7 @@ question
 concern
 thi
 order
-pleas
+plea
 e
 mail
 u
@@ -325,7 +325,7 @@ deliveri
 u
 s
 state
-pleas
+plea
 note
 that
 there

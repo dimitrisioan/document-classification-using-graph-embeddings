@@ -115,7 +115,7 @@ of
 a
 round
 tabl
-discuss
+discus
 design
 pick
 hi
@@ -146,7 +146,7 @@ a
 more
 detail
 agenda
-pleas
+plea
 let
 me
 know

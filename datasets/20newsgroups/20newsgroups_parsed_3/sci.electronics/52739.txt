@@ -20,7 +20,7 @@ me
 or
 doe
 anybodi
-els
+el
 out
 there
 not
@@ -430,7 +430,7 @@ is
 that
 the
 instrument
-us
+use
 menu
 again
 but

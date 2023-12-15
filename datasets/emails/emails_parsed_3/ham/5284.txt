@@ -1,7 +1,7 @@
 subject
 meet
 to
-discu
+discus
 research
 support
 to
@@ -18,7 +18,7 @@ request
 a
 meet
 to
-discu
+discus
 addit
 research
 support
@@ -66,7 +66,7 @@ octob
 th
 am
 pm
-pleas
+plea
 let
 me
 know

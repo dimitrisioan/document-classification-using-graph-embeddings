@@ -19,7 +19,7 @@ food
 we
 eat
 includ
-chines
+chine
 though
 some
 orient
@@ -45,7 +45,7 @@ in
 most
 of
 the
-chines
+chine
 food
 restaur
 i
@@ -74,7 +74,7 @@ and
 heh
 we
 eat
-chines
+chine
 food
 all
 the
@@ -298,4 +298,4 @@ cat
 and
 no
 one
-els
+el

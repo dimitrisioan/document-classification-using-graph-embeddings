@@ -126,7 +126,7 @@ offic
 make
 knock
 some
-sens
+sen
 back
 into
 it
@@ -307,7 +307,7 @@ allow
 to
 inspect
 the
-offic
+officer
 badg
 just
 what

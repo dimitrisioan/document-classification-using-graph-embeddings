@@ -535,7 +535,7 @@ be
 foist
 on
 everyon
-els
+el
 end
 up
 walk
@@ -705,7 +705,7 @@ seattl
 wa
 if
 all
-els
+el
 fail
 tri
 uunetpilchuckrwingpat

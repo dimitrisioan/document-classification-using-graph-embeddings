@@ -334,7 +334,7 @@ behaviour
 build
 forward
 curv
-assess
+ass
 avail
 model
 the
@@ -534,7 +534,7 @@ hedg
 an
 energi
 portfolio
-pleas
+plea
 feel
 free
 to
@@ -765,7 +765,7 @@ issu
 what
 is
 var
-us
+use
 of
 var
 type

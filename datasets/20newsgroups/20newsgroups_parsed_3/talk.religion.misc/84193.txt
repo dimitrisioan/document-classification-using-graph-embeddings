@@ -154,7 +154,7 @@ trip
 round
 thi
 loop
-pleas
+plea
 notic
 that
 we

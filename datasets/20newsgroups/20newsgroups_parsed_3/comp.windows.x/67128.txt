@@ -34,7 +34,7 @@ xgetfontproperti
 work
 if
 i
-pass
+pas
 xafontnam
 anyon
 know

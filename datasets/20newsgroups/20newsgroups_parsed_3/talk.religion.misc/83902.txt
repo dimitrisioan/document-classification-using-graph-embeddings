@@ -123,7 +123,7 @@ is
 more
 than
 anyth
-els
+el
 a
 call
 to
@@ -758,7 +758,7 @@ about
 christian
 in
 a
-sens
+sen
 the
 wide
 varieti

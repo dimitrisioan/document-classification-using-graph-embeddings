@@ -49,7 +49,7 @@ ha
 no
 busi
 solicit
-diagnosi
+diagnos
 off
 the
 net

@@ -17,7 +17,7 @@ quit
 a
 bit
 of
-discuss
+discus
 about
 hous
 wire
@@ -95,7 +95,7 @@ few
 except
 to
 be
-discuss
+discus
 later
 carri
 the
@@ -841,7 +841,7 @@ current
 from
 the
 dwell
-go
+goe
 through
 the
 neutral

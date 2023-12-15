@@ -3,7 +3,7 @@ california
 updat
 execut
 summari
-discuss
+discus
 continu
 today
 over
@@ -138,7 +138,7 @@ there
 will
 be
 continu
-discuss
+discus
 regard
 bill
 ablx
@@ -147,7 +147,7 @@ the
 senat
 today
 the
-discuss
+discus
 will
 focu
 on
@@ -923,7 +923,7 @@ a
 seri
 of
 independ
-analysi
+analys
 to
 determin
 who
@@ -1064,7 +1064,7 @@ the
 legal
 basi
 for
-pass
+pas
 on
 rate
 increas
@@ -1444,7 +1444,7 @@ payer
 bill
 thi
 offici
-go
+goe
 on
 to
 say
@@ -1465,7 +1465,7 @@ could
 think
 of
 would
-pa
+pas
 and
 we
 couldn

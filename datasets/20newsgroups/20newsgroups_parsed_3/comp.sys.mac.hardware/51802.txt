@@ -47,8 +47,8 @@ he
 or
 ani
 one
-els
-pleas
+el
+plea
 tell
 me
 what
@@ -172,7 +172,7 @@ out
 of
 byte
 make
-sens
+sen
 to
 me
 scott

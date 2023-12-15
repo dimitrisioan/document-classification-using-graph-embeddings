@@ -3,7 +3,7 @@ help
 want
 could
 someon
-pleas
+plea
 tell
 me
 if
@@ -61,7 +61,7 @@ to
 do
 thi
 circuit
-pleas
+plea
 make
 ani
 mail

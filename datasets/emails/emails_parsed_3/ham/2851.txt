@@ -40,7 +40,7 @@ for
 john
 lavorato
 molli
-pleas
+plea
 make
 arrang
 for

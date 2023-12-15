@@ -92,7 +92,7 @@ i
 right
 ha
 anybodi
-els
+el
 had
 thi
 problem
@@ -232,7 +232,7 @@ bc
 the
 cfileopenflag
 enum
-us
+use
 hardcod
 number
 for

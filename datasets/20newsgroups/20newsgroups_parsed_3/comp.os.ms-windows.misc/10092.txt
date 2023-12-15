@@ -85,7 +85,7 @@ connect
 there
 wa
 a
-bullets
+bullet
 hole
 in
 the

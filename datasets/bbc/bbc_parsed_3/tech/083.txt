@@ -150,7 +150,7 @@ becaus
 they
 stop
 worm
-viru
+virus
 and
 other
 threat
@@ -228,7 +228,7 @@ news
 for
 everyon
 who
-us
+use
 the
 net
 he
@@ -322,7 +322,7 @@ clean
 up
 pc
 harbour
-viru
+virus
 and
 spywar
 which

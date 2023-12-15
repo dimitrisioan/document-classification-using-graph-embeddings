@@ -90,7 +90,7 @@ day
 in
 hollywood
 he
-loos
+loo
 he
 wild
 and
@@ -111,7 +111,7 @@ final
 war
 at
 grauman
-chines
+chine
 theatr
 follow
 the

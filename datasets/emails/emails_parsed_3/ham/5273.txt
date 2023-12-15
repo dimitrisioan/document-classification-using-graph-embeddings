@@ -32,7 +32,7 @@ recent
 releas
 a
 report
-discuss
+discus
 market
 in
 each
@@ -56,7 +56,7 @@ the
 northeast
 region
 is
-discuss
+discus
 in
 a
 section
@@ -66,7 +66,7 @@ in
 length
 pjm
 is
-discuss
+discus
 in
 detail
 begin
@@ -135,7 +135,7 @@ u
 newsl
 staffreport
 htm
-pleas
+plea
 do
 not
 repli
@@ -153,7 +153,7 @@ custom
 relat
 and
 train
-pleas
+plea
 send
 an
 e

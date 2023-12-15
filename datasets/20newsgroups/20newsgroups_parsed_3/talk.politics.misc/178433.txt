@@ -330,7 +330,7 @@ urgent
 at
 all
 it
-serf
+serv
 the
 same
 purpos
@@ -522,7 +522,7 @@ market
 is
 much
 more
-divers
+diver
 the
 rest
 ha
@@ -988,7 +988,7 @@ run
 around
 pat
 them
-self
+selv
 on
 the
 back

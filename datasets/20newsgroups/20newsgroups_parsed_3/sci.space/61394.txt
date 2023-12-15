@@ -53,7 +53,7 @@ of
 eq
 well
 a
-bats
+bat
 detector
 need
 lead
@@ -112,7 +112,7 @@ i
 dont
 think
 a
-bats
+bat
 will
 fit
 from

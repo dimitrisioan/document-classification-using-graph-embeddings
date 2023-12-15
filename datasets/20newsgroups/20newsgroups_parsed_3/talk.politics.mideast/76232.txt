@@ -537,7 +537,7 @@ turkish
 gener
 not
 to
-pa
+pas
 through
 tifli
 on
@@ -736,7 +736,7 @@ were
 bias
 in
 some
-sens
+sen
 sy
 they
 experienc

@@ -54,7 +54,7 @@ for
 santa
 clau
 imperson
-pleas
+plea
 elabor
 enquir
 mind

@@ -238,7 +238,7 @@ smithw
 anson
 mak
 skriko
-wolf
+wolv
 all
 the
 kane
@@ -453,7 +453,7 @@ goon
 daryl
 turner
 ei
-boss
+bos
 myllypuro
 hedgehog
 chapman

@@ -118,7 +118,7 @@ run
 the
 danger
 of
-expos
+expo
 themselv
 for
 the

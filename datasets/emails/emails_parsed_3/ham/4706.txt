@@ -2,7 +2,7 @@ subject
 propan
 price
 vinc
-pleas
+plea
 find
 attach
 file
@@ -43,7 +43,7 @@ both
 is
 platt
 public
-pleas
+plea
 notic
 that
 price

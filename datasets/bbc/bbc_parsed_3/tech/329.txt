@@ -247,7 +247,7 @@ amplifi
 the
 laser
 light
-puls
+pul
 use
 to
 send
@@ -269,7 +269,7 @@ better
 amplifi
 of
 light
-puls
+pul
 than
 the
 form
@@ -311,7 +311,7 @@ that
 when
 laser
 light
-pass
+pas
 through
 it
 some
@@ -466,7 +466,7 @@ the
 form
 of
 data
-puls
+pul
 it
 a
 technic

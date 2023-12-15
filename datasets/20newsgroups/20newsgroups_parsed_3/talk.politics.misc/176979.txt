@@ -98,7 +98,7 @@ use
 both
 scalia
 and
-steven
+stevens
 exampl
 increas
 penalti
@@ -157,13 +157,13 @@ to
 do
 with
 the
-discuss
+discus
 at
 hand
 when
 i
 wa
-discuss
+discus
 the
 concept
 of
@@ -221,7 +221,7 @@ the
 standard
 civil
 right
-discuss
+discus
 class
 base
 upon
@@ -420,7 +420,7 @@ state
 should
 judg
 some
-life
+live
 a
 be
 more

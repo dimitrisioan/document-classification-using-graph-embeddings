@@ -63,7 +63,7 @@ the
 spread
 option
 model
-pleas
+plea
 let
 me
 know
@@ -229,7 +229,7 @@ that
 we
 could
 provid
-pleas
+plea
 don
 t
 hesit

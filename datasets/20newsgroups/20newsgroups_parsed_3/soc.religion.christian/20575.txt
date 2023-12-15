@@ -363,7 +363,7 @@ that
 you
 have
 been
-expos
+expo
 to
 certain
 type

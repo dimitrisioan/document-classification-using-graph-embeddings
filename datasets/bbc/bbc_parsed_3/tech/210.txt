@@ -79,7 +79,7 @@ attach
 the
 viru
 that
-us
+use
 thi
 trick
 is
@@ -114,7 +114,7 @@ like
 mani
 other
 recent
-viru
+virus
 bofra
 plunder
 the
@@ -140,7 +140,7 @@ target
 address
 the
 viru
-us
+use
 it
 own
 mail
@@ -158,7 +158,7 @@ unlik
 mani
 other
 recent
-viru
+virus
 doe
 not
 itself
@@ -462,7 +462,7 @@ help
 to
 spot
 when
-viru
+virus
 have
 penetr
 organis
@@ -477,7 +477,7 @@ the
 bofra
 famili
 of
-viru
+virus
 which
 were
 origin

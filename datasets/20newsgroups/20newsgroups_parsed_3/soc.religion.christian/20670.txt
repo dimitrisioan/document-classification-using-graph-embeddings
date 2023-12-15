@@ -189,7 +189,7 @@ in
 exampl
 like
 bossth
-bo
+bos
 is
 good
 he

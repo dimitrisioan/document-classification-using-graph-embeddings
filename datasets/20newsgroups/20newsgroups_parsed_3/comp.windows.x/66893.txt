@@ -46,7 +46,7 @@ of
 the
 parent
 which
-us
+use
 the
 default
 visual
@@ -106,7 +106,7 @@ attribut
 when
 creat
 or
-els
+el
 a
 badmatch
 occur
@@ -129,7 +129,7 @@ howev
 even
 if
 i
-pa
+pas
 along
 a
 suitabl
@@ -245,7 +245,7 @@ know
 whi
 if
 so
-pleas
+plea
 drop
 me
 a

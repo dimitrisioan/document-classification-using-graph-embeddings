@@ -402,7 +402,7 @@ concept
 ege
 reduc
 and
-analysi
+analys
 the
 extraordinari
 but
@@ -918,7 +918,7 @@ or
 data
 base
 elc
-belief
+believ
 thi
 format
 is

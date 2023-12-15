@@ -149,7 +149,7 @@ histori
 neurolog
 examin
 and
-discuss
+discus
 with
 the
 patient

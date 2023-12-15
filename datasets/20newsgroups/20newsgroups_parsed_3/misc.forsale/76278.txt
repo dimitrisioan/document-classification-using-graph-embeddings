@@ -121,7 +121,7 @@ db
 a
 wtd
 high
-pa
+pas
 xover
 flat
 hz
@@ -196,7 +196,7 @@ seper
 high
 and
 low
-pa
+pas
 crossov
 point
 make
@@ -237,7 +237,7 @@ anyon
 who
 is
 interest
-pleas
+plea
 respond
 to
 ill

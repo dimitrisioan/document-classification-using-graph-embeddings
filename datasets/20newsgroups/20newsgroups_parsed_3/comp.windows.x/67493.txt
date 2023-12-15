@@ -130,7 +130,7 @@ shell
 but
 that
 still
-leaf
+leav
 the
 window
 manag

@@ -79,7 +79,7 @@ to
 memori
 ide
 also
-us
+use
 dma
 techniqu
 i
@@ -87,7 +87,7 @@ believ
 floppi
 control
 also
-us
+use
 dma
 and
 most
@@ -147,7 +147,7 @@ at
 least
 do
 someth
-els
+el
 while
 back
 up
@@ -190,7 +190,7 @@ you
 were
 do
 someth
-els
+el
 the
 hardwar
 will

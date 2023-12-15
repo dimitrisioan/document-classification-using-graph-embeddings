@@ -2,7 +2,7 @@ subject
 news
 review
 updat
-pleas
+plea
 respond
 to
 news
@@ -151,7 +151,7 @@ clip
 servic
 to
 login
-pleas
+plea
 use
 thi
 url
@@ -205,7 +205,7 @@ yourself
 from
 thi
 servic
-pleas
+plea
 login
 and
 use

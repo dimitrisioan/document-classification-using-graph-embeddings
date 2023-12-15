@@ -73,7 +73,7 @@ each
 chapter
 could
 you
-pleas
+plea
 write
 a
 sentenc
@@ -168,7 +168,7 @@ schole
 model
 framework
 we
-discu
+discus
 the
 numer
 techniqu
@@ -235,7 +235,7 @@ volatil
 and
 jump
 process
-discuss
+discus
 each
 and
 show
@@ -321,9 +321,9 @@ the
 energi
 market
 and
-discu
+discus
 their
-us
+use
 exampl
 of
 product
@@ -573,7 +573,7 @@ chapter
 finish
 with
 a
-discuss
+discus
 of
 the
 valuat
@@ -582,7 +582,7 @@ american
 style
 option
 chapter
-focu
+focus
 on
 the
 risk
@@ -595,7 +595,7 @@ in
 thi
 chapter
 we
-discu
+discus
 the
 manag
 of
@@ -663,7 +663,7 @@ and
 thi
 is
 also
-discuss
+discus
 chapter
 look
 at
@@ -684,7 +684,7 @@ energi
 deriv
 portfolio
 after
-discuss
+discus
 the
 concept
 of

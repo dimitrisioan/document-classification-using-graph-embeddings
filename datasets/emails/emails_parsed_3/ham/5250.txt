@@ -57,7 +57,7 @@ t
 shirt
 and
 cap
-pass
+pas
 out
 glove
 and
@@ -77,7 +77,7 @@ interest
 in
 help
 me
-pleas
+plea
 call
 me
 at

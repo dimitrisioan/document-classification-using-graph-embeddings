@@ -292,7 +292,7 @@ would
 lose
 all
 common
-sens
+sen
 to
 break
 the

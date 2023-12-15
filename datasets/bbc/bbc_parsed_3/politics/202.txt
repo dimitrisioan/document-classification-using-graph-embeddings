@@ -1,9 +1,9 @@
-tori
+torus
 oppos
 hour
 drink
 the
-tori
+torus
 say
 plan
 to
@@ -78,7 +78,7 @@ and
 she
 accus
 the
-tori
+torus
 of
 opportun
 the

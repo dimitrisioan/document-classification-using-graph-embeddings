@@ -122,7 +122,7 @@ control
 by
 pencil
 and
-eras
+era
 could
 also
 control

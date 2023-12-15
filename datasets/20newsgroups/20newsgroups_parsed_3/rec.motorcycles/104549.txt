@@ -63,7 +63,7 @@ for
 exampl
 my
 former
-bo
+bos
 had
 a
 gsl

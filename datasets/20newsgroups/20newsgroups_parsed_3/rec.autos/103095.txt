@@ -67,7 +67,7 @@ have
 thread
 on
 them
-pass
+pas
 the
 penni
 head
@@ -139,7 +139,7 @@ area
 and
 some
 tire
-pa
+pas
 a
 penni
 test
@@ -176,7 +176,7 @@ the
 tire
 so
 it
-go
+goe
 fishi
 on
 you

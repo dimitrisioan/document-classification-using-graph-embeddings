@@ -83,7 +83,7 @@ not
 on
 thi
 list
-pleas
+plea
 resend
 your
 team
@@ -352,7 +352,7 @@ mulberri
 mauler
 rev
 rebel
-boss
+bos
 zippeti
 doodah
 kramer
@@ -431,7 +431,7 @@ turner
 doug
 mraz
 skriko
-wolf
+wolv
 icemachin
 lamp
 lighter

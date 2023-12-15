@@ -18,7 +18,7 @@ question
 pose
 then
 he
-go
+goe
 on
 the
 make
@@ -119,7 +119,7 @@ instrument
 of
 salvat
 and
-pleas
+plea
 do
 not
 combin
@@ -239,7 +239,7 @@ same
 paragraph
 you
 declar
-pleas
+plea
 do
 not
 combin

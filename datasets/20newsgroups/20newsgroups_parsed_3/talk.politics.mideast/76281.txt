@@ -142,7 +142,7 @@ palestin
 it
 make
 more
-sens
+sen
 to
 get
 the

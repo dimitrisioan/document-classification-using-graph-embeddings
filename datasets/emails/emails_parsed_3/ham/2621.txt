@@ -19,7 +19,7 @@ concern
 the
 grain
 report
-pleas
+plea
 let
 me
 know

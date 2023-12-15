@@ -5,7 +5,7 @@ exotica
 option
 librari
 patrick
-pleas
+plea
 contact
 zimin
 lu
@@ -153,7 +153,7 @@ to
 the
 m
 drive
-pleas
+plea
 let
 me
 know

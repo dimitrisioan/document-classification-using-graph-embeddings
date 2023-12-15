@@ -214,7 +214,7 @@ track
 and
 aim
 at
-pass
+pas
 game
 anim
 with

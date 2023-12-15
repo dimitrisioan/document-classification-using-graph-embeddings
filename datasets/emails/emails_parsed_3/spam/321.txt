@@ -5,7 +5,7 @@ own
 a
 cell
 phone
-pleas
+plea
 read
 unbeliev
 price
@@ -91,7 +91,7 @@ if
 you
 need
 assist
-pleas
+plea
 call
 u
 to
@@ -100,7 +100,7 @@ remov
 from
 futur
 mail
-pleas
+plea
 send
 your
 remov

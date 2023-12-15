@@ -728,7 +728,7 @@ easili
 better
 than
 anyth
-els
+el
 that
 wa
 releas
@@ -1599,7 +1599,7 @@ not
 also
 mean
 someth
-els
+el
 a
 we
 have
@@ -1930,7 +1930,7 @@ be
 music
 and
 noth
-els
+el
 urban
 is
 pc
@@ -2138,7 +2138,7 @@ it
 doesnt
 make
 ani
-sens
+sen
 whi
 doe
 music

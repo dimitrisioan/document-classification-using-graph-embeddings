@@ -124,7 +124,7 @@ sooner
 if
 my
 bill
-go
+goe
 over
 the
 usual
@@ -937,7 +937,7 @@ one
 exampl
 wa
 where
-thief
+thiev
 would
 set
 up

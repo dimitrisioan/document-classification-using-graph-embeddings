@@ -13,7 +13,7 @@ remot
 control
 if
 interest
-pleas
+plea
 call
 or
 email

@@ -42,7 +42,7 @@ citi
 ca
 api
 a
-tens
+ten
 standoff
 enter
 it
@@ -138,7 +138,7 @@ which
 will
 blow
 anyth
-els
+el
 away
 while
 more
@@ -225,7 +225,7 @@ hesitantli
 of
 their
 former
-life
+live
 includ
 be
 forc

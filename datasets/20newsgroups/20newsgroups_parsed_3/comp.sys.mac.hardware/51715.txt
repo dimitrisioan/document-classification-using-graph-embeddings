@@ -3,7 +3,7 @@ nonappl
 minidock
 avail
 my
-bo
+bos
 is
 consid
 the

@@ -20,7 +20,7 @@ write
 sinc
 the
 mac
-us
+use
 onli
 scsi
 for

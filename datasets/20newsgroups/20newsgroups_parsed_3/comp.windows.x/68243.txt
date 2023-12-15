@@ -20,7 +20,7 @@ multibyt
 font
 such
 a
-chines
+chine
 japanes
 someon
 told
@@ -59,7 +59,7 @@ should
 be
 replac
 by
-chines
+chine
 or
 japanes
 font

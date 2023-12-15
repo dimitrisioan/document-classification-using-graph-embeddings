@@ -266,7 +266,7 @@ for
 reason
 that
 were
-discuss
+discus
 when
 de
 wa
@@ -516,7 +516,7 @@ gener
 and
 that
 it
-pass
+pas
 everi
 test
 you
@@ -810,7 +810,7 @@ in
 answer
 thi
 question
-pleas
+plea
 accept
 nsa
 fundament
@@ -855,7 +855,7 @@ below
 right
 here
 im
-discuss
+discus
 just
 the
 technic

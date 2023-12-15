@@ -221,7 +221,7 @@ these
 propos
 under
 the
-guis
+gui
 of
 enhanc
 privaci
@@ -361,7 +361,7 @@ civil
 forfeitur
 the
 govern
-us
+use
 poll
 to
 support
@@ -490,7 +490,7 @@ do
 or
 have
 been
-expos
+expo
 to
 argument
 of
@@ -767,7 +767,7 @@ seattl
 wa
 if
 all
-els
+el
 fail
 tri
 uunetpilchuckrwingpat

@@ -24,7 +24,7 @@ a
 great
 deal
 of
-discuss
+discus
 herein
 on
 the
@@ -122,7 +122,7 @@ mhz
 mb
 ram
 so
-pleas
+plea
 provid
 me
 with

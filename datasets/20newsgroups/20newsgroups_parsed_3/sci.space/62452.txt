@@ -47,7 +47,7 @@ is
 absurd
 mayb
 common
-sens
+sen
 and
 logic
 are
@@ -119,7 +119,7 @@ i
 see
 it
 and
-pleas
+plea
 astromom
 give
 me

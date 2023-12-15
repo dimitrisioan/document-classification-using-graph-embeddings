@@ -77,7 +77,7 @@ aim
 to
 rebuild
 a
-children
+child
 shelter
 in
 sri

@@ -64,7 +64,7 @@ is
 use
 help
 me
-pleas
+plea
 at
 kevin
 p

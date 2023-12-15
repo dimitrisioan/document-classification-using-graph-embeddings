@@ -1,5 +1,5 @@
 from
-ru
+rus
 smith
 in
 articl
@@ -166,7 +166,7 @@ whiten
 on
 the
 card
-ru
+rus
 smith
 i
 dont

@@ -58,7 +58,7 @@ sold
 handel
 classic
 sold
-pleas
+plea
 send
 your
 repli

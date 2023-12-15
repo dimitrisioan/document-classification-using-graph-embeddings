@@ -304,7 +304,7 @@ unix
 hp
 or
 someth
-els
+el
 somewhat
 obscur
 copi

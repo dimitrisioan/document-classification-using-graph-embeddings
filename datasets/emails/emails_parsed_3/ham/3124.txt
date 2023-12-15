@@ -147,7 +147,7 @@ sap
 to
 record
 time
-pleas
+plea
 work
 close
 with
@@ -182,7 +182,7 @@ who
 your
 timekeep
 is
-pleas
+plea
 call
 the
 site
@@ -245,7 +245,7 @@ would
 like
 more
 inform
-pleas
+plea
 contact
 the
 center

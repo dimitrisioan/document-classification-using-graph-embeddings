@@ -261,7 +261,7 @@ with
 bob
 today
 and
-discuss
+discus
 the
 deal
 structur
@@ -723,7 +723,7 @@ would
 like
 you
 to
-pleas
+plea
 spend
 some
 time
@@ -734,8 +734,8 @@ then
 base
 on
 the
-discuss
-pleas
+discus
+plea
 send
 u
 a
@@ -750,7 +750,7 @@ be
 mark
 to
 market
-pleas
+plea
 cosid
 the
 fact
@@ -1025,7 +1025,7 @@ on
 the
 same
 krishna
-pleas
+plea
 walk
 bob
 through

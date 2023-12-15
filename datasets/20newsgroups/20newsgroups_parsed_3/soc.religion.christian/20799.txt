@@ -50,7 +50,7 @@ probabl
 should
 let
 thi
-pa
+pas
 it
 not
 worth
@@ -274,7 +274,7 @@ real
 question
 so
 to
-discu
+discus
 it
 ill
 assum
@@ -309,7 +309,7 @@ thing
 that
 requir
 noth
-els
+el
 for
 it
 exist
@@ -331,7 +331,7 @@ to
 the
 univers
 logo
-pleas
+plea
 show
 thi
 is
@@ -669,7 +669,7 @@ tri
 to
 say
 they
-pleas
+plea
 explain
 what
 it

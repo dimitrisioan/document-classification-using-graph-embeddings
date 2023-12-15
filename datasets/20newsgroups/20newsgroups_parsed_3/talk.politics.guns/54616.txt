@@ -98,7 +98,7 @@ thing
 and
 attack
 hi
-motif
+motiv
 in
 thi
 case
@@ -112,7 +112,7 @@ i
 dont
 trust
 spectr
-motif
+motiv
 here
 at
 all

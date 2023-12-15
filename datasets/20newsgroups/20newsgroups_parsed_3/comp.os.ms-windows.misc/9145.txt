@@ -12,7 +12,7 @@ in
 program
 manag
 are
-alia
+alias
 is
 that
 explicit

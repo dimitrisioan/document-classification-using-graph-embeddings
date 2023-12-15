@@ -79,7 +79,7 @@ ask
 ani
 hillarybash
 to
-pleas
+plea
 come
 forward
 and
@@ -177,7 +177,7 @@ health
 care
 i
 would
-pa
+pas
 off
 more
 control

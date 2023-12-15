@@ -14,7 +14,7 @@ write
 inde
 ld
 doctrin
-go
+goe
 one
 step
 further
@@ -27,7 +27,7 @@ parent
 respons
 for
 their
-children
+child
 sin
 if
 they
@@ -208,7 +208,7 @@ in
 it
 origin
 technic
-sens
+sen
 similarli
 hell
 is

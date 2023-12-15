@@ -3,7 +3,7 @@ interview
 thoma
 barkley
 attach
-pleas
+plea
 find
 the
 resum
@@ -25,7 +25,7 @@ begin
 at
 a
 m
-pleas
+plea
 contact
 me
 with

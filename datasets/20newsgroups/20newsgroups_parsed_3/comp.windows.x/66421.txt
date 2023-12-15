@@ -135,12 +135,12 @@ commun
 skill
 how
 to
-pa
+pas
 interviewsintellig
 test
 and
 group
-discuss
+discus
 eg
 how
 to
@@ -280,7 +280,7 @@ final
 exam
 no
 coursework
-assess
+ass
 are
 all
 comput

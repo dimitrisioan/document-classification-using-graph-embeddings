@@ -469,7 +469,7 @@ in
 cd
 and
 report
-pleas
+plea
 no
 im
 go

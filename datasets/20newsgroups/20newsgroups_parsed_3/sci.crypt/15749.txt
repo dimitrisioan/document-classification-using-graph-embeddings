@@ -89,7 +89,7 @@ quit
 disson
 with
 much
-els
+el
 that
 ha
 been
@@ -161,7 +161,7 @@ no
 other
 attack
 make
-sens
+sen
 thi
 mean
 that

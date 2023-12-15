@@ -59,7 +59,7 @@ were
 not
 without
 controversi
-children
+child
 author
 judi
 blume
@@ -118,7 +118,7 @@ from
 commun
 to
 commun
-pleas
+plea
 speak
 out
 censor
@@ -266,7 +266,7 @@ arc
 of
 justic
 which
-focu
+focus
 on
 a
 black

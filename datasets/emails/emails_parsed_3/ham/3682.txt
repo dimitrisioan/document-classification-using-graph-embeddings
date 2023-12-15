@@ -95,7 +95,7 @@ buy
 
 s
 risk
-assess
+ass
 and
 control
 organ
@@ -126,7 +126,7 @@ of
 enron
 industri
 market
-pleas
+plea
 join
 u
 in

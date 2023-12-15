@@ -296,7 +296,7 @@ rule
 alway
 obey
 rule
-us
+use
 for
 thing
 wg

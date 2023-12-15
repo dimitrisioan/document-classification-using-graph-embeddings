@@ -30,7 +30,7 @@ everi
 byte
 of
 data
-pass
+pas
 through
 subscrib
 news
@@ -136,7 +136,7 @@ ea
 far
 futur
 disclaim
-pleas
+plea
 note
 that
 the

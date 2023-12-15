@@ -110,7 +110,7 @@ start
 anoth
 shaft
 effect
-discuss
+discus
 but
 the
 twist
@@ -256,7 +256,7 @@ dirt
 at
 low
 rpm
-pleas
+plea
 post
 if
 you

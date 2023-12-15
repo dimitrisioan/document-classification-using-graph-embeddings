@@ -123,7 +123,7 @@ skill
 franci
 ha
 score
-pass
+pas
 win
 faceoff
 and

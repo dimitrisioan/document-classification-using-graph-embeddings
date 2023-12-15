@@ -1,7 +1,7 @@
 subject
 cool
 page
-pleas
+plea
 activ
 thi
 link
@@ -19,7 +19,7 @@ version
 of
 postman
 profession
-pleas
+plea
 visit
 www
 email

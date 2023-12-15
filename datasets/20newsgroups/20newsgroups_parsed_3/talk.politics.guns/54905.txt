@@ -119,7 +119,7 @@ state
 last
 year
 doe
-pass
+pas
 law
 that
 will
@@ -212,7 +212,7 @@ histori
 of
 countri
 that
-pass
+pas
 gun
 restrict
 pay
@@ -495,7 +495,7 @@ or
 weapon
 winni
 ye
-pleas
+plea
 im
 sorri
 i

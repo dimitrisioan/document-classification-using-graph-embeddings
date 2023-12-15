@@ -42,7 +42,7 @@ mail
 a
 partial
 list
-pleas
+plea
 contact
 by
 email

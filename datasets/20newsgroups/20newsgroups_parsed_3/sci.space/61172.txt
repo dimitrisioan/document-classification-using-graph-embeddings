@@ -33,7 +33,7 @@ by
 no
 mean
 infal
-pleas
+plea
 assum
 that
 all
@@ -413,7 +413,7 @@ it
 soon
 make
 more
-sens
+sen
 to
 cut
 them
@@ -501,7 +501,7 @@ q
 would
 it
 make
-sens
+sen
 to
 shut
 down

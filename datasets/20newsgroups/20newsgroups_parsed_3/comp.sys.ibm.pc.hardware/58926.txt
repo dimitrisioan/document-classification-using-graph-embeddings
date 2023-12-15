@@ -47,7 +47,7 @@ remain
 when
 window
 are
-eras
+era
 and
 text
 box
@@ -405,7 +405,7 @@ of
 ibm
 or
 anyon
-els
+el
 for
 that
 matter

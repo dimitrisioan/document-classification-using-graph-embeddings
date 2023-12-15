@@ -861,7 +861,7 @@ miracl
 have
 live
 and
-pass
+pas
 away
 then
 the

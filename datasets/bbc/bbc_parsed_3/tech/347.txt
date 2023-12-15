@@ -39,7 +39,7 @@ visitor
 are
 expect
 to
-pa
+pas
 through
 the
 door

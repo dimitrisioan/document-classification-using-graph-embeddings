@@ -42,7 +42,7 @@ is
 a
 worldwid
 issu
-pleas
+plea
 put
 distribut
 world
@@ -65,7 +65,7 @@ encrypt
 thing
 a
 i
-pleas
+plea
 who
 care
 about
@@ -141,7 +141,7 @@ key
 attitud
 that
 everyon
-els
+el
 should
 have
 instead
@@ -356,7 +356,7 @@ we
 make
 it
 somewher
-els
+el
 and
 import
 it

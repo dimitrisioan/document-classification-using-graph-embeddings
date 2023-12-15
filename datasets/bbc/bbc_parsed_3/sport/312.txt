@@ -117,7 +117,7 @@ the
 italian
 half
 hi
-pa
+pas
 to
 tom
 shanklin
@@ -141,7 +141,7 @@ michael
 owen
 long
 cutout
-pa
+pas
 gave
 the
 lurk
@@ -180,7 +180,7 @@ to
 find
 the
 crucial
-pa
+pas
 and
 itali
 hit
@@ -210,7 +210,7 @@ beat
 two
 player
 with
-eas
+ea
 out
 on
 the
@@ -229,7 +229,7 @@ orquera
 who
 snaffl
 the
-loos
+loo
 ball
 and
 hare
@@ -491,7 +491,7 @@ beat
 sever
 player
 with
-eas
+ea
 and
 finish
 with
@@ -652,7 +652,7 @@ persico
 mauro
 bergamasco
 s
-pariss
+paris
 g
 intoppa
 s

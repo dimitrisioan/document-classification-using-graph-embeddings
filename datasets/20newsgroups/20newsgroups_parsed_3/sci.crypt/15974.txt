@@ -127,7 +127,7 @@ a
 news
 group
 for
-discuss
+discus
 of
 thing
 like

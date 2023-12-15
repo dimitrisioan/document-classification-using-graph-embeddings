@@ -113,7 +113,7 @@ variou
 feder
 titl
 violat
-pleas
+plea
 follow
 thi
 link
@@ -128,7 +128,7 @@ your
 visa
 check
 card
-pleas
+plea
 be
 awar
 that

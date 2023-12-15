@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 kindli
 assist
 greet
@@ -311,7 +311,7 @@ for
 your
 strong
 cooper
-pleas
+plea
 i
 count
 on

@@ -1,6 +1,6 @@
 subject
 re
-bo
+bos
 s
 day
 kevin
@@ -10,7 +10,7 @@ a
 veri
 good
 idea
-pleas
+plea
 submit
 expens
 to
@@ -41,7 +41,7 @@ enron
 enron
 cc
 subject
-bo
+bos
 s
 day
 well
@@ -65,7 +65,7 @@ to
 happi
 hour
 for
-bo
+bos
 s
 day
 on
@@ -109,7 +109,7 @@ the
 research
 group
 to
-pleas
+plea
 join
 u
 a
@@ -132,7 +132,7 @@ kevin
 moor
 p
 s
-pleas
+plea
 inform
 forward
 by
@@ -176,7 +176,7 @@ ect
 ect
 cc
 subject
-bo
+bos
 s
 day
 hey
@@ -189,7 +189,7 @@ not
 be
 awar
 that
-bo
+bos
 s
 day
 oct
@@ -209,7 +209,7 @@ th
 with
 the
 big
-bo
+bos
 vinc
 kaminski
 and
@@ -227,8 +227,8 @@ someth
 special
 for
 our
-bo
-pleas
+bos
+plea
 inform
 me
 wherebi

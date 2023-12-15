@@ -302,7 +302,7 @@ thrown
 away
 by
 anyon
-els
+el
 accord
 to
 the
@@ -394,7 +394,7 @@ on
 incom
 is
 meaningless
-tori
+torus
 leader
 michael
 howard

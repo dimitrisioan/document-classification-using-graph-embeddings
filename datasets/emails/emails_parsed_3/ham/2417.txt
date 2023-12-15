@@ -6,7 +6,7 @@ henwood
 engag
 stinson
 attach
-pleas
+plea
 find
 a
 draft
@@ -28,7 +28,7 @@ send
 it
 to
 henwood
-pleas
+plea
 see
 section
 in
@@ -115,7 +115,7 @@ law
 no
 other
 state
-pleas
+plea
 i
 tri
 to
@@ -201,7 +201,7 @@ want
 to
 do
 it
-pleas
+plea
 let
 me
 know

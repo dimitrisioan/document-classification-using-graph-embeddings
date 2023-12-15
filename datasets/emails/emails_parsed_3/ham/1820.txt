@@ -28,7 +28,7 @@ to
 the
 enron
 bldg
-pleas
+plea
 let
 me
 know
@@ -116,7 +116,7 @@ is
 on
 the
 left
-pa
+pas
 the
 enron
 bldg

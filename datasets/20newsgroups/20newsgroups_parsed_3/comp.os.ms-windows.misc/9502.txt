@@ -71,6 +71,6 @@ michigan
 state
 univers
 east
-lans
+lan
 mi
 bitnet

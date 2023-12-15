@@ -37,7 +37,7 @@ supplier
 the
 onli
 button
-mous
+mouse
 i
 know
 exist
@@ -56,7 +56,7 @@ for
 the
 abov
 configur
-pleas
+plea
 repli
 me
 directli

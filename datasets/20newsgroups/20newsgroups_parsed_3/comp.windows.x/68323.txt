@@ -120,7 +120,7 @@ of
 the
 demo
 rsetc
-pleas
+plea
 send
 an
 email
@@ -280,7 +280,7 @@ applic
 veri
 easili
 xprinter
-us
+use
 the
 xlib
 api

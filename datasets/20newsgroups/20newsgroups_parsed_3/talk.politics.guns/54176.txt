@@ -186,7 +186,7 @@ purpos
 more
 than
 anyth
-els
+el
 i
 must
 at
@@ -206,7 +206,7 @@ my
 car
 if
 someon
-els
+el
 had
 an
 accid

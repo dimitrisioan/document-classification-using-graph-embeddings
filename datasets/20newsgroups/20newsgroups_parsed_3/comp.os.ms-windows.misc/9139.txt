@@ -135,7 +135,7 @@ in
 everi
 program
 run
-us
+use
 a
 certain
 amount

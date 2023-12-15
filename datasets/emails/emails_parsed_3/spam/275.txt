@@ -30,7 +30,7 @@ enter
 sdi
 lab
 anabol
-pleas
+plea
 click
 on
 the
@@ -108,7 +108,7 @@ from
 our
 email
 list
-pleas
+plea
 click
 on
 the
@@ -135,7 +135,7 @@ link
 doe
 not
 work
-pleas
+plea
 send
 an
 email

@@ -319,7 +319,7 @@ are
 all
 list
 below
-pleas
+plea
 let
 me
 know
@@ -487,7 +487,7 @@ servic
 global
 credit
 research
-discuss
+discus
 document
 asset
 swap
@@ -510,7 +510,7 @@ ben
 parson
 research
 group
-discuss
+discus
 document
 live
 libor
@@ -566,7 +566,7 @@ group
 placement
 model
 vl
-discuss
+discus
 document
 by
 ben
@@ -601,7 +601,7 @@ siig
 enron
 credit
 group
-discuss
+discus
 document
 var
 model

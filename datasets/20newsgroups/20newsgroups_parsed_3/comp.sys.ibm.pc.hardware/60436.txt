@@ -2,7 +2,7 @@ subject
 conner
 cpf
 info
-pleas
+plea
 i
 am
 look
@@ -16,7 +16,7 @@ set
 geometryetc
 conner
 cpf
-pleas
+plea
 repli
 via
 email

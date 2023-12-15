@@ -38,7 +38,7 @@ number
 bit
 usual
 it
-us
+use
 the
 ethernet
 address
@@ -107,7 +107,7 @@ three
 by
 the
 manufactur
-ru
+rus
 what
 canst
 thou

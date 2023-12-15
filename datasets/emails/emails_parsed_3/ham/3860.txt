@@ -76,7 +76,7 @@ confer
 program
 is
 attach
-pleas
+plea
 confirm
 your
 particip
@@ -109,7 +109,7 @@ the
 printer
 next
 week
-pleas
+plea
 cc
 your
 repli

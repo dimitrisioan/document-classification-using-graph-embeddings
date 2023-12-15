@@ -106,7 +106,7 @@ wa
 veri
 wrong
 or
-els
+el
 the
 bibl
 wa
@@ -219,7 +219,7 @@ cathol
 church
 year
 later
-devis
+devi
 the
 doctrin
 of

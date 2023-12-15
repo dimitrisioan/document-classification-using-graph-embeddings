@@ -64,7 +64,7 @@ key
 work
 which
 make
-sens
+sen
 sinc
 the
 default

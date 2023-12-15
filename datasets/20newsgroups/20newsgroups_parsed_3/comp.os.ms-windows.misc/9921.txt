@@ -49,7 +49,7 @@ hp
 cant
 i
 use
-do
+dos
 redirect
 programbut
 they
@@ -67,7 +67,7 @@ english
 name
 erik
 wang
-chines
+chine
 name
 wang
 jyhshyang

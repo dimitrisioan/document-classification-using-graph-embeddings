@@ -1,11 +1,11 @@
 worldcom
-bo
+bos
 left
 book
 alon
 former
 worldcom
-bo
+bos
 berni
 ebber
 who
@@ -201,7 +201,7 @@ him
 a
 an
 affabl
-bo
+bos
 who
 by
 hi

@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 ed
 green
@@ -249,7 +249,7 @@ appli
 both
 brake
 and
-eas
+ea
 off
 the
 rear

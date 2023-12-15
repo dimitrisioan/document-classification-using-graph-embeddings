@@ -51,7 +51,7 @@ email
 to
 me
 open
-discuss
+discus
 should
 be
 direct

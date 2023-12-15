@@ -147,7 +147,7 @@ we
 can
 use
 correl
-matrix
+matric
 calcul
 from
 first
@@ -156,7 +156,7 @@ contract
 and
 appli
 these
-matrix
+matric
 to
 other
 forward
@@ -174,7 +174,7 @@ implement
 of
 multipl
 correl
-matrix
+matric
 will
 not
 affect
@@ -186,7 +186,7 @@ in
 var
 model
 significantli
-pleas
+plea
 give
 me
 your

@@ -49,7 +49,7 @@ member
 is
 the
 dri
-assess
+ass
 of
 graham
 lane
@@ -382,7 +382,7 @@ tieless
 and
 suprem
 at
-eas
+ea
 answer
 question
 pose
@@ -472,7 +472,7 @@ it
 doe
 creat
 thi
-sens
+sen
 of
 complac
 among
@@ -565,7 +565,7 @@ it
 shake
 off
 hi
-tori
+torus
 lean
 and
 stand
@@ -801,7 +801,7 @@ one
 activist
 put
 it
-tori
+torus
 leader
 michael
 howard

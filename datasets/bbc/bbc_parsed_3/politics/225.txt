@@ -69,7 +69,7 @@ warn
 against
 disun
 and
-tori
+torus
 leader
 michael
 howard
@@ -83,7 +83,7 @@ in
 the
 common
 the
-tori
+torus
 have
 alreadi
 accus
@@ -115,7 +115,7 @@ the
 spat
 when
 he
-go
+goe
 headtohead
 with
 the

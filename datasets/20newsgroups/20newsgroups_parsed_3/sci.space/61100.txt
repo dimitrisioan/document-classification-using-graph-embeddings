@@ -194,7 +194,7 @@ observ
 i
 read
 somewher
-els
+el
 that
 it
 might
@@ -273,7 +273,7 @@ short
 time
 a
 it
-go
+goe
 zip
 across
 the

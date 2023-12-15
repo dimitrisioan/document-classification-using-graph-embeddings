@@ -12,7 +12,7 @@ make
 up
 the
 data
-pleas
+plea
 ask
 shirley
 to
@@ -269,7 +269,7 @@ provid
 sampl
 load
 data
-pleas
+plea
 feel
 free
 to
@@ -278,7 +278,7 @@ me
 and
 we
 can
-discu
+discus
 schedul
 and
 the

@@ -99,7 +99,7 @@ with
 short
 memori
 short
-life
+live
 or
 both
 to

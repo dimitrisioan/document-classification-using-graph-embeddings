@@ -17,7 +17,7 @@ there
 ha
 been
 some
-discuss
+discus
 of
 our
 compani
@@ -100,7 +100,7 @@ purpos
 encrypt
 chip
 which
-us
+use
 the
 nea
 algorithm

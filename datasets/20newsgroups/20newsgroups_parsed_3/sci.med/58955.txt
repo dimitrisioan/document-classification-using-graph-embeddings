@@ -62,7 +62,7 @@ effect
 where
 the
 doctor
-belief
+believ
 so
 strongli
 in

@@ -126,7 +126,7 @@ restor
 then
 it
 make
-sens
+sen
 to
 me
 that
@@ -137,7 +137,7 @@ the
 feloni
 and
 everyth
-els
+el
 ha
 been
 purg

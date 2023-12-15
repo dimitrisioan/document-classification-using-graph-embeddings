@@ -78,7 +78,7 @@ memori
 autoanswerautodi
 tone
 or
-puls
+pul
 extend
 at
 command
@@ -101,6 +101,6 @@ neg
 sh
 if
 interest
-pleas
+plea
 email
 thank

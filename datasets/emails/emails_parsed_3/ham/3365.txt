@@ -358,7 +358,7 @@ eu
 enron
 enron
 betsi
-bassi
+basso
 enron
 commun
 enron
@@ -470,7 +470,7 @@ are
 interest
 in
 particip
-pleas
+plea
 rsvp
 to
 me

@@ -40,7 +40,7 @@ a
 pinch
 runner
 and
-us
+use
 lui
 alicea
 a
@@ -60,7 +60,7 @@ he
 think
 if
 memori
-serf
+serv
 me
 well
 alicea
@@ -158,4 +158,4 @@ mail
 list
 anyon
 anyon
-pleas
+plea

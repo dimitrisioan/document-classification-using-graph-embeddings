@@ -219,7 +219,7 @@ year
 to
 resolv
 multiplex
-belief
+believ
 it
 claim
 are

@@ -59,7 +59,7 @@ one
 of
 them
 and
-pa
+pas
 me
 which
 is
@@ -190,7 +190,7 @@ individu
 freedom
 in
 the
-guis
+gui
 of
 public
 safeti

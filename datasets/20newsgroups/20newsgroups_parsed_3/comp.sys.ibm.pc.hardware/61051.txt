@@ -129,7 +129,7 @@ suggest
 or
 ha
 somebodi
-els
+el
 run
 into
 a
@@ -160,7 +160,7 @@ would
 be
 greatli
 appreci
-pleas
+plea
 repli
 to
 jason

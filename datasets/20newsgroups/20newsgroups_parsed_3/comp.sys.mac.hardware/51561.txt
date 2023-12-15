@@ -165,7 +165,7 @@ lowest
 frequenc
 that
 will
-pa
+pas
 if
 the
 cutoff

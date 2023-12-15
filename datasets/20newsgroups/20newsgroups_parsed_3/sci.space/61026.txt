@@ -71,7 +71,7 @@ about
 to
 kg
 geostationari
-go
+goe
 from
 kg
 gal

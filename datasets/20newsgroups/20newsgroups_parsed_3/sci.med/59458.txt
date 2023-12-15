@@ -20,7 +20,7 @@ literatur
 which
 promot
 colon
-cleans
+clean
 a
 a
 vital
@@ -104,7 +104,7 @@ in
 which
 noth
 ever
-go
+goe
 wrong
 except
 for
@@ -207,7 +207,7 @@ sacr
 turf
 of
 netmed
-discuss
+discus
 without
 a
 credenti

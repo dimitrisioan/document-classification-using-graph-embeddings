@@ -27,7 +27,7 @@ k
 themax
 vga
 card
-pleas
+plea
 make
 offer
 for

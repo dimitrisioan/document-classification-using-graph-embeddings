@@ -158,7 +158,7 @@ help
 some
 ee
 remot
-sens
+sen
 peopl
 run
 some

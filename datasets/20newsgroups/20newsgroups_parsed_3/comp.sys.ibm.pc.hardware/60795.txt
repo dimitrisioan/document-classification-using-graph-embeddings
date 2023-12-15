@@ -348,7 +348,7 @@ these
 are
 avail
 from
-bb
+bbs
 or
 mail
 but
@@ -394,10 +394,10 @@ a
 long
 a
 pin
-go
+goe
 to
 pin
-go
+goe
 to
 pin
 no

@@ -83,7 +83,7 @@ updat
 the
 bio
 clock
-us
+use
 onli
 bit
 for
@@ -181,7 +181,7 @@ that
 kevin
 menu
 system
-us
+use
 bio
 call
 to

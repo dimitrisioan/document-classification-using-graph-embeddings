@@ -73,7 +73,7 @@ mountain
 time
 zone
 start
-pleas
+plea
 check
 a
 map

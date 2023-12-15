@@ -40,7 +40,7 @@ hour
 joe
 hrgovcic
 hour
-pleas
+plea
 if
 you
 feel
@@ -52,7 +52,7 @@ hour
 of
 vacat
 time
-pleas
+plea
 inform
 me
 wherebi

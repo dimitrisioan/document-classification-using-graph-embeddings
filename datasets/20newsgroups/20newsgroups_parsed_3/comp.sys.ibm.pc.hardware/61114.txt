@@ -29,7 +29,7 @@ ati
 vlb
 video
 board
-us
+use
 the
 address
 for

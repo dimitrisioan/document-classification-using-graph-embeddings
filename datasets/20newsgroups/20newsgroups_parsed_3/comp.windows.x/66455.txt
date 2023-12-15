@@ -12,7 +12,7 @@ imag
 display
 program
 that
-us
+use
 the
 mit
 share
@@ -134,7 +134,7 @@ have
 the
 same
 problem
-pleas
+plea
 let
 me
 know

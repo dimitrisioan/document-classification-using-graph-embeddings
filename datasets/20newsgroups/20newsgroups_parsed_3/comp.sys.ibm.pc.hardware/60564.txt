@@ -209,7 +209,7 @@ msdo
 c
 program
 that
-us
+use
 bio
 call
 to
@@ -303,7 +303,7 @@ product
 manual
 and
 it
-go
+goe
 into
 excruti
 detail

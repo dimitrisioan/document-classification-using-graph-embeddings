@@ -58,7 +58,7 @@ up
 thi
 word
 and
-discuss
+discus
 it
 with
 a
@@ -128,7 +128,7 @@ it
 might
 mean
 someth
-els
+el
 but
 we
 need
@@ -156,7 +156,7 @@ hudson
 ive
 read
 enough
-discuss
+discus
 of
 thi
 passag

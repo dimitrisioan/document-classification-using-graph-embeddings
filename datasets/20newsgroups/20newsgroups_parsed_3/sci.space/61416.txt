@@ -24,7 +24,7 @@ differenc
 oneway
 rang
 dor
-pass
+pas
 were
 perform
 over
@@ -44,7 +44,7 @@ indic
 the
 delta
 dor
-pa
+pas
 on
 april
 wa
@@ -194,7 +194,7 @@ data
 dure
 three
 consecut
-pass
+pas
 of
 the
 spacecraft
@@ -729,7 +729,7 @@ potenti
 problem
 area
 were
-discuss
+discus
 no
 signific
 schedul

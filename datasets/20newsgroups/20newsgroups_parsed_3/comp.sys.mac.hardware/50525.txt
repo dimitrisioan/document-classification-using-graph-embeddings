@@ -1,6 +1,6 @@
 subject
 help
-pleas
+plea
 hand
 scanner
 problem
@@ -16,7 +16,7 @@ plu
 graphic
 hand
 scanner
-pleas
+plea
 read
 on
 and
@@ -135,7 +135,7 @@ you
 know
 the
 solut
-pleas
+plea
 let
 me
 know

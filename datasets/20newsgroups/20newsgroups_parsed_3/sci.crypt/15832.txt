@@ -303,7 +303,7 @@ le
 picki
 about
 what
-go
+goe
 over
 their
 network

@@ -1,7 +1,7 @@
 subject
 urgent
 owa
-pleas
+plea
 print
 thi
 now
@@ -98,7 +98,7 @@ read
 and
 send
 mail
-pleas
+plea
 note
 your
 calendar
@@ -151,7 +151,7 @@ access
 to
 your
 mailbox
-pleas
+plea
 note
 at
 thi
@@ -260,7 +260,7 @@ to
 view
 your
 mailbox
-pleas
+plea
 note
 there
 are
@@ -359,7 +359,7 @@ use
 the
 owa
 client
-pleas
+plea
 contact
 the
 outlook

@@ -79,7 +79,7 @@ door
 even
 casement
 window
-sens
+sen
 the
 danger
 amon

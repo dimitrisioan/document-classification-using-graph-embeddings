@@ -29,7 +29,7 @@ ignit
 it
 a
 someon
-els
+el
 ha
 point
 out
@@ -203,7 +203,7 @@ but
 i
 have
 be
-expos
+expo
 to
 c
 ga

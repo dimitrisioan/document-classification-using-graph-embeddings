@@ -84,7 +84,7 @@ brand
 of
 tv
 that
-us
+use
 an
 ir
 remot
@@ -129,7 +129,7 @@ spec
 if
 the
 system
-us
+use
 that
 probabl
 wont
@@ -199,7 +199,7 @@ tri
 radio
 shack
 or
-els
+el
 a
 tv
 repair
@@ -220,10 +220,10 @@ differ
 tvvcrcabl
 boxstereo
 manufactur
-us
+use
 a
 uniqu
-puls
+pul
 scheme
 to
 perform

@@ -61,7 +61,7 @@ fpu
 and
 ethernet
 anyon
-els
+el
 have
 ani
 info

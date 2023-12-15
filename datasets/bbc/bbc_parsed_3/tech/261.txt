@@ -215,7 +215,7 @@ while
 they
 do
 someth
-els
+el
 we
 are
 not
@@ -327,7 +327,7 @@ she
 ad
 the
 site
-us
+use
 a
 technolog
 dub
@@ -392,7 +392,7 @@ bear
 more
 than
 a
-pass
+pas
 resembl
 to
 the

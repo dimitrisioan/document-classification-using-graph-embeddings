@@ -355,7 +355,7 @@ mayb
 offic
 which
 nobodi
-els
+el
 ha
 physic
 access
@@ -370,7 +370,7 @@ public
 key
 for
 someon
-els
+el
 could
 allow
 an
@@ -412,7 +412,7 @@ bogu
 public
 key
 and
-pa
+pas
 them
 along
 it
@@ -921,7 +921,7 @@ over
 and
 which
 nobodi
-els
+el
 ha
 access
 to
@@ -936,7 +936,7 @@ to
 be
 free
 of
-viru
+virus
 and
 so
 on

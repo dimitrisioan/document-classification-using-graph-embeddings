@@ -227,7 +227,7 @@ that
 express
 or
 involv
-discuss
+discus
 with
 respect
 to
@@ -316,7 +316,7 @@ expect
 will
 anticip
 estim
-belief
+believ
 understand
 or
 that
@@ -662,7 +662,7 @@ publish
 of
 thi
 newslett
-belief
+believ
 thi
 informationto
 be

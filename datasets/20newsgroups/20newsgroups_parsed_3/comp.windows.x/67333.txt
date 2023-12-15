@@ -86,7 +86,7 @@ becaus
 the
 hardwar
 actual
-life
+live
 in
 yuv
 space
@@ -215,7 +215,7 @@ emul
 a
 colormap
 pixel
-index
+indic
 convers
 stuff
 furthermor

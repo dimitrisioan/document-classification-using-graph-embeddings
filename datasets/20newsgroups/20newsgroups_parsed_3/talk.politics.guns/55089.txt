@@ -34,7 +34,7 @@ ignit
 it
 a
 someon
-els
+el
 ha
 point
 out
@@ -204,7 +204,7 @@ seattl
 wa
 if
 all
-els
+el
 fail
 tri
 uunetpilchuckrwingpat

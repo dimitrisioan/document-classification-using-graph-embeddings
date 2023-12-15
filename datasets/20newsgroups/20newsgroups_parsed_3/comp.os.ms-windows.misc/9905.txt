@@ -89,7 +89,7 @@ filenam
 or
 use
 the
-brows
+brow
 subselect
 can
 you
@@ -183,7 +183,7 @@ or
 that
 it
 make
-sens
+sen
 if
 it
 were

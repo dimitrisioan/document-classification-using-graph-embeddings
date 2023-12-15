@@ -241,8 +241,8 @@ and
 suntrust
 bank
 inc
-pleas
-pa
+plea
+pas
 along
 thi
 announc
@@ -269,7 +269,7 @@ chicago
 dr
 hunter
 s
-discuss
+discus
 is
 entitl
 lesson
@@ -278,13 +278,13 @@ from
 recent
 global
 financi
-crisi
+crise
 sinc
 major
 bank
 and
 currenc
-crisi
+crise
 have
 occur
 in
@@ -319,7 +319,7 @@ individu
 countri
 experienc
 the
-crisi
+crise
 and
 to
 other
@@ -342,7 +342,7 @@ the
 caus
 of
 these
-crisi
+crise
 and
 to
 design
@@ -355,7 +355,7 @@ prevent
 if
 possibl
 similar
-crisi
+crise
 from
 occur
 in
@@ -424,7 +424,7 @@ s
 manag
 committe
 and
-serf
+serv
 a
 the
 bank
@@ -540,7 +540,7 @@ and
 privat
 corpor
 and
-serf
+serv
 on
 the
 board
@@ -561,7 +561,7 @@ bank
 and
 financ
 and
-serf
+serv
 on
 the
 editori
@@ -672,7 +672,7 @@ be
 a
 veri
 inform
-discuss
+discus
 dr
 kassi
 ha
@@ -806,7 +806,7 @@ peter
 van
 amson
 will
-discu
+discus
 appli
 term
 structur
@@ -864,7 +864,7 @@ interest
 rate
 alan
 will
-discu
+discus
 some
 of
 the
@@ -1216,7 +1216,7 @@ secur
 dr
 wong
 will
-discu
+discus
 compet
 vendor
 approach

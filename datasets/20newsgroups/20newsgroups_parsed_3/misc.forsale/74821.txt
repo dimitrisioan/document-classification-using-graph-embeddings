@@ -29,7 +29,7 @@ and
 f
 scsi
 control
-pleas
+plea
 email
 ani
 info

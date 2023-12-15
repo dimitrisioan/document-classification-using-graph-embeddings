@@ -114,7 +114,7 @@ minist
 and
 hi
 campaign
-bo
+bos
 alan
 milburn
 have
@@ -142,7 +142,7 @@ stabil
 and
 invest
 against
-tori
+torus
 cut
 and
 boom
@@ -243,7 +243,7 @@ spend
 plan
 by
 the
-tori
+torus
 compar
 to
 labour
@@ -333,7 +333,7 @@ over
 taxat
 with
 the
-tori
+torus
 claim
 the
 chancellor
@@ -409,7 +409,7 @@ but
 leader
 charl
 kennedi
-belief
+believ
 he
 ha
 set

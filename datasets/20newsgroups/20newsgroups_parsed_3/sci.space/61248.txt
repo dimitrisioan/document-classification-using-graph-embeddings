@@ -7,7 +7,7 @@ herbert
 sez
 hmm
 billion
-less
+le
 i
 can
 probabl
@@ -87,7 +87,7 @@ hundr
 million
 top
 that
-leaf
+leav
 about
 million
 profit

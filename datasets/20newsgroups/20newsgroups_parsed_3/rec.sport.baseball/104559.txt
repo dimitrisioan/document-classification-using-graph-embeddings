@@ -15,7 +15,7 @@ abbrevi
 make
 absolut
 no
-sens
+sen
 at
 least
 in
@@ -56,7 +56,7 @@ wouldnt
 it
 make
 more
-sens
+sen
 to
 use
 colemn

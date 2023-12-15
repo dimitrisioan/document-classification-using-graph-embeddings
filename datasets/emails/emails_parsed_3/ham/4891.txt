@@ -142,11 +142,11 @@ ha
 unlimit
 user
 so
-pleas
+plea
 feel
 free
 to
-pa
+pas
 thi
 along
 to
@@ -235,7 +235,7 @@ convers
 yesterday
 i
 am
-pleas
+plea
 to
 offer
 you
@@ -363,7 +363,7 @@ trial
 will
 last
 until
-pleas
+plea
 find
 enclos
 the
@@ -403,7 +403,7 @@ fulli
 searchabl
 archiv
 that
-go
+goe
 back
 to
 the
@@ -445,7 +445,7 @@ format
 into
 excel
 file
-pleas
+plea
 do
 not
 hesit
@@ -483,7 +483,7 @@ norton
 ft
 energi
 onlin
-pleas
+plea
 visit
 the
 web
@@ -543,7 +543,7 @@ thi
 transmiss
 in
 error
-pleas
+plea
 notifi
 u
 immedi

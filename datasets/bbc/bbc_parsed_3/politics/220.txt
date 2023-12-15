@@ -13,7 +13,7 @@ uk
 will
 have
 to
-pa
+pas
 a
 test
 to
@@ -48,7 +48,7 @@ system
 plan
 by
 the
-tori
+torus
 mr
 clark
 who
@@ -79,7 +79,7 @@ at
 hi
 plan
 but
-tori
+torus
 liam
 fox
 said
@@ -124,7 +124,7 @@ on
 immigr
 and
 a
-tori
+torus
 one
 that
 would
@@ -323,7 +323,7 @@ labour
 ha
 reject
 the
-tori
+torus
 idea
 of
 quota

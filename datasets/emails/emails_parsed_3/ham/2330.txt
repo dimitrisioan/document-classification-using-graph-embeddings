@@ -29,7 +29,7 @@ our
 team
 s
 assign
-pleas
+plea
 confirm
 receipt
 i

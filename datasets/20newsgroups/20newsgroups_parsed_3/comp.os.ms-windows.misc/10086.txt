@@ -4,7 +4,7 @@ window
 zipunzip
 in
 articl
-ru
+rus
 sharp
 write
 we

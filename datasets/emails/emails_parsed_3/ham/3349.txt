@@ -2,7 +2,7 @@ subject
 phone
 interview
 shirley
-pleas
+plea
 arrang
 a
 phone
@@ -215,7 +215,7 @@ next
 seven
 day
 to
-discu
+discus
 how
 my
 educ

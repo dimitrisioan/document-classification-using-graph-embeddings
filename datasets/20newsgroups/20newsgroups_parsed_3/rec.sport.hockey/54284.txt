@@ -28,7 +28,7 @@ about
 the
 whole
 adam
-graf
+grave
 ulf
 samuesson
 debat
@@ -43,7 +43,7 @@ wrong
 with
 that
 while
-graf
+grave
 doe
 what
 he
@@ -86,7 +86,7 @@ if
 you
 think
 that
-graf
+grave
 is
 a
 goon
@@ -329,7 +329,7 @@ that
 happen
 or
 anyon
-els
+el
 for
 that
 matter

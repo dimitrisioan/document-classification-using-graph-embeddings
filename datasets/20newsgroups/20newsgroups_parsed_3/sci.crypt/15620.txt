@@ -32,7 +32,7 @@ call
 skipjack
 the
 algorithm
-us
+use
 bit
 key
 compar

@@ -18,7 +18,7 @@ paul
 write
 my
 mom
-pass
+pas
 along
 a
 lengthi

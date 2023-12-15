@@ -48,7 +48,7 @@ ron
 henderson
 on
 pm
-pleas
+plea
 respond
 to
 ronh
@@ -235,7 +235,7 @@ you
 if
 you
 wish
-pleas
+plea
 feel
 free
 to
@@ -350,7 +350,7 @@ consid
 case
 studi
 should
-discu
+discus
 whi
 these
 model
@@ -434,7 +434,7 @@ of
 model
 should
 be
-assess
+ass
 gener
 the
 case

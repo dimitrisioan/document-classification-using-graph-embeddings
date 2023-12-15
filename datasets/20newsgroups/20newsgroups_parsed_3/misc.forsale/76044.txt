@@ -22,7 +22,7 @@ for
 vac
 control
 line
-sens
+sen
 onoff
 pwr
 fail

@@ -15,7 +15,7 @@ ronzon
 write
 in
 articl
-ru
+rus
 write
 in
 articl
@@ -214,7 +214,7 @@ outweigh
 the
 manmad
 one
-ru
+rus
 respons
 delet
 to
@@ -421,7 +421,7 @@ peopl
 from
 rebuild
 their
-life
+live
 there
 the
 manmad
@@ -489,7 +489,7 @@ to
 expect
 a
 seriou
-discuss
+discus
 on
 the
 net

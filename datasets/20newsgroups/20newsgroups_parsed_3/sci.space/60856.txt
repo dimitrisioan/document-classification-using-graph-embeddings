@@ -309,7 +309,7 @@ allen
 then
 show
 them
-els
+el
 quit
 bark
 i
@@ -689,7 +689,7 @@ a
 satellit
 so
 someon
-els
+el
 is
 go
 to

@@ -67,7 +67,7 @@ that
 is
 driven
 by
-puls
+pul
 from
 a
 speed
@@ -77,12 +77,12 @@ the
 rear
 axl
 these
-puls
+pul
 are
 convert
 into
 mechan
-puls
+pul
 that
 turn
 the
@@ -93,7 +93,7 @@ no
 way
 chang
 or
-eras
+era
 an
 eprom
 is

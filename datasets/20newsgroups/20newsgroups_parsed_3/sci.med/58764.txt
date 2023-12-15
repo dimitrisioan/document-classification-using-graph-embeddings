@@ -125,7 +125,7 @@ use
 phrase
 in
 a
-discuss
+discus
 of
 the
 boundari
@@ -307,7 +307,7 @@ fred
 griffith
 discoveri
 in
-mous
+mouse
 most
 of
 griffith

@@ -101,7 +101,7 @@ todd
 and
 joseph
 a
-discuss
+discus
 earlier
 i
 did
@@ -144,7 +144,7 @@ grep
 binari
 and
 sourc
-pleas
+plea
 let
 me
 know

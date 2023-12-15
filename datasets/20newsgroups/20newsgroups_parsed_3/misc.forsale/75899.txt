@@ -91,7 +91,7 @@ my
 price
 obo
 ship
-pleas
+plea
 email
 me
 at

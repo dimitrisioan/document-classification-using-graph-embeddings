@@ -2,7 +2,7 @@ subject
 decemb
 prc
 meet
-pleas
+plea
 mark
 your
 calendar
@@ -74,7 +74,7 @@ enron
 wholesal
 servic
 group
-pleas
+plea
 plan
 to
 be
@@ -92,7 +92,7 @@ will
 be
 devot
 to
-discuss
+discus
 prc
 result
 of
@@ -147,17 +147,17 @@ organ
 unit
 list
 abov
-pleas
+plea
 be
 prepar
 to
 present
 and
-discu
+discus
 your
 vice
 presid
-pleas
+plea
 feel
 free
 to

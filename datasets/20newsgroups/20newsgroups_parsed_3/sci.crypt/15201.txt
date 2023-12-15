@@ -23,7 +23,7 @@ from
 micmail
 note
 in
-pass
+pas
 that
 if
 i
@@ -104,7 +104,7 @@ want
 freeli
 to
 export
-us
+use
 of
 algorithm
 like

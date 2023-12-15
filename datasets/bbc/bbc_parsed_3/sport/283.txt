@@ -4,7 +4,7 @@ after
 carrol
 error
 spur
-bo
+bos
 martin
 jol
 said
@@ -172,7 +172,7 @@ well
 but
 i
 am
-pleas
+plea
 even
 now
 with
@@ -419,7 +419,7 @@ area
 of
 footbal
 arsen
-bo
+bos
 arsen
 wenger
 also

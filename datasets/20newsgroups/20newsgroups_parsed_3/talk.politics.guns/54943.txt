@@ -233,7 +233,7 @@ time
 most
 self
 defens
-us
+use
 of
 firearm
 dont
@@ -351,7 +351,7 @@ the
 type
 we
 are
-discuss
+discus
 arent
 deadli
 weapon
@@ -476,7 +476,7 @@ often
 the
 littl
 bullet
-go
+goe
 off
 into
 the
@@ -491,7 +491,7 @@ to
 other
 use
 or
-els
+el
 uncl
 frank
 get
@@ -512,7 +512,7 @@ when
 compar
 to
 other
-us
+use
 it
 is
 veri

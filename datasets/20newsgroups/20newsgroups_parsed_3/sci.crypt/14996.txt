@@ -35,7 +35,7 @@ ani
 publickey
 implement
 that
-us
+use
 rsaref
 and
 will
@@ -150,7 +150,7 @@ disclos
 all
 of
 it
-motif
+motiv
 and
 intent
 institut
@@ -166,7 +166,7 @@ intent
 in
 ani
 meaning
-sens
+sen
 william
 hugh
 murray

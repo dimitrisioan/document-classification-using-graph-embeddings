@@ -25,7 +25,7 @@ is
 so
 veri
 good
-pleas
+plea
 note
 that
 bill
@@ -427,7 +427,7 @@ seattl
 wa
 if
 all
-els
+el
 fail
 tri
 uunetpilchuckrwingpat

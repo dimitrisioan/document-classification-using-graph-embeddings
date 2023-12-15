@@ -11,7 +11,7 @@ john
 a
 per
 our
-discuss
+discus
 and
 e
 mail
@@ -201,7 +201,7 @@ pool
 point
 base
 network
-pleas
+plea
 repli
 asap
 if

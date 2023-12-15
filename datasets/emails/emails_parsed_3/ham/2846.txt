@@ -85,7 +85,7 @@ vinc
 a
 promis
 enclos
-pleas
+plea
 find
 a
 brief
@@ -129,7 +129,7 @@ in
 spring
 feb
 to
-discu
+discus
 four
 topic
 risk

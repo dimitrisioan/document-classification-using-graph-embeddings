@@ -120,7 +120,7 @@ i
 figur
 one
 end
-go
+goe
 in
 the
 control

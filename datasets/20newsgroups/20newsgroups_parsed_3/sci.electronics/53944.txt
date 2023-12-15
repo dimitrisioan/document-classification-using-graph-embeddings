@@ -142,7 +142,7 @@ flow
 the
 light
 bulb
-go
+goe
 in
 the
 bottom
@@ -218,7 +218,7 @@ my
 oven
 if
 your
-go
+goe
 down
 to
 that
@@ -315,7 +315,7 @@ i
 still
 miss
 my
-bo
+bos
 but
 my
 aim
@@ -347,7 +347,7 @@ mail
 hub
 usenet
 newsgroup
-pleas
+plea
 rout
 all
 question

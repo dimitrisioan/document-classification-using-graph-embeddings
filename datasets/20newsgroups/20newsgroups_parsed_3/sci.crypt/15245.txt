@@ -240,7 +240,7 @@ to
 break
 the
 method
-us
+use
 xor
 with
 two
@@ -512,7 +512,7 @@ remov
 the
 key
 and
-leaf
+leav
 you
 with
 text
@@ -737,7 +737,7 @@ the
 usa
 sinc
 it
-us
+use
 the
 rsa
 algorithm
@@ -767,7 +767,7 @@ the
 usa
 sinc
 it
-us
+use
 the
 rsaref
 which
@@ -804,7 +804,7 @@ pgp
 use
 idea
 ripem
-us
+use
 de
 and
 rsa
@@ -1661,7 +1661,7 @@ the
 line
 use
 in
-discuss
+discus
 unic
 distanc
 like
@@ -1806,7 +1806,7 @@ enemi
 is
 in
 full
-possess
+posse
 of
 the
 detail
@@ -2201,7 +2201,7 @@ the
 question
 doesnt
 make
-sens
+sen
 what
 do
 you
@@ -2276,7 +2276,7 @@ for
 all
 reason
 statist
-us
+use
 these
 slight
 discrep

@@ -419,7 +419,7 @@ orthomolecular
 nutritionist
 thi
 group
-us
+use
 high
 dose
 vitamin
@@ -1258,7 +1258,7 @@ supplement
 to
 tri
 to
-loos
+loo
 weight
 they
 just
@@ -1328,7 +1328,7 @@ talk
 about
 just
 say
-pleas
+plea
 get
 a
 copi

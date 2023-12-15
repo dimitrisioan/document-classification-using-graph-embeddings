@@ -147,7 +147,7 @@ thi
 the
 outgo
 mail
-go
+goe
 to
 a
 unix
@@ -303,7 +303,7 @@ find
 out
 anyth
 knew
-pleas
+plea
 drop
 me
 a

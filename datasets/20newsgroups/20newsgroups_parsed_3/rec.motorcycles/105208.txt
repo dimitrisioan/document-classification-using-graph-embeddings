@@ -3,7 +3,7 @@ help
 on
 uk
 law
-pleas
+plea
 greet
 all
 can
@@ -50,7 +50,7 @@ wa
 youngbut
 i
 have
-pass
+pas
 my
 car
 drive

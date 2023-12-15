@@ -1,5 +1,5 @@
 subject
-pleas
+plea
 help
 with
 purchas
@@ -131,7 +131,7 @@ consid
 acer
 touch
 what
-els
+el
 should
 i
 ask

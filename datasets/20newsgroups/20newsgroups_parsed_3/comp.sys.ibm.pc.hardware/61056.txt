@@ -11,7 +11,7 @@ write
 onc
 again
 someon
-els
+el
 with
 a
 gateway
@@ -21,7 +21,7 @@ anyon
 who
 can
 help
-pleas
+plea
 do
 it
 would

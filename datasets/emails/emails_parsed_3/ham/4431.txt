@@ -1349,7 +1349,7 @@ on
 given
 that
 thi
-discuss
+discus
 wa
 recogn
 a
@@ -1380,7 +1380,7 @@ of
 the
 peril
 of
-discuss
+discus
 sla
 and
 metric

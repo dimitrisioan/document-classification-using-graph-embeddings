@@ -81,7 +81,7 @@ portinfrar
 portic
 card
 slot
-us
+use
 aaa
 batteri
 about

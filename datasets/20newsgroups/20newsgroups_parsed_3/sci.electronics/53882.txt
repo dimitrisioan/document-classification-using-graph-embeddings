@@ -28,7 +28,7 @@ separ
 ground
 one
 ground
-go
+goe
 to
 the
 ground
@@ -64,7 +64,7 @@ ani
 the
 boxfacepl
 ground
-go
+goe
 to
 the
 normal

@@ -35,7 +35,7 @@ instruct
 on
 bike
 prep
-pleas
+plea
 post
 em
 again

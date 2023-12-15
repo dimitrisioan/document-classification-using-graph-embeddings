@@ -86,7 +86,7 @@ get
 it
 from
 someon
-els
+el
 howev
 i
 can
@@ -99,7 +99,7 @@ of
 ani
 board
 which
-us
+use
 the
 rockwel
 mpu

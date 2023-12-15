@@ -32,7 +32,7 @@ a
 spreadsheet
 trigger
 event
-pleas
+plea
 be
 advis
 whether

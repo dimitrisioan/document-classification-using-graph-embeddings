@@ -71,7 +71,7 @@ all
 about
 have
 to
-puls
+pul
 the
 signal
 and
@@ -172,7 +172,7 @@ be
 greatli
 appreci
 also
-pleas
+plea
 repli
 via
 email

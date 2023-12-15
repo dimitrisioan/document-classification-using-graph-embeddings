@@ -104,7 +104,7 @@ to
 seek
 refug
 somewher
-els
+el
 a
 reason
 for
@@ -167,7 +167,7 @@ a
 well
 a
 anyth
-els
+el
 they
 want
 that
@@ -539,7 +539,7 @@ some
 arab
 citi
 where
-bu
+buse
 run
 on
 the

@@ -384,7 +384,7 @@ on
 inform
 the
 lawmast
-possess
+posse
 an
 illeg
 firearm
@@ -855,7 +855,7 @@ owner
 and
 the
 govern
-leaf
+leav
 them
 open
 unlock

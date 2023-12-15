@@ -40,7 +40,7 @@ that
 everi
 byte
 that
-pass
+pas
 everi
 signific
 gateway
@@ -100,7 +100,7 @@ particular
 meet
 could
 be
-pass
+pas
 out
 by
 a

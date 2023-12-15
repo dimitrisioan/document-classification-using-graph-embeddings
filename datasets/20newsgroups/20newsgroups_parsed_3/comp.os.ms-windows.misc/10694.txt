@@ -341,7 +341,7 @@ to
 ensur
 the
 instal
-go
+goe
 smoothli
 note
 that
@@ -448,7 +448,7 @@ offer
 or
 doe
 anybodi
-els
+el
 a
 compar
 product

@@ -212,7 +212,7 @@ associ
 volatil
 and
 correl
-matrix
+matric
 in
 summari
 i

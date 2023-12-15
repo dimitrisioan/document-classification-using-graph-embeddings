@@ -79,7 +79,7 @@ onli
 cost
 a
 few
-penni
+penc
 email
 report
 of
@@ -99,7 +99,7 @@ if
 possibl
 when
 it
-pass
+pas
 abov
 or
 below
@@ -127,7 +127,7 @@ in
 uk
 mir
 will
-pa
+pas
 in
 front
 of
@@ -135,7 +135,7 @@ the
 moon
 each
 night
-pleas
+plea
 alert
 local
 club

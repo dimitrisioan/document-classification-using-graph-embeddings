@@ -208,7 +208,7 @@ receiv
 a
 pure
 market
-pa
+pas
 through
 of
 the

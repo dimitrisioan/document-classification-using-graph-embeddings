@@ -1,4 +1,4 @@
-chines
+chine
 wine
 tempt
 itali
@@ -57,7 +57,7 @@ state
 asset
 manag
 bureau
-chines
+chine
 wine
 sale
 are
@@ -96,7 +96,7 @@ all
 invest
 in
 the
-chines
+chine
 beer
 industri
 in
@@ -112,7 +112,7 @@ is
 bet
 on
 the
-chines
+chine
 wine
 market
 yantai

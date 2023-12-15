@@ -5,7 +5,7 @@ confer
 program
 ucla
 juli
-pleas
+plea
 find
 attach
 the
@@ -146,7 +146,7 @@ complementari
 event
 we
 are
-pleas
+plea
 to
 present
 an
@@ -167,7 +167,7 @@ corpor
 execut
 and
 panel
-discuss
+discus
 by
 expert
 from

@@ -110,7 +110,7 @@ day
 for
 hotel
 tax
-pleas
+plea
 email
 your
 respond

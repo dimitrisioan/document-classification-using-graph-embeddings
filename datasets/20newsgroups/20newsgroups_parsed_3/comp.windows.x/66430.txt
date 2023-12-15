@@ -957,7 +957,7 @@ x
 server
 the
 tool
-us
+use
 the
 miff
 format
@@ -1458,7 +1458,7 @@ you
 need
 to
 stti
-pa
+pas
 but
 also
 to
@@ -1591,7 +1591,7 @@ is
 ok
 a
 it
-us
+use
 charact
 for
 it
@@ -1999,7 +1999,7 @@ it
 read
 it
 and
-us
+use
 it
 and
 stop
@@ -2949,7 +2949,7 @@ bdf
 format
 see
 olli
-jone
+jones
 articl
 in
 the
@@ -3724,7 +3724,7 @@ for
 creat
 a
 similar
-alia
+alias
 file
 for
 the
@@ -4565,7 +4565,7 @@ distribut
 directli
 from
 mit
-pleas
+plea
 read
 the
 file
@@ -4595,7 +4595,7 @@ thi
 error
 which
 typic
-go
+goe
 on
 to
 say
@@ -4818,7 +4818,7 @@ the
 file
 xwebsterreadm
 includ
-discuss
+discus
 of
 the
 avail
@@ -5066,7 +5066,7 @@ by
 individu
 and
 compani
-pleas
+plea
 use
 a
 site
@@ -5294,7 +5294,7 @@ australia
 munnarioz
 fetchfil
 xvr
-pleas
+plea
 fetch
 onli
 one
@@ -5610,7 +5610,7 @@ are
 avail
 on
 dsincdsicom
-pleas
+plea
 onli
 afterhour
 usa

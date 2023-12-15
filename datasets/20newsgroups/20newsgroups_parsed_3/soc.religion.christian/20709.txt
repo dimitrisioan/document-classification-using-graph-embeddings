@@ -238,7 +238,7 @@ the
 note
 give
 no
-sens
+sen
 that
 thi
 is
@@ -272,7 +272,7 @@ their
 view
 is
 anyon
-els
+el
 out
 there
 forc
@@ -321,7 +321,7 @@ theolog
 thing
 like
 one
-essens
+essen
 and
 three
 person
@@ -431,7 +431,7 @@ act
 a
 well
 thi
-leaf
+leav
 u
 with
 sort

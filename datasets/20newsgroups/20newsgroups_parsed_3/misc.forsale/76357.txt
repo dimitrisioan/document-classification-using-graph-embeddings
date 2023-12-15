@@ -14,7 +14,7 @@ sale
 minolta
 with
 three
-len
+lens
 ricoh
 with
 zoom

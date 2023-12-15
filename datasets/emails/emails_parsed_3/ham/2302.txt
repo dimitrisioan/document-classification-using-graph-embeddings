@@ -39,7 +39,7 @@ sep
 end
 date
 dec
-pleas
+plea
 check
 the
 result

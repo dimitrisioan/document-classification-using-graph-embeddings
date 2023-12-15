@@ -121,7 +121,7 @@ contact
 a
 nutritionist
 to
-discu
+discus
 altern
 treatment
 sinc
@@ -152,7 +152,7 @@ philli
 area
 nutritionist
 or
-els
+el
 some
 literatur
 to
@@ -452,7 +452,7 @@ that
 i
 use
 to
-devis
+devi
 a
 treatment
 program
@@ -876,7 +876,7 @@ to
 setup
 a
 nutrit
-assess
+ass
 lab
 thi
 is
@@ -924,7 +924,7 @@ the
 mayo
 clinic
 alreadi
-us
+use
 a
 similiar
 lab
@@ -957,7 +957,7 @@ also
 oper
 a
 nutrit
-assess
+ass
 clinic
 lab
 i
@@ -1394,7 +1394,7 @@ if
 you
 or
 anyon
-els
+el
 find
 someon
 who
@@ -1488,7 +1488,7 @@ we
 have
 more
 nutrit
-assess
+ass
 clinic
 lab
 in
@@ -1513,12 +1513,12 @@ these
 lab
 provid
 to
-devis
+devi
 a
 treatment
 approach
 that
-us
+use
 diet
 chang
 and

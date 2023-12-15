@@ -31,7 +31,7 @@ digit
 option
 formula
 attach
-pleas
+plea
 find
 the
 c

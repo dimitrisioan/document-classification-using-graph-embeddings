@@ -116,7 +116,7 @@ care
 the
 filter
 method
-us
+use
 an
 fir
 finit

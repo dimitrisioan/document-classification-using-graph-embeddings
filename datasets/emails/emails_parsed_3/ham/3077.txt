@@ -709,7 +709,7 @@ understand
 pg
 e
 s
-motif
+motiv
 the
 one
 question
@@ -787,7 +787,7 @@ made
 it
 clear
 in
-discuss
+discus
 that
 the
 price
@@ -1022,7 +1022,7 @@ credit
 market
 with
 rel
-eas
+ea
 and
 then
 show
@@ -1351,7 +1351,7 @@ it
 on
 agenda
 for
-discuss
+discus
 the
 deal
 is

@@ -125,7 +125,7 @@ under
 mw
 will
 be
-discuss
+discus
 through
 pjm
 s
@@ -296,7 +296,7 @@ that
 are
 in
 oper
-pleas
+plea
 do
 not
 repli
@@ -314,7 +314,7 @@ custom
 relat
 and
 train
-pleas
+plea
 send
 an
 e

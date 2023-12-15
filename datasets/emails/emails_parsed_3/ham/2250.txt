@@ -19,7 +19,7 @@ the
 multi
 trigger
 transact
-pleas
+plea
 call
 if
 you

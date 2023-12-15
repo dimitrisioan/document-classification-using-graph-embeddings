@@ -418,7 +418,7 @@ with
 dog
 would
 have
-pass
+pas
 into
 histori
 like

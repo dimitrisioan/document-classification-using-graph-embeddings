@@ -184,9 +184,9 @@ a
 public
 servic
 announc
-testi
+test
 saxi
-solidu
+solidus
 podex
 opacu
 gravedinosu

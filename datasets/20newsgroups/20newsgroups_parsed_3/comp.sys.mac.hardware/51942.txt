@@ -106,7 +106,7 @@ are
 interfac
 use
 mac
-plu
+pluse
 i
 set
 everyth
@@ -164,9 +164,9 @@ thi
 topic
 ha
 been
-discuss
+discus
 alreadi
-pleas
+plea
 excus
 me
 and

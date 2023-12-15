@@ -24,7 +24,7 @@ john
 martin
 from
 baylor
-pleas
+plea
 review
 the
 draft
@@ -94,7 +94,7 @@ i
 d
 like
 to
-discu
+discus
 with
 you
 and

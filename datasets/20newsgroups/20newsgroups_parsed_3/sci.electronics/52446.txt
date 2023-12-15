@@ -67,7 +67,7 @@ in
 adv
 for
 season
-pa
+pas
 rd
 sunday
 each

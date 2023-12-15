@@ -115,7 +115,7 @@ help
 id
 be
 grate
-pleas
+plea
 email
 me
 your

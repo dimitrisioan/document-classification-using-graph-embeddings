@@ -164,7 +164,7 @@ oper
 system
 idl
 loop
-us
+use
 the
 halt
 instruct

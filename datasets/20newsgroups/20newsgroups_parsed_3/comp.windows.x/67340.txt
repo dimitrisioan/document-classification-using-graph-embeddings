@@ -1,7 +1,7 @@
 subject
 use
 messag
-pass
+pas
 with
 xtaddinput
 in
@@ -39,7 +39,7 @@ do
 thi
 with
 messag
-pass
+pas
 ipc
 i
 tri

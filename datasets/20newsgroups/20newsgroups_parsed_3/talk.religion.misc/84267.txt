@@ -44,7 +44,7 @@ frame
 of
 refer
 which
-go
+goe
 faster
 a
 bullet
@@ -238,7 +238,7 @@ im
 sorri
 i
 cant
-pars
+par
 an
 object
 realiti

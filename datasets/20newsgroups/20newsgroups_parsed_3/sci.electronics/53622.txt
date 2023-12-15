@@ -57,7 +57,7 @@ hard
 number
 so
 here
-go
+goe
 for
 trace
 on
@@ -115,7 +115,7 @@ onli
 about
 degre
 power
-go
+goe
 a
 squar
 of
@@ -125,11 +125,11 @@ plu
 the
 copper
 resist
-go
+goe
 up
 a
 temperatur
-go
+goe
 up
 certainli
 mm
@@ -211,7 +211,7 @@ short
 and
 use
 separ
-sens
+sen
 trace
 where
 appropri

@@ -15,7 +15,7 @@ bbc
 pundit
 jonathan
 edward
-belief
+believ
 phillip
 idowu
 can
@@ -115,7 +115,7 @@ manchest
 game
 but
 he
-belief
+believ
 the
 european
 indoor

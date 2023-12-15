@@ -190,7 +190,7 @@ and
 market
 effici
 corpor
-us
+use
 of
 deriv
 for

@@ -146,13 +146,13 @@ server
 and
 go
 somewher
-els
+el
 to
 run
 the
 window
 manag
-pleas
+plea
 respond
 my
 email

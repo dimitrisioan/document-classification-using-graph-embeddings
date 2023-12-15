@@ -51,7 +51,7 @@ expect
 warn
 found
 while
-pars
+par
 pjp
 x
 error

@@ -102,7 +102,7 @@ and
 ssrt
 repres
 the
-pass
+pas
 of
 a
 torch
@@ -156,7 +156,7 @@ physic
 it
 made
 no
-sens
+sen
 for
 exampl
 dr
@@ -719,7 +719,7 @@ staff
 summari
 sheet
 requir
-analysi
+analys
 and
 decad
 long

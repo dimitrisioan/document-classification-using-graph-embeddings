@@ -101,7 +101,7 @@ that
 when
 the
 dollar
-go
+goe
 down
 it
 increas

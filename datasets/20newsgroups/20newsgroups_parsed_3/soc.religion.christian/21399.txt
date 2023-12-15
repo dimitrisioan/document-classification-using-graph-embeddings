@@ -221,7 +221,7 @@ and
 the
 other
 are
-discuss
+discus
 by
 the
 father
@@ -396,7 +396,7 @@ be
 reason
 if
 all
-els
+el
 fail
 show
 me

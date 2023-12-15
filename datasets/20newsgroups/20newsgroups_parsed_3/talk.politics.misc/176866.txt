@@ -300,7 +300,7 @@ are
 applic
 to
 anyon
-els
+el
 or
 that
 they
@@ -769,7 +769,7 @@ on
 their
 own
 head
-needl
+needle
 to
 say
 none

@@ -246,7 +246,7 @@ is
 v
 and
 it
-us
+use
 a
 serial
 interfac
@@ -343,7 +343,7 @@ the
 i
 would
 appreci
-discuss
+discus
 of
 your
 person

@@ -81,7 +81,7 @@ to
 the
 object
 that
-us
+use
 them
 palett
 are

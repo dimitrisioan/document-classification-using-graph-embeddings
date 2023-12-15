@@ -13,7 +13,7 @@ dock
 deck
 deck
 that
-go
+goe
 on
 back
 of
@@ -30,7 +30,7 @@ ani
 format
 is
 accept
-pleas
+plea
 send
 me
 a

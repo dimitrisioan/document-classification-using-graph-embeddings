@@ -17,7 +17,7 @@ bulk
 or
 junk
 folder
-pleas
+plea
 add
 news
 real
@@ -90,7 +90,7 @@ often
 a
 you
 want
-pleas
+plea
 note
 subscript
 are
@@ -273,6 +273,6 @@ unsubscrib
 from
 starz
 email
-pleas
+plea
 visit
 here

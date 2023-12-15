@@ -128,7 +128,7 @@ remov
 from
 our
 list
-pleas
+plea
 email
 at
 standardoptout

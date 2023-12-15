@@ -2,7 +2,7 @@ subject
 win
 icon
 help
-pleas
+plea
 i
 have
 win
@@ -34,6 +34,6 @@ appreci
 thanx
 brando
 p
-pleas
+plea
 email
 me

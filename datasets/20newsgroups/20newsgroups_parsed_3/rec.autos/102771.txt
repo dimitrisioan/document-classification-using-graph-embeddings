@@ -88,7 +88,7 @@ an
 automot
 mail
 list
-pleas
+plea
 let
 me
 know
@@ -165,7 +165,7 @@ sever
 day
 after
 anyon
-els
+el
 or
 that
 you
@@ -464,7 +464,7 @@ the
 request
 address
 also
-serf
+serv
 a
 the
 point
@@ -574,7 +574,7 @@ list
 the
 name
 is
-pass
+pas
 in
 from
 outsid

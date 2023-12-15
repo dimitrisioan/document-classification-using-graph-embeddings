@@ -50,11 +50,11 @@ all
 a
 a
 torqu
-sens
+sen
 differenti
 a
 torqu
-sens
+sen
 differenti
 is
 a
@@ -67,7 +67,7 @@ all
 lsd
 are
 torqu
-sens
+sen
 viscou
 coupl
 differenti
@@ -78,10 +78,10 @@ viscou
 coupl
 are
 rotat
-sens
+sen
 not
 torqu
-sens
+sen
 for
 that
 matter
@@ -95,7 +95,7 @@ use
 ab
 sensor
 and
-puls
+pul
 brake
 then
 there

@@ -90,7 +90,7 @@ remov
 from
 thi
 list
-pleas
+plea
 repli
 with
 remov
@@ -98,7 +98,7 @@ in
 the
 subject
 line
-pleas
+plea
 allow
 a
 few

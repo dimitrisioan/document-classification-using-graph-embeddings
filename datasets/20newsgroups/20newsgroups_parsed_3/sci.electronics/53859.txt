@@ -11,7 +11,7 @@ ise
 write
 could
 someon
-pleas
+plea
 tell
 me
 if
@@ -69,7 +69,7 @@ to
 do
 thi
 circuit
-pleas
+plea
 make
 ani
 mail
@@ -130,7 +130,7 @@ on
 the
 other
 hand
-us
+use
 two
 control
 input
@@ -336,7 +336,7 @@ four
 final
 stage
 decod
-pleas
+plea
 give
 me
 the

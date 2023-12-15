@@ -79,7 +79,7 @@ driven
 saturn
 speed
 input
-pleas
+plea
 anoth
 question
 ani
@@ -91,7 +91,7 @@ chrysler
 lh
 doe
 anyon
-els
+el
 out
 there
 fall

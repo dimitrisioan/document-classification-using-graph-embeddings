@@ -71,7 +71,7 @@ suggest
 around
 here
 dure
-discuss
+discus
 of
 possibl
 nearterm
@@ -85,14 +85,14 @@ folk
 involv
 in
 those
-discuss
+discus
 a
 spacecraft
 engin
 name
 preston
 carter
-pass
+pas
 the
 suggest
 on
@@ -533,7 +533,7 @@ is
 be
 veri
 serious
-discuss
+discus
 with
 possibl
 advertis
@@ -570,7 +570,7 @@ though
 if
 thi
 project
-go
+goe
 through
 i
 suppos

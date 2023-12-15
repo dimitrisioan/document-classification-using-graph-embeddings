@@ -155,7 +155,7 @@ must
 subsid
 becaus
 everybodi
-els
+el
 doe
 thi
 sound
@@ -236,7 +236,7 @@ money
 it
 make
 littl
-sens
+sen
 to
 tri
 to
@@ -318,7 +318,7 @@ larg
 construct
 project
 now
-us
+use
 these
 tool
 ken

@@ -30,7 +30,7 @@ figur
 out
 how
 well
-bats
+bat
 can
 determin
 the
@@ -109,7 +109,7 @@ power
 of
 the
 optic
-bats
+bat
 is
 an
 altogeth
@@ -301,7 +301,7 @@ is
 come
 from
 kevin
-bats
+bat
 alon
 isnt
 alway
@@ -365,7 +365,7 @@ gener
 circl
 given
 by
-bats
+bat
 and
 we
 can
@@ -430,7 +430,7 @@ of
 eq
 well
 a
-bats
+bat
 detector
 need
 lead

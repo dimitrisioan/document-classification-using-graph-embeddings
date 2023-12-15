@@ -30,7 +30,7 @@ do
 program
 when
 she
-go
+goe
 back
 to
 window
@@ -41,7 +41,7 @@ have
 chang
 if
 she
-go
+goe
 back
 to
 a
@@ -50,7 +50,7 @@ do
 program
 and
 then
-go
+goe
 back
 to
 window

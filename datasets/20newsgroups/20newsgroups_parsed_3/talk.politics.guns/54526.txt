@@ -124,7 +124,7 @@ andor
 fusion
 of
 atom
-nucleu
+nucleus
 let
 defin
 a
@@ -134,7 +134,7 @@ a
 live
 organ
 or
-viru
+virus
 in
 such
 state
@@ -181,7 +181,7 @@ well
 defin
 other
 poison
-ga
+gas
 should
 be
 individu

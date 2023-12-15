@@ -120,7 +120,7 @@ suborbit
 dcxa
 sdio
 is
-pass
+pas
 a
 tin
 cup
@@ -277,7 +277,7 @@ hardwar
 develop
 the
 agenc
-belief
+believ
 thi
 philosophi
 can
@@ -375,7 +375,7 @@ lean
 manag
 and
 a
-sens
+sen
 of
 governmentindustri
 partnership
@@ -397,7 +397,7 @@ structur
 where
 the
 price
-go
+goe
 up
 exponenti
 sdio
@@ -820,7 +820,7 @@ the
 dcx
 each
 motor
-us
+use
 liquid
 hydrogen
 and
@@ -891,7 +891,7 @@ engin
 could
 burn
 a
-dens
+den
 hydrocarbon
 fuel
 at

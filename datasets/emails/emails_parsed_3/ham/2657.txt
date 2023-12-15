@@ -57,7 +57,7 @@ page
 via
 ftp
 then
-pars
+par
 into
 a
 databas

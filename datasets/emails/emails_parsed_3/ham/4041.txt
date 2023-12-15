@@ -63,7 +63,7 @@ cancel
 or
 trust
 signer
-pleas
+plea
 select
 trust
 signer
@@ -164,7 +164,7 @@ you
 encount
 ani
 error
-pleas
+plea
 contact
 the
 resolut

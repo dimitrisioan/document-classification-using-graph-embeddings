@@ -19,7 +19,7 @@ peopl
 opinion
 on
 ethic
-us
+use
 of
 the
 net
@@ -139,7 +139,7 @@ and
 the
 messag
 be
-pass
+pas
 in
 the
 technolog

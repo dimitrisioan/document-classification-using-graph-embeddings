@@ -115,7 +115,7 @@ version
 i
 am
 veri
-pleas
+plea
 with
 it
 perform
@@ -141,7 +141,7 @@ s
 compress
 all
 the
-discuss
+discus
 on
 the
 net

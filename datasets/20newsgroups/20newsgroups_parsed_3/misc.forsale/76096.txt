@@ -41,7 +41,7 @@ game
 separatley
 at
 each
-pleas
+plea
 call
 mike
 day

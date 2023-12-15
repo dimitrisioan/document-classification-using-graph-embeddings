@@ -8,7 +8,7 @@ c
 berkeley
 sevil
 ye
-pleas
+plea
 go
 ahead
 we
@@ -131,7 +131,7 @@ legisl
 and
 research
 to
-discu
+discus
 the
 electr
 restructur
@@ -158,7 +158,7 @@ pm
 with
 two
 roundtabl
-discuss
+discus
 that
 will
 includ

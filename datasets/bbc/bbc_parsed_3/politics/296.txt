@@ -1,4 +1,4 @@
-tori
+torus
 leav
 door
 open
@@ -64,7 +64,7 @@ of
 justic
 the
 former
-tori
+torus
 deputi
 chairman
 fiveyear
@@ -175,7 +175,7 @@ minist
 and
 alastair
 campbel
-tori
+torus
 peer
 lord
 tebbit
@@ -272,7 +272,7 @@ popular
 figur
 among
 constitu
-tori
+torus
 parti
 and
 is

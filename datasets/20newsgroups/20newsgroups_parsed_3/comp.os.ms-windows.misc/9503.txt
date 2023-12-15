@@ -38,7 +38,7 @@ cwindowssystemvgalogorl
 if
 my
 memori
-serf
+serv
 me
 correctli
 rle

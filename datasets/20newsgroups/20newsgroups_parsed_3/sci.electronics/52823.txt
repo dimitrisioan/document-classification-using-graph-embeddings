@@ -72,11 +72,11 @@ of
 the
 h
 sync
-puls
+pul
 off
 by
 a
-puls
+pul
 width
 but
 that
@@ -168,7 +168,7 @@ proper
 composit
 sync
 equal
-puls
+pul
 the
 interlac
 is
@@ -187,7 +187,7 @@ cc
 tafc
 spokan
 wa
-ii
+iis
 cc
 uucp
 uunetiscbrjimc

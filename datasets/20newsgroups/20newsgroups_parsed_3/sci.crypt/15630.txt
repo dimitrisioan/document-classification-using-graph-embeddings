@@ -22,7 +22,7 @@ thousand
 do
 some
 arithmet
-pleas
+plea
 skipjack
 ha
 possibl

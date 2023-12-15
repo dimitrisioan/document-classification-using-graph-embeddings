@@ -380,7 +380,7 @@ depart
 have
 to
 make
-sens
+sen
 of
 thi
 battl
@@ -402,7 +402,7 @@ blair
 and
 mr
 brown
-tori
+torus
 shadow
 chancellor
 oliv

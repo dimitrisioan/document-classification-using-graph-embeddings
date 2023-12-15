@@ -77,7 +77,7 @@ not
 in
 fact
 true
-pleas
+plea
 tell
 me
 thank

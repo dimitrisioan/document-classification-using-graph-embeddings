@@ -85,7 +85,7 @@ an
 ac
 signal
 which
-go
+goe
 from
 about
 v
@@ -152,7 +152,7 @@ output
 is
 then
 low
-pa
+pas
 filter
 i
 believ

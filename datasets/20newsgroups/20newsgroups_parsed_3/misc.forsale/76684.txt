@@ -42,7 +42,7 @@ split
 the
 sh
 charg
-pleas
+plea
 repli
 by
 email

@@ -27,7 +27,7 @@ use
 phrase
 in
 a
-discuss
+discus
 of
 the
 boundari
@@ -98,7 +98,7 @@ extra
 ration
 case
 are
-curios
+curio
 not
 guid
 to

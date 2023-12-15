@@ -396,7 +396,7 @@ is
 also
 evid
 that
-prof
+prove
 the
 fact
 that

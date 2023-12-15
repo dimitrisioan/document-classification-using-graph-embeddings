@@ -22,7 +22,7 @@ exist
 how
 about
 quack
-diagnosi
+diagnos
 is
 be
 a
@@ -262,7 +262,7 @@ ha
 decid
 to
 quit
-discuss
+discus
 ani
 controversi
 medic

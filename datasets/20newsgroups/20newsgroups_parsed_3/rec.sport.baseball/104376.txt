@@ -707,7 +707,7 @@ s
 or
 s
 and
-howe
+how
 isinfinit
 i
 didnt
@@ -727,7 +727,7 @@ their
 act
 togeth
 or
-els
+el
 buck
 gon
 na

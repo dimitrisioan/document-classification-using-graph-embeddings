@@ -127,7 +127,7 @@ answer
 if
 my
 memori
-serf
+serv
 me
 the
 scsi

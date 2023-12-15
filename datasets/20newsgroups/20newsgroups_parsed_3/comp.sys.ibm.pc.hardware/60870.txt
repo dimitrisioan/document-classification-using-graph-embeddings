@@ -43,7 +43,7 @@ sort
 of
 cdrom
 materi
-pleas
+plea
 repost
 thi
 cfv
@@ -205,7 +205,7 @@ abstain
 a
 you
 will
-pleas
+plea
 provid
 your
 name
@@ -516,7 +516,7 @@ a
 forum
 for
 the
-discuss
+discus
 relat
 to
 their
@@ -529,7 +529,7 @@ main
 forum
 for
 such
-discuss
+discus
 are
 in
 altcdrom
@@ -551,7 +551,7 @@ gener
 cdrom
 commun
 with
-focu
+focus
 on
 librari
 govern
@@ -894,7 +894,7 @@ be
 a
 newsgroup
 for
-discuss
+discus
 of
 the
 follow
@@ -953,7 +953,7 @@ be
 a
 newsgroup
 for
-discuss
+discus
 of
 the
 follow
@@ -1009,7 +1009,7 @@ be
 a
 newsgroup
 for
-discuss
+discus
 of
 the
 follow
@@ -1086,4 +1086,4 @@ nor
 that
 of
 anyon
-els
+el

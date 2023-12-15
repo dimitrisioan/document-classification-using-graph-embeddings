@@ -635,7 +635,7 @@ slip
 xf
 c
 a
-discuss
+discus
 abov
 if
 you
@@ -975,7 +975,7 @@ that
 you
 dial
 in
-pleas
+plea
 tri
 to
 use
@@ -1140,7 +1140,7 @@ by
 victor
 menayang
 victor
-us
+use
 the
 program
 bootpq
@@ -1239,7 +1239,7 @@ more
 detail
 about
 bootpq
-pleas
+plea
 contact
 victor
 menayang

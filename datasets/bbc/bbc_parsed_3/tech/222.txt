@@ -2,7 +2,7 @@ medium
 gadget
 get
 move
-pockets
+pocket
 devic
 that
 let
@@ -706,5 +706,5 @@ will
 be
 hit
 the
-shelf
+shelv
 in

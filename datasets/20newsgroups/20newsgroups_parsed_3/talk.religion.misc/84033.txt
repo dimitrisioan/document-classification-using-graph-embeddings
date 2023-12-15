@@ -6,7 +6,7 @@ new
 age
 suggest
 tri
-expos
+expo
 the
 new
 age

@@ -198,7 +198,7 @@ minor
 to
 develop
 a
-sens
+sen
 of
 belong
 in
@@ -596,7 +596,7 @@ the
 speech
 of
 hi
-tori
+torus
 oppon
 luci
 wa

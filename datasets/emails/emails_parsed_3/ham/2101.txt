@@ -29,7 +29,7 @@ na
 enron
 enron
 lesli
-reef
+reev
 hou
 ect
 ect
@@ -173,7 +173,7 @@ the
 bod
 s
 chang
-pleas
+plea
 discard
 the
 previous

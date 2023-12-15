@@ -47,7 +47,7 @@ ha
 pick
 up
 the
-children
+child
 fiction
 award
 for
@@ -432,7 +432,7 @@ also
 make
 documentari
 film
-children
+child
 winner
 mccaughrean
 who

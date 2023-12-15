@@ -7,7 +7,7 @@ the
 offici
 request
 for
-discuss
+discus
 rfd
 for
 the
@@ -49,7 +49,7 @@ composmswindowsntsetup
 statu
 unmoder
 purpos
-discuss
+discus
 about
 set
 up
@@ -74,7 +74,7 @@ unmoder
 purpos
 miscellan
 nonprogram
-discuss
+discus
 about
 use
 window
@@ -238,7 +238,7 @@ few
 other
 featur
 it
-us
+use
 program
 manag
 file
@@ -413,10 +413,10 @@ from
 other
 window
 version
-discuss
+discus
 period
 the
-discuss
+discus
 period
 will
 run
@@ -442,7 +442,7 @@ feedback
 receiv
 dure
 the
-discuss
+discus
 period
 no
 vote

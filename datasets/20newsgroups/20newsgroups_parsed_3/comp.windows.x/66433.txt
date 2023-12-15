@@ -1013,7 +1013,7 @@ same
 filenam
 a
 abov
-pleas
+plea
 use
 after
 pm
@@ -1434,7 +1434,7 @@ osf
 a
 of
 august
-us
+use
 the
 vanilla
 xr
@@ -2184,7 +2184,7 @@ the
 one
 modem
 so
-pleas
+plea
 do
 not
 fetch
@@ -2267,7 +2267,7 @@ be
 ad
 to
 the
-discuss
+discus
 list
 send
 to
@@ -2499,7 +2499,7 @@ ftpstnastnadgacfr
 in
 pubgraphtarz
 it
-us
+use
 a
 segment
 list
@@ -2517,7 +2517,7 @@ xm
 widget
 demo
 that
-us
+use
 display
 postscript
 to
@@ -4247,7 +4247,7 @@ that
 support
 display
 of
-chines
+chine
 japanes
 and
 korean
@@ -4324,7 +4324,7 @@ xmtermsrcmtermballowax
 cxterm
 is
 a
-chines
+chine
 xterm
 which
 support
@@ -5341,7 +5341,7 @@ ted
 editor
 which
 it
-us
+use
 for
 compos
 messag

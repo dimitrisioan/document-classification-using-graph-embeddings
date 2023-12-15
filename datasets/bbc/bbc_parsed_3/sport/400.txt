@@ -41,7 +41,7 @@ franc
 itali
 georgia
 and
-chines
+chine
 taipei
 the
 top
@@ -281,7 +281,7 @@ samoa
 franc
 itali
 georgia
-chines
+chine
 taipei
 fiji
 australia

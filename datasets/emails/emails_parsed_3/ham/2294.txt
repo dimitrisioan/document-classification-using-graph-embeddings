@@ -12,7 +12,7 @@ version
 from
 our
 lawyer
-pleas
+plea
 have
 your
 peopl
@@ -64,7 +64,7 @@ cc
 subject
 vmi
 agreement
-pleas
+plea
 find
 attach
 my
@@ -73,7 +73,7 @@ of
 the
 vmi
 agreel
-pleas
+plea
 review
 it
 and

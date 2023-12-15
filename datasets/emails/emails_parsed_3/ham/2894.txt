@@ -43,7 +43,7 @@ group
 base
 on
 our
-discuss
+discus
 here
 are
 some
@@ -450,7 +450,7 @@ don
 t
 like
 for
-discuss
+discus
 purpos
 measur
 evalu

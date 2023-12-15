@@ -60,7 +60,7 @@ limit
 for
 both
 combin
-pleas
+plea
 drop
 me
 a

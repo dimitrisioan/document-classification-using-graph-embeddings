@@ -110,7 +110,7 @@ can
 be
 set
 to
-puls
+pul
 dial
 in
 sweden

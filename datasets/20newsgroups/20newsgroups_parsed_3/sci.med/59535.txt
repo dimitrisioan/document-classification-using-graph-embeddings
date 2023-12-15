@@ -3,7 +3,7 @@ helppurif
 of
 neutrophil
 from
-mous
+mouse
 hello
 i
 need
@@ -20,7 +20,7 @@ the
 peripher
 blood
 of
-mous
+mouse
 becaus
 of
 the

@@ -90,7 +90,7 @@ segment
 if
 the
 client
-dy
+die
 a
 sudden
 violent
@@ -167,7 +167,7 @@ that
 the
 segment
 onli
-dy
+die
 after
 all
 attach
@@ -177,7 +177,7 @@ now
 if
 the
 client
-dy
+die
 that
 one
 attach
@@ -197,7 +197,7 @@ notic
 the
 client
 ha
-dy
+die
 free
 up
 it
@@ -208,7 +208,7 @@ from
 the
 segment
 there
-go
+goe
 the
 last
 attach

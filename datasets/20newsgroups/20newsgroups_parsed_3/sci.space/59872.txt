@@ -85,7 +85,7 @@ the
 space
 and
 astronomi
-discuss
+discus
 group
 actual
 are
@@ -445,7 +445,7 @@ a
 moder
 list
 for
-discuss
+discus
 of
 the
 global
@@ -485,11 +485,11 @@ list
 for
 more
 technic
-discuss
+discus
 of
 space
 topic
-discuss
+discus
 ha
 includ
 esoter
@@ -643,7 +643,7 @@ a
 a
 gener
 note
-pleas
+plea
 mail
 to
 the
@@ -662,7 +662,7 @@ exampl
 relay
 mani
 inappropri
-pleas
+plea
 remov
 me
 from
@@ -713,7 +713,7 @@ creat
 for
 thi
 purpos
-pleas
+plea
 rememb
 that
 the
@@ -836,7 +836,7 @@ from
 flight
 intern
 thi
-focu
+focus
 more
 on
 nonu
@@ -963,7 +963,7 @@ sciastro
 jost
 jahn
 post
-ephemeri
+ephemerid
 for
 asteroid
 comet
@@ -1102,7 +1102,7 @@ site
 for
 the
 report
-pleas
+plea
 note
 thi
 site

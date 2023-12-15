@@ -141,7 +141,7 @@ with
 thi
 name
 for
-discuss
+discus
 on
 wg
 topic
@@ -241,7 +241,7 @@ caida
 member
 i
 who
-els
+el
 would
 you
 suggest
@@ -356,7 +356,7 @@ is
 append
 below
 it
-focu
+focus
 on
 produc
 educ
@@ -469,7 +469,7 @@ to
 determin
 deliveri
 time
-discuss
+discus
 of
 new
 metric
@@ -485,7 +485,7 @@ to
 be
 consid
 anyth
-els
+el
 locat
 abovenet
 is
@@ -519,7 +519,7 @@ with
 organis
 the
 meet
-pleas
+plea
 send
 email
 to
@@ -693,7 +693,7 @@ metric
 question
 appendix
 a
-go
+goe
 here
 organis
 experiment

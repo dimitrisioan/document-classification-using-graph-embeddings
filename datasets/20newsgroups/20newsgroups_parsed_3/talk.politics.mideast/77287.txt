@@ -1,6 +1,6 @@
 subject
 re
-pleas
+plea
 show
 up
 in
@@ -21,7 +21,7 @@ fresh
 case
 of
 ethnic
-cleans
+clean
 but
 just
 anoth
@@ -210,7 +210,7 @@ time
 thi
 week
 that
-discu
+discus
 thi
 issu
 eloqu

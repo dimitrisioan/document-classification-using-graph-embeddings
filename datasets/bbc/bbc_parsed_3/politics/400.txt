@@ -1,7 +1,7 @@
 expm
 lord
 callaghan
-dy
+die
 age
 former
 labour
@@ -19,7 +19,7 @@ hi
 rd
 birthday
 he
-pass
+pas
 away
 at
 home
@@ -37,7 +37,7 @@ age
 lord
 callaghan
 who
-leaf
+leav
 a
 son
 and
@@ -264,7 +264,7 @@ veri
 fond
 of
 him
-tori
+torus
 leader
 michael
 howard
@@ -629,7 +629,7 @@ to
 the
 poll
 in
-tori
+torus
 leader
 margaret
 thatcher

@@ -64,7 +64,7 @@ memori
 circuit
 use
 stone
-knife
+knive
 and
 bearskin
 spock

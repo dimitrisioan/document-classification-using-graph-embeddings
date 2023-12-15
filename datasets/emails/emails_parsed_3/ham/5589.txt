@@ -40,7 +40,7 @@ arriv
 befor
 dec
 nd
-pleas
+plea
 inform
 if
 thi
@@ -51,7 +51,7 @@ kevin
 moor
 i
 will
-discu
+discus
 cost
 with
 vinc
@@ -168,7 +168,7 @@ there
 are
 ani
 addit
-pleas
+plea
 inform
 me
 a
@@ -213,7 +213,7 @@ me
 thank
 kevin
 moor
-pleas
+plea
 note
 i
 will

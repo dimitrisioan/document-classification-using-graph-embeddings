@@ -2,7 +2,7 @@ subject
 california
 power
 legisl
-pass
+pas
 short
 term
 measur
@@ -16,7 +16,7 @@ said
 yesterday
 sb
 x
-pass
+pas
 the
 california
 state
@@ -122,7 +122,7 @@ is
 not
 expect
 to
-pa
+pas
 today
 and
 will
@@ -207,7 +207,7 @@ text
 of
 the
 legisl
-focu
+focus
 onli
 on
 longer
@@ -263,7 +263,7 @@ natur
 of
 thi
 languag
-leaf
+leav
 open
 the
 possibl

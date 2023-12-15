@@ -51,7 +51,7 @@ a
 success
 effort
 to
-pa
+pas
 the
 bill
 we
@@ -99,7 +99,7 @@ space
 develop
 and
 help
-pa
+pas
 the
 launch
 servic
@@ -220,7 +220,7 @@ known
 it
 will
 be
-pass
+pas
 on
 howev
 even
@@ -386,7 +386,7 @@ is
 not
 yet
 introduc
-pleas
+plea
 elicit
 their
 opinion
@@ -419,13 +419,13 @@ to
 the
 moon
 bill
-pleas
+plea
 request
 a
 copi
 by
 email
-pleas
+plea
 includ
 your
 u

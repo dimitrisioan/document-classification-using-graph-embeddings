@@ -69,7 +69,7 @@ my
 mdc
 cipher
 which
-us
+use
 ani
 oneway
 hash
@@ -82,9 +82,9 @@ cipher
 the
 current
 implement
-us
+use
 md
-us
+use
 a
 key
 of

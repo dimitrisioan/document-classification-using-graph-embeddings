@@ -74,7 +74,7 @@ duti
 until
 septemb
 the
-tori
+torus
 call
 it
 a
@@ -94,7 +94,7 @@ plaster
 for
 the
 elect
-tori
+torus
 leader
 michael
 howard

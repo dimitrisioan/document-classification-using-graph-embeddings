@@ -1,5 +1,5 @@
 muslim
-discu
+discus
 elect
 concern
 issu
@@ -36,7 +36,7 @@ of
 britain
 mab
 which
-belief
+believ
 muslim
 voter
 could
@@ -470,7 +470,7 @@ ballot
 box
 iron
 the
-tori
+torus
 might
 be
 the
@@ -498,7 +498,7 @@ not
 to
 empow
 the
-tori
+torus
 we
 know
 the

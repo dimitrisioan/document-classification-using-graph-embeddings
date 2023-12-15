@@ -57,7 +57,7 @@ accurs
 m
 volt
 vpp
-puls
+pul
 sure
 a
 littl
@@ -84,7 +84,7 @@ dont
 need
 nearli
 thi
-puls
+pul
 length
 q
 ha

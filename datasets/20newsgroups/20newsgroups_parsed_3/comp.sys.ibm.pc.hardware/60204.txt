@@ -110,7 +110,7 @@ steadi
 hand
 and
 so
-leaf
+leav
 it
 free
 the
@@ -222,7 +222,7 @@ other
 game
 that
 onli
-us
+use
 digit
 input
 ie

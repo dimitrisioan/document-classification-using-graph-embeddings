@@ -192,7 +192,7 @@ maximum
 allow
 fine
 plu
-assess
+ass
 of
 over
 the

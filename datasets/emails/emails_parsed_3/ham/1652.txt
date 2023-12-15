@@ -87,7 +87,7 @@ keynot
 address
 i
 ll
-discu
+discus
 the
 keynot
 address
@@ -274,7 +274,7 @@ agenda
 for
 the
 visit
-pleas
+plea
 review
 and
 confirm
@@ -298,7 +298,7 @@ time
 specifi
 if
 so
-pleas
+plea
 provid
 me
 a
@@ -307,7 +307,7 @@ meet
 locat
 if
 not
-pleas
+plea
 altern
 time
 and
@@ -320,7 +320,7 @@ and
 keith
 weigelt
 to
-discu
+discus
 tiger
 team
 fap
@@ -343,7 +343,7 @@ and
 ann
 stamer
 to
-discu
+discus
 the
 sol
 c
@@ -370,7 +370,7 @@ christi
 and
 mike
 hold
-discuss
+discus
 with
 cara
 tyler
@@ -398,7 +398,7 @@ other
 univers
 offici
 to
-discu
+discus
 campu
 need
 futur
@@ -422,7 +422,7 @@ with
 howard
 kunrueth
 to
-discu
+discus
 risk
 manag
 pm
@@ -435,7 +435,7 @@ at
 faculti
 club
 to
-discu
+discus
 the
 e
 fellow
@@ -449,7 +449,7 @@ with
 mike
 balt
 to
-discu
+discus
 co
 brand
 issu
@@ -466,7 +466,7 @@ et
 confer
 dinner
 event
-pleas
+plea
 confirm
 your
 willing

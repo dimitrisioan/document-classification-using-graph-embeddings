@@ -49,7 +49,7 @@ cover
 addit
 topic
 viz
-discu
+discus
 with
 applic
 enron
@@ -63,7 +63,7 @@ thi
 is
 use
 intern
-discu
+discus
 volatil
 model
 and
@@ -337,7 +337,7 @@ the
 australian
 market
 and
-discu
+discus
 with
 you
 the
@@ -416,7 +416,7 @@ research
 initi
 in
 houston
-pleas
+plea
 let
 u
 know
@@ -582,7 +582,7 @@ plug
 in
 your
 laptop
-pleas
+plea
 let
 elliott
 or
@@ -628,7 +628,7 @@ the
 sight
 etc
 and
-discu
+discus
 the
 latest
 research

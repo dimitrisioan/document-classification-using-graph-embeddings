@@ -18,7 +18,7 @@ implement
 document
 we
 will
-discu
+discus
 thi
 issu
 tomorrow
@@ -91,7 +91,7 @@ credit
 and
 befor
 anyth
-els
+el
 so
 it
 s
@@ -130,13 +130,13 @@ old
 version
 old
 version
-us
+use
 delta
 gammar
 methodolog
 new
 version
-us
+use
 full
 evalu
 it

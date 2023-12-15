@@ -67,7 +67,7 @@ edata
 if
 the
 pilot
-prof
+prove
 success
 pjm
 may
@@ -146,7 +146,7 @@ user
 includ
 consolid
 inform
-eas
+ea
 of
 use
 le
@@ -256,7 +256,7 @@ at
 www
 pjm
 com
-pleas
+plea
 do
 not
 repli
@@ -274,7 +274,7 @@ custom
 relat
 and
 train
-pleas
+plea
 send
 an
 e

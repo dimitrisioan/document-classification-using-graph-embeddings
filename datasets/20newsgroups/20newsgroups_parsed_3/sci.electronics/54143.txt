@@ -57,7 +57,7 @@ mean
 detect
 a
 n
-puls
+pul
 it
 should
 also

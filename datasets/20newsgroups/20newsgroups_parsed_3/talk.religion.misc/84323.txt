@@ -118,7 +118,7 @@ univers
 physic
 law
 biolog
-divers
+diver
 or
 what
 scienc
@@ -254,7 +254,7 @@ the
 point
 restrict
 one
-discuss
+discus
 of
 origin
 to
@@ -272,7 +272,7 @@ restrict
 the
 scope
 of
-discuss
+discus
 thi
 is
 a
@@ -330,7 +330,7 @@ scienc
 in
 ani
 meaning
-sens
+sen
 one
 might
 just
@@ -535,7 +535,7 @@ grow
 high
 are
 the
-graf
+grave
 of
 dream
 allow

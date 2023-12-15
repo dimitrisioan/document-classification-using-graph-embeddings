@@ -5,7 +5,7 @@ visual
 my
 hp
 workstat
-us
+use
 pseudocolor
 id
 x

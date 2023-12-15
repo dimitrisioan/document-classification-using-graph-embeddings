@@ -65,7 +65,7 @@ if
 so
 what
 number
-pleas
+plea
 let
 me
 know
@@ -115,7 +115,7 @@ laptop
 alway
 with
 me
-pleas
+plea
 give
 me
 a
@@ -216,7 +216,7 @@ enron
 broadband
 servic
 to
-discu
+discus
 all
 the
 isssu
@@ -288,7 +288,7 @@ i
 realli
 enjoy
 our
-discuss
+discus
 both
 at
 the
@@ -598,7 +598,7 @@ the
 project
 get
 go
-pleas
+plea
 let
 me
 know

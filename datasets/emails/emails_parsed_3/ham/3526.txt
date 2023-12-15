@@ -126,7 +126,7 @@ o
 leari
 on
 am
-pleas
+plea
 respond
 to
 to
@@ -260,7 +260,7 @@ of
 your
 av
 requir
-pleas
+plea
 do
 so
 a
@@ -324,7 +324,7 @@ connect
 cabl
 ani
 question
-pleas
+plea
 do
 not
 hesit

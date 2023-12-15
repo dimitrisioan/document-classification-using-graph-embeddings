@@ -59,7 +59,7 @@ burn
 process
 thi
 method
-us
+use
 advanc
 dvd
 ripper
@@ -348,7 +348,7 @@ for
 life
 plu
 other
-bonu
+bonus
 you
 get
 everyth
@@ -631,7 +631,7 @@ illeg
 activ
 thi
 program
-serf
+serv
 mere
 a
 a

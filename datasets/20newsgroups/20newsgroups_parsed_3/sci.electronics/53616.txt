@@ -11,7 +11,7 @@ articl
 write
 in
 articl
-ru
+rus
 crisp
 write
 im
@@ -100,7 +100,7 @@ but
 nowher
 repeat
 nowher
-els
+el
 well
 almost
 there
@@ -150,7 +150,7 @@ hous
 the
 main
 panel
-serf
+serv
 a
 the
 servic
@@ -170,7 +170,7 @@ seper
 neutral
 and
 ground
-bu
+bus
 becaus
 they
 are

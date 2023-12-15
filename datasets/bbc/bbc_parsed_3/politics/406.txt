@@ -155,7 +155,7 @@ kirkcaldi
 at
 he
 wa
-canvass
+canvas
 for
 labour
 and
@@ -224,7 +224,7 @@ thwart
 by
 the
 present
-tori
+torus
 spokesman
 on
 foreign
@@ -824,7 +824,7 @@ campaign
 but
 with
 the
-tori
+torus
 have
 appear
 to

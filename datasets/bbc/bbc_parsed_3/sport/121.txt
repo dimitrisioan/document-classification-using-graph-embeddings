@@ -349,7 +349,7 @@ like
 to
 do
 anyth
-els
+el
 we
 all
 want
@@ -926,7 +926,7 @@ do
 busi
 we
 had
-discuss
+discus
 with
 steve
 over

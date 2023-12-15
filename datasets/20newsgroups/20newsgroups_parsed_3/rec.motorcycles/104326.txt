@@ -43,7 +43,7 @@ ride
 one
 first
 befor
-pass
+pas
 judgement
 there
 is
@@ -152,7 +152,7 @@ the
 exclus
 of
 everyth
-els
+el
 the
 note
 and

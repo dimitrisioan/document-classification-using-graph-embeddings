@@ -7,7 +7,7 @@ ranch
 no
 survivor
 let
-discu
+discus
 reno
 take
 full
@@ -78,7 +78,7 @@ they
 do
 wrong
 someon
-pleas
+plea
 help
 me
 out

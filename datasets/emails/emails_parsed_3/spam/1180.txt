@@ -14,7 +14,7 @@ system
 scienc
 and
 engin
-ciss
+cis
 if
 you
 receiv
@@ -22,7 +22,7 @@ thi
 email
 in
 error
-pleas
+plea
 forward
 it
 to
@@ -32,7 +32,7 @@ depart
 at
 your
 institut
-pleas
+plea
 do
 not
 repli
@@ -51,12 +51,12 @@ need
 to
 contact
 u
-pleas
+plea
 email
 u
 at
 info
-ciss
+cis
 org
 intern
 joint
@@ -69,10 +69,10 @@ system
 scienc
 and
 engin
-ciss
+cis
 http
 www
-ciss
+cis
 org
 decemb
 sponsor
@@ -88,7 +88,7 @@ of
 bridgeport
 confer
 overview
-ciss
+cis
 provid
 a
 virtual
@@ -96,7 +96,7 @@ forum
 for
 present
 and
-discuss
+discus
 of
 the
 state
@@ -317,7 +317,7 @@ archiv
 for
 futur
 view
-pleas
+plea
 feel
 free
 to
@@ -329,7 +329,7 @@ paper
 at
 http
 www
-ciss
+cis
 org
 cfpcisseo
 doc
@@ -339,14 +339,14 @@ format
 or
 http
 www
-ciss
+cis
 org
 cfpcisseo
 pdf
 adob
 pdf
 format
-ciss
+cis
 is
 compos
 of
@@ -452,7 +452,7 @@ confer
 page
 http
 www
-ciss
+cis
 org
 ieta
 aspx
@@ -563,7 +563,7 @@ confer
 page
 http
 www
-ciss
+cis
 org
 tene
 aspx
@@ -672,7 +672,7 @@ confer
 page
 http
 www
-ciss
+cis
 org
 sc
 aspx
@@ -683,7 +683,7 @@ engin
 educ
 instruct
 technolog
-assess
+ass
 and
 e
 learn
@@ -713,7 +713,7 @@ of
 e
 learn
 tool
-assess
+ass
 method
 in
 engin
@@ -745,7 +745,7 @@ confer
 page
 http
 www
-ciss
+cis
 org
 eiae
 aspx
@@ -775,7 +775,7 @@ confer
 at
 http
 www
-ciss
+cis
 org
 accept
 paper
@@ -798,7 +798,7 @@ paper
 visit
 http
 www
-ciss
+cis
 org
 author
 submit
@@ -823,7 +823,7 @@ manuscript
 and
 registr
 novemb
-ciss
+cis
 glenbrook
 rd
 stamford

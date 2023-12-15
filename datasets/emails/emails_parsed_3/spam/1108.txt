@@ -755,7 +755,7 @@ for
 hour
 watch
 someon
-els
+el
 have
 fun
 do
@@ -873,7 +873,7 @@ michael
 t
 smith
 michael
-life
+live
 in
 new
 jersey
@@ -943,7 +943,7 @@ ever
 present
 in
 their
-life
+live
 we
 were
 veri
@@ -1022,7 +1022,7 @@ upper
 most
 in
 our
-life
+live
 and
 it
 taught
@@ -1502,7 +1502,7 @@ take
 control
 of
 their
-life
+live
 today
 have
 them
@@ -1529,7 +1529,7 @@ address
 to
 prevent
 worm
-viru
+virus
 and
 robot
 from

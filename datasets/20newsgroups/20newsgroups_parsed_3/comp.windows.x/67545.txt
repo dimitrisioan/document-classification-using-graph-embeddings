@@ -83,7 +83,7 @@ buildincludexviewprivatentfyh
 from
 xc
 usrincludesysucontexth
-pars
+par
 error
 befor
 sigsett
@@ -108,7 +108,7 @@ or
 storag
 class
 usrincludesysucontexth
-pars
+par
 error
 befor
 usrincludesysucontexth
@@ -129,7 +129,7 @@ buildincludexviewprivatentfyh
 from
 xc
 buildincludexviewnotifyh
-pars
+par
 error
 befor
 buildincludexviewnotifyh
@@ -168,7 +168,7 @@ but
 incomplet
 type
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -212,7 +212,7 @@ in
 function
 ndetsignalcatch
 ndetloopc
-pars
+par
 error
 befor
 ucontextt
@@ -224,7 +224,7 @@ use
 thi
 function
 ndetloopc
-pars
+par
 error
 befor
 newmask
@@ -243,7 +243,7 @@ use
 thi
 function
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -257,7 +257,7 @@ without
 a
 cast
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -272,7 +272,7 @@ use
 thi
 function
 ndetloopc
-pars
+par
 error
 befor
 newmask
@@ -291,7 +291,7 @@ use
 thi
 function
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -299,7 +299,7 @@ at
 top
 level
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -364,7 +364,7 @@ buildincludexviewprivatentfyh
 from
 xc
 usrincludesysucontexth
-pars
+par
 error
 befor
 sigsett
@@ -389,7 +389,7 @@ or
 storag
 class
 usrincludesysucontexth
-pars
+par
 error
 befor
 usrincludesysucontexth
@@ -410,7 +410,7 @@ buildincludexviewprivatentfyh
 from
 xc
 buildincludexviewnotifyh
-pars
+par
 error
 befor
 buildincludexviewnotifyh
@@ -449,7 +449,7 @@ but
 incomplet
 type
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -493,7 +493,7 @@ in
 function
 ndetsignalcatch
 ndetloopc
-pars
+par
 error
 befor
 ucontextt
@@ -505,7 +505,7 @@ use
 thi
 function
 ndetloopc
-pars
+par
 error
 befor
 newmask
@@ -524,7 +524,7 @@ use
 thi
 function
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -538,7 +538,7 @@ without
 a
 cast
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -553,7 +553,7 @@ use
 thi
 function
 ndetloopc
-pars
+par
 error
 befor
 newmask
@@ -572,7 +572,7 @@ use
 thi
 function
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc
@@ -580,7 +580,7 @@ at
 top
 level
 ndetloopc
-pars
+par
 error
 befor
 ndetloopc

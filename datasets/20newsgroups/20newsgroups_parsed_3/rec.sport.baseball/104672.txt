@@ -2,7 +2,7 @@ subject
 texa
 ranger
 roster
-pleas
+plea
 help
 i
 need
@@ -82,7 +82,7 @@ yanke
 scorecard
 ani
 idea
-pleas
+plea
 email
 a
 i

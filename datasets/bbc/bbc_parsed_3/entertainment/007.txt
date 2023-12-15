@@ -101,7 +101,7 @@ novel
 biographi
 poetri
 and
-children
+child
 book
 on
 januari
@@ -312,7 +312,7 @@ contend
 have
 won
 the
-children
+child
 fiction
 categori
 for

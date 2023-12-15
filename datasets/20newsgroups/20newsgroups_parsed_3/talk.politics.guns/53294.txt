@@ -161,7 +161,7 @@ a
 percentag
 of
 attack
-knife
+knive
 total
 attack
 gun
@@ -197,7 +197,7 @@ kill
 a
 often
 with
-knife
+knive
 if
 thi
 were
@@ -669,7 +669,7 @@ are
 not
 permit
 recreat
-us
+use
 of
 handgun
 target
@@ -872,7 +872,7 @@ of
 aggrav
 assault
 involv
-knife
+knive
 and
 other
 danger
@@ -950,7 +950,7 @@ rate
 of
 homicid
 by
-knife
+knive
 and
 other
 weapon

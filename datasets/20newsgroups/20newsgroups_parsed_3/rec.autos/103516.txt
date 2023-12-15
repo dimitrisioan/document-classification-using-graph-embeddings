@@ -14,7 +14,7 @@ explain
 how
 to
 make
-sens
+sen
 of
 drag
 coeffici

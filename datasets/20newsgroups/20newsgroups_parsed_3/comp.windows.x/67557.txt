@@ -23,7 +23,7 @@ via
 xmenu
 and
 someth
-els
+el
 a
 window
 manag
@@ -38,8 +38,8 @@ origin
 poster
 or
 anyon
-els
-pleas
+el
+plea
 email
 a
 copi

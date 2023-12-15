@@ -84,7 +84,7 @@ list
 the
 individu
 who
-us
+use
 the
 pager
 or
@@ -305,7 +305,7 @@ ani
 question
 or
 suggest
-pleas
+plea
 contact
 the
 account

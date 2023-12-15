@@ -23,7 +23,7 @@ beam
 problem
 wa
 a
-loos
+loo
 wire
 connect
 it

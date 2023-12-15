@@ -3,7 +3,7 @@ question
 captainci
 brian
 moor
-belief
+believ
 the
 england
 captain
@@ -192,7 +192,7 @@ a
 chanc
 and
 moor
-belief
+believ
 the
 last
 two

@@ -106,7 +106,7 @@ oxal
 acid
 but
 larg
-do
+dose
 are
 need
 abov
@@ -182,7 +182,7 @@ of
 hyperoxaluria
 with
 larg
-do
+dose
 of
 pyridoxin
 in
@@ -333,7 +333,7 @@ acid
 at
 veri
 high
-do
+dose
 of
 vitamin
 cabov
@@ -755,7 +755,7 @@ it
 is
 consum
 in
-do
+dose
 of
 mg
 or

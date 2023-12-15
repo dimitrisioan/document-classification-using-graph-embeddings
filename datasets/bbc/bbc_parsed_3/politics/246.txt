@@ -1,6 +1,6 @@
 student
 inequ
-expos
+expo
 teenag
 from
 welloff
@@ -284,7 +284,7 @@ reveal
 stark
 inequ
 and
-expos
+expo
 the
 extent
 of
@@ -360,7 +360,7 @@ grow
 faster
 than
 anywher
-els
+el
 the
 higher
 educ

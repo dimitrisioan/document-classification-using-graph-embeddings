@@ -33,7 +33,7 @@ pub
 per
 kevin
 moor
-pleas
+plea
 approv
 elena
 chilkina
@@ -150,7 +150,7 @@ that
 are
 not
 list
-pleas
+plea
 appli
 edit
 histori

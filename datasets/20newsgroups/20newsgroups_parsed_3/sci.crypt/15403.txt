@@ -96,7 +96,7 @@ to
 your
 mpwtool
 folder
-pleas
+plea
 write
 other
 than
@@ -104,7 +104,7 @@ the
 more
 pure
 cryptograph
-us
+use
 for
 the
 tool

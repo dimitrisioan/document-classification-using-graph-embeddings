@@ -51,7 +51,7 @@ older
 player
 sinc
 it
-us
+use
 raw
 data
 avail
@@ -274,7 +274,7 @@ rate
 defens
 averag
 which
-us
+use
 larger
 and
 probabl
@@ -340,7 +340,7 @@ have
 dial
 is
 imaginari
-pleas
+plea
 rotat
 your
 phone

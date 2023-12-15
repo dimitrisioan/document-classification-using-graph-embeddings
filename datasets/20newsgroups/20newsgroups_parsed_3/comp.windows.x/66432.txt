@@ -4,7 +4,7 @@ in
 tekhvc
 color
 space
-pleas
+plea
 respond
 via
 email
@@ -60,7 +60,7 @@ doe
 which
 make
 no
-sens
+sen
 to
 me
 the
@@ -144,7 +144,7 @@ fail
 for
 you
 too
-pleas
+plea
 includ
 what
 hardwaresoftwarepatch
@@ -153,7 +153,7 @@ you
 have
 ani
 hint
-pleas
+plea
 respond
 with
 email

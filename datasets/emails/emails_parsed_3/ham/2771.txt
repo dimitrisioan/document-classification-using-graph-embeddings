@@ -83,7 +83,7 @@ fuel
 forward
 price
 and
-us
+use
 garch
 model
 to
@@ -94,7 +94,7 @@ daili
 price
 and
 then
-us
+use
 a
 hourli
 profil
@@ -633,7 +633,7 @@ am
 to
 do
 it
-pleas
+plea
 advic
 the
 cours

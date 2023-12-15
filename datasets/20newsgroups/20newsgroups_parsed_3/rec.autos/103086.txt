@@ -40,7 +40,7 @@ the
 overpass
 a
 i
-pass
+pas
 under
 a
 rock
@@ -227,7 +227,7 @@ followup
 to
 thi
 portion
-pleas
+plea
 crosspost
 and
 direct

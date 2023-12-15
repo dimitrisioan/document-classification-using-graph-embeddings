@@ -27,7 +27,7 @@ thi
 thread
 is
 a
-discuss
+discus
 of
 the
 relat
@@ -145,7 +145,7 @@ ibd
 if
 you
 call
-pleas
+plea
 say
 hello
 to

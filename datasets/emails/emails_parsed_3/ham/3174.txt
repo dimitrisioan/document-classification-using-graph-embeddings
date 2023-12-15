@@ -10,7 +10,7 @@ guest
 list
 hi
 sheryl
-pleas
+plea
 add
 david
 cox
@@ -20,7 +20,7 @@ in
 the
 list
 addit
-pleas
+plea
 includ
 chonawe
 supatgiat
@@ -100,7 +100,7 @@ guest
 list
 gentleman
 attach
-pleas
+plea
 find
 the
 propos
@@ -163,7 +163,7 @@ final
 headcount
 in
 place
-pleas
+plea
 let
 me
 know

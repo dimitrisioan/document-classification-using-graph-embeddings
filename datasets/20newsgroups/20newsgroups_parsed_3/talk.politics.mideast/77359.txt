@@ -387,7 +387,7 @@ onli
 the
 stage
 of
-elects
+elect
 but
 also
 the

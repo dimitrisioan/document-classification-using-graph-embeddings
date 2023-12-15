@@ -241,7 +241,7 @@ that
 express
 or
 involv
-discuss
+discus
 with
 respect
 to
@@ -326,7 +326,7 @@ expect
 will
 anticip
 estim
-belief
+believ
 or
 by
 statement

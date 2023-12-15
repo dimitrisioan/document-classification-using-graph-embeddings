@@ -192,7 +192,7 @@ with
 membership
 fee
 waiv
-pleas
+plea
 do
 not
 repli
@@ -210,7 +210,7 @@ custom
 relat
 and
 train
-pleas
+plea
 send
 an
 e

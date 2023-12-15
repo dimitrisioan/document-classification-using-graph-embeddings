@@ -661,7 +661,7 @@ that
 express
 or
 involv
-discuss
+discus
 with
 respect
 to
@@ -751,7 +751,7 @@ expect
 wiil
 anticip
 estim
-belief
+believ
 understand
 or
 that
@@ -1202,7 +1202,7 @@ rocket
 sto
 ck
 report
-belief
+believ
 thi
 inform
 to

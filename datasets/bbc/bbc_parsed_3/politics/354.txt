@@ -62,7 +62,7 @@ broader
 econom
 predict
 the
-tori
+torus
 say
 it
 is
@@ -169,7 +169,7 @@ anoth
 term
 in
 offic
-tori
+torus
 shadow
 chancellor
 oliv

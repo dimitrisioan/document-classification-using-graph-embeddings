@@ -82,7 +82,7 @@ to
 propos
 the
 follow
-discuss
+discus
 topic
 introduc
 orillion
@@ -91,8 +91,8 @@ eb
 engag
 in
 technic
-discuss
-discuss
+discus
+discus
 on
 how
 orillion

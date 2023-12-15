@@ -57,10 +57,10 @@ execution
 no
 that
 someth
-els
+el
 ive
 alreadi
-discuss
+discus
 thi
 in
 email
@@ -130,5 +130,5 @@ si
 you
 porsch
 me
-pa
+pas
 dod

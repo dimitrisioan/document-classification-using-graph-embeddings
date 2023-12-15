@@ -174,7 +174,7 @@ real
 doe
 vector
 and
-matrix
+matric
 a
 well
 a
@@ -926,7 +926,7 @@ or
 ani
 program
 that
-us
+use
 it
 filenam
 precisiontarz
@@ -1421,7 +1421,7 @@ float
 point
 complex
 number
-matrix
+matric
 string
 list
 file

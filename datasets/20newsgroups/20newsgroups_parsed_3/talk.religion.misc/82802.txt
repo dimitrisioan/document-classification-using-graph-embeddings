@@ -57,7 +57,7 @@ command
 asid
 from
 that
-pleas
+plea
 note
 that
 the
@@ -89,7 +89,7 @@ address
 author
 and
 everyth
-els
+el
 of
 tmail
 do

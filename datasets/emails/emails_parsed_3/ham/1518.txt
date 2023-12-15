@@ -8,7 +8,7 @@ use
 a
 per
 our
-discuss
+discus
 mike
 forward
 by
@@ -313,7 +313,7 @@ valu
 with
 our
 uniqu
-sens
+sen
 of
 urgenc
 after

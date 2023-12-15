@@ -5,7 +5,7 @@ worldcom
 fraud
 former
 worldcom
-bo
+bos
 berni
 ebber
 wa
@@ -272,7 +272,7 @@ sullivan
 said
 hi
 former
-bo
+bos
 knew
 more
 about
@@ -312,7 +312,7 @@ largest
 telecom
 firm
 a
-obsess
+ob
 with
 cost
 he

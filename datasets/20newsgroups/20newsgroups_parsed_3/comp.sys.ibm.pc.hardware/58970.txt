@@ -163,7 +163,7 @@ about
 r
 serial
 commun
-pleas
+plea
 email
 me
 i
@@ -218,7 +218,7 @@ the
 x
 charact
 one
-us
+use
 the
 bioscom
 function
@@ -226,7 +226,7 @@ in
 biosh
 the
 other
-us
+use
 the
 softwar
 interrupt

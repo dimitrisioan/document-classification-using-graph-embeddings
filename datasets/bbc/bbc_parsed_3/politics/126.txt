@@ -237,7 +237,7 @@ say
 if
 he
 wa
-pleas
+plea
 with
 the
 eventu
@@ -428,7 +428,7 @@ uk
 interest
 but
 the
-tori
+torus
 say
 he
 is

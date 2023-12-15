@@ -6,7 +6,7 @@ dtbl
 mvp
 and
 cy
-pleas
+plea
 vote
 the
 regular
@@ -66,7 +66,7 @@ for
 next
 year
 leagu
-pleas
+plea
 vote
 for
 in
@@ -86,7 +86,7 @@ shooti
 babitt
 lip
 lundi
-pleas
+plea
 do
 not
 vote
@@ -134,7 +134,7 @@ ppoor
 bveri
 poor
 thank
-pleas
+plea
 repli
 by
 april
@@ -345,7 +345,7 @@ are
 avail
 by
 request
-pleas
+plea
 take
 the
 time

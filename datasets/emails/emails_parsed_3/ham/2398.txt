@@ -166,7 +166,7 @@ databas
 includ
 novel
 still
-us
+use
 btriev
 technolog
 for
@@ -395,7 +395,7 @@ doesn
 t
 know
 it
-us
+use
 and
 doesn
 t

@@ -107,7 +107,7 @@ modem
 so
 if
 anyon
-us
+use
 a
 zyxel
 for
@@ -583,7 +583,7 @@ redund
 messag
 if
 anyon
-els
+el
 ha
 someth
 to

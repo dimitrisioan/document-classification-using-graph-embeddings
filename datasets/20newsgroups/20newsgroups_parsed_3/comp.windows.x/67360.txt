@@ -47,7 +47,7 @@ use
 openwindow
 the
 program
-us
+use
 the
 follow
 line

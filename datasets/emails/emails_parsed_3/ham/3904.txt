@@ -91,7 +91,7 @@ and
 fast
 var
 isaac
-pleas
+plea
 run
 the
 model

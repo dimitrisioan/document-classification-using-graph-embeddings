@@ -8,7 +8,7 @@ outlet
 wire
 in
 articl
-ru
+rus
 crisp
 wrote
 hello
@@ -128,7 +128,7 @@ first
 it
 will
 not
-pa
+pas
 a
 nation
 electr

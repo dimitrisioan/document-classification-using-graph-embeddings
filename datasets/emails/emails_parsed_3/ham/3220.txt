@@ -3,7 +3,7 @@ re
 daili
 lunch
 kevin
-pleas
+plea
 talk
 to
 jeff
@@ -120,7 +120,7 @@ be
 at
 her
 desk
-pleas
+plea
 could
 i
 provid

@@ -314,7 +314,7 @@ the
 heatsink
 that
 adcom
-us
+use
 in
 their
 amp

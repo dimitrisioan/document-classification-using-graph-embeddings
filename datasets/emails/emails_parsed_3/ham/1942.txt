@@ -4,7 +4,7 @@ for
 singh
 meet
 vinc
-pleas
+plea
 find
 below
 a
@@ -187,7 +187,7 @@ for
 singh
 meet
 wade
-pleas
+plea
 find
 below
 a
@@ -291,7 +291,7 @@ govt
 in
 the
 state
-pleas
+plea
 see
 basak
 s
@@ -386,7 +386,7 @@ s
 a
 one
 that
-life
+live
 up
 to
 it
@@ -670,7 +670,7 @@ someon
 to
 negoti
 with
-pleas
+plea
 use
 your
 good

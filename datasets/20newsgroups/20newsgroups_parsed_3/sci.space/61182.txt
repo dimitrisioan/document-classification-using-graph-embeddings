@@ -80,7 +80,7 @@ consist
 with
 be
 equal
-dens
+den
 for
 a
 far

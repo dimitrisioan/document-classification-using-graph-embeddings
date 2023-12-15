@@ -67,7 +67,7 @@ scsiscsi
 for
 the
 mac
-go
+goe
 down
 in
 pricemb
@@ -75,7 +75,7 @@ a
 hard
 drive
 size
-go
+goe
 up
 and
 i
@@ -196,7 +196,7 @@ in
 the
 ibm
 that
-us
+use
 scsi
 for
 the
@@ -340,7 +340,7 @@ thi
 more
 than
 anyth
-els
+el
 proabli
 kept
 scsi

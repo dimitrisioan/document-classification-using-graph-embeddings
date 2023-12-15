@@ -263,7 +263,7 @@ build
 immun
 but
 mani
-viru
+virus
 mutat
 and
 reexposur
@@ -808,7 +808,7 @@ to
 run
 special
 nutrit
-assess
+ass
 test
 they
 are

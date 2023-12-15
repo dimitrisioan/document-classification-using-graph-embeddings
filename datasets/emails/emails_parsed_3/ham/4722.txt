@@ -81,7 +81,7 @@ vinc
 juli
 on
 pm
-pleas
+plea
 respond
 to
 juli
@@ -96,7 +96,7 @@ energi
 and
 weather
 vinc
-pleas
+plea
 find
 attach
 a
@@ -132,7 +132,7 @@ should
 have
 ani
 question
-pleas
+plea
 contact
 me
 sincer

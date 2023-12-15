@@ -63,7 +63,7 @@ restrict
 will
 allow
 thi
-pleas
+plea
 email
 me
 thank

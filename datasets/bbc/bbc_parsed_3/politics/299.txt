@@ -4,7 +4,7 @@ for
 id
 card
 the
-tori
+torus
 are
 to
 back
@@ -43,7 +43,7 @@ meet
 where
 some
 senior
-tori
+torus
 argu
 vocifer
 against
@@ -136,7 +136,7 @@ off
 the
 fenc
 the
-tori
+torus
 sourc
 said
 despit
@@ -260,7 +260,7 @@ over
 id
 card
 the
-tori
+torus
 should
 have
 the

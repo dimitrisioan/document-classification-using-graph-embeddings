@@ -129,7 +129,7 @@ in
 servic
 with
 a
-tori
+torus
 plan
 to
 cut
@@ -216,7 +216,7 @@ after
 the
 elect
 the
-tori
+torus
 accus
 labour
 of

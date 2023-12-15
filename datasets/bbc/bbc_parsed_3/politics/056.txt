@@ -174,7 +174,7 @@ of
 britain
 said
 ofst
-bo
+bos
 mr
 bell
 comment
@@ -407,7 +407,7 @@ peopl
 from
 indian
 and
-chines
+chine
 background
 were
 do
@@ -456,7 +456,7 @@ tri
 to
 promot
 a
-sens
+sen
 of
 belong
 by

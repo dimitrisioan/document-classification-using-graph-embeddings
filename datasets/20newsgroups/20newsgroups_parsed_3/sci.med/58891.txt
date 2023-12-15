@@ -63,7 +63,7 @@ fat
 except
 when
 someon
-els
+el
 ha
 cook
 a
@@ -197,7 +197,7 @@ go
 start
 eat
 someth
-els
+el
 i
 dont
 eat
@@ -236,7 +236,7 @@ store
 movi
 and
 everywher
-els
+el
 a
 ive
 never

@@ -50,7 +50,7 @@ from
 light
 use
 no
-len
+lens
 allen
 sullivan
 i
@@ -62,7 +62,7 @@ know
 more
 about
 the
-sens
+sen
 hardwar
 what
 did

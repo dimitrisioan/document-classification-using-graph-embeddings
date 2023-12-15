@@ -5,7 +5,7 @@ iconfer
 the
 person
 who
-go
+goe
 farthest
 is
 gener
@@ -31,7 +31,7 @@ dale
 carnegi
 erisk
 is
-pleas
+plea
 to
 announc
 an
@@ -58,7 +58,7 @@ follow
 by
 a
 panel
-discuss
+discus
 which
 will
 includ
@@ -224,7 +224,7 @@ question
 regard
 our
 iconfer
-pleas
+plea
 send
 email
 to
@@ -295,7 +295,7 @@ unsubscrib
 from
 futur
 mail
-pleas
+plea
 forward
 thi
 messag
@@ -307,7 +307,7 @@ erisk
 com
 to
 subscrib
-pleas
+plea
 forward
 thi
 messag

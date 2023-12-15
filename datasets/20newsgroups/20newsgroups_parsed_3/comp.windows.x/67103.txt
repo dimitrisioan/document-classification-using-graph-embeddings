@@ -8,7 +8,7 @@ develop
 an
 applic
 that
-us
+use
 a
 motif
 slider
@@ -130,7 +130,7 @@ callback
 with
 of
 co
-urs
+ur
 a
 null
 effect

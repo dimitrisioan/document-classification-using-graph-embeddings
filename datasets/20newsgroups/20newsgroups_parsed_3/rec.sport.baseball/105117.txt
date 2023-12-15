@@ -275,7 +275,7 @@ ha
 hr
 alreadi
 same
-go
+goe
 for
 jim
 leyrtiz
@@ -303,7 +303,7 @@ leyritz
 is
 that
 he
-belief
+believ
 he
 is
 a

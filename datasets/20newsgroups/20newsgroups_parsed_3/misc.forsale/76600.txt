@@ -70,7 +70,7 @@ one
 for
 a
 tenner
-els
+el
 min
 order
 drive
@@ -106,7 +106,7 @@ connector
 on
 the
 back
-els
+el
 they
 go
 in

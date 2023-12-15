@@ -20,7 +20,7 @@ jason
 smith
 wrote
 the
-discuss
+discus
 begin
 whi
 doe
@@ -88,7 +88,7 @@ is
 part
 of
 spacetim
-hens
+hen
 the
 argument
 would
@@ -269,7 +269,7 @@ that
 one
 of
 these
-hypothesi
+hypothes
 may
 one
 day

@@ -488,7 +488,7 @@ for
 game
 rememb
 spectr
-us
+use
 it
 and
 it

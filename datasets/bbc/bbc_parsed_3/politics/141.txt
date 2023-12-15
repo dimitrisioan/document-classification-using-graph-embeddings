@@ -26,7 +26,7 @@ introduc
 id
 card
 the
-tori
+torus
 leader
 said
 hi
@@ -42,7 +42,7 @@ after
 hold
 a
 good
-discuss
+discus
 but
 admit
 it
@@ -86,7 +86,7 @@ is
 debat
 next
 monday
-tori
+torus
 sourc
 say
 senior
@@ -188,7 +188,7 @@ peopl
 could
 lose
 their
-life
+live
 he
 ad
 when
@@ -306,7 +306,7 @@ home
 secretari
 but
 the
-tori
+torus
 insist
 they
 would
@@ -484,7 +484,7 @@ go
 to
 be
 detain
-tori
+torus
 exminist
 dougla
 hogg
@@ -506,7 +506,7 @@ would
 intrud
 into
 the
-life
+live
 of
 ordinari
 citizen

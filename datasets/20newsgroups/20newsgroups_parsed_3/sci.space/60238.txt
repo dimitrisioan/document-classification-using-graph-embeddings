@@ -58,7 +58,7 @@ far
 a
 nuclear
 power
-go
+goe
 thi
 mean
 that
@@ -85,7 +85,7 @@ one
 is
 mitsubishi
 who
-els
+el
 who
 have
 a

@@ -1,7 +1,7 @@
 subject
 re
 countersteeringfaq
-pleas
+plea
 post
 in
 articl
@@ -168,7 +168,7 @@ equal
 normal
 forc
 and
-eas
+ea
 off
 on
 the
@@ -369,7 +369,7 @@ on
 most
 surfac
 and
-serf
+serv
 a
 a
 good
@@ -465,7 +465,7 @@ which
 is
 how
 thi
-discuss
+discus
 start
 keep
 both

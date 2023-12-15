@@ -59,7 +59,7 @@ plu
 the
 powercach
 thi
-leaves
+leaf
 the
 pd
 slot

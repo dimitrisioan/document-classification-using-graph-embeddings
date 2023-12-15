@@ -178,7 +178,7 @@ to
 post
 copi
 to
-bb
+bbs
 send
 copi
 on

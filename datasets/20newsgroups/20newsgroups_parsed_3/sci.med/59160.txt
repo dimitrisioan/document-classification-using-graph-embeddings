@@ -191,7 +191,7 @@ a
 flavor
 enhanc
 in
-chines
+chine
 and
 other
 asian
@@ -273,7 +273,7 @@ the
 problem
 a
 second
-laps
+lap
 come
 with
 mention
@@ -354,7 +354,7 @@ he
 inject
 extrem
 high
-do
+dose
 of
 msg
 into
@@ -492,7 +492,7 @@ safe
 their
 determin
 make
-sens
+sen
 consid
 that
 msg

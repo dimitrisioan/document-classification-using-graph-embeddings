@@ -583,7 +583,7 @@ decemb
 order
 and
 commiss
-discuss
+discus
 at
 it
 special
@@ -624,7 +624,7 @@ state
 relat
 matter
 a
-discuss
+discus
 below
 at
 the
@@ -754,7 +754,7 @@ did
 on
 novemb
 a
-discuss
+discus
 below
 highlight
 of
@@ -1058,7 +1058,7 @@ will
 set
 procedur
 for
-discuss
+discus
 with
 state
 repres
@@ -1078,7 +1078,7 @@ mwh
 price
 benchmark
 for
-assess
+ass
 price
 of
 five
@@ -1092,7 +1092,7 @@ will
 be
 use
 in
-assess
+ass
 ani
 complaint
 regard
@@ -1421,7 +1421,7 @@ to
 forward
 contract
 includ
-eas
+ea
 the
 exist
 prudenc
@@ -1574,7 +1574,7 @@ the
 feder
 court
 were
-pois
+poi
 to
 grant
 cost
@@ -1587,7 +1587,7 @@ which
 would
 then
 be
-pass
+pas
 on
 to
 consum

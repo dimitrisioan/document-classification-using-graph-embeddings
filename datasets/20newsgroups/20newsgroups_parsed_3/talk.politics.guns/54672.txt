@@ -18,7 +18,7 @@ rhein
 write
 a
 someon
-els
+el
 ha
 point
 out
@@ -120,7 +120,7 @@ lantern
 stori
 make
 more
-sens
+sen
 except
 the
 fire
@@ -231,7 +231,7 @@ nutcas
 agent
 then
 it
-serf
+serv
 no
 purpos
 to

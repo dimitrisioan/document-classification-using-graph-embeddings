@@ -173,7 +173,7 @@ from
 our
 mail
 list
-pleas
+plea
 click
 the
 link

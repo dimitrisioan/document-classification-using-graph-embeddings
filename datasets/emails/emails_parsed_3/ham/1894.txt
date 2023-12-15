@@ -3,7 +3,7 @@ websit
 data
 research
 pub
-pleas
+plea
 approv
 or
 reject
@@ -51,7 +51,7 @@ is
 an
 urgent
 request
-pleas
+plea
 process
 asap
 secur

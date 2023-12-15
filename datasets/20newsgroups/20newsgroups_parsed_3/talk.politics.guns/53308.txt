@@ -140,7 +140,7 @@ to
 restrict
 to
 militari
-us
+use
 onli
 ie
 bazooka

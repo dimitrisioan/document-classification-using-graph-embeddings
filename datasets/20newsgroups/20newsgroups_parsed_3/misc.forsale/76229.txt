@@ -56,7 +56,7 @@ in
 sell
 thi
 game
-pleas
+plea
 respond
 to
 thi

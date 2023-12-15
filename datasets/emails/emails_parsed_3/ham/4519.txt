@@ -27,7 +27,7 @@ in
 today
 can
 i
-pleas
+plea
 have
 thi
 inform
@@ -105,7 +105,7 @@ to
 to
 bullet
 point
-pleas
+plea
 a
 technic
 and
@@ -128,7 +128,7 @@ you
 have
 ani
 question
-pleas
+plea
 do
 not
 hesit

@@ -128,7 +128,7 @@ for
 bruce
 jame
 attach
-pleas
+plea
 find
 the
 interview
@@ -144,7 +144,7 @@ will
 happen
 thursday
 juli
-pleas
+plea
 print
 all
 three
@@ -162,7 +162,7 @@ or
 conflict
 of
 schedul
-pleas
+plea
 do
 not
 hesit

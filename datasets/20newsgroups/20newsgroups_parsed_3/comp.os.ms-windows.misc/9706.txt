@@ -66,7 +66,7 @@ with
 ndw
 thi
 make
-sens
+sen
 a
 presum
 the
@@ -116,7 +116,7 @@ of
 imag
 compat
 will
-eras
+era
 protect
 use
 the
@@ -141,7 +141,7 @@ sure
 that
 when
 i
-eras
+era
 file
 in
 either
@@ -161,11 +161,11 @@ run
 the
 two
 program
-eras
+era
 protect
 and
 smart
-eras
+era
 dont
 use
 each

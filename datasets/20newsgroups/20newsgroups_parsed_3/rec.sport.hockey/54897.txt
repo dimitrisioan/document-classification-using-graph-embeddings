@@ -131,7 +131,7 @@ bautin
 and
 ulanov
 mental
-laps
+lap
 by
 the
 defenc
@@ -405,7 +405,7 @@ character
 by
 long
 lead
-pass
+pas
 that
 either
 never
@@ -441,7 +441,7 @@ goal
 a
 jet
 defens
-laps
+lap
 re
 bonehead
 play

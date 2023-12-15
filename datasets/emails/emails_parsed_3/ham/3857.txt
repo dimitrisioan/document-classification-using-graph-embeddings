@@ -8,7 +8,7 @@ is
 on
 vacat
 i
-pass
+pas
 your
 question
 regard

@@ -355,7 +355,7 @@ dynamit
 garden
 state
 and
-supers
+super
 me
 the
 festiv

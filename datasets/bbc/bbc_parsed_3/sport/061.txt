@@ -73,7 +73,7 @@ both
 johnson
 and
 sotherton
-pass
+pas
 the
 european
 championship
@@ -377,7 +377,7 @@ in
 the
 european
 rank
-eas
+ea
 across
 the
 finish

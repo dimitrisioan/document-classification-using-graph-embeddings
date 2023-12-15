@@ -82,7 +82,7 @@ price
 relat
 model
 also
-pleas
+plea
 check
 your
 invoic

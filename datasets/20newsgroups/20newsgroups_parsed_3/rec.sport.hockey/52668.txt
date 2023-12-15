@@ -4,5 +4,5 @@ just
 test
 no
 flame
-pleas
+plea
 bye

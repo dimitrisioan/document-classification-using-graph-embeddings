@@ -43,7 +43,7 @@ inform
 of
 gener
 interest
-pleas
+plea
 redistribut
 thi
 articl
@@ -57,7 +57,7 @@ follow
 question
 which
 are
-loos
+loo
 group
 into
 categori
@@ -150,7 +150,7 @@ help
 respons
 what
 public
-discuss
+discus
 x
 are
 avail
@@ -1487,7 +1487,7 @@ or
 ani
 addit
 inform
-pleas
+plea
 send
 them
 directli
@@ -1593,7 +1593,7 @@ for
 a
 particular
 item
-pleas
+plea
 let
 me
 know
@@ -1854,7 +1854,7 @@ are
 not
 found
 anywher
-els
+el
 thi
 book
 is
@@ -2171,7 +2171,7 @@ and
 mani
 use
 refer
-appendix
+appendic
 both
 cover
 xr
@@ -3412,7 +3412,7 @@ to
 receiv
 xannounc
 yourself
-pleas
+plea
 contact
 your
 mail
@@ -3452,7 +3452,7 @@ clx
 bug
 report
 and
-discuss
+discus
 xada
 x
 and
@@ -3474,7 +3474,7 @@ process
 and
 x
 xvideo
-discuss
+discus
 of
 video
 extens
@@ -3634,7 +3634,7 @@ inform
 a
 mail
 list
-discuss
+discus
 interview
 can
 be
@@ -3679,7 +3679,7 @@ name
 a
 mail
 list
-discuss
+discus
 parcplac
 formerli
 solbourn
@@ -3695,7 +3695,7 @@ at
 a
 mail
 list
-discuss
+discus
 multithread
 xlib
 can
@@ -4201,7 +4201,7 @@ a
 small
 test
 case
-pleas
+plea
 for
 reader
 to
@@ -4211,7 +4211,7 @@ problem
 subject
 what
 public
-discuss
+discus
 x
 are
 avail
@@ -4324,7 +4324,7 @@ is
 an
 applic
 which
-us
+use
 one
 of
 those
@@ -4332,7 +4332,7 @@ widget
 set
 and
 which
-us
+use
 intrins
 mechan
 to
@@ -4502,7 +4502,7 @@ rtfm
 common
 expertspeak
 mean
-pleas
+plea
 locat
 and
 consult
@@ -4696,7 +4696,7 @@ in
 particular
 the
 section
-discuss
+discus
 the
 select
 mechan
@@ -5521,7 +5521,7 @@ although
 nobodi
 realli
 ever
-us
+use
 it
 sinc
 it
@@ -6660,7 +6660,7 @@ special
 client
 of
 your
-devis
+devi
 which
 exit
 on

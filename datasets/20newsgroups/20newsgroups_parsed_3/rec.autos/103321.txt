@@ -70,7 +70,7 @@ me
 in
 layman
 term
-pleas
+plea
 is
 it
 a
@@ -112,7 +112,7 @@ a
 a
 vandal
 claim
-pleas
+plea
 help
 thank
 in

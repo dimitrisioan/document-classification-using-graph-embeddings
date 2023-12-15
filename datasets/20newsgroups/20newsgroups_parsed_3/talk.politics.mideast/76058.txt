@@ -265,7 +265,7 @@ i
 saw
 freshli
 dug
-graf
+grave
 in
 one
 cemeteri
@@ -389,7 +389,7 @@ minu
 degre
 one
 refuge
-ramu
+ramus
 nasiru
 describ
 how
@@ -459,7 +459,7 @@ start
 mr
 nasiru
 who
-belief
+believ
 hi
 wife
 and
@@ -508,7 +508,7 @@ the
 road
 and
 mountain
-pass
+pas
 that
 might
 serv

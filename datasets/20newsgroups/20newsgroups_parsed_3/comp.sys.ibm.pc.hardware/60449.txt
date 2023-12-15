@@ -46,7 +46,7 @@ a
 zoom
 modem
 that
-us
+use
 the
 chipset
 and
@@ -120,7 +120,7 @@ fixcompens
 for
 the
 bug
-pleas
+plea
 send
 respons
 via

@@ -593,7 +593,7 @@ hazard
 sinc
 osha
 wa
-pass
+pas
 moreov
 a
 afscm
@@ -728,7 +728,7 @@ when
 the
 law
 wa
-pass
+pas
 in
 and
 today

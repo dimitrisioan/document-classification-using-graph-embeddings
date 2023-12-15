@@ -148,7 +148,7 @@ believ
 howev
 the
 weak
-sens
+sen
 mean
 i
 am
@@ -171,7 +171,7 @@ the
 track
 the
 strong
-sens
+sen
 mean
 i
 am
@@ -812,7 +812,7 @@ not
 mean
 in
 ani
-sens
+sen
 that
 all
 belief

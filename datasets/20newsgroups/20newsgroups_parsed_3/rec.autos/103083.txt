@@ -42,7 +42,7 @@ zone
 and
 the
 list
-go
+goe
 on
 just
 tpo

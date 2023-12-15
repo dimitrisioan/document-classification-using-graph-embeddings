@@ -142,7 +142,7 @@ becaus
 the
 question
 under
-discuss
+discus
 is
 not
 truth
@@ -157,7 +157,7 @@ a
 medic
 doctor
 who
-belief
+believ
 that
 a
 blood
@@ -244,7 +244,7 @@ is
 that
 the
 doctor
-belief
+believ
 it
 to
 be

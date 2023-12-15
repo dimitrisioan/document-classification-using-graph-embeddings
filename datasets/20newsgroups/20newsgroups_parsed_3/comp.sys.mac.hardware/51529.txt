@@ -53,7 +53,7 @@ switch
 i
 have
 old
-mous
+mouse
 max
 mac
 ke

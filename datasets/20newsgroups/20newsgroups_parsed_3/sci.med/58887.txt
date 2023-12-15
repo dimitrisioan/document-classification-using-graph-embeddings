@@ -5,7 +5,7 @@ polio
 syndrom
 inform
 need
-pleas
+plea
 repli
 to
 keith
@@ -52,7 +52,7 @@ if
 you
 and
 anyon
-els
+el
 ask
 for
 medic

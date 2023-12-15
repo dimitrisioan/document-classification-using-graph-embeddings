@@ -307,7 +307,7 @@ more
 email
 from
 me
-pleas
+plea
 visit
 http
 www

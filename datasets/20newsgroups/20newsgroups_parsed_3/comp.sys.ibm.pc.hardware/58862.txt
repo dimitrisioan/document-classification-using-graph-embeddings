@@ -571,7 +571,7 @@ the
 narrow
 data
 cabl
-go
+goe
 to
 j
 ive
@@ -843,7 +843,7 @@ oper
 in
 at
 system
-pleas
+plea
 note
 that
 thi
@@ -905,7 +905,7 @@ format
 and
 dynam
 format
-pleas
+plea
 note
 that
 thi
@@ -1122,7 +1122,7 @@ oper
 in
 at
 system
-pleas
+plea
 note
 that
 thi
@@ -1179,7 +1179,7 @@ format
 and
 dynam
 format
-pleas
+plea
 note
 that
 thi
@@ -1480,7 +1480,7 @@ s
 row
 of
 pin
-pleas
+plea
 note
 that
 ani
@@ -3018,7 +3018,7 @@ scsi
 host
 adapt
 that
-serf
+serv
 a
 an
 interfac
@@ -3104,7 +3104,7 @@ and
 a
 rom
 bio
-pleas
+plea
 note
 that
 the
@@ -3177,7 +3177,7 @@ and
 compat
 system
 it
-us
+use
 a
 pin
 extern
@@ -3206,7 +3206,7 @@ an
 initi
 and
 it
-serf
+serv
 a
 an
 excel
@@ -3387,7 +3387,7 @@ the
 system
 bio
 it
-us
+use
 interleav
 the
 v

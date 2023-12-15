@@ -55,7 +55,7 @@ defenc
 against
 malici
 hacker
-viru
+virus
 and
 other
 netbas
@@ -136,7 +136,7 @@ and
 disrupt
 by
 the
-viru
+virus
 worm
 and
 hack
@@ -166,7 +166,7 @@ warn
 about
 big
 hit
-viru
+virus
 and
 net
 attack
@@ -280,7 +280,7 @@ one
 day
 notic
 to
-boss
+bos
 at
 the
 depart
@@ -353,7 +353,7 @@ by
 u
 politician
 to
-pa
+pas
 a
 law
 to

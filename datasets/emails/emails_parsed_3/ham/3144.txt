@@ -1,7 +1,7 @@
 subject
 california
 updat
-pleas
+plea
 do
 not
 hesit
@@ -52,7 +52,7 @@ hatch
 a
 plan
 to
-pa
+pas
 on
 court
 order
@@ -145,7 +145,7 @@ cover
 he
 need
 to
-pa
+pas
 on
 rate
 hike
@@ -239,7 +239,7 @@ bill
 is
 expect
 to
-pa
+pas
 sometim
 today
 tim
@@ -318,7 +318,7 @@ go
 court
 battl
 a
-discuss
+discus
 below
 is
 view
@@ -384,7 +384,7 @@ to
 term
 thu
 davi
-belief
+believ
 that
 california
 consum
@@ -481,7 +481,7 @@ in
 a
 polit
 import
-sens
+sen
 make
 thi
 work
@@ -704,7 +704,7 @@ we
 ll
 eventu
 shake
-loos
+loo
 a
 lot
 of
@@ -775,7 +775,7 @@ feb
 we
 believ
 that
-sens
+sen
 of
 optim
 will
@@ -1227,7 +1227,7 @@ by
 the
 court
 case
-discuss
+discus
 below
 these
 audit
@@ -1452,7 +1452,7 @@ of
 the
 util
 to
-pa
+pas
 on
 someth
 le

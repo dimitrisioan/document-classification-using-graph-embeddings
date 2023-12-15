@@ -12,7 +12,7 @@ to
 reveal
 whether
 tottenham
-bo
+bos
 martin
 jol
 is
@@ -88,7 +88,7 @@ koeman
 quit
 a
 ajax
-bo
+bos
 last
 week
 after
@@ -136,10 +136,10 @@ here
 im
 not
 in
-discuss
+discus
 with
 anyon
-els
+el
 i
 dont
 want

@@ -81,7 +81,7 @@ and
 vinc
 and
 whomev
-els
+el
 need
 to
 be
@@ -135,7 +135,7 @@ for
 the
 delay
 ian
-pleas
+plea
 ensur
 that
 vinc
@@ -184,7 +184,7 @@ avistar
 train
 set
 up
-pleas
+plea
 inform
 me
 on

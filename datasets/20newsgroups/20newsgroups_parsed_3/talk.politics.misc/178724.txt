@@ -130,7 +130,7 @@ power
 over
 individu
 daytoday
-life
+live
 which
 is
 good
@@ -254,7 +254,7 @@ level
 an
 amend
 is
-pass
+pas
 by
 a
 major
@@ -268,7 +268,7 @@ level
 it
 must
 be
-pass
+pas
 by
 of
 the
@@ -790,7 +790,7 @@ which
 their
 kid
 are
-expos
+expo
 they
 can
 tri
@@ -1196,7 +1196,7 @@ zero
 effect
 on
 anyon
-els
+el
 then
 no
 individu
@@ -1521,7 +1521,7 @@ a
 voic
 in
 what
-go
+goe
 on
 in
 that
@@ -1975,7 +1975,7 @@ everyon
 would
 leav
 everyon
-els
+el
 alon
 and
 no
@@ -2029,7 +2029,7 @@ is
 wrong
 on
 anyon
-els
+el
 thi
 is
 true
@@ -2152,7 +2152,7 @@ dont
 want
 my
 child
-expos
+expo
 to
 let
 shut

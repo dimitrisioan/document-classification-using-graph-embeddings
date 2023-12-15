@@ -145,7 +145,7 @@ common
 human
 of
 other
-pleas
+plea
 do
 not
 stoop
@@ -400,7 +400,7 @@ is
 a
 big
 subject
-pleas
+plea
 add
 your
 comment

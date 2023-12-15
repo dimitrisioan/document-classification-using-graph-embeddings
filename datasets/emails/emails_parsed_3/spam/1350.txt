@@ -219,7 +219,7 @@ thi
 is
 technolog
 which
-us
+use
 tini
 sensor
 to
@@ -662,7 +662,7 @@ and
 economi
 the
 compani
-belief
+believ
 that
 such
 offer
@@ -816,7 +816,7 @@ that
 express
 or
 involv
-discuss
+discus
 with
 respect
 to
@@ -906,7 +906,7 @@ expect
 will
 anticip
 estim
-belief
+believ
 understand
 or
 that
@@ -1352,7 +1352,7 @@ the
 rocket
 stock
 report
-belief
+believ
 thi
 inform
 to

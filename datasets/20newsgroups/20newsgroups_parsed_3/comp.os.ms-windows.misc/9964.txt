@@ -16,7 +16,7 @@ what
 a
 mailord
 compani
-go
+goe
 through
 thi
 compani
@@ -133,7 +133,7 @@ clinton
 booth
 librari
 someon
-pleas
+plea
 tell
 me
 comput

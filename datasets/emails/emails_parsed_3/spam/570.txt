@@ -116,7 +116,7 @@ remov
 from
 our
 mail
-pleas
+plea
 send
 an
 email

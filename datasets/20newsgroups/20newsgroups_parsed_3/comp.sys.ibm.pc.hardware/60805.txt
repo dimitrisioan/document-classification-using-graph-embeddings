@@ -170,7 +170,7 @@ expect
 to
 see
 some
-discuss
+discus
 on
 here
 unless

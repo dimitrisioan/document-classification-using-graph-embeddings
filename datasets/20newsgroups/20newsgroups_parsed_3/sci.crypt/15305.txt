@@ -150,14 +150,14 @@ scheme
 that
 the
 clipper
-us
+use
 jef
 jef
 poskanz
 an
 object
 never
-serf
+serv
 the
 same
 function

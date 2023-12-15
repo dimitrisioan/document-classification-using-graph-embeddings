@@ -132,7 +132,7 @@ easi
 to
 use
 a
-brows
+brow
 your
 c
 drive
@@ -417,7 +417,7 @@ canada
 m
 b
 w
-pleas
+plea
 do
 not
 send
@@ -426,7 +426,7 @@ money
 order
 order
 form
-pleas
+plea
 print
 clearli
 full
@@ -537,7 +537,7 @@ to
 signatur
 cardhold
 signatur
-pleas
+plea
 note
 that
 ft
@@ -550,7 +550,7 @@ statement
 for
 ani
 question
-pleas
+plea
 feel
 free
 to
@@ -563,7 +563,7 @@ remov
 from
 our
 databas
-pleas
+plea
 send
 a
 fax

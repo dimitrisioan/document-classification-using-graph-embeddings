@@ -242,7 +242,7 @@ competitor
 he
 ad
 he
-belief
+believ
 yahoo
 fail
 to
@@ -349,7 +349,7 @@ content
 he
 said
 he
-belief
+believ
 the
 rivalri
 between
@@ -382,7 +382,7 @@ is
 current
 win
 he
-belief
+believ
 microsoft
 ha
 amaz
@@ -461,7 +461,7 @@ thi
 domin
 mr
 weiner
-belief
+believ
 by
 a
 canni

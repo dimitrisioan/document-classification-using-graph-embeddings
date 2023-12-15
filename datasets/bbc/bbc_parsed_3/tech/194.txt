@@ -183,7 +183,7 @@ keep
 machin
 safe
 from
-viru
+virus
 and
 other
 type

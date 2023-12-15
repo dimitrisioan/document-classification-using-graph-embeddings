@@ -1,7 +1,7 @@
 whitehal
 shred
 increas
-tori
+torus
 civil
 servant
 have
@@ -17,7 +17,7 @@ figur
 compil
 by
 the
-tori
+torus
 suggest
 some
 govern
@@ -62,7 +62,7 @@ public
 record
 but
 the
-tori
+torus
 want
 the
 inform
@@ -251,7 +251,7 @@ when
 the
 act
 wa
-pass
+pas
 the
 number
 of

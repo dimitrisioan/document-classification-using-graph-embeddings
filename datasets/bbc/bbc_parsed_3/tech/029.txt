@@ -32,7 +32,7 @@ patent
 in
 a
 panel
-discuss
+discus
 at
 a
 linux

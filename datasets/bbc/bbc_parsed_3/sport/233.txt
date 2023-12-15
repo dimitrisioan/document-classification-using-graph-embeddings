@@ -1,5 +1,5 @@
 redknapp
-pois
+poi
 for
 saint
 southampton
@@ -24,7 +24,7 @@ wednesday
 the
 former
 portsmouth
-bo
+bos
 replac
 steve
 wigley
@@ -68,7 +68,7 @@ coach
 kevin
 bond
 is
-pois
+poi
 to
 join
 redknapp
@@ -77,7 +77,7 @@ will
 be
 saint
 third
-bo
+bos
 of
 the
 season

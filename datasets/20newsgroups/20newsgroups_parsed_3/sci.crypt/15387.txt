@@ -29,7 +29,7 @@ unless
 you
 get
 both
-half
+halv
 of
 the
 encrypt

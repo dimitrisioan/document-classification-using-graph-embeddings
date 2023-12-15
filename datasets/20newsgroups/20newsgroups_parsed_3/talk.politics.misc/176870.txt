@@ -70,7 +70,7 @@ cat
 and
 no
 one
-els
+el
 ye
 it
 wa
@@ -159,7 +159,7 @@ what
 law
 could
 we
-pa
+pas
 to
 prevent
 govern
@@ -183,7 +183,7 @@ do
 that
 could
 someon
-pleas
+plea
 tell
 me
 what

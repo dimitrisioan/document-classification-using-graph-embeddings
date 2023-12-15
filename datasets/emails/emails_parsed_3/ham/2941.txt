@@ -195,7 +195,7 @@ help
 in
 ani
 way
-pleas
+plea
 do
 not
 hesit

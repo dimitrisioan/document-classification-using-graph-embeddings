@@ -185,7 +185,7 @@ man
 behind
 suprnovaorg
 who
-go
+goe
 by
 the
 nicknam
@@ -384,7 +384,7 @@ island
 saint
 kitt
 and
-nevi
+nevus
 user
 of
 the

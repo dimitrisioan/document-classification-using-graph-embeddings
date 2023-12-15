@@ -27,7 +27,7 @@ in
 minut
 second
 to
-eras
+era
 the
 previou
 world

@@ -57,7 +57,7 @@ use
 clrnmsuedu
 whenev
 possibl
-pleas
+plea
 note
 that
 there
@@ -90,7 +90,7 @@ lexic
 research
 the
 arab
-chines
+chine
 french
 italian
 indian
@@ -120,7 +120,7 @@ archiv
 have
 been
 move
-pleas
+plea
 be
 patient
 if
@@ -211,7 +211,7 @@ an
 item
 to
 contribut
-pleas
+plea
 put
 it
 in
@@ -233,7 +233,7 @@ ani
 question
 or
 comment
-pleas
+plea
 send
 them
 to
@@ -257,5 +257,5 @@ okeef
 box
 crl
 la
-crux
+cruce
 nm

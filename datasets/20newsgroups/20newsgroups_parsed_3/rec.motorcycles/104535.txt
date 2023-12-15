@@ -131,7 +131,7 @@ freedom
 cjackson
 in
 the
-guis
+gui
 of
 public
 safeti
@@ -180,7 +180,7 @@ fun
 account
 work
 email
-go
+goe
 to
 you
 got

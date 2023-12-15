@@ -64,7 +64,7 @@ today
 what
 if
 my
-bo
+bos
 come
 in
 to
@@ -75,7 +75,7 @@ kind
 of
 question
 your
-bo
+bos
 should
 be
 the
@@ -116,7 +116,7 @@ enorm
 emot
 support
 to
-discu
+discus
 thi
 with
 someon
@@ -137,11 +137,11 @@ feel
 you
 can
 not
-discu
+discus
 thi
 with
 your
-bo
+bos
 perhap
 your
 compani
@@ -267,7 +267,7 @@ may
 also
 want
 to
-discu
+discus
 thi
 with
 your
@@ -437,7 +437,7 @@ went
 off
 without
 our
-bo
+bos
 who
 wa
 pay
@@ -478,7 +478,7 @@ comput
 age
 in
 close
-pleas
+plea
 dont
 let
 the

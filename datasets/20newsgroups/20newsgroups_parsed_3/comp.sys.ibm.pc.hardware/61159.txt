@@ -91,9 +91,9 @@ board
 just
 lay
 around
-pleas
-pleas
-pleas
+plea
+plea
+plea
 doe
 anyon
 know
@@ -190,7 +190,7 @@ anyon
 ha
 ani
 info
-pleas
+plea
 email
 or
 a

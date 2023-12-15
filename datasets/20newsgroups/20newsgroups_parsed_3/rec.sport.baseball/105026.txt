@@ -172,7 +172,7 @@ word
 ground
 is
 use
-loos
+loo
 than
 it
 is

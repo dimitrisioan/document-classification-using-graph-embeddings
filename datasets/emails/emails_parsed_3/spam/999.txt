@@ -186,7 +186,7 @@ further
 inform
 from
 u
-pleas
+plea
 click
 here
 in
@@ -214,7 +214,7 @@ opt
 in
 or
 otherwis
-pleas
+plea
 accept
 our
 apolog
@@ -226,7 +226,7 @@ reach
 you
 in
 error
-pleas
+plea
 allow
 busi
 day

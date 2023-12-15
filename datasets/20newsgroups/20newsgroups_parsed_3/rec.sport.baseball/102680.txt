@@ -10,7 +10,7 @@ mundstock
 write
 sinc
 everyon
-els
+el
 seem
 to
 be

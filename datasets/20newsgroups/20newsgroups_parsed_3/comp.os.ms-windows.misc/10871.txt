@@ -1,6 +1,6 @@
 subject
 re
-pleas
+plea
 help
 an
 amiga
@@ -20,7 +20,7 @@ steve
 j
 lombardi
 subject
-pleas
+plea
 help
 an
 amiga

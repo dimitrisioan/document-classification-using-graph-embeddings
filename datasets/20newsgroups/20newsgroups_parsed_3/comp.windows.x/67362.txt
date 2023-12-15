@@ -12,7 +12,7 @@ an
 x
 applic
 that
-us
+use
 xlib
 id
 like
@@ -58,7 +58,7 @@ thank
 for
 ani
 help
-pleas
+plea
 email
 dave
 wilson

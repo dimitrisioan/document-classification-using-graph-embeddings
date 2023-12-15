@@ -15,7 +15,7 @@ of
 book
 about
 isaeisa
-bu
+buse
 isa
 system
 architectur
@@ -75,7 +75,7 @@ on
 ani
 of
 them
-pleas
+plea
 repli
 by
 email

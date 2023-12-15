@@ -47,7 +47,7 @@ jeff
 and
 joe
 will
-discu
+discus
 enron
 s
 year
@@ -191,7 +191,7 @@ you
 experi
 technic
 difficulti
-pleas
+plea
 contact
 your
 pc

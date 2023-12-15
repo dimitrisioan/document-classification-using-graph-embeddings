@@ -30,7 +30,7 @@ board
 the
 machin
 also
-us
+use
 a
 super
 ide
@@ -109,7 +109,7 @@ of
 the
 bio
 make
-sens
+sen
 it
 ami
 bio

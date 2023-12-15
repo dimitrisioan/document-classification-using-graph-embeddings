@@ -12,7 +12,7 @@ problem
 of
 move
 so
-dens
+den
 a
 medium
 in
@@ -157,7 +157,7 @@ effort
 let
 alon
 anyth
-els
+el
 diffus
 rate
 obvious
@@ -189,7 +189,7 @@ the
 wall
 of
 the
-alveolu
+alveolus
 alveolu
 so
 the

@@ -10,7 +10,7 @@ rc
 cardd
 stuff
 lot
-pleas
+plea
 readimmedi
 sale
 greet
@@ -80,7 +80,7 @@ to
 sell
 thi
 one
-pleas
+plea
 email
 me
 an
@@ -153,7 +153,7 @@ nice
 and
 quiet
 again
-pleas
+plea
 email
 offer
 rc
@@ -235,7 +235,7 @@ i
 probabl
 have
 it
-pleas
+plea
 send
 email
 regard
@@ -309,7 +309,7 @@ set
 thank
 in
 advanc
-pleas
+plea
 respond
 a
 soon

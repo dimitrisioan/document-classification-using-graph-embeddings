@@ -43,7 +43,7 @@ sun
 user
 group
 cd
-pleas
+plea
 email
 answer
 a

@@ -5,7 +5,7 @@ to
 help
 need
 greet
-pleas
+plea
 forgiv
 me
 if
@@ -21,7 +21,7 @@ thi
 kind
 of
 info
-pleas
+plea
 let
 me
 know

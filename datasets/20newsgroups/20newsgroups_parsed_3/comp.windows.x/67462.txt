@@ -253,7 +253,7 @@ clobber
 exist
 file
 readm
-els
+el
 echo
 shar
 extract
@@ -344,7 +344,7 @@ includ
 domain
 name
 and
-pass
+pas
 x
 magic
 cooki
@@ -371,7 +371,7 @@ quot
 of
 argument
 make
-pass
+pas
 wildcard
 easi
 x
@@ -431,7 +431,7 @@ list
 of
 variabl
 to
-pa
+pas
 x
 x
 special
@@ -548,7 +548,7 @@ clobber
 exist
 file
 imakefil
-els
+el
 echo
 shar
 extract
@@ -640,7 +640,7 @@ clobber
 exist
 file
 manifest
-els
+el
 echo
 shar
 extract
@@ -709,7 +709,7 @@ clobber
 exist
 file
 makefil
-els
+el
 echo
 shar
 extract
@@ -1602,7 +1602,7 @@ then
 set
 x
 x
-els
+el
 set
 x
 mkdirhier
@@ -1625,7 +1625,7 @@ then
 set
 x
 x
-els
+el
 set
 x
 mkdirhier
@@ -1698,7 +1698,7 @@ mv
 makefil
 makefilebak
 x
-els
+el
 exit
 fi
 x
@@ -1806,7 +1806,7 @@ clobber
 exist
 file
 rxman
-els
+el
 echo
 shar
 extract
@@ -1929,7 +1929,7 @@ a
 host
 and
 also
-pass
+pas
 xi
 arg
 xto
@@ -2414,7 +2414,7 @@ xlike
 fail
 with
 a
-pars
+par
 error
 from
 csh
@@ -2468,7 +2468,7 @@ clobber
 exist
 file
 rxpl
-els
+el
 echo
 shar
 extract
@@ -2725,7 +2725,7 @@ csh
 etc
 x
 i
-pa
+pas
 a
 cooki
 to
@@ -2952,7 +2952,7 @@ x
 x
 befor
 anyth
-els
+el
 close
 stdin
 thi
@@ -3228,7 +3228,7 @@ x
 x
 if
 noth
-els
+el
 becom
 an
 rxterm
@@ -3262,7 +3262,7 @@ x
 we
 want
 to
-pa
+pas
 a
 cooki
 here
@@ -3337,7 +3337,7 @@ x
 x
 if
 x
-els
+el
 x
 x
 yuk
@@ -3364,7 +3364,7 @@ realli
 onli
 want
 to
-pa
+pas
 a
 valu
 for
@@ -3375,7 +3375,7 @@ varsdisplay
 split
 envrxenv
 x
-els
+el
 x
 x
 some
@@ -3431,7 +3431,7 @@ we
 would
 rather
 not
-pa
+pas
 the
 current
 path
@@ -3526,7 +3526,7 @@ easi
 way
 x
 to
-pa
+pas
 throught
 envenv
 without
@@ -3764,7 +3764,7 @@ debug
 x
 print
 x
-els
+el
 x
 exec
 comm
@@ -3865,7 +3865,7 @@ archiv
 rm
 f
 arkisdon
-els
+el
 echo
 you
 still
@@ -3891,6 +3891,6 @@ real
 unix
 oper
 system
-pleas
+plea
 stand
 up

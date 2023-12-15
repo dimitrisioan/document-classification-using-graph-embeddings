@@ -153,7 +153,7 @@ persist
 and
 quit
 aggress
-pleas
+plea
 take
 a
 look
@@ -209,7 +209,7 @@ a
 few
 featur
 i
-poss
+posse
 that
 suggest
 that
@@ -410,7 +410,7 @@ at
 your
 conveni
 to
-discu
+discus
 the
 possibl
 of

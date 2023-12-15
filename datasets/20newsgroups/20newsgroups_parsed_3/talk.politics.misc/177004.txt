@@ -498,7 +498,7 @@ strong
 space
 program
 someon
-els
+el
 will
 champion
 welfar
@@ -1034,4 +1034,4 @@ cat
 and
 no
 one
-els
+el

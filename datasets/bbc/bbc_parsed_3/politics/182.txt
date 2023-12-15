@@ -28,7 +28,7 @@ real
 test
 in
 parliament
-tori
+torus
 lib
 dem
 and
@@ -36,7 +36,7 @@ some
 labour
 mp
 are
-pois
+poi
 to
 vote
 against
@@ -151,7 +151,7 @@ rather
 than
 a
 judg
-tori
+torus
 shadow
 home
 secretari
@@ -363,7 +363,7 @@ new
 plan
 befor
 they
-pa
+pas
 to
 the
 hous
@@ -389,7 +389,7 @@ a
 rare
 move
 the
-tori
+torus
 and
 lib
 dem

@@ -67,7 +67,7 @@ an
 asic
 in
 the
-sens
+sen
 that
 word
 is
@@ -108,7 +108,7 @@ minim
 video
 hardwar
 the
-possess
+posse
 didnt
 know
 about
@@ -231,7 +231,7 @@ regul
 and
 if
 memori
-serf
+serv
 a
 timer
 that
@@ -375,7 +375,7 @@ away
 and
 do
 someth
-els
+el
 for
 a
 while

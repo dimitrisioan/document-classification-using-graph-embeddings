@@ -21,7 +21,7 @@ hr
 under
 bill
 hr
-pass
+pas
 by
 the
 th
@@ -42,7 +42,7 @@ from
 our
 mail
 list
-pleas
+plea
 click
 here
 all

@@ -3,7 +3,7 @@ unit
 way
 execut
 breakfast
-pleas
+plea
 join
 u
 for
@@ -150,7 +150,7 @@ map
 will
 be
 provid
-pleas
+plea
 r
 s
 v

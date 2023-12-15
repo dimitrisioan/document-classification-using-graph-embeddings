@@ -152,7 +152,7 @@ arabian
 indian
 and
 even
-chines
+chine
 trade
 that
 tyre
@@ -285,7 +285,7 @@ emphasi
 thi
 sourc
 also
-discu
+discus
 the
 impact
 of
@@ -858,7 +858,7 @@ seen
 in
 print
 anywher
-els
+el
 which
 is
 whi
@@ -903,7 +903,7 @@ at
 odd
 with
 everyth
-els
+el
 ive
 read
 im
