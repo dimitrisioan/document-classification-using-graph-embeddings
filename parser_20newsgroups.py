@@ -1,9 +1,6 @@
 import os
-import shutil
 import time
 from useful_methods import *
-
-
 
 # Create the following folders in your system!
 

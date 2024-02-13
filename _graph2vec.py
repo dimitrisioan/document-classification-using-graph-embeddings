@@ -1,15 +1,13 @@
 import time
 import os
+from graph_creation_scripts import *
+from k_core_modules import *
+from karateclub import Graph2Vec
+from useful_methods import *
 import pandas as pd
 import numpy
 import networkx as nx
 import matplotlib.pyplot as plt
-from graph_creation_scripts import *
-from k_core_modules import *
-from karateclub import Graph2Vec
-from sklearn.manifold import TSNE
-from gensim import *
-from useful_methods import *
 
 parsed_path, prefix, choice = choose_dataset()
 load_save_path = load_save_results(prefix, choice)
@@ -19,11 +17,9 @@ newsgroups_categories_included = ['comp.windows.x',
                                   'rec.sport.baseball',
                                   'sci.space',
                                   'talk.religion.misc']
-# TODO IMPLEMENT DIFFERENTLY IT CONSUMES TOO MUCH RAM
-# TODO ENSURE THAT EMBEDDINGS ARE SAVED FOR THE RIGHT TEXT_ID
 
 if __name__ == '__main__':
-    # # 1st approach: each category in a seperate model
+    # # 1st approach: each category in a separate model
     # postingl = []
     # all_data = []
     # filecount = 0

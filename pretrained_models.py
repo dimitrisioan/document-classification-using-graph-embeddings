@@ -1,6 +1,4 @@
 from gensim.models import Word2Vec
-from gensim.models import KeyedVectors
-import gensim.downloader as api
 import time
 import os
 from useful_methods import *
@@ -21,9 +19,6 @@ if __name__ == '__main__':
 
     # Load the Word2Vec model from the corresponding dataset directory
     model = Word2Vec.load(os.path.join(load_save_path, f'{prefix}_word2vec'))
-
-    # # Load my pretrained model
-    # model = Word2Vec.load("../document-classification-using-graph-embeddings/word2vec_models/word2vec.model")
 
     print("Top 10 most similar words for my model")
     print(model.wv.most_similar('man', topn=10))
@@ -56,5 +51,4 @@ if __name__ == '__main__':
     #     f.write("\t")
     #     f.write("%s" % model.wv[word])
     #     f.write("\n")
-
     print("--- %s seconds ---" % (time.time() - start_time))

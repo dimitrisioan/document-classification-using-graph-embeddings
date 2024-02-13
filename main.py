@@ -24,7 +24,6 @@ from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
 from useful_methods import *
-from visualization import *
 
 parsed_path, prefix, choice = choose_dataset()
 load_save_path = load_save_results(prefix, choice)
@@ -34,8 +33,8 @@ start_time = time.time()
 if __name__ == '__main__':
     # ----------------------------------graph2vec---------------------------------------
 
-    tsne_visualization('data_for_classifiers_graph2vec.csv')
-    tsne_visualization('4_categories_graph2vec.csv')
+    # tsne_visualization('data_for_classifiers_graph2vec.csv')
+    # tsne_visualization('4_categories_graph2vec.csv')
 
     # ---------------------------------------TSNE VISUALIZATION-----------------------------------------------
 
@@ -124,7 +123,7 @@ if __name__ == '__main__':
     #
     # file_path = 'results/emails_parsed_3/'
     # tsne_visualization(os.path.join(file_path, 'emails_embeddings_doc2vec.csv'))
-    #
+
     # # -------------------------Node2Vec------------------------------
     # file_path = 'results/emails_parsed_1/'
     # tsne_visualization(os.path.join(file_path, 'emails_embeddings_node2vec.csv'))

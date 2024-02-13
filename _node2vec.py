@@ -1,15 +1,7 @@
 import multiprocessing
-import sys
-from gensim.models import Word2Vec
 import os
 import time
-import numpy as np
-from graph_creation_scripts import *
-from k_core_modules import *
 import networkx as nx
-import matplotlib.pyplot as plt
-from sklearn.metrics.pairwise import cosine_similarity
-import pandas as pd
 import pickle
 from fastnode2vec import Node2Vec, Graph
 from useful_methods import *
@@ -56,11 +48,9 @@ if __name__ == '__main__':
     graph = Graph(edges, directed=False, weighted=False)
 
     model = Node2Vec(graph, dim=64, walk_length=30, window=10, p=1.0, q=1.0, workers=num_cores)
-
+    model.train(epochs=15)
     # model = Node2Vec(graph, dim=64, walk_length=30, window=10, p=2.0, q=0.5, workers=num_cores)
     # model = Node2Vec(graph, dim=64, walk_length=30, window=10, p=0.5, q=2.0, workers=num_cores)
-    model.train(epochs=10)
-    # model.train(epochs=10)
 
     # print(model.wv["the"])
 

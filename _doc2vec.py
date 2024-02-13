@@ -1,8 +1,5 @@
 import multiprocessing
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
-import smart_open
-import gensim
-from nltk.tokenize import word_tokenize
 import time
 import os
 from useful_methods import *
@@ -38,9 +35,6 @@ if __name__ == '__main__':
     num_cores = multiprocessing.cpu_count()
 
     # Train Doc2Vec model
-    # # bbc and emails dataset
-    # model = Doc2Vec(vector_size=300, window=5, min_count=5, workers=num_cores, epochs=10, dm=1)
-    # 20newsgroups dataset
     model = Doc2Vec(vector_size=300, window=5, min_count=5, workers=num_cores, epochs=50, dm=1)
     model.build_vocab(documents)
     model.train(documents, total_examples=model.corpus_count, epochs=model.epochs)

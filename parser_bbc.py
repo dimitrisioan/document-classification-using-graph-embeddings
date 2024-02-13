@@ -1,9 +1,6 @@
 import os
-import shutil
 import time
 from useful_methods import *
-
-
 
 # Create the following folders in your system!
 
@@ -96,6 +93,3 @@ if __name__ == '__main__':
         print("Text files are:", filecount)
 
     print("--- %s seconds ---" % (time.time() - start_time))
-
-
-

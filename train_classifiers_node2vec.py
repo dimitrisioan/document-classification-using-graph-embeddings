@@ -1,9 +1,6 @@
 import time
 import os
-import numpy as np
-import pandas as pd
 import seaborn as sns
-from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
@@ -19,7 +16,6 @@ load_save_path = load_save_results(prefix, choice)
 # parsed_path = "datasets_2/20newsgroups/newsgroups_dataset_parsed/"
 
 if __name__ == "__main__":
-
     # Load the CSV file for Word2Vec from the corresponding dataset directory
     df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_node2vec.csv'))
 

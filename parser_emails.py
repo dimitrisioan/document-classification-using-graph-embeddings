@@ -1,7 +1,5 @@
 import os
-import shutil
 import time
-import pandas as pd
 from useful_methods import *
 
 # Create the following folders in your system!

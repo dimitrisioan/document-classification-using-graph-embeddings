@@ -1,8 +1,5 @@
 import time
-import numpy as np
-import pandas as pd
 import seaborn as sns
-from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
@@ -18,13 +15,11 @@ load_save_path = load_save_results(prefix, choice)
 # parsed_path = "datasets_2/20newsgroups/newsgroups_dataset_parsed/"
 
 if __name__ == "__main__":
-
     # # Load the CSV file for Graph2Vec from the corresponding dataset directory
     # df = pd.read_csv(os.path.join(load_save_path, f'{prefix}_embeddings_graph2vec.csv'))
 
     # df = pd.read_csv('4_categories_graph2vec.csv')
     df = pd.read_csv('data_for_classifiers_graph2vec.csv')
-
 
     # df = pd.read_csv('all_categories.csv')
 
@@ -123,4 +118,3 @@ if __name__ == "__main__":
     plt.show()
 
     print("--- %s seconds ---" % (time.time() - start_time))
-

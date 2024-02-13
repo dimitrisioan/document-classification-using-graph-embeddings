@@ -105,14 +105,3 @@ all unique words: 33596
 all words: 1305939
 all unique words: 25686
 
-
-----------Experiments----------
-If a document contains less than 3 words it is excluded from csvs that are used
-to train classifiers
-
-Experiment 1
-
-Experiment 2
-
-Experiment 3
-
