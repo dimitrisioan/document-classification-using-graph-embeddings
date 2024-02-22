@@ -1,11 +1,4 @@
 # document-classification-using-graph-embeddings
 
-An implementation of thematic document classification based on the Graphical-Set-Based model and comparison with state-of-the-art classifiers.
-
-## Description
-
-## Dataset
-
-## How to use
-
-## References
+The aim of this implementation is the evaluation of models that generate vector representations (embeddings) in text classification. The vector representations of the documents are
+obtained after training Word2Vec, Doc2Vec, Node2Vec and Graph2Vec models on different collections of documents that have been preprocessed with various methods. After appropriate adaptation, we express each text in the collection in the form of a vector (embedding) and train some of the most popular classifiers on the document embeddings obtained from each model. When the training of the classifiers is completed, their performance for each model is compared using evaluation metrics such as accuracy, precision and confusion matrix. For the models in which graphs are required, the representation of each document in the form of a graph is done by using the Graphical Set-based model and its extensions. Also, in order to fully understand the structure and relationships between the vector representations of the texts, we visualize them using the t-SNE dimensionality reduction technique.
